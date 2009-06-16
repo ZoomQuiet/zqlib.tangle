@@ -21,6 +21,14 @@
     +-- svn.ignore  SVN属性忽略文件类型聲明
     \-- readme.txt  本文
 }}}
+ Hg: https://zqlib.googlecode.com/hg 目录结构
+{{{
+/
+    +-- tangle    自由分支
+    +-- tasks     任务分支
+    +-- trunk     主干代码
+    \-- readme.txt  本文
+}}}
 
 = Others =
 文件类型过滤 ::
