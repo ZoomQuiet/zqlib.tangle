@@ -2,6 +2,7 @@
  简述::
     Zoom.Quiet 的快速实用模块仓库
  版本::
+  * 090616 ZoomQuiet 升级到 Hg 环境后,增补目录说明
   * 090109 ZoomQuiet 增补掺合新目录结构
   * 060126 ZoomQuiet 创建
 
@@ -9,6 +10,15 @@
 `约定这一中文版文档工程的相关协同事务`
 
 === 工程环境 ===
+ Hg: https://zqlib.googlecode.com/hg 目录结构
+{{{
+/
+    +-- tangle    自由分支
+    +-- tasks     任务分支
+    +-- trunk     主干代码
+    \-- readme.txt  本文
+}}}
+
  SVN: http://zqlib.googlecode.com/svn/trunk 目录结构
 {{{
 /
@@ -19,14 +29,6 @@
     +-- trunk     主干代码
     +-- wiki      工程维基
     +-- svn.ignore  SVN属性忽略文件类型聲明
-    \-- readme.txt  本文
-}}}
- Hg: https://zqlib.googlecode.com/hg 目录结构
-{{{
-/
-    +-- tangle    自由分支
-    +-- tasks     任务分支
-    +-- trunk     主干代码
     \-- readme.txt  本文
 }}}
 
