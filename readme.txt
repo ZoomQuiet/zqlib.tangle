@@ -1,13 +1,12 @@
 = Zoomq's Quickly Lib. =
  简述::
     Zoom.Quiet 的快速实用模块仓库
+    
  版本::
   * 090616 ZoomQuiet 升级到 Hg 环境后,增补目录说明
   * 090109 ZoomQuiet 增补掺合新目录结构
   * 060126 ZoomQuiet 创建
-
-
-
+  
 == 工程约定 ==
 `约定这一中文版文档工程的相关协同事务`
 
