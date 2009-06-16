@@ -34,7 +34,22 @@
 }}}
 
 = Others =
-文件类型过滤 ::
+== 智能提交 ==
+ SEE::
+  * http://www.selenic.com/mercurial/wiki/FAQ#FAQ.2BAC8-CommonProblems.How_can_I_store_my_HTTP_login_once_and_for_all_.3F
+  
+在对应本地仓库的 .hg/hgrc 文件中:
+{{{
+[paths]
+default = https://zqlib.googlecode.com/hg/
+}}}
+修订为:
+{{{
+[paths]
+default = https://UserName:passwd@zqlib.googlecode.com/hg/
+}}}
+
+== 文件类型过滤 :: ==
  文件类型限制声明: source:/svn.ignore
   * 对想进行文件提交类型过滤的目录进行应用此文件！
 {{{
