@@ -276,21 +276,7 @@ if __name__ == '__main__':
         ,""
         ,"/data1/www/svn.woodpecker/repos/woodpecker/hooks/"
         ,"775")
-    ## kad.cn SVN repo事务
-    """
-    p.addmatter(rev,repos
-        ,"data/svn/kad/conf"
-        ,"/data1/www/svn.woodpecker/repos/kad/conf"
-        ,""
-        ,"/data1/www/svn.woodpecker/repos/kad/conf/"
-        ,"775")
-    p.addmatter(rev,repos
-        ,"data/svn/kad/hooks"
-        ,"/data1/www/svn.woodpecker/repos/kad/hooks"
-        ,""
-        ,"/data1/www/svn.woodpecker/repos/kad/hooks/"
-        ,"775")
-    """    #060528 追加trac0.10dec 的维护
+    #060528 追加trac0.10dec 的维护
     p.addmatter(rev,repos
         ,"trac/trac-environment"
         ,"/usr/local/lib/python2.4/site-packages/trac"
@@ -337,20 +323,6 @@ if __name__ == '__main__':
         ,"/data1/www/wiki.woodpecker/moin/config"
         ,""
         ,"/data1/www/wiki.woodpecker/moin/config/"
-        ,"775")
-    
-    ## MoinMoin事务 for wiki.BillXu.com
-    p.addmatter(rev,repos
-        ,"billxu/server"
-        ,"/data1/www/wiki.woodpecker/billxu/server"
-        ,""
-        ,"/data1/www/wiki.woodpecker/billxu/server/"
-        ,"775")
-    p.addmatter(rev,repos
-        ,"billxu/data/plugin"
-        ,"/data1/www/wiki.woodpecker/billxu/data/plugin"
-        ,""
-        ,"/data1/www/wiki.woodpecker/billxu/data/plugin/"
         ,"775")
     
     
