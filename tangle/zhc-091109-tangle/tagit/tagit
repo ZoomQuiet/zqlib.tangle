@@ -1,0 +1,180 @@
+#!/bin/bash
+PREFIX=/usr/local/sbin
+TAG_PATH=/home/zhcfreesea/.tagit_tags
+
+tagit_help(){
+  echo "Usage: tagit file1 file2 ... tagname"
+  echo "tagit -h for help in detail"
+  exit 0
+}
+
+tagit_help_detail(){
+  echo "Usage: tagit file1 file2 ... tagname"
+  echo "Options:"
+  echo "-a: list all tags you have now"
+  echo "-l tagname: list all files with tag tagname"
+  echo "-d tagname: delete tag tagname"
+  echo "-c tagname file1 file2 ...: delete files from tag tagname"
+  echo "-s: start a shell in tag view"
+  echo -h: print this help
+  echo -u: uninstall tagit from your computer
+  #options usage incomplete FIXME
+  exit 0
+}
+
+#for -u option
+tagit_uninstall(){
+  echo "This would uninstall tagit from your computer, are you sure?[y/n]"
+  read confirm
+  #FIXME:if confirm is null(the user press enter directly), would occur an harmless error
+  if [ ${confirm:0:1} == 'y' ]
+  then
+    rm -f $PREFIX/tagit
+    rm -rf $TAG_PATH
+    echo tagit has been uninstalled
+  else
+    echo "uninstall has been canceled."
+    exit
+  fi
+}
+
+#for -a option
+tagit_all(){
+  let n=0
+  for tag in `ls $TAG_PATH`
+  do
+    echo $tag
+    let n++
+  done
+  echo "You've already got $n tags"
+  exit 0
+}
+
+#for -l option
+tagit_list(){
+    tag=$1
+    if [ -d $TAG_PATH/$tag ]
+    then
+      for file in `ls $TAG_PATH/$tag`
+      do
+        echo $file
+      done
+    else
+      echo "You do not have tag $tag ;-)"
+    fi
+  exit 0
+}
+
+#for -c option
+tagit_cancel(){
+  shift
+  tag=$1
+  shift
+  cd $TAG_PATH/$tag
+  for file in `ls "$@"`
+  do
+    if [ -f $file ]
+    then
+      rm -f $file
+      echo "$file has been removed from tag $tag"
+    else
+      echo "There is no file named $file under tag $tag"
+    fi
+  done
+}
+
+#for -s option
+tagit_shell(){
+  export PS1=tagit
+  bash
+}
+
+#for -t option
+tagit_type(){
+  #FIXME
+  exit 0
+}
+
+#for -r option
+tagit_recursion(){
+  #FIXME
+  exit 0
+}
+
+#for -q option
+tagit_query(){
+  if [ ! -f $1 ]
+  then
+    echo file not found
+    exit 1
+  fi
+  filename=$1
+  #FIXME
+  exit 0
+}
+
+tagit_delete(){
+  shift
+  for tag in $@
+  do
+    if [ ! -d $TAG_PATH/$tag ]
+    then
+      echo "tag $tag not found"
+      continue
+    else
+      rm -rf $TAG_PATH/$tag
+      echo "tag $tag has been deleted"
+    fi
+  done
+}
+
+#main process
+if [ $# -lt 1 ]
+then
+  tagit_help
+  exit 1
+fi
+
+while getopts 'ac:l:rhtq:ud:s' OPT
+  do
+    case $OPT in
+      a)  tagit_all;;
+      c)  tagit_cancel $@;;
+      h)  tagit_help_detail;;
+      d)  tagit_delete $@;;
+      l)  tagit_list $OPTARG;;
+      t)  tagit_type;;
+      q)  tagit_query;;
+      u)  tagit_uninstall;;
+      s)  tagit_shell;;
+    esac
+    exit
+done
+
+#let tag assigned by the last argument
+tagname=${!#}
+while [ $# -gt 1 ]
+do
+  if [ ! -f $1 ]
+  then
+    echo "file $1 not found"
+    shift
+    continue
+  else
+    #[ ! -d $TAG_PATH ] && mkdir $TAG_PATH
+    if [ ! -d $TAG_PATH/$tagname ]
+    then
+      echo "You created a new tag"
+      mkdir $TAG_PATH/$tagname
+    fi
+    if [ -a $TAG_PATH/$tagname/$1 ]
+    then
+      echo "another file with the same name $1 got this tag, ignore"
+      shift
+      continue
+    fi
+    ln  -t $TAG_PATH/$tagname $1
+    echo "added tag $tag to $1"
+  fi
+  shift
+done
