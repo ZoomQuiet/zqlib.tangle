@@ -8,6 +8,12 @@
     - 9.03.12 for KUP.rdev dot mapping gen html
 usage:
 $ python dot-gen-html.py kupmapidx.dot index.htm
+
+$Source  : /tmp/kwdemo.cSfywv/demo.txt,v $
+$Author  : Zoom $
+$Date    : 2009/11/29 11:36:15 $
+$Revision: 776cdc3e8707 $
+
 '''
 import os,sys,time
 import popen2
