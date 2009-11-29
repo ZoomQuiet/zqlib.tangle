@@ -40,7 +40,7 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
     WY       [label="Yan Wu",shape=egg,URL="http://code.google.com/p/openbookproject/wiki/YanWu"];
     LLX      [label="林路翔",shape=egg,URL="#"];
     include  [label="含",shape=plaintext];
-    w2pyzh   [label="Web2py手册",URL="http://zoomquiet.org/w2py_manual_zh"];
+    w2pyzh   [label="Web2py手册",URL="/w2py_manual_zh"];
     /*服务关系*/
     ZEUUX->support;
         CPUG->support;
