@@ -74,8 +74,3 @@ $ dot-gen-html.py dot|fdp 'path/to/u.tpl' 'path/2/u.dot' "MapName" exPageNam[lik
         gen(dotis,tplf,dotf,mapname,expf)
     #open(exrep,"w").write(open(tpl).read() % locals())
     
-
-
-
-
-

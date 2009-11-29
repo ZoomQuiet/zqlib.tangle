@@ -38,7 +38,7 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
     author   [label="成员",shape=plaintext];
     ZQ       [label="Zoom.Quiet",shape=egg,URL="http://zoomquiet.org"];
     WY       [label="Yan Wu",shape=egg,URL="http://code.google.com/p/openbookproject/wiki/YanWu"];
-    LLX      [label="林路翔",shape=egg,URL="#"];
+    LLX      [label="林路翔",shape=egg,URL="http://code.google.com/p/openbookproject/wiki/LinLuxiang"];
     include  [label="含",shape=plaintext];
     w2pyzh   [label="Web2py手册",URL="/w2py_manual_zh"];
     /*服务关系*/
@@ -50,6 +50,7 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         author->LLX;
     OBP->include;
         include->w2pyzh;
-        
 }
+
+
 
