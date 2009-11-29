@@ -13,7 +13,6 @@ __Author__  = $Author$
 __Source__  = $Source$
 __Date__    = $Date$
 __Revision__= $Revision$
-
 '''
 import os,sys,time
 import popen2
