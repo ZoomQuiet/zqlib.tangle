@@ -42,11 +42,11 @@
     <a href="http://validator.w3.org/check?uri=referer">
     <img id="blueprintbutton" src="res/valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top">
     </a>
-    <a href="http://trac.rdev.kingsoft.net/kspeg/wiki/AbtUs">
+    </div><!--class="column span-19 last"-->
+<!--    <a href="http://trac.rdev.kingsoft.net/kspeg/wiki/AbtUs">
     <img id="blueprintbutton" src="res/kspeg-logo-v0.6-72.png" alt="过程改进组" >
     </a>
-    </div><!--class="column span-19 last"-->
-
+-->
 <div id="powerby">
 powered by:
 <a href="http://www.freebsd.org/">FreeBSD</a>;

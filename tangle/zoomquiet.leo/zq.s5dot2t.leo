@@ -3,13 +3,13 @@
 <leo_file>
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5">
-	<global_window_position top="77" left="41" height="716" width="1022"/>
+	<global_window_position top="47" left="35" height="699" width="1068"/>
 	<global_log_window_position top="0" left="0" height="0" width="0"/>
 </globals>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="zoomq.20080621102004.2" str_leo_pos="0"><vh>@chapters</vh></v>
+<v t="zoomq.20080621102004.2" str_leo_pos="2,1,1"><vh>@chapters</vh></v>
 <v t="zoomq.20080523161605"><vh>s5:public</vh>
 <v t="zoomq.20080807095120.28"><vh>4ZPyUG</vh>
 <v t="zoomq.20080523162513"><vh>080524-easy-spe</vh>
@@ -307,7 +307,7 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20091204150544.7910" a="E"><vh>4BPyUG</vh>
+<v t="zoomq.20091204150544.7910"><vh>4BPyUG</vh>
 <v t="zoomq.20091204150544.11135"><vh>会课记录</vh>
 <v t="zoomq.20091204150544.11136"><vh>060528-talking</vh>
 <v t="zoomq.20091204150544.11137"><vh>会课</vh></v>
@@ -635,6 +635,353 @@
 <v t="zoomq.20091204150544.7010"><vh>About</vh></v>
 <v t="zoomq.20091204150544.7011"><vh>Author</vh></v>
 <v t="zoomq.20091204150544.7012"><vh>S5end</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="zoomq.20091204150544.4881" a="E"><vh>s5:KIS</vh>
+<v t="zoomq.20091204150544.9625"><vh>4KsPEG</vh>
+<v t="zoomq.20091204150544.9867"><vh>goal4kspeg</vh>
+<v t="zoomq.20091204150544.9868"><vh>_stuff</vh>
+<v t="zoomq.20091204150544.9869"><vh>080807-kspeg-intro-cpc</vh>
+<v t="zoomq.20091204150544.9870"><vh>_stuff</vh></v>
+<v t="zoomq.20091204150544.9871"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9872"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.9873"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20091204150544.9874"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9875"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.9876"><vh>version</vh></v>
+<v t="zoomq.20091204150544.9877"><vh>免责</vh></v>
+<v t="zoomq.20091204150544.9878"><vh>summary</vh></v>
+<v t="zoomq.20091204150544.9879"><vh>KSPEG</vh>
+<v t="zoomq.20091204150544.9880"><vh>position</vh></v>
+<v t="zoomq.20091204150544.9881"><vh>开发语言</vh></v>
+<v t="zoomq.20091204150544.9882"><vh>community</vh></v>
+<v t="zoomq.20091204150544.9883"><vh>goal0</vh></v>
+<v t="zoomq.20091204150544.9884"><vh>goal1</vh></v>
+<v t="zoomq.20091204150544.9885"><vh>goal2</vh></v>
+<v t="zoomq.20091204150544.9886"><vh>goalAll</vh></v>
+</v>
+<v t="zoomq.20091204150544.9887"><vh>SPE理论</vh>
+<v t="zoomq.20091204150544.9888"><vh>zqSPE</vh></v>
+<v t="zoomq.20091204150544.9889"><vh>zqSPEcode</vh></v>
+<v t="zoomq.20091204150544.9890"><vh>Kaopulity</vh></v>
+<v t="zoomq.20091204150544.9891"><vh>defKaopulity</vh></v>
+</v>
+<v t="zoomq.20091204150544.9892"><vh>KSPEG need</vh>
+<v t="zoomq.20091204150544.9893"><vh>need</vh></v>
+<v t="zoomq.20091204150544.9894"><vh>ask0</vh></v>
+<v t="zoomq.20091204150544.9895"><vh>ask1</vh></v>
+<v t="zoomq.20091204150544.9896"><vh>ask2</vh></v>
+<v t="zoomq.20091204150544.9897"><vh>challenge0</vh></v>
+<v t="zoomq.20091204150544.9898"><vh>challenge1</vh></v>
+<v t="zoomq.20091204150544.9899"><vh>challenge2</vh></v>
+</v>
+<v t="zoomq.20091204150544.9900"><vh>KC</vh>
+<v t="zoomq.20091204150544.9901"><vh>KC0</vh></v>
+<v t="zoomq.20091204150544.9902"><vh>KC任务</vh></v>
+<v t="zoomq.20091204150544.9903"><vh>KC教学</vh></v>
+<v t="zoomq.20091204150544.9904"><vh>KC学员</vh></v>
+</v>
+<v t="zoomq.20091204150544.9905"><vh>CPC</vh>
+<v t="zoomq.20091204150544.9906"><vh>CPC0</vh></v>
+<v t="zoomq.20091204150544.9907"><vh>CPC目标</vh></v>
+<v t="zoomq.20091204150544.9908"><vh>CPC矛盾</vh></v>
+<v t="zoomq.20091204150544.9909"><vh>CPC立旨</vh></v>
+<v t="zoomq.20091204150544.9910"><vh>CPC核心</vh></v>
+<v t="zoomq.20091204150544.9911"><vh>CPC图景</vh></v>
+<v t="zoomq.20091204150544.9912"><vh>CPC设计</vh></v>
+<v t="zoomq.20091204150544.9913"><vh>CPC体验</vh></v>
+<v t="zoomq.20091204150544.9914"><vh>CPC心理0</vh></v>
+<v t="zoomq.20091204150544.9915"><vh>CPC心理1</vh></v>
+<v t="zoomq.20091204150544.9916"><vh>CPC心理2</vh></v>
+<v t="zoomq.20091204150544.9917"><vh>CPC结论0</vh></v>
+<v t="zoomq.20091204150544.9918"><vh>CPC结论1</vh></v>
+<v t="zoomq.20091204150544.9919"><vh>CPC结论2</vh></v>
+<v t="zoomq.20091204150544.9920"><vh>CPCitems</vh>
+<v t="zoomq.20091204150544.9921"><vh>CPC成果</vh></v>
+<v t="zoomq.20091204150544.9922"><vh>CPC:CCRJ</vh></v>
+<v t="zoomq.20091204150544.9923"><vh>CPC:EAR</vh></v>
+<v t="zoomq.20091204150544.9924"><vh>CPC:M.B0</vh></v>
+<v t="zoomq.20091204150544.9925"><vh>CPC:M.B1</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9926"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.9927"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9928"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9929"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9930"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.9931"><vh>embedded styles</vh></v>
+<v t="zoomq.20091204150544.9932"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20091204150544.9933"><vh>takahashi</vh></v>
+</v>
+<v t="zoomq.20091204150544.9934"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9935"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.9936"><vh>免责</vh></v>
+<v t="zoomq.20091204150544.9937"><vh>brief</vh>
+<v t="zoomq.20091204150544.9938"><vh>KIS.DEC.kspeg</vh></v>
+<v t="zoomq.20091204150544.9939"><vh>oldGoal</vh></v>
+</v>
+<v t="zoomq.20091204150544.9940"><vh>PE理论</vh>
+<v t="zoomq.20091204150544.9941"><vh>PE::过程</vh></v>
+<v t="zoomq.20091204150544.9942"><vh>PE::改进</vh></v>
+<v t="zoomq.20091204150544.9943"><vh>defKaopulity</vh></v>
+<v t="zoomq.20091204150544.9944"><vh>zqSPE</vh></v>
+<v t="zoomq.20091204150544.9945"><vh>zqSPE目标</vh></v>
+</v>
+<v t="zoomq.20091204150544.9946"><vh>PE行动</vh>
+<v t="zoomq.20091204150544.9947"><vh>kspeg::职责0</vh></v>
+<v t="zoomq.20091204150544.9948"><vh>kspeg::职责1</vh></v>
+<v t="zoomq.20091204150544.9949"><vh>community</vh></v>
+<v t="zoomq.20091204150544.9950"><vh>KUP++</vh></v>
+<v t="zoomq.20091204150544.9951"><vh>KUP</vh></v>
+<v t="zoomq.20091204150544.9952"><vh>KUP公式</vh></v>
+</v>
+<v t="zoomq.20091204150544.9953"><vh>summary</vh></v>
+<v t="zoomq.20091204150544.9954"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20091204150544.9955"><vh>version</vh></v>
+<v t="zoomq.20091204150544.9956"><vh>S5</vh></v>
+</v>
+<v t="zoomq.20091204150544.9957"><vh>goal</vh>
+<v t="zoomq.20091204150544.9958"><vh>KUP#</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9670"><vh>080623-kschool-show</vh>
+<v t="zoomq.20091204150544.9671"><vh>_stuff</vh>
+<v t="zoomq.20091204150544.9672"><vh>免责</vh></v>
+</v>
+<v t="zoomq.20091204150544.9673"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9674"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.9675"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20091204150544.9676"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9677"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.9678"><vh>position</vh></v>
+<v t="zoomq.20091204150544.9679"><vh>KSPEG</vh>
+<v t="zoomq.20091204150544.9680"><vh>position</vh></v>
+<v t="zoomq.20091204150544.9681"><vh>community</vh></v>
+<v t="zoomq.20091204150544.9682"><vh>goal0</vh></v>
+<v t="zoomq.20091204150544.9683"><vh>goal1</vh></v>
+<v t="zoomq.20091204150544.9684"><vh>goal2</vh></v>
+</v>
+<v t="zoomq.20091204150544.9685"><vh>character</vh>
+<v t="zoomq.20091204150544.9686"><vh>ask0</vh></v>
+<v t="zoomq.20091204150544.9687"><vh>ask1</vh></v>
+<v t="zoomq.20091204150544.9688"><vh>ask2</vh></v>
+<v t="zoomq.20091204150544.9689"><vh>challenge0</vh></v>
+<v t="zoomq.20091204150544.9690"><vh>challenge1</vh></v>
+<v t="zoomq.20091204150544.9691"><vh>challenge2</vh></v>
+</v>
+<v t="zoomq.20091204150544.9692"><vh>version</vh></v>
+<v t="zoomq.20091204150544.9693"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.9694"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9695"><vh>080807-kspeg-intro-cpc</vh>
+<v t="zoomq.20091204150544.9696"><vh>_stuff</vh>
+<v t="zoomq.20091204150544.9697"><vh>免责</vh></v>
+</v>
+<v t="zoomq.20091204150544.9698"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9699"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.9700"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20091204150544.9701"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9702"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.9703"><vh>version</vh></v>
+<v t="zoomq.20091204150544.9704"><vh>position</vh></v>
+<v t="zoomq.20091204150544.9705"><vh>KSPEG</vh>
+<v t="zoomq.20091204150544.9706"><vh>position</vh></v>
+<v t="zoomq.20091204150544.9707"><vh>community</vh></v>
+<v t="zoomq.20091204150544.9708"><vh>goal0</vh></v>
+<v t="zoomq.20091204150544.9709"><vh>goal1</vh></v>
+<v t="zoomq.20091204150544.9710"><vh>goal2</vh></v>
+</v>
+<v t="zoomq.20091204150544.9711"><vh>character</vh>
+<v t="zoomq.20091204150544.9712"><vh>need</vh></v>
+<v t="zoomq.20091204150544.9713"><vh>ask0</vh></v>
+<v t="zoomq.20091204150544.9714"><vh>ask1</vh></v>
+<v t="zoomq.20091204150544.9715"><vh>ask2</vh></v>
+<v t="zoomq.20091204150544.9716"><vh>challenge0</vh></v>
+<v t="zoomq.20091204150544.9717"><vh>challenge1</vh></v>
+<v t="zoomq.20091204150544.9718"><vh>challenge2</vh></v>
+</v>
+<v t="zoomq.20091204150544.9719"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.9720"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20091204150544.4981" a="E"><vh>KUP++</vh>
+<v t="zoomq.20091213221717.4968"><vh>KUP++ 服务推介</vh>
+<v t="zoomq.20091204150544.4982" tnodeList="zoomq.20091204150544.4982,zoomq.20091204150544.4983,zoomq.20091204150544.4984,zoomq.20091204150544.4985,zoomq.20091204150544.4986,zoomq.20091204150544.4987,zoomq.20091204150544.4988,zoomq.20091204150544.4989,zoomq.20091204150544.4990,zoomq.20091204150544.4991,zoomq.20091204150544.4992,zoomq.20091204150544.4993,zoomq.20091204150544.4994,zoomq.20091204150544.4995,zoomq.20091204150544.5021,zoomq.20091204150544.4997,zoomq.20091204150544.4998,zoomq.20091204150544.4999,zoomq.20091204150544.5000,zoomq.20091204150544.5015,zoomq.20091204150544.5020,zoomq.20091204150544.5003,zoomq.20091204150544.5004,zoomq.20091204150544.5020,zoomq.20091204150544.5006,zoomq.20091204150544.5007,zoomq.20091204150544.5008,zoomq.20091204150544.5009,zoomq.20091204150544.5010,zoomq.20091204150544.5020,zoomq.20091204150544.5012,zoomq.20091204150544.5013,zoomq.20091204150544.5014,zoomq.20091204150544.5015,zoomq.20091204150544.5016,zoomq.20091204150544.5017,zoomq.20091204150544.5020,zoomq.20091204150544.5019,zoomq.20091204150544.5020,zoomq.20091204150544.5021,zoomq.20091204150544.5022,zoomq.20091204150544.5023,zoomq.20091204150544.5024"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.4983"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.4984"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.4985"><vh>embedded styles</vh></v>
+</v>
+<v t="zoomq.20091204150544.4986"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.4987"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.4988"><vh>brief</vh>
+<v t="zoomq.20091204150544.4989"><vh>KUP++</vh></v>
+<v t="zoomq.20091204150544.4990"><vh>KUP</vh></v>
+<v t="zoomq.20091204150544.4991"><vh>KUP#</vh></v>
+<v t="zoomq.20091204150544.4992"><vh>KUP++服务图谱</vh></v>
+<v t="zoomq.20091204150544.4993"><vh>KUP++体系结构</vh></v>
+<v t="zoomq.20091204150544.4994"><vh>KUP++开发原则</vh></v>
+<v t="zoomq.20091204150544.4995"><vh>community</vh></v>
+</v>
+<v t="zoomq.20091204150544.5021"><vh>KUP++服务体系</vh></v>
+<v t="zoomq.20091204150544.4997"><vh>服务</vh>
+<v t="zoomq.20091204150544.4998"><vh>KSSO</vh>
+<v t="zoomq.20091204150544.4999"><vh>KSSO结构</vh></v>
+<v t="zoomq.20091204150544.5000"><vh>KSSO2结构</vh></v>
+</v>
+<v t="zoomq.20091204150544.5015"><vh>pg</vh></v>
+<v t="zoomq.20091204150544.5020"><vh>Python</vh></v>
+<v t="zoomq.20091204150544.5003"><vh>KTRAC</vh>
+<v t="zoomq.20091204150544.5004"><vh>Trac</vh></v>
+<v t="zoomq.20091204150544.5020"></v>
+<v t="zoomq.20091204150544.5006"><vh>TEPs</vh></v>
+<v t="zoomq.20091204150544.5007"><vh>Frog</vh></v>
+</v>
+<v t="zoomq.20091204150544.5008"><vh>MSG</vh>
+<v t="zoomq.20091204150544.5009"><vh>RabbitMQ</vh></v>
+<v t="zoomq.20091204150544.5010"><vh>Erlang</vh></v>
+<v t="zoomq.20091204150544.5020"></v>
+<v t="zoomq.20091204150544.5012"><vh>MSG结构</vh></v>
+<v t="zoomq.20091204150544.5013"><vh>BM4Trac</vh></v>
+</v>
+<v t="zoomq.20091204150544.5014"><vh>KUSE</vh>
+<v t="zoomq.20091204150544.5015"></v>
+<v t="zoomq.20091204150544.5016"><vh>bamboo</vh></v>
+<v t="zoomq.20091204150544.5017"><vh>KUSE结构</vh></v>
+<v t="zoomq.20091204150544.5020"></v>
+</v>
+<v t="zoomq.20091204150544.5019"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.5020"></v>
+</v>
+<v t="zoomq.20091204150544.5021"></v>
+</v>
+<v t="zoomq.20091204150544.5022"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20091204150544.5023"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.5024"><vh>version</vh></v>
+</v>
+</v>
+<v t="zoomq.20091213221717.4969"><vh>KTRACintro</vh></v>
+<v t="zoomq.20091204150544.9721" a="E"><vh>080811-kdoc-trac</vh>
+<v t="zoomq.20091204150544.9722"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9723"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.9724"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20091204150544.9725"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9726"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.9727"><vh>免责</vh></v>
+<v t="zoomq.20091204150544.9728"><vh>Trac</vh></v>
+<v t="zoomq.20091204150544.9729"><vh>need</vh>
+<v t="zoomq.20091204150544.9730"><vh>need0</vh></v>
+<v t="zoomq.20091204150544.9731"><vh>need1</vh></v>
+<v t="zoomq.20091204150544.9732"><vh>need2</vh></v>
+<v t="zoomq.20091204150544.9733"><vh>need3</vh></v>
+<v t="zoomq.20091204150544.9734"><vh>need4</vh></v>
+</v>
+<v t="zoomq.20091204150544.9735"><vh>TracCore</vh>
+<v t="zoomq.20091204150544.9736"><vh>思路</vh></v>
+<v t="zoomq.20091204150544.9737"><vh>本质</vh></v>
+<v t="zoomq.20091204150544.9738"><vh>Wiki</vh></v>
+</v>
+<v t="zoomq.20091204150544.9739"><vh>TracActions</vh>
+<v t="zoomq.20091204150544.9740"><vh>Usage</vh></v>
+<v t="zoomq.20091204150544.9741"><vh>Usage0</vh></v>
+<v t="zoomq.20091204150544.9742"><vh>Usage1</vh></v>
+<v t="zoomq.20091204150544.9743"><vh>Usage2</vh></v>
+<v t="zoomq.20091204150544.9744"><vh>Usage3</vh></v>
+<v t="zoomq.20091204150544.9745"><vh>Usage4</vh></v>
+<v t="zoomq.20091204150544.9746"><vh>Ticket</vh></v>
+<v t="zoomq.20091204150544.9747"><vh>Flow:0</vh></v>
+<v t="zoomq.20091204150544.9748"><vh>Flow:1</vh></v>
+<v t="zoomq.20091204150544.9749"><vh>Flow:2</vh></v>
+<v t="zoomq.20091204150544.9750"><vh>Flow:3</vh></v>
+<v t="zoomq.20091204150544.9751"><vh>Flow:4</vh></v>
+<v t="zoomq.20091204150544.9752"><vh>Flow:5</vh></v>
+<v t="zoomq.20091204150544.9753"><vh>Flow:all</vh></v>
+</v>
+<v t="zoomq.20091204150544.9754"><vh>Norm.Trac</vh>
+<v t="zoomq.20091204150544.9755"><vh>日常0</vh></v>
+<v t="zoomq.20091204150544.9756"><vh>日常1</vh></v>
+<v t="zoomq.20091204150544.9757"><vh>日常end</vh></v>
+<v t="zoomq.20091204150544.9758"><vh>Trac技巧</vh></v>
+<v t="zoomq.20091204150544.9759"><vh>技巧0</vh></v>
+<v t="zoomq.20091204150544.9760"><vh>技巧1</vh></v>
+<v t="zoomq.20091204150544.9761"><vh>技巧2</vh></v>
+<v t="zoomq.20091204150544.9762"><vh>技巧3</vh></v>
+</v>
+<v t="zoomq.20091204150544.9763"><vh>version</vh></v>
+<v t="zoomq.20091204150544.9764"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.9765"><vh>Q&amp;A</vh>
+<v t="zoomq.20091204150544.9766"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20091204150544.9767"><vh>Q</vh></v>
+<v t="zoomq.20091204150544.9768"><vh>A0</vh></v>
+<v t="zoomq.20091204150544.9769"><vh>A1</vh></v>
+<v t="zoomq.20091204150544.9770"><vh>A2</vh></v>
+<v t="zoomq.20091204150544.9771"><vh>A3</vh></v>
+<v t="zoomq.20091204150544.9772"><vh>A4</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9773"><vh>stuff</vh>
+<v t="zoomq.20091204150544.9774"><vh>@file /home/zoomq/Desktop/[KUP]Re: 申请试用trac管理.txt</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9626"><vh>080611-kdoc-trac</vh>
+<v t="zoomq.20091204150544.9627"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9628"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.9629"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20091204150544.9630"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.9631"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.9632"><vh>免责</vh></v>
+<v t="zoomq.20091204150544.9633"><vh>Trac</vh></v>
+<v t="zoomq.20091204150544.9634"><vh>need</vh>
+<v t="zoomq.20091204150544.9635"><vh>need0</vh></v>
+<v t="zoomq.20091204150544.9636"><vh>need1</vh></v>
+<v t="zoomq.20091204150544.9637"><vh>need2</vh></v>
+<v t="zoomq.20091204150544.9638"><vh>need3</vh></v>
+<v t="zoomq.20091204150544.9639"><vh>need4</vh></v>
+</v>
+<v t="zoomq.20091204150544.9640"><vh>TracCore</vh>
+<v t="zoomq.20091204150544.9641"><vh>思路</vh></v>
+<v t="zoomq.20091204150544.9642"><vh>本质</vh></v>
+<v t="zoomq.20091204150544.9643"><vh>Wiki</vh></v>
+</v>
+<v t="zoomq.20091204150544.9644"><vh>TracActions</vh>
+<v t="zoomq.20091204150544.9645"><vh>Usage0</vh></v>
+<v t="zoomq.20091204150544.9646"><vh>Usage1</vh></v>
+<v t="zoomq.20091204150544.9647"><vh>Usage2</vh></v>
+<v t="zoomq.20091204150544.9648"><vh>Usage3</vh></v>
+<v t="zoomq.20091204150544.9649"><vh>Usage4</vh></v>
+<v t="zoomq.20091204150544.9650"><vh>Ticket</vh></v>
+<v t="zoomq.20091204150544.9651"><vh>Flow:0</vh></v>
+<v t="zoomq.20091204150544.9652"><vh>Flow:1</vh></v>
+<v t="zoomq.20091204150544.9653"><vh>Flow:2</vh></v>
+<v t="zoomq.20091204150544.9654"><vh>Flow:3</vh></v>
+<v t="zoomq.20091204150544.9655"><vh>Flow:4</vh></v>
+<v t="zoomq.20091204150544.9656"><vh>Flow:5</vh></v>
+<v t="zoomq.20091204150544.9657"><vh>Flow:all</vh></v>
+</v>
+<v t="zoomq.20091204150544.9658"><vh>Norm.Trac</vh>
+<v t="zoomq.20091204150544.9659"><vh>日常0</vh></v>
+<v t="zoomq.20091204150544.9660"><vh>日常1</vh></v>
+<v t="zoomq.20091204150544.9661"><vh>日常end</vh></v>
+<v t="zoomq.20091204150544.9662"><vh>Trac技巧</vh></v>
+<v t="zoomq.20091204150544.9663"><vh>技巧0</vh></v>
+<v t="zoomq.20091204150544.9664"><vh>技巧1</vh></v>
+<v t="zoomq.20091204150544.9665"><vh>技巧2</vh></v>
+<v t="zoomq.20091204150544.9666"><vh>技巧3</vh></v>
+</v>
+<v t="zoomq.20091204150544.9667"><vh>version</vh></v>
+<v t="zoomq.20091204150544.9668"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.9669"><vh>Q&amp;A</vh></v>
 </v>
 </v>
 </v>
@@ -1016,390 +1363,6 @@
 <v t="zoomq.20091204150544.9472"><vh>Author</vh></v>
 <v t="zoomq.20091204150544.9473"><vh>end</vh></v>
 <v t="zoomq.20091204150544.9474"><vh>S5end</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="zoomq.20091204150544.4881"><vh>s5:KIS</vh>
-<v t="zoomq.20091204150544.9625"><vh>4KsPEG</vh>
-<v t="zoomq.20091204150544.9867"><vh>goal4kspeg</vh>
-<v t="zoomq.20091204150544.9868"><vh>_stuff</vh>
-<v t="zoomq.20091204150544.9869"><vh>080807-kspeg-intro-cpc</vh>
-<v t="zoomq.20091204150544.9870"><vh>_stuff</vh></v>
-<v t="zoomq.20091204150544.9871"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9872"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.9873"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20091204150544.9874"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9875"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.9876"><vh>version</vh></v>
-<v t="zoomq.20091204150544.9877"><vh>免责</vh></v>
-<v t="zoomq.20091204150544.9878"><vh>summary</vh></v>
-<v t="zoomq.20091204150544.9879"><vh>KSPEG</vh>
-<v t="zoomq.20091204150544.9880"><vh>position</vh></v>
-<v t="zoomq.20091204150544.9881"><vh>开发语言</vh></v>
-<v t="zoomq.20091204150544.9882"><vh>community</vh></v>
-<v t="zoomq.20091204150544.9883"><vh>goal0</vh></v>
-<v t="zoomq.20091204150544.9884"><vh>goal1</vh></v>
-<v t="zoomq.20091204150544.9885"><vh>goal2</vh></v>
-<v t="zoomq.20091204150544.9886"><vh>goalAll</vh></v>
-</v>
-<v t="zoomq.20091204150544.9887"><vh>SPE理论</vh>
-<v t="zoomq.20091204150544.9888"><vh>zqSPE</vh></v>
-<v t="zoomq.20091204150544.9889"><vh>zqSPEcode</vh></v>
-<v t="zoomq.20091204150544.9890"><vh>Kaopulity</vh></v>
-<v t="zoomq.20091204150544.9891"><vh>defKaopulity</vh></v>
-</v>
-<v t="zoomq.20091204150544.9892"><vh>KSPEG need</vh>
-<v t="zoomq.20091204150544.9893"><vh>need</vh></v>
-<v t="zoomq.20091204150544.9894"><vh>ask0</vh></v>
-<v t="zoomq.20091204150544.9895"><vh>ask1</vh></v>
-<v t="zoomq.20091204150544.9896"><vh>ask2</vh></v>
-<v t="zoomq.20091204150544.9897"><vh>challenge0</vh></v>
-<v t="zoomq.20091204150544.9898"><vh>challenge1</vh></v>
-<v t="zoomq.20091204150544.9899"><vh>challenge2</vh></v>
-</v>
-<v t="zoomq.20091204150544.9900"><vh>KC</vh>
-<v t="zoomq.20091204150544.9901"><vh>KC0</vh></v>
-<v t="zoomq.20091204150544.9902"><vh>KC任务</vh></v>
-<v t="zoomq.20091204150544.9903"><vh>KC教学</vh></v>
-<v t="zoomq.20091204150544.9904"><vh>KC学员</vh></v>
-</v>
-<v t="zoomq.20091204150544.9905"><vh>CPC</vh>
-<v t="zoomq.20091204150544.9906"><vh>CPC0</vh></v>
-<v t="zoomq.20091204150544.9907"><vh>CPC目标</vh></v>
-<v t="zoomq.20091204150544.9908"><vh>CPC矛盾</vh></v>
-<v t="zoomq.20091204150544.9909"><vh>CPC立旨</vh></v>
-<v t="zoomq.20091204150544.9910"><vh>CPC核心</vh></v>
-<v t="zoomq.20091204150544.9911"><vh>CPC图景</vh></v>
-<v t="zoomq.20091204150544.9912"><vh>CPC设计</vh></v>
-<v t="zoomq.20091204150544.9913"><vh>CPC体验</vh></v>
-<v t="zoomq.20091204150544.9914"><vh>CPC心理0</vh></v>
-<v t="zoomq.20091204150544.9915"><vh>CPC心理1</vh></v>
-<v t="zoomq.20091204150544.9916"><vh>CPC心理2</vh></v>
-<v t="zoomq.20091204150544.9917"><vh>CPC结论0</vh></v>
-<v t="zoomq.20091204150544.9918"><vh>CPC结论1</vh></v>
-<v t="zoomq.20091204150544.9919"><vh>CPC结论2</vh></v>
-<v t="zoomq.20091204150544.9920"><vh>CPCitems</vh>
-<v t="zoomq.20091204150544.9921"><vh>CPC成果</vh></v>
-<v t="zoomq.20091204150544.9922"><vh>CPC:CCRJ</vh></v>
-<v t="zoomq.20091204150544.9923"><vh>CPC:EAR</vh></v>
-<v t="zoomq.20091204150544.9924"><vh>CPC:M.B0</vh></v>
-<v t="zoomq.20091204150544.9925"><vh>CPC:M.B1</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9926"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.9927"><vh>Q&amp;A</vh></v>
-</v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9928"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9929"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9930"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.9931"><vh>embedded styles</vh></v>
-<v t="zoomq.20091204150544.9932"><vh>.slide+.incremental</vh></v>
-<v t="zoomq.20091204150544.9933"><vh>takahashi</vh></v>
-</v>
-<v t="zoomq.20091204150544.9934"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9935"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.9936"><vh>免责</vh></v>
-<v t="zoomq.20091204150544.9937"><vh>brief</vh>
-<v t="zoomq.20091204150544.9938"><vh>KIS.DEC.kspeg</vh></v>
-<v t="zoomq.20091204150544.9939"><vh>oldGoal</vh></v>
-</v>
-<v t="zoomq.20091204150544.9940"><vh>PE理论</vh>
-<v t="zoomq.20091204150544.9941"><vh>PE::过程</vh></v>
-<v t="zoomq.20091204150544.9942"><vh>PE::改进</vh></v>
-<v t="zoomq.20091204150544.9943"><vh>defKaopulity</vh></v>
-<v t="zoomq.20091204150544.9944"><vh>zqSPE</vh></v>
-<v t="zoomq.20091204150544.9945"><vh>zqSPE目标</vh></v>
-</v>
-<v t="zoomq.20091204150544.9946"><vh>PE行动</vh>
-<v t="zoomq.20091204150544.9947"><vh>kspeg::职责0</vh></v>
-<v t="zoomq.20091204150544.9948"><vh>kspeg::职责1</vh></v>
-<v t="zoomq.20091204150544.9949"><vh>community</vh></v>
-<v t="zoomq.20091204150544.9950"><vh>KUP++</vh></v>
-<v t="zoomq.20091204150544.9951"><vh>KUP</vh></v>
-<v t="zoomq.20091204150544.9952"><vh>KUP公式</vh></v>
-</v>
-<v t="zoomq.20091204150544.9953"><vh>summary</vh></v>
-<v t="zoomq.20091204150544.9954"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20091204150544.9955"><vh>version</vh></v>
-<v t="zoomq.20091204150544.9956"><vh>S5</vh></v>
-</v>
-<v t="zoomq.20091204150544.9957"><vh>goal</vh>
-<v t="zoomq.20091204150544.9958"><vh>KUP#</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9626"><vh>080611-kdoc-trac</vh>
-<v t="zoomq.20091204150544.9627"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9628"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.9629"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20091204150544.9630"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9631"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.9632"><vh>免责</vh></v>
-<v t="zoomq.20091204150544.9633"><vh>Trac</vh></v>
-<v t="zoomq.20091204150544.9634"><vh>need</vh>
-<v t="zoomq.20091204150544.9635"><vh>need0</vh></v>
-<v t="zoomq.20091204150544.9636"><vh>need1</vh></v>
-<v t="zoomq.20091204150544.9637"><vh>need2</vh></v>
-<v t="zoomq.20091204150544.9638"><vh>need3</vh></v>
-<v t="zoomq.20091204150544.9639"><vh>need4</vh></v>
-</v>
-<v t="zoomq.20091204150544.9640"><vh>TracCore</vh>
-<v t="zoomq.20091204150544.9641"><vh>思路</vh></v>
-<v t="zoomq.20091204150544.9642"><vh>本质</vh></v>
-<v t="zoomq.20091204150544.9643"><vh>Wiki</vh></v>
-</v>
-<v t="zoomq.20091204150544.9644"><vh>TracActions</vh>
-<v t="zoomq.20091204150544.9645"><vh>Usage0</vh></v>
-<v t="zoomq.20091204150544.9646"><vh>Usage1</vh></v>
-<v t="zoomq.20091204150544.9647"><vh>Usage2</vh></v>
-<v t="zoomq.20091204150544.9648"><vh>Usage3</vh></v>
-<v t="zoomq.20091204150544.9649"><vh>Usage4</vh></v>
-<v t="zoomq.20091204150544.9650"><vh>Ticket</vh></v>
-<v t="zoomq.20091204150544.9651"><vh>Flow:0</vh></v>
-<v t="zoomq.20091204150544.9652"><vh>Flow:1</vh></v>
-<v t="zoomq.20091204150544.9653"><vh>Flow:2</vh></v>
-<v t="zoomq.20091204150544.9654"><vh>Flow:3</vh></v>
-<v t="zoomq.20091204150544.9655"><vh>Flow:4</vh></v>
-<v t="zoomq.20091204150544.9656"><vh>Flow:5</vh></v>
-<v t="zoomq.20091204150544.9657"><vh>Flow:all</vh></v>
-</v>
-<v t="zoomq.20091204150544.9658"><vh>Norm.Trac</vh>
-<v t="zoomq.20091204150544.9659"><vh>日常0</vh></v>
-<v t="zoomq.20091204150544.9660"><vh>日常1</vh></v>
-<v t="zoomq.20091204150544.9661"><vh>日常end</vh></v>
-<v t="zoomq.20091204150544.9662"><vh>Trac技巧</vh></v>
-<v t="zoomq.20091204150544.9663"><vh>技巧0</vh></v>
-<v t="zoomq.20091204150544.9664"><vh>技巧1</vh></v>
-<v t="zoomq.20091204150544.9665"><vh>技巧2</vh></v>
-<v t="zoomq.20091204150544.9666"><vh>技巧3</vh></v>
-</v>
-<v t="zoomq.20091204150544.9667"><vh>version</vh></v>
-<v t="zoomq.20091204150544.9668"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.9669"><vh>Q&amp;A</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9670"><vh>080623-kschool-show</vh>
-<v t="zoomq.20091204150544.9671"><vh>_stuff</vh>
-<v t="zoomq.20091204150544.9672"><vh>免责</vh></v>
-</v>
-<v t="zoomq.20091204150544.9673"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9674"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.9675"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20091204150544.9676"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9677"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.9678"><vh>position</vh></v>
-<v t="zoomq.20091204150544.9679"><vh>KSPEG</vh>
-<v t="zoomq.20091204150544.9680"><vh>position</vh></v>
-<v t="zoomq.20091204150544.9681"><vh>community</vh></v>
-<v t="zoomq.20091204150544.9682"><vh>goal0</vh></v>
-<v t="zoomq.20091204150544.9683"><vh>goal1</vh></v>
-<v t="zoomq.20091204150544.9684"><vh>goal2</vh></v>
-</v>
-<v t="zoomq.20091204150544.9685"><vh>character</vh>
-<v t="zoomq.20091204150544.9686"><vh>ask0</vh></v>
-<v t="zoomq.20091204150544.9687"><vh>ask1</vh></v>
-<v t="zoomq.20091204150544.9688"><vh>ask2</vh></v>
-<v t="zoomq.20091204150544.9689"><vh>challenge0</vh></v>
-<v t="zoomq.20091204150544.9690"><vh>challenge1</vh></v>
-<v t="zoomq.20091204150544.9691"><vh>challenge2</vh></v>
-</v>
-<v t="zoomq.20091204150544.9692"><vh>version</vh></v>
-<v t="zoomq.20091204150544.9693"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.9694"><vh>Q&amp;A</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9695"><vh>080807-kspeg-intro-cpc</vh>
-<v t="zoomq.20091204150544.9696"><vh>_stuff</vh>
-<v t="zoomq.20091204150544.9697"><vh>免责</vh></v>
-</v>
-<v t="zoomq.20091204150544.9698"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9699"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.9700"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20091204150544.9701"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9702"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.9703"><vh>version</vh></v>
-<v t="zoomq.20091204150544.9704"><vh>position</vh></v>
-<v t="zoomq.20091204150544.9705"><vh>KSPEG</vh>
-<v t="zoomq.20091204150544.9706"><vh>position</vh></v>
-<v t="zoomq.20091204150544.9707"><vh>community</vh></v>
-<v t="zoomq.20091204150544.9708"><vh>goal0</vh></v>
-<v t="zoomq.20091204150544.9709"><vh>goal1</vh></v>
-<v t="zoomq.20091204150544.9710"><vh>goal2</vh></v>
-</v>
-<v t="zoomq.20091204150544.9711"><vh>character</vh>
-<v t="zoomq.20091204150544.9712"><vh>need</vh></v>
-<v t="zoomq.20091204150544.9713"><vh>ask0</vh></v>
-<v t="zoomq.20091204150544.9714"><vh>ask1</vh></v>
-<v t="zoomq.20091204150544.9715"><vh>ask2</vh></v>
-<v t="zoomq.20091204150544.9716"><vh>challenge0</vh></v>
-<v t="zoomq.20091204150544.9717"><vh>challenge1</vh></v>
-<v t="zoomq.20091204150544.9718"><vh>challenge2</vh></v>
-</v>
-<v t="zoomq.20091204150544.9719"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.9720"><vh>Q&amp;A</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9721"><vh>080811-kdoc-trac</vh>
-<v t="zoomq.20091204150544.9722"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9723"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.9724"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20091204150544.9725"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.9726"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.9727"><vh>免责</vh></v>
-<v t="zoomq.20091204150544.9728"><vh>Trac</vh></v>
-<v t="zoomq.20091204150544.9729"><vh>need</vh>
-<v t="zoomq.20091204150544.9730"><vh>need0</vh></v>
-<v t="zoomq.20091204150544.9731"><vh>need1</vh></v>
-<v t="zoomq.20091204150544.9732"><vh>need2</vh></v>
-<v t="zoomq.20091204150544.9733"><vh>need3</vh></v>
-<v t="zoomq.20091204150544.9734"><vh>need4</vh></v>
-</v>
-<v t="zoomq.20091204150544.9735"><vh>TracCore</vh>
-<v t="zoomq.20091204150544.9736"><vh>思路</vh></v>
-<v t="zoomq.20091204150544.9737"><vh>本质</vh></v>
-<v t="zoomq.20091204150544.9738"><vh>Wiki</vh></v>
-</v>
-<v t="zoomq.20091204150544.9739"><vh>TracActions</vh>
-<v t="zoomq.20091204150544.9740"><vh>Usage</vh></v>
-<v t="zoomq.20091204150544.9741"><vh>Usage0</vh></v>
-<v t="zoomq.20091204150544.9742"><vh>Usage1</vh></v>
-<v t="zoomq.20091204150544.9743"><vh>Usage2</vh></v>
-<v t="zoomq.20091204150544.9744"><vh>Usage3</vh></v>
-<v t="zoomq.20091204150544.9745"><vh>Usage4</vh></v>
-<v t="zoomq.20091204150544.9746"><vh>Ticket</vh></v>
-<v t="zoomq.20091204150544.9747"><vh>Flow:0</vh></v>
-<v t="zoomq.20091204150544.9748"><vh>Flow:1</vh></v>
-<v t="zoomq.20091204150544.9749"><vh>Flow:2</vh></v>
-<v t="zoomq.20091204150544.9750"><vh>Flow:3</vh></v>
-<v t="zoomq.20091204150544.9751"><vh>Flow:4</vh></v>
-<v t="zoomq.20091204150544.9752"><vh>Flow:5</vh></v>
-<v t="zoomq.20091204150544.9753"><vh>Flow:all</vh></v>
-</v>
-<v t="zoomq.20091204150544.9754"><vh>Norm.Trac</vh>
-<v t="zoomq.20091204150544.9755"><vh>日常0</vh></v>
-<v t="zoomq.20091204150544.9756"><vh>日常1</vh></v>
-<v t="zoomq.20091204150544.9757"><vh>日常end</vh></v>
-<v t="zoomq.20091204150544.9758"><vh>Trac技巧</vh></v>
-<v t="zoomq.20091204150544.9759"><vh>技巧0</vh></v>
-<v t="zoomq.20091204150544.9760"><vh>技巧1</vh></v>
-<v t="zoomq.20091204150544.9761"><vh>技巧2</vh></v>
-<v t="zoomq.20091204150544.9762"><vh>技巧3</vh></v>
-</v>
-<v t="zoomq.20091204150544.9763"><vh>version</vh></v>
-<v t="zoomq.20091204150544.9764"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.9765"><vh>Q&amp;A</vh>
-<v t="zoomq.20091204150544.9766"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20091204150544.9767"><vh>Q</vh></v>
-<v t="zoomq.20091204150544.9768"><vh>A0</vh></v>
-<v t="zoomq.20091204150544.9769"><vh>A1</vh></v>
-<v t="zoomq.20091204150544.9770"><vh>A2</vh></v>
-<v t="zoomq.20091204150544.9771"><vh>A3</vh></v>
-<v t="zoomq.20091204150544.9772"><vh>A4</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9773"><vh>stuff</vh>
-<v t="zoomq.20091204150544.9774"><vh>@file /home/zoomq/Desktop/[KUP]Re: 申请试用trac管理.txt</vh></v>
-</v>
-</v>
-</v>
-<v t="zoomq.20091204150544.4981"><vh>KUP++</vh>
-<v t="zoomq.20091204150544.4982"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.4983"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.4984"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.4985"><vh>embedded styles</vh></v>
-</v>
-<v t="zoomq.20091204150544.4986"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.4987"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.4988"><vh>brief</vh>
-<v t="zoomq.20091204150544.4989"><vh>KUP++</vh></v>
-<v t="zoomq.20091204150544.4990"><vh>KUP</vh></v>
-<v t="zoomq.20091204150544.4991"><vh>KUP#</vh></v>
-<v t="zoomq.20091204150544.4992"><vh>KUP++服务图谱</vh></v>
-<v t="zoomq.20091204150544.4993"><vh>KUP++体系结构</vh></v>
-<v t="zoomq.20091204150544.4994"><vh>KUP++开发原则</vh></v>
-<v t="zoomq.20091204150544.4995"><vh>community</vh></v>
-</v>
-<v t="zoomq.20091204150544.5021"><vh>KUP++服务体系</vh></v>
-<v t="zoomq.20091204150544.4997"><vh>服务</vh>
-<v t="zoomq.20091204150544.4998"><vh>KSSO</vh>
-<v t="zoomq.20091204150544.4999"><vh>KSSO结构</vh></v>
-<v t="zoomq.20091204150544.5000"><vh>KSSO2结构</vh></v>
-</v>
-<v t="zoomq.20091204150544.5015"><vh>pg</vh></v>
-<v t="zoomq.20091204150544.5020"><vh>Python</vh></v>
-<v t="zoomq.20091204150544.5003"><vh>KTRAC</vh>
-<v t="zoomq.20091204150544.5004"><vh>Trac</vh></v>
-<v t="zoomq.20091204150544.5020"></v>
-<v t="zoomq.20091204150544.5006"><vh>TEPs</vh></v>
-<v t="zoomq.20091204150544.5007"><vh>Frog</vh></v>
-</v>
-<v t="zoomq.20091204150544.5008"><vh>MSG</vh>
-<v t="zoomq.20091204150544.5009"><vh>RabbitMQ</vh></v>
-<v t="zoomq.20091204150544.5010"><vh>Erlang</vh></v>
-<v t="zoomq.20091204150544.5020"></v>
-<v t="zoomq.20091204150544.5012"><vh>MSG结构</vh></v>
-<v t="zoomq.20091204150544.5013"><vh>BM4Trac</vh></v>
-</v>
-<v t="zoomq.20091204150544.5014"><vh>KUSE</vh>
-<v t="zoomq.20091204150544.5015"></v>
-<v t="zoomq.20091204150544.5016"><vh>bamboo</vh></v>
-<v t="zoomq.20091204150544.5017"><vh>KUSE结构</vh></v>
-<v t="zoomq.20091204150544.5020"></v>
-</v>
-<v t="zoomq.20091204150544.5019"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.5020"></v>
-</v>
-<v t="zoomq.20091204150544.5021"></v>
-</v>
-<v t="zoomq.20091204150544.5022"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20091204150544.5023"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.5024"><vh>version</vh></v>
-</v>
-<v t="zoomq.20091204150544.5025"><vh>KM</vh>
-<v t="zoomq.20091204150544.5026"><vh>概念</vh>
-<v t="zoomq.20091204150544.5027"><vh>知识?</vh>
-<v t="zoomq.20091204150544.5028"><vh>知识金塔</vh></v>
-</v>
-<v t="zoomq.20091204150544.5029"><vh>企业知识</vh>
-<v t="zoomq.20091204150544.5030"><vh>EK多</vh></v>
-<v t="zoomq.20091204150544.5031"><vh>EK杂</vh></v>
-<v t="zoomq.20091204150544.5032"><vh>EK乱</vh></v>
-<v t="zoomq.20091204150544.5033"><vh>EK快</vh></v>
-<v t="zoomq.20091204150544.5034"><vh>EK不定</vh></v>
-<v t="zoomq.20091204150544.5035"><vh>EK难分</vh></v>
-</v>
-<v t="zoomq.20091204150544.5036"><vh>abt.学习</vh>
-<v t="zoomq.20091204150544.5037"><vh>学习?</vh></v>
-<v t="zoomq.20091204150544.5038"><vh>学习阶级</vh></v>
-<v t="zoomq.20091204150544.5039"><vh>学习之轮</vh></v>
-<v t="zoomq.20091204150544.5040"><vh>知识!</vh></v>
-</v>
-<v t="zoomq.20091204150544.5041"><vh>SECI</vh>
-<v t="zoomq.20091204150544.5042"><vh>SECI意义</vh></v>
-<v t="zoomq.20091204150544.5043"><vh>SECIba</vh></v>
-<v t="zoomq.20091204150544.5044"><vh>7-11原始ba</vh></v>
-<v t="zoomq.20091204150544.5045"><vh>7-11对话ba</vh></v>
-<v t="zoomq.20091204150544.5046"><vh>7-11系统ba</vh></v>
-<v t="zoomq.20091204150544.5047"><vh>7-11练习ba</vh></v>
-<v t="zoomq.20091204150544.5048"><vh>原始ba</vh></v>
-<v t="zoomq.20091204150544.5049"><vh>对话ba</vh></v>
-<v t="zoomq.20091204150544.5050"><vh>系统ba</vh></v>
-<v t="zoomq.20091204150544.5051"><vh>练习ba</vh></v>
-</v>
-<v t="zoomq.20091204150544.5052"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.5053"><vh>KM内容</vh></v>
-<v t="zoomq.20091204150544.5054"><vh>EK之轮</vh></v>
-<v t="zoomq.20091204150544.5055"><vh>EK公式</vh></v>
-<v t="zoomq.20091204150544.5056"><vh>HEK关注</vh></v>
-</v>
-<v t="zoomq.20091204150544.5057"><vh>KM概念整理</vh></v>
 </v>
 </v>
 </v>
@@ -4654,531 +4617,6 @@ Q&amp;A
 &lt;/ul&gt;
 &lt;h4&gt;KIS.研发改进中心:: &lt;a href="mailto:zhouqi@kingsoft.com"&gt;周琦&lt;/a&gt;&lt;/h4&gt;
 
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.5025"></t>
-<t tx="zoomq.20091204150544.5026"></t>
-<t tx="zoomq.20091204150544.5027">&lt;div class="slide"&gt;
-&lt;h1&gt;
-什么是知识?
-&lt;div id="sup"&gt;
-知识是用于生产的信息（有意义的信息）~1998年，世界银行《1998年世界发展报告－知识促进发展》
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-用于生产的&lt;br/&gt;信息!
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5028">&lt;div class="slide"&gt;
-&lt;h1&gt;
-知识与数据,信息,智能的关系
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-&lt;img src="pic/km-pyramid.png"/&gt;
-
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5029">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业知识特性
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi9"&gt;
-难以管理
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5030">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业知识特性
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi"&gt;
-指数性&lt;br/&gt;增长
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5031">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业知识特性
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi9"&gt;
-复杂
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5032">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业知识特性
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi9"&gt;
-散乱易漏
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5033">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业KM难点
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi9"&gt;
-更新频繁
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5034">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业KM难点
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi9"&gt;
-价值不定
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5035">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业KM难点
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-
-&lt;h2 id="takahashi"&gt;
-利益分成&lt;br/&gt;不确定
-&lt;/h2&gt;
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5036"></t>
-<t tx="zoomq.20091204150544.5037">&lt;div class="slide"&gt;
-&lt;h1&gt;
-怎么掌握知识的?
-&lt;div id="sup"&gt;
-人的学习行为是个复杂难明的社会过程,有专门的研究领域...
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-&lt;img src="pic/OsubillKnowMap.jpg"/&gt;
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5038">&lt;div class="slide"&gt;
-&lt;h1&gt;
-学习的阶级
-&lt;div id="sup"&gt;
-就个人体会,个人学习分4个阶级
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;ul id="takahashi" class="incremental"&gt;
-&lt;li&gt;不知己不知&lt;sup&gt;~面对完全陌生的领域,没有任何相关经验,不知道自个儿不知道什么...&lt;/sup&gt;
-&lt;/li&gt;
-&lt;li&gt;不知己知&lt;sup&gt;~经过努力,掌握了部分领域知识,但是对领域没有整体概念,不明白自个儿知道的是哪部分..&lt;/sup&gt;
-&lt;/li&gt;
-&lt;li&gt;知己知&lt;sup&gt;~成为领域专家,可以运用自如来解决问题..&lt;/sup&gt;
-&lt;/li&gt;
-&lt;li&gt;知己不知&lt;sup&gt;~对相关领域也有成效的涉及,清楚已知的领域之外的情况..&lt;/sup&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5039">&lt;div class="slide"&gt;
-&lt;h1&gt;
-学习之轮
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-&lt;img src="pic/kmtranfer2.gif"/&gt;
-
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5040">&lt;div class="slide"&gt;
-&lt;h1&gt;
-知识是个过程
-&lt;div id="sup"&gt;
-知识只能是一系列复杂的社会和心理活动;表现出来的效果是:
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-知晓已知&lt;br/&gt;
-识别未知
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5041">&lt;div class="slide"&gt;
-&lt;h1&gt;
-ESCI模型
-&lt;div id="sup"&gt;
-野中郁次郎1995提出,基于1983年有关隐性知识的研究
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi8"&gt;
-&lt;img src="pic/KMsys-pattern-SECI.png"/&gt;
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5042">&lt;div class="slide"&gt;
-&lt;h1&gt;
-知识的本质
-&lt;div id="sup"&gt;
-ESCI模型虽然偏重日本的特殊社会背景,但是系统的指出了知识的本质!
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-流动
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5043">&lt;div class="slide"&gt;
-&lt;h1&gt;
-ESCI模型中的Ba
-&lt;div id="sup"&gt;
-Ba~场,场所;包含特定时间和地点的
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi8"&gt;
-&lt;img src="pic/KMsys-pattern-SECIba.png"/&gt;
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5044">&lt;div class="slide"&gt;
-&lt;h1&gt;
-7-11的原始Ba
-&lt;div id="sup"&gt;
-店员和顾客可以自由沟通
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-公共空间
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5045">&lt;div class="slide"&gt;
-&lt;h1&gt;
-7-11的对话Ba
-&lt;div id="sup"&gt;
-店员通过对话,传递隐性知识,产生销售预测...
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-目的性
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5046">&lt;div class="slide"&gt;
-&lt;h1&gt;
-7-11的系统Ba
-&lt;div id="sup"&gt;
-销售预测是否精确由销售结果检验,并由店员确认...
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-成文
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5047">&lt;div class="slide"&gt;
-&lt;h1&gt;
-7-11的练习Ba
-&lt;div id="sup"&gt;
-店员根据历史结果不断练习,提高分析能力和预测精确性...
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-能力提升
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5048">&lt;div class="slide"&gt;
-&lt;h1&gt;
-原始Ba:Originating Ba
-&lt;div id="sup"&gt;
-一个友好的开放的场所,是有效交流的前题
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-社会化
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5049">&lt;div class="slide"&gt;
-&lt;h1&gt;
-对话Ba:Interacting Ba
-&lt;div id="sup"&gt;
-创造新知识的环节,完成隐性知识到显性知识的飞跃
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-外化
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5050">&lt;div class="slide"&gt;
-&lt;h1&gt;
-系统Ba:Cyber Ba
-&lt;div id="sup"&gt;
-将离散的显性知识进行分类/组合/扩充...将知识系统化的阶段
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-组合化
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5051">&lt;div class="slide"&gt;
-&lt;h1&gt;
-练习Ba:Exercising Ba
-&lt;div id="sup"&gt;
-重新理解/应用/传播 系统知识时,令自身的隐性知识得到增长..
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-内化
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5052">&lt;div class="slide"&gt;
-&lt;h1&gt;
-知识管理
-&lt;div id="sup"&gt;
-知识管理作为综合性质学科已经发展出了不同学派
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;ul id="takahashi" class="incremental"&gt;
-&lt;li&gt;知识是信息&lt;sup&gt;~技术学派面向信息管理的知识管理,偏重专家系统等等KM平台建设...&lt;/sup&gt;
-    &lt;/li&gt;
-&lt;li&gt;知识是过程&lt;sup&gt;~行为学派面向学习行为的知识管理,偏重组织各种知识传播活动...&lt;/sup&gt;
-    &lt;/li&gt;
-&lt;li&gt;知识是人利用信息的过程&lt;sup&gt;~综合学派关注信息处理能力和人的协作..&lt;/sup&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5053">&lt;div class="slide"&gt;
-&lt;h1&gt;
-知识管理内容
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-&lt;img src="pic/KM-include.png"/&gt;
-
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5054">&lt;div class="slide"&gt;
-&lt;h1&gt;
-企业知识之轮
-&lt;div id="sup"&gt;
-
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-&lt;img src="pic/kmzl2.jpg"/&gt;
-
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5055">&lt;div class="slide"&gt;
-&lt;h1&gt;
-知识场强
-&lt;div id="sup"&gt;
-(物理距离 geography distance,
-心理距离 psychology distance,
-知识距离 knowlefge distance)
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi7"&gt;
-EK(g,p,s)
-
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5056">&lt;div class="slide"&gt;
-&lt;h1&gt;
-高科技企业的知识管理
-&lt;div id="sup"&gt;
-尽可能的降低各个环节上的成本,令知识可以尽快流通起来!
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;h2 id="takahashi9"&gt;
-流转速度
-&lt;/h2&gt;
-
-    &lt;div class="handout"&gt;
-    ...
-    &lt;/div&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.5057">&lt;div class="slide"&gt;
-&lt;h1&gt; KM领域概念
-&lt;div id="sup"&gt;
-整理思路集中在以下关键概念
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;ul class="incremental"&gt;
-&lt;li&gt;知识
-    &lt;ul&gt;
-        &lt;li&gt;理论
-            &lt;sub&gt; 基础概念:知识/学习/心理&lt;/sub&gt;&lt;/li&gt;
-        &lt;li&gt;体验
-            &lt;sub&gt; 学习的层级&lt;/sub&gt;&lt;/li&gt;
-        &lt;li&gt;动态过程
-            &lt;sub&gt; 知识场强&lt;/sub&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;知识管理
-    &lt;ul&gt;
-        &lt;li&gt;流派
-            &lt;sub&gt; 关注对象不同产生了完全不同的管理风格&lt;/sub&gt;&lt;/li&gt;
-        &lt;li&gt;SECI模式
-            &lt;sub&gt; 组织内部的Ba&lt;/sub&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;知识管理的价值
-    &lt;ul&gt;
-        &lt;li&gt;企业知识管理
-            &lt;sub&gt; 困难的,有挑战的,长期的..&lt;/sub&gt;&lt;/li&gt;
-        &lt;li&gt;知识传播速度
-            &lt;sub&gt; 在高科技公司知识的价值实质&lt;/sub&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
 
 </t>
@@ -26594,6 +26032,77 @@ GTalk bot:
 
 &lt;/body&gt;
 &lt;/html&gt;
+</t>
+<t tx="zoomq.20091213221717.4968"></t>
+<t tx="zoomq.20091213221717.4969">有关Trac 使用心得:
+
+受LY要求，也是近期准备进行KTRAC的系统宣传，有必要对推广和使用Trac 这几年的体验进行总结;
+先在这儿将提纲给出,也请大家共同增补;
+
+那么 Trac 到底是什么?是个简便的项目?问题追踪系统?
+曾经强行定为:
+Ticket requeriement assist carefuly
+传票需求辅助关怀系统
+很囧,后来包含了各种 TEPs 插件后,
+重新定位成 KTRAC:
+    Kingsoft Ticket Rigour and Aglie Channel
+    金山精敏传票讯道平台
+这一解釋比较满意;
+但是不论怎么解释,都少不了带出 Trac 体系核心的 Ticket~传票,概念!
+而这正是 Trac 的魅力核心!
+
+我感觉 Ticket 传票,就是维基化的事件追踪对象!
+具体怎么解说和推广就先不展开了,根据以上定义,总结一下 Trac 有别于其它各种类似系统的优秀之处:
+    + 维基为核心
+    + 源代码友好绑定
+    + 自由报表
+    + 开工接口
+
+分别来讲:
++ 维基为核心:
+    确保了在任何界面中信息有统一的表述形式和解析方式;
+    而且 TracLinks 是专门对开发活动进行支持了的维基解析语法;
+    可以方便的在任何场景中就开发过程中最最关注的主要信息进行了就地指引:
+        - Who/When/Where/What/Why 事件 ~ 传票
+        - How 代码 ~ Changset
++ 源代码友好绑定:
+    这是基于维基实现的,再依靠Python 的丰富模块,可以和所有主流版本仓库进行全方面的结合!
+    检入时的 日志也可以通过 TracLinks 给团队传达/记要关键信息;
+    并和事件轻松绑定起来
++ 自由报表:
+    Report和Query 非常易用,对于管理员,可以随时根据需求,定制出专用报表;
+    这令所有记录和追踪下来的事件,得以和现实要求结合,快速响应各种观察要求,真正给团队直接直观的进度展示;
++ 开放和丰富的接口:
+    这是和运维相关的重要特性,
+    Trac从0.10~0.12 内核进行了很多重大升级,但是保持住了一点:
+        永远开放/丰富/易用的接口!
+    这令我们可以根据特殊要求,在理解Trac 的本质后进行快速定制,完成特殊流程的需求!
+
+总之,坚持使用 Trac 的最大好处是:
++ 放心!
+    - 一切事件都可以方便的和最终源代码绑定起来
+    - 所有人的工作单纯到安心处理 "{1} 我的传票" 报表中列出的任务就好
+    - 一切事件的前因后果,将永久追踪下来,不会删除
+    - 一切事件的处理过程,都将有邮件额外记录下来,随时可以在邮件列表和传票中得到复现
++ 快捷!
+    - Trac 的核心思想就是用 20%的内容追踪80% 的信息!
+    - 本质上就是给懒惰的程序员设计的一个有追踪功能的维基
+    - 其它角色,只要会用了TracWiki 一样可以立即加入到这一统一"精敏传票讯道"中!
+        + 精确 是说传票默认的几个维度的字段,已经可以将9成以上的各类事件进行精确的分类,并通过报表进行精确的查询了!
+        + 敏捷 是指传票应用 TracLinks 可以用最少的输入,表达出最多的意义
+        + 讯道 是说，传票的指派和认领是非常自由的，几乎没有什么流程的制约，就好象开放的海峡，只要团队内部有了靠谱的约定，任何人随时都可以在 trac 中进行良好的沟通和协作，而且可以进行任意的暂时调整，而不用管理员来重新配置！
+
+综上！Trac 是一思想独特，设计精良，使用方便的综合性项目管理平台；
+但是，只适合与这样的团队:
+    + 所有人知道自个儿应该作什么
+    + 所有人知道团队内外是怎么协同的
+    + 所有人知道和他人協作时应该提供什么信息
+    + 所有人认同团队统一的传票使用规约
+
+
+
+
+
 </t>
 </tnodes>
 </leo_file>
