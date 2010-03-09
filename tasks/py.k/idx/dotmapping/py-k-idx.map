@@ -1,29 +1,30 @@
 <map id="mainmap" name="mainmap">
-<area shape="rect" href="http://groups.google.com/group/kspeg" title="&lt;TABLE&gt;" alt="" coords="189,103,381,191"/>
-<area shape="poly" href="http://zoomquiet.org" title="Zoom.Quiet" alt="" coords="159,321 185,320 207,316 221,312 226,306 223,300 214,294 200,288 183,284 166,282 147,282 129,283 112,286 96,291 85,297 78,303 79,309 89,314 107,318 132,321"/>
-<area shape="rect" href="#" title="作品集锦" alt="" coords="620,216,692,240"/>
-<area shape="rect" href="#" title="知识分享" alt="" coords="416,216,488,240"/>
-<area shape="rect" href="/zq/pyb/" title="pythonic livin\nby PyBlosxom" alt="" coords="225,361,335,407"/>
-<area shape="rect" href="#" title="ScrapBook\n网页收集分享" alt="" coords="101,363,200,405"/>
-<area shape="rect" href="/zq/scrap/floss/" title="FLOSS" alt="" coords="115,440,187,467"/>
-<area shape="rect" href="/zq/scrap/skm/" title="SKM" alt="" coords="19,440,91,467"/>
-<area shape="rect" href="#" title="Blogging" alt="" coords="415,288,489,315"/>
-<area shape="rect" href="/wiki" title="Wiki\nWoodpecker.org.cn" alt="" coords="249,279,391,324"/>
-<area shape="rect" href="http://trac-hacks.org/wiki/KTRAC" title="KTRAC" alt="" coords="620,288,692,315"/>
-<area shape="rect" href="/msg/" title="MSG\n消息服务精灵" alt="" coords="716,280,815,323"/>
-<area shape="rect" href="/ktrac/" title="TEPs\n~Trac改进集" alt="" coords="620,361,716,407"/>
-<area shape="rect" href="http://code.google.com/p/openbookproject/" title="O.B.P" alt="" coords="513,288,585,315"/>
-<area shape="rect" href="#" title="Python官方文档" alt="" coords="359,371,476,397"/>
-<area shape="rect" href="#" title="Py技术图书" alt="" coords="508,371,596,397"/>
-<area shape="rect" href="/obp/pydocs/" title="Python Document\nPy文档" alt="" coords="349,431,485,476"/>
-<area shape="rect" href="/obp/pytut/" title="Python Tutorial\nPy手册中文版" alt="" coords="211,431,325,476"/>
-<area shape="rect" href="/obp/pydocs/26/" title="Py文档\nv2.6" alt="" coords="477,500,549,545"/>
-<area shape="rect" href="/obp/pydocs/3000/" title="Py文档\nv3.0" alt="" coords="381,500,453,545"/>
-<area shape="rect" href="/obp/pytut/25/" title="Py手册中文版\nv2.5" alt="" coords="5,500,107,545"/>
-<area shape="rect" href="/obp/pytut/26/" title="Py手册中文版\nv2.6" alt="" coords="131,500,232,545"/>
-<area shape="rect" href="/obp/pytut/3000/" title="Py手册中文版\nv3.0" alt="" coords="256,500,357,545"/>
-<area shape="rect" href="/obp/web2py/" title="web2py手册中文版" alt="" coords="752,440,885,467"/>
-<area shape="rect" href="/obp/tpip/" title="TPiP中文版" alt="" coords="509,440,595,467"/>
-<area shape="rect" href="/obp/tpip/" title="Leo手册中文版" alt="" coords="619,440,728,467"/>
-<area shape="rect" href="http://py.kingsoft.net/" title="py.kingsoft.net 网站索引图谱 {by Zoom.Quiet}" alt="" coords="0,0,891,551"/>
+<area shape="rect" href="http://www.zoomquiet.org/share/s5/080524-easy-spe/" title="&lt;TABLE&gt;" alt="" coords="205,69,397,157"/>
+<area shape="poly" href="http://trac-hacks.org/wiki/richard" title="richard.liao" alt="" coords="253,288 278,286 298,283 311,278 316,273 313,266 305,260 291,255 276,251 259,249 242,248 226,250 209,253 195,258 184,263 178,270 179,276 188,281 205,285 228,287"/>
+<area shape="poly" href="http://zoomquiet.org" title="Zoom.Quiet" alt="" coords="87,288 113,286 135,283 149,278 154,273 151,266 142,260 128,255 111,251 94,249 75,248 57,250 40,253 24,258 13,263 6,270 7,276 17,281 35,285 60,287"/>
+<area shape="rect" href="#" title="作品集锦" alt="" coords="713,183,785,207"/>
+<area shape="rect" href="#" title="知识分享" alt="" coords="439,183,511,207"/>
+<area shape="rect" href="/zq/pyb/" title="pythonic livin\nby PyBlosxom" alt="" coords="235,328,344,373"/>
+<area shape="rect" href="#" title="ScrapBook\n网页收集分享" alt="" coords="31,329,129,372"/>
+<area shape="rect" href="/zq/scrap/floss/" title="FLOSS" alt="" coords="101,407,173,433"/>
+<area shape="rect" href="/zq/scrap/skm/" title="SKM" alt="" coords="5,407,77,433"/>
+<area shape="rect" href="#" title="Blogging" alt="" coords="340,255,415,281"/>
+<area shape="rect" href="/wiki" title="Wiki\nWoodpecker.org.cn" alt="" coords="535,245,676,291"/>
+<area shape="rect" href="http://trac-hacks.org/wiki/KTRAC" title="KTRAC" alt="" coords="823,255,895,281"/>
+<area shape="rect" href="/msg/" title="MSG\n消息服务精灵" alt="" coords="700,247,799,289"/>
+<area shape="rect" href="/ktrac/" title="TEPs\n~Trac改进集" alt="" coords="811,328,907,373"/>
+<area shape="rect" href="http://code.google.com/p/openbookproject/" title="O.B.P" alt="" coords="439,255,511,281"/>
+<area shape="rect" href="#" title="Python官方文档" alt="" coords="397,337,515,364"/>
+<area shape="rect" href="#" title="Py技术图书" alt="" coords="608,337,696,364"/>
+<area shape="rect" href="/obp/pydocs/" title="Python Document\nPy文档" alt="" coords="388,397,524,443"/>
+<area shape="rect" href="/obp/pytut/" title="Python Tutorial\nPy手册中文版" alt="" coords="215,397,329,443"/>
+<area shape="rect" href="/obp/pydocs/26/" title="Py文档\nv2.6" alt="" coords="516,467,588,512"/>
+<area shape="rect" href="/obp/pydocs/3000/" title="Py文档\nv3.0" alt="" coords="420,467,492,512"/>
+<area shape="rect" href="/obp/pytut/25/" title="Py手册中文版\nv2.5" alt="" coords="44,467,145,512"/>
+<area shape="rect" href="/obp/pytut/26/" title="Py手册中文版\nv2.6" alt="" coords="169,467,271,512"/>
+<area shape="rect" href="/obp/pytut/3000/" title="Py手册中文版\nv3.0" alt="" coords="295,467,396,512"/>
+<area shape="rect" href="/obp/web2py/" title="web2py手册中文版" alt="" coords="791,407,924,433"/>
+<area shape="rect" href="/obp/tpip/" title="TPiP中文版" alt="" coords="548,407,633,433"/>
+<area shape="rect" href="/obp/tpip/" title="Leo手册中文版" alt="" coords="657,407,767,433"/>
+<area shape="rect" href="http://py.kingsoft.net/" title="py.kingsoft.net 网站索引图谱 {by Zoom.Quiet}" alt="" coords="0,0,929,551"/>
 </map>

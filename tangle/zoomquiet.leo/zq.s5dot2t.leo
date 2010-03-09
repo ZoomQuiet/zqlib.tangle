@@ -3,15 +3,16 @@
 <leo_file>
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5">
-	<global_window_position top="47" left="35" height="699" width="1068"/>
+	<global_window_position top="57" left="1282" height="746" width="1278"/>
 	<global_log_window_position top="0" left="0" height="0" width="0"/>
 </globals>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="zoomq.20080621102004.2" str_leo_pos="2,1,1"><vh>@chapters</vh></v>
-<v t="zoomq.20080523161605"><vh>s5:public</vh>
-<v t="zoomq.20080807095120.28"><vh>4ZPyUG</vh>
+<v t="zoomq.20080621102004.2" str_leo_pos="1,0,2,1,9,0"><vh>@chapters</vh></v>
+<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
+<v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
+<v t="zoomq.20100116172440.6485"><vh>2008</vh>
 <v t="zoomq.20080523162513"><vh>080524-easy-spe</vh>
 <v t="zoomq.20080523162640"><vh>stuff</vh>
 <v t="zoomq.20080523162640.1"><vh>largeWords</vh></v>
@@ -119,6 +120,450 @@
 </v>
 <v t="zoomq.20080919230246.26"><vh>S5</vh></v>
 <v t="zoomq.20080919230246.27"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6486"><vh>2009</vh>
+<v t="zoomq.20100116172440.6336"><vh>090913-lovpy</vh>
+<v t="zoomq.20100116172440.6337"><vh>_stuff</vh>
+<v t="zoomq.20100116172440.6338"><vh>080807-kspeg-intro-cpc</vh>
+<v t="zoomq.20100116172440.6339"><vh>_stuff</vh></v>
+<v t="zoomq.20100116172440.6340"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.6341"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100116172440.6342"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20100116172440.6343"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6344"><vh>page0</vh></v>
+<v t="zoomq.20100116172440.6345"><vh>version</vh></v>
+<v t="zoomq.20100116172440.6346"><vh>免责</vh></v>
+<v t="zoomq.20100116172440.6347"><vh>summary</vh></v>
+<v t="zoomq.20100116172440.6348"><vh>KSPEG</vh>
+<v t="zoomq.20100116172440.6349"><vh>position</vh></v>
+<v t="zoomq.20100116172440.6350"><vh>开发语言</vh></v>
+<v t="zoomq.20100116172440.6351"><vh>community</vh></v>
+<v t="zoomq.20100116172440.6352"><vh>goal0</vh></v>
+<v t="zoomq.20100116172440.6353"><vh>goal1</vh></v>
+<v t="zoomq.20100116172440.6354"><vh>goal2</vh></v>
+<v t="zoomq.20100116172440.6355"><vh>goalAll</vh></v>
+</v>
+<v t="zoomq.20100116172440.6356"><vh>SPE理论</vh>
+<v t="zoomq.20100116172440.6357"><vh>zqSPE</vh></v>
+<v t="zoomq.20100116172440.6358"><vh>zqSPEcode</vh></v>
+<v t="zoomq.20100116172440.6359"><vh>Kaopulity</vh></v>
+<v t="zoomq.20100116172440.6360"><vh>defKaopulity</vh></v>
+</v>
+<v t="zoomq.20100116172440.6361"><vh>KSPEG need</vh>
+<v t="zoomq.20100116172440.6362"><vh>need</vh></v>
+<v t="zoomq.20100116172440.6363"><vh>ask0</vh></v>
+<v t="zoomq.20100116172440.6364"><vh>ask1</vh></v>
+<v t="zoomq.20100116172440.6365"><vh>ask2</vh></v>
+<v t="zoomq.20100116172440.6366"><vh>challenge0</vh></v>
+<v t="zoomq.20100116172440.6367"><vh>challenge1</vh></v>
+<v t="zoomq.20100116172440.6368"><vh>challenge2</vh></v>
+</v>
+<v t="zoomq.20100116172440.6369"><vh>KC</vh>
+<v t="zoomq.20100116172440.6370"><vh>KC0</vh></v>
+<v t="zoomq.20100116172440.6371"><vh>KC任务</vh></v>
+<v t="zoomq.20100116172440.6372"><vh>KC教学</vh></v>
+<v t="zoomq.20100116172440.6373"><vh>KC学员</vh></v>
+</v>
+<v t="zoomq.20100116172440.6374"><vh>CPC</vh>
+<v t="zoomq.20100116172440.6375"><vh>CPC0</vh></v>
+<v t="zoomq.20100116172440.6376"><vh>CPC目标</vh></v>
+<v t="zoomq.20100116172440.6377"><vh>CPC矛盾</vh></v>
+<v t="zoomq.20100116172440.6378"><vh>CPC立旨</vh></v>
+<v t="zoomq.20100116172440.6379"><vh>CPC核心</vh></v>
+<v t="zoomq.20100116172440.6380"><vh>CPC图景</vh></v>
+<v t="zoomq.20100116172440.6381"><vh>CPC设计</vh></v>
+<v t="zoomq.20100116172440.6382"><vh>CPC体验</vh></v>
+<v t="zoomq.20100116172440.6383"><vh>CPC心理0</vh></v>
+<v t="zoomq.20100116172440.6384"><vh>CPC心理1</vh></v>
+<v t="zoomq.20100116172440.6385"><vh>CPC心理2</vh></v>
+<v t="zoomq.20100116172440.6386"><vh>CPC结论0</vh></v>
+<v t="zoomq.20100116172440.6387"><vh>CPC结论1</vh></v>
+<v t="zoomq.20100116172440.6388"><vh>CPC结论2</vh></v>
+<v t="zoomq.20100116172440.6389"><vh>CPCitems</vh>
+<v t="zoomq.20100116172440.6390"><vh>CPC成果</vh></v>
+<v t="zoomq.20100116172440.6391"><vh>CPC:CCRJ</vh></v>
+<v t="zoomq.20100116172440.6392"><vh>CPC:EAR</vh></v>
+<v t="zoomq.20100116172440.6393"><vh>CPC:M.B0</vh></v>
+<v t="zoomq.20100116172440.6394"><vh>CPC:M.B1</vh></v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6395"><vh>S5</vh></v>
+<v t="zoomq.20100116172440.6396"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6397"><vh>zqSPE</vh></v>
+<v t="zoomq.20100116172440.6398"><vh>PE行动</vh>
+<v t="zoomq.20100116172440.6399"><vh>kspeg::职责0</vh></v>
+<v t="zoomq.20100116172440.6400"><vh>kspeg::职责1</vh></v>
+<v t="zoomq.20100116172440.6401"><vh>community</vh></v>
+<v t="zoomq.20100116172440.6402"><vh>KUP++</vh></v>
+<v t="zoomq.20100116172440.6403"><vh>KUP</vh></v>
+<v t="zoomq.20100116172440.6404"><vh>KUP公式</vh></v>
+</v>
+<v t="zoomq.20100116172440.6405"><vh>PE::改进</vh></v>
+</v>
+<v t="zoomq.20100116172440.6406"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.6407"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6408"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100116172440.6409"><vh>embedded styles</vh></v>
+<v t="zoomq.20100116172440.6410"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100116172440.6411"><vh>takahashi</vh></v>
+</v>
+<v t="zoomq.20100116172440.6412"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6413"><vh>page0</vh></v>
+<v t="zoomq.20100116172440.6414"><vh>免责</vh></v>
+<v t="zoomq.20100116172440.6415"><vh>brief</vh></v>
+<v t="zoomq.20100116172440.6416"><vh>FLOSS</vh>
+<v t="zoomq.20100116172440.6417"><vh>Ubuntu</vh></v>
+<v t="zoomq.20100116172440.6418"><vh>FireFox</vh></v>
+<v t="zoomq.20100116172440.6419"><vh>Gmail</vh></v>
+<v t="zoomq.20100116172440.6420"><vh>it's all</vh></v>
+<v t="zoomq.20100116172440.6421"><vh>ScrapBook</vh></v>
+<v t="zoomq.20100116172440.6422"><vh>Pidgin</vh></v>
+<v t="zoomq.20100116172440.6423"><vh>iPython</vh></v>
+<v t="zoomq.20100116172440.6424"><vh>wiki</vh></v>
+<v t="zoomq.20100116172440.6425"><vh>SVN</vh></v>
+<v t="zoomq.20100116172440.6426"><vh>scrot</vh></v>
+<v t="zoomq.20100116172440.6427"><vh>Leo</vh></v>
+<v t="zoomq.20100116172440.6428"><vh>S5</vh></v>
+<v t="zoomq.20100116172440.6429"><vh>Freemind</vh></v>
+<v t="zoomq.20100116172440.6430"><vh>.dot</vh></v>
+<v t="zoomq.20100116172440.6431"><vh>Inkscape</vh></v>
+<v t="zoomq.20100116172440.6432"><vh>twill</vh></v>
+<v t="zoomq.20100116172440.6433"><vh>EveryDo</vh></v>
+</v>
+<v t="zoomq.20100116172440.6434"><vh>图书工程</vh>
+<v t="zoomq.20100116172440.6435"><vh>工程元素</vh></v>
+<v t="zoomq.20100116172440.6436"><vh>goal</vh></v>
+<v t="zoomq.20100116172440.6437"><vh>people</vh>
+<v t="zoomq.20100116172440.6438"><vh>作者.0</vh></v>
+<v t="zoomq.20100116172440.6439"><vh>作者.1</vh></v>
+<v t="zoomq.20100116172440.6440"><vh>作者.2</vh></v>
+<v t="zoomq.20100116172440.6441"><vh>作者.3</vh></v>
+<v t="zoomq.20100116172440.6442"><vh>作者.4</vh></v>
+<v t="zoomq.20100116172440.6443"><vh>作者.5</vh></v>
+<v t="zoomq.20100116172440.6444"><vh>作者.6</vh></v>
+<v t="zoomq.20100116172440.6445"><vh>作者.7</vh></v>
+<v t="zoomq.20100116172440.6446"><vh>作者.8</vh></v>
+<v t="zoomq.20100116172440.6447"><vh>作者.9</vh></v>
+<v t="zoomq.20100116172440.6448"><vh>作者.10</vh></v>
+<v t="zoomq.20100116172440.6449"><vh>作者.10</vh></v>
+<v t="zoomq.20100116172440.6450"><vh>作者.11</vh></v>
+<v t="zoomq.20100116172440.6451"><vh>作者.12</vh></v>
+<v t="zoomq.20100116172440.6452"><vh>作者.13</vh></v>
+<v t="zoomq.20100116172440.6453"><vh>作者.s</vh></v>
+</v>
+<v t="zoomq.20100116172440.6454"><vh>community</vh></v>
+<v t="zoomq.20100116172440.6455"><vh>editors</vh></v>
+<v t="zoomq.20100116172440.6456"><vh>env.</vh>
+<v t="zoomq.20100116172440.6457"><vh>KM公式</vh>
+<v t="zoomq.20100116172440.6458"><vh>KM公式核心</vh></v>
+</v>
+<v t="zoomq.20100116172440.6459"><vh>OBP:env.</vh>
+<v t="zoomq.20100116172440.6460"><vh>obp-lovpy-sns.map</vh></v>
+</v>
+<v t="zoomq.20100116172440.6461"><vh>OBP:sns</vh>
+<v t="zoomq.20100116172440.6462"><vh>obp-lovpy-sns.map</vh></v>
+</v>
+<v t="zoomq.20100116172440.6463"><vh>OBP:流程</vh></v>
+<v t="zoomq.20100116172440.6464"><vh>OBP:流程作用</vh></v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6465"><vh>PE理论</vh>
+<v t="zoomq.20100116172440.6466"><vh>defKaopulity</vh></v>
+<v t="zoomq.20100116172440.6467"><vh>PE::过程</vh></v>
+<v t="zoomq.20100116172440.6468"><vh>PE::可用</vh></v>
+</v>
+<v t="zoomq.20100116172440.6469"><vh>summary</vh></v>
+<v t="zoomq.20100116172440.6470"><vh>Z.Q</vh></v>
+<v t="zoomq.20100116172440.6471"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100116172440.6472"><vh>version</vh></v>
+<v t="zoomq.20100116172440.6473"><vh>LovPy小史:KDay</vh>
+<v t="zoomq.20100116172440.6474"><vh>LovPy小史:博文</vh></v>
+<v t="zoomq.20100116172440.6475"><vh>LovPy小史:豆瓣</vh></v>
+<v t="zoomq.20100116172440.6476"><vh>LovPy小史:维基</vh></v>
+<v t="zoomq.20100116172440.6477"><vh>LovPy小史:明路</vh></v>
+<v t="zoomq.20100116172440.6478"><vh>LovPy小史:框架</vh></v>
+<v t="zoomq.20100116172440.6479"><vh>LovPy小史:发愿</vh></v>
+<v t="zoomq.20100116172440.6480"><vh>LovPy小史:源码剖析</vh></v>
+<v t="zoomq.20100116172440.6481"><vh>LovPy小史:校对</vh></v>
+<v t="zoomq.20100116172440.6482"><vh>LovPy小史:LovPy</vh></v>
+</v>
+<v t="zoomq.20100116172440.6483"><vh>Q-Pythonic?</vh></v>
+</v>
+<v t="zoomq.20100116172440.6484"><vh>LovPy小史:face</vh></v>
+</v>
+<v t="zoomq.20100116172440.6071"><vh>0911-erloungIV-erlbattle</vh>
+<v t="zoomq.20100116172440.6072"><vh>_stuff</vh>
+<v t="zoomq.20100116172440.6073"><vh>080807-kspeg-intro-cpc</vh>
+<v t="zoomq.20100116172440.6074"><vh>_stuff</vh></v>
+<v t="zoomq.20100116172440.6075"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.6076"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100116172440.6077"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20100116172440.6078"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6079"><vh>page0</vh></v>
+<v t="zoomq.20100116172440.6080"><vh>version</vh></v>
+<v t="zoomq.20100116172440.6081"><vh>免责</vh></v>
+<v t="zoomq.20100116172440.6082"><vh>summary</vh></v>
+<v t="zoomq.20100116172440.6083"><vh>KSPEG</vh>
+<v t="zoomq.20100116172440.6084"><vh>position</vh></v>
+<v t="zoomq.20100116172440.6085"><vh>开发语言</vh></v>
+<v t="zoomq.20100116172440.6086"><vh>community</vh></v>
+<v t="zoomq.20100116172440.6087"><vh>goal0</vh></v>
+<v t="zoomq.20100116172440.6088"><vh>goal1</vh></v>
+<v t="zoomq.20100116172440.6089"><vh>goal2</vh></v>
+<v t="zoomq.20100116172440.6090"><vh>goalAll</vh></v>
+</v>
+<v t="zoomq.20100116172440.6091"><vh>SPE理论</vh>
+<v t="zoomq.20100116172440.6092"><vh>zqSPE</vh></v>
+<v t="zoomq.20100116172440.6093"><vh>zqSPEcode</vh></v>
+<v t="zoomq.20100116172440.6094"><vh>Kaopulity</vh></v>
+<v t="zoomq.20100116172440.6095"><vh>defKaopulity</vh></v>
+</v>
+<v t="zoomq.20100116172440.6096"><vh>KSPEG need</vh>
+<v t="zoomq.20100116172440.6097"><vh>need</vh></v>
+<v t="zoomq.20100116172440.6098"><vh>ask0</vh></v>
+<v t="zoomq.20100116172440.6099"><vh>ask1</vh></v>
+<v t="zoomq.20100116172440.6100"><vh>ask2</vh></v>
+<v t="zoomq.20100116172440.6101"><vh>challenge0</vh></v>
+<v t="zoomq.20100116172440.6102"><vh>challenge1</vh></v>
+<v t="zoomq.20100116172440.6103"><vh>challenge2</vh></v>
+</v>
+<v t="zoomq.20100116172440.6104"><vh>KC</vh>
+<v t="zoomq.20100116172440.6105"><vh>KC0</vh></v>
+<v t="zoomq.20100116172440.6106"><vh>KC任务</vh></v>
+<v t="zoomq.20100116172440.6107"><vh>KC教学</vh></v>
+<v t="zoomq.20100116172440.6108"><vh>KC学员</vh></v>
+</v>
+<v t="zoomq.20100116172440.6109"><vh>CPC</vh>
+<v t="zoomq.20100116172440.6110"><vh>CPC0</vh></v>
+<v t="zoomq.20100116172440.6111"><vh>CPC目标</vh></v>
+<v t="zoomq.20100116172440.6112"><vh>CPC矛盾</vh></v>
+<v t="zoomq.20100116172440.6113"><vh>CPC立旨</vh></v>
+<v t="zoomq.20100116172440.6114"><vh>CPC核心</vh></v>
+<v t="zoomq.20100116172440.6115"><vh>CPC图景</vh></v>
+<v t="zoomq.20100116172440.6116"><vh>CPC设计</vh></v>
+<v t="zoomq.20100116172440.6117"><vh>CPC体验</vh></v>
+<v t="zoomq.20100116172440.6118"><vh>CPC心理0</vh></v>
+<v t="zoomq.20100116172440.6119"><vh>CPC心理1</vh></v>
+<v t="zoomq.20100116172440.6120"><vh>CPC心理2</vh></v>
+<v t="zoomq.20100116172440.6121"><vh>CPC结论0</vh></v>
+<v t="zoomq.20100116172440.6122"><vh>CPC结论1</vh></v>
+<v t="zoomq.20100116172440.6123"><vh>CPC结论2</vh></v>
+<v t="zoomq.20100116172440.6124"><vh>CPCitems</vh>
+<v t="zoomq.20100116172440.6125"><vh>CPC成果</vh></v>
+<v t="zoomq.20100116172440.6126"><vh>CPC:CCRJ</vh></v>
+<v t="zoomq.20100116172440.6127"><vh>CPC:EAR</vh></v>
+<v t="zoomq.20100116172440.6128"><vh>CPC:M.B0</vh></v>
+<v t="zoomq.20100116172440.6129"><vh>CPC:M.B1</vh></v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6130"><vh>S5</vh></v>
+<v t="zoomq.20100116172440.6131"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6132"><vh>zqSPE</vh></v>
+<v t="zoomq.20100116172440.6133"><vh>PE行动</vh>
+<v t="zoomq.20100116172440.6134"><vh>kspeg::职责0</vh></v>
+<v t="zoomq.20100116172440.6135"><vh>kspeg::职责1</vh></v>
+<v t="zoomq.20100116172440.6136"><vh>community</vh></v>
+<v t="zoomq.20100116172440.6137"><vh>KUP++</vh></v>
+<v t="zoomq.20100116172440.6138"><vh>KUP</vh></v>
+<v t="zoomq.20100116172440.6139"><vh>KUP公式</vh></v>
+</v>
+<v t="zoomq.20100116172440.6140"><vh>PE::改进</vh></v>
+</v>
+<v t="zoomq.20100116172440.6141"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.6142"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6143"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100116172440.6144"><vh>embedded styles</vh></v>
+<v t="zoomq.20100116172440.6145"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100116172440.6146"><vh>takahashi</vh></v>
+</v>
+<v t="zoomq.20100116172440.6147"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6148"><vh>page0</vh></v>
+<v t="zoomq.20100116172440.6149"><vh>免责</vh></v>
+<v t="zoomq.20100116172440.6150"><vh>brief</vh></v>
+<v t="zoomq.20100116172440.6151"><vh>EB定义</vh></v>
+<v t="zoomq.20100116172440.6152"><vh>EB社区</vh>
+<v t="zoomq.20100116172440.6153"><vh>工程元素</vh></v>
+<v t="zoomq.20100116172440.6154"><vh>goal</vh></v>
+<v t="zoomq.20100116172440.6155"><vh>community</vh></v>
+<v t="zoomq.20100116172440.6156"><vh>env.</vh>
+<v t="zoomq.20100116172440.6157"><vh>KM公式</vh>
+<v t="zoomq.20100116172440.6158"><vh>KM公式核心</vh></v>
+</v>
+<v t="zoomq.20100116172440.6159"><vh>EB:env.</vh>
+<v t="zoomq.20100116172440.6160"><vh>&lt;&lt;eb-env.map&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.6161"><vh>EB:gg0</vh></v>
+<v t="zoomq.20100116172440.6162"><vh>EB:gg1</vh></v>
+<v t="zoomq.20100116172440.6163"><vh>EB:gg2</vh></v>
+<v t="zoomq.20100116172440.6164"><vh>EB:wiki</vh></v>
+</v>
+<v t="zoomq.20100116172440.6165"><vh>EB:sns</vh>
+<v t="zoomq.20100116172440.6166"><vh>&lt;&lt;eb-sns.map&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100116172440.6167"><vh>EB:流程</vh>
+<v t="zoomq.20100116172440.6168"><vh>EB:角色0</vh></v>
+<v t="zoomq.20100116172440.6169"><vh>EB:角色1</vh></v>
+<v t="zoomq.20100116172440.6170"><vh>EB:角色2</vh></v>
+<v t="zoomq.20100116172440.6171"><vh>EB:角色3</vh></v>
+<v t="zoomq.20100116172440.6172"><vh>EB:角色s</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6173"><vh>EB小结</vh>
+<v t="zoomq.20100116172440.6174"><vh>Kaopulity</vh></v>
+<v t="zoomq.20100116172440.6175"><vh>defKaopulity</vh>
+<v t="zoomq.20100116172440.6176"><vh>PE::可用</vh></v>
+</v>
+</v>
+<v t="zoomq.20100116172440.6177"><vh>summary</vh></v>
+<v t="zoomq.20100116172440.6178"><vh>EB问题</vh>
+<v t="zoomq.20100116172440.6179"><vh>EB:终极</vh></v>
+<v t="zoomq.20100116172440.6180"><vh>EB:心理</vh></v>
+<v t="zoomq.20100116172440.6181"><vh>EB:形式</vh></v>
+<v t="zoomq.20100116172440.6182"><vh>EB:分散</vh></v>
+</v>
+<v t="zoomq.20100116172440.6183"><vh>Z.Q</vh></v>
+<v t="zoomq.20100116172440.6184"><vh>version</vh></v>
+<v t="zoomq.20100116172440.6185"><vh>S5</vh></v>
+<v t="zoomq.20100116172440.6186"><vh>Q&amp;A</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100108150042.4768" a="E"><vh>100123-KTRACintro</vh>
+<v t="zoomq.20091213221717.4969"><vh>KTRACintro</vh></v>
+<v t="zoomq.20100116172440.4813" a="E" tnodeList="zoomq.20100116172440.4813,zoomq.20100116172440.4816,zoomq.20100116172440.4817,zoomq.20100116172440.4819,zoomq.20100116172440.4820,zoomq.20100116172440.4821,zoomq.20100116172440.4822,zoomq.20100116172440.4823,zoomq.20100116172440.4824,zoomq.20100116172440.4825,zoomq.20100116172440.4826,zoomq.20100116172440.4827,zoomq.20100116172440.4829,zoomq.20100116172440.4830,zoomq.20100116172440.4831,zoomq.20100116172440.4832,zoomq.20100116172440.4833,zoomq.20100116172440.4834,zoomq.20100116172440.4835,zoomq.20100116172440.4836,zoomq.20100116172440.4837,zoomq.20100116172440.4838,zoomq.20100116172440.4839,zoomq.20100116172440.4840,zoomq.20100116172440.4841,zoomq.20100116172440.4842,zoomq.20100116172440.4843,zoomq.20100116172440.4844,zoomq.20100116172440.4845,zoomq.20100116172440.4846,zoomq.20100116172440.4847,zoomq.20100116172440.4848,zoomq.20100116172440.4849,zoomq.20100116172440.4850,zoomq.20100116172440.4851,zoomq.20100116172440.4852,zoomq.20100116172440.4853,zoomq.20100116172440.4854,zoomq.20100116172440.4855"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.6663"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100116172440.6664"><vh>embedded styles</vh></v>
+<v t="zoomq.20100116172440.6665"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100116172440.6666"><vh>takahashi</vh></v>
+</v>
+<v t="zoomq.20100116172440.4816"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.4817"><vh>page0</vh>
+<v t="zoomq.20100116172440.6668"><vh>免责</vh></v>
+<v t="zoomq.20100117213352.5396"><vh>brief</vh></v>
+</v>
+<v t="zoomq.20100117213352.5398"><vh>TracNowUsage</vh>
+<v t="zoomq.20100117213352.5400"><vh>TracUser0</vh></v>
+<v t="zoomq.20100117213352.5402"><vh>TracUser1</vh></v>
+<v t="zoomq.20100117213352.5404"><vh>TracUser2</vh></v>
+<v t="zoomq.20100117213352.5406"><vh>TracUser3</vh></v>
+<v t="zoomq.20100117213352.5408"><vh>TracUser4</vh></v>
+<v t="zoomq.20100117213352.5410"><vh>TracUser5</vh></v>
+<v t="zoomq.20100117213352.5412"><vh>TracUser6</vh></v>
+<v t="zoomq.20100117213352.5414"><vh>TracUser7</vh></v>
+<v t="zoomq.20100117213352.5416"><vh>TracUser8</vh></v>
+<v t="zoomq.20100122195009.5519"><vh>TracUser9</vh></v>
+<v t="zoomq.20100117213352.5418"><vh>TracChina</vh></v>
+</v>
+<v t="zoomq.20100116172440.4820"><vh>PMneed</vh>
+<v t="zoomq.20100116172440.4821"><vh>need0</vh></v>
+<v t="zoomq.20100116172440.4822"><vh>need1</vh></v>
+<v t="zoomq.20100116172440.4823"><vh>need2</vh></v>
+<v t="zoomq.20100116172440.4824"><vh>need3</vh></v>
+<v t="zoomq.20100116172440.4825"><vh>need4</vh></v>
+<v t="zoomq.20100117213352.5422"><vh>need5</vh></v>
+<v t="zoomq.20100117213352.5424"><vh>5W1H</vh></v>
+</v>
+<v t="zoomq.20100116172440.4826" a="E"><vh>TracCore</vh>
+<v t="zoomq.20100116172440.4827"><vh>思路</vh></v>
+<v t="zoomq.20100117213352.5426"><vh>本质</vh></v>
+<v t="zoomq.20100116172440.4829"><vh>Wiki</vh></v>
+<v t="zoomq.20100117213352.5428"><vh>Trac自述</vh></v>
+<v t="zoomq.20100117213352.5430"><vh>TracFeeling</vh>
+<v t="zoomq.20100117213352.5432"><vh>TracFlow0</vh></v>
+<v t="zoomq.20100117213352.5434"><vh>TracFlow1</vh></v>
+<v t="zoomq.20100117213352.5436"><vh>Trachacks</vh></v>
+<v t="zoomq.20100117213352.5437"><vh>日常</vh></v>
+<v t="zoomq.20100117213352.5439"><vh>生命周期</vh></v>
+<v t="zoomq.20100117213352.5441"><vh>生命周期:0</vh></v>
+<v t="zoomq.20100117213352.5443"><vh>生命周期:1</vh>
+<v t="zoomq.20100117213352.5453"><vh>传票号</vh></v>
+<v t="zoomq.20100117213352.5455"><vh>changeset</vh></v>
+<v t="zoomq.20100119093035.5513"><vh>BIND:timeline</vh></v>
+<v t="zoomq.20100119093035.5515"><vh>BIND:changeset</vh></v>
+<v t="zoomq.20100119093035.5517"><vh>BIND:ticket</vh></v>
+</v>
+<v t="zoomq.20100117213352.5445"><vh>生命周期:2 Bitten</vh>
+<v t="zoomq.20100118231126.5507"><vh>BittenSelf</vh></v>
+<v t="zoomq.20100118231126.5505"><vh>kspegBitten</vh></v>
+</v>
+<v t="zoomq.20100117213352.5447"><vh>生命周期:3</vh></v>
+<v t="zoomq.20100117213352.5451"><vh>生命周期</vh></v>
+</v>
+</v>
+<v t="zoomq.20100118204342.5475"><vh>TracSummary</vh></v>
+<v t="zoomq.20100117213352.5457"><vh>KTRAC</vh>
+<v t="zoomq.20100118204342.5491"><vh>KTRACs</vh>
+<v t="zoomq.20100118204342.5493"><vh>KTRACtions</vh></v>
+</v>
+<v t="zoomq.20100117213352.5461"><vh>TEPs</vh>
+<v t="zoomq.20100118204342.5489"><vh>TEPs发布</vh></v>
+<v t="zoomq.20100118204342.5504"><vh>kspeg实情</vh>
+<v t="zoomq.20100117213352.5463"><vh>kspeg#2246</vh></v>
+<v t="zoomq.20100118204342.5508"><vh>TEPs:TTT</vh></v>
+<v t="zoomq.20100118204342.5516"><vh>TEPs:TAC</vh></v>
+<v t="zoomq.20100118204342.5510"><vh>kspeg优先</vh></v>
+<v t="zoomq.20100118204342.5512"><vh>kspeg里程碑</vh></v>
+<v t="zoomq.20100118204342.5514"><vh>kspeg风险</vh></v>
+<v t="zoomq.20100118204342.5506"><vh>kspeg通用流程</vh></v>
+<v t="zoomq.20100118204342.5498"><vh>MMV</vh>
+<v t="zoomq.20100118204342.5500"><vh>MMV1</vh></v>
+<v t="zoomq.20100118204342.5502"><vh>MMV2</vh></v>
+</v>
+</v>
+<v t="zoomq.20100118204342.5518"><vh>TEPs:mole</vh></v>
+<v t="zoomq.20100118204342.5520"><vh>TEPs:frog</vh></v>
+<v t="zoomq.20100118204342.5522"><vh>TEPs:frog流程</vh></v>
+<v t="zoomq.20100118204342.5524"><vh>TEPs:UI</vh></v>
+<v t="zoomq.20100118204342.5526"><vh>TEPs:UI看图</vh></v>
+<v t="zoomq.20100118204342.5528"><vh>TEPs:BM4T</vh></v>
+</v>
+</v>
+<v t="zoomq.20100118204342.5530"><vh>KTRAC体验</vh>
+<v t="zoomq.20100118231126.5509"><vh>Trac缺憾</vh></v>
+</v>
+<v t="zoomq.20100117213352.5420" a="E"><vh>Z.Q</vh>
+<v t="zoomq.20100116172440.4854"><vh>S5</vh></v>
+<v t="zoomq.20100116172440.4855"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100117213352.5459"><vh>Ticket翻译</vh></v>
+<v t="zoomq.20100116172440.4853"><vh>version</vh></v>
+<v t="zoomq.20100118233330.5511"><vh>KTRAC广告</vh></v>
+</v>
+</v>
+<v t="zoomq.20100117213352.5394"><vh>_stuff</vh>
+<v t="zoomq.20100116172440.4844"><vh>Norm.Trac</vh>
+<v t="zoomq.20100116172440.4845"><vh>日常0</vh></v>
+<v t="zoomq.20100116172440.4846"><vh>日常1</vh></v>
+<v t="zoomq.20100116172440.4847"><vh>日常end</vh></v>
+<v t="zoomq.20100116172440.4848"><vh>Trac技巧</vh></v>
+<v t="zoomq.20100116172440.4849"><vh>技巧0</vh></v>
+<v t="zoomq.20100116172440.4850"><vh>技巧1</vh></v>
+<v t="zoomq.20100116172440.4851"><vh>技巧2</vh></v>
+<v t="zoomq.20100116172440.4852"><vh>技巧3</vh></v>
+</v>
+<v t="zoomq.20100116172440.4819"><vh>Trac</vh></v>
+<v t="zoomq.20100116172440.4830"><vh>TracActions</vh>
+<v t="zoomq.20100116172440.4831"><vh>Usage0</vh></v>
+<v t="zoomq.20100116172440.4832"><vh>Usage1</vh></v>
+<v t="zoomq.20100116172440.4833"><vh>Usage2</vh></v>
+<v t="zoomq.20100116172440.4834"><vh>Usage3</vh></v>
+<v t="zoomq.20100116172440.4835"><vh>Usage4</vh></v>
+<v t="zoomq.20100116172440.4836"><vh>Ticket</vh></v>
+<v t="zoomq.20100116172440.4837"><vh>Flow:0</vh></v>
+<v t="zoomq.20100116172440.4838"><vh>Flow:1</vh></v>
+<v t="zoomq.20100116172440.4839"><vh>Flow:2</vh></v>
+<v t="zoomq.20100116172440.4840"><vh>Flow:3</vh></v>
+<v t="zoomq.20100116172440.4841"><vh>Flow:4</vh></v>
+<v t="zoomq.20100116172440.4842"><vh>Flow:5</vh></v>
+<v t="zoomq.20100116172440.4843"><vh>Flow:all</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -639,7 +1084,7 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20091204150544.4881" a="E"><vh>s5:KIS</vh>
+<v t="zoomq.20091204150544.4881"><vh>s5:KIS</vh>
 <v t="zoomq.20091204150544.9625"><vh>4KsPEG</vh>
 <v t="zoomq.20091204150544.9867"><vh>goal4kspeg</vh>
 <v t="zoomq.20091204150544.9868"><vh>_stuff</vh>
@@ -814,7 +1259,7 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20091204150544.4981" a="E"><vh>KUP++</vh>
+<v t="zoomq.20091204150544.4981"><vh>KUP++</vh>
 <v t="zoomq.20091213221717.4968"><vh>KUP++ 服务推介</vh>
 <v t="zoomq.20091204150544.4982" tnodeList="zoomq.20091204150544.4982,zoomq.20091204150544.4983,zoomq.20091204150544.4984,zoomq.20091204150544.4985,zoomq.20091204150544.4986,zoomq.20091204150544.4987,zoomq.20091204150544.4988,zoomq.20091204150544.4989,zoomq.20091204150544.4990,zoomq.20091204150544.4991,zoomq.20091204150544.4992,zoomq.20091204150544.4993,zoomq.20091204150544.4994,zoomq.20091204150544.4995,zoomq.20091204150544.5021,zoomq.20091204150544.4997,zoomq.20091204150544.4998,zoomq.20091204150544.4999,zoomq.20091204150544.5000,zoomq.20091204150544.5015,zoomq.20091204150544.5020,zoomq.20091204150544.5003,zoomq.20091204150544.5004,zoomq.20091204150544.5020,zoomq.20091204150544.5006,zoomq.20091204150544.5007,zoomq.20091204150544.5008,zoomq.20091204150544.5009,zoomq.20091204150544.5010,zoomq.20091204150544.5020,zoomq.20091204150544.5012,zoomq.20091204150544.5013,zoomq.20091204150544.5014,zoomq.20091204150544.5015,zoomq.20091204150544.5016,zoomq.20091204150544.5017,zoomq.20091204150544.5020,zoomq.20091204150544.5019,zoomq.20091204150544.5020,zoomq.20091204150544.5021,zoomq.20091204150544.5022,zoomq.20091204150544.5023,zoomq.20091204150544.5024"><vh>@nosent index.html</vh>
 <v t="zoomq.20091204150544.4983"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
@@ -869,8 +1314,8 @@
 <v t="zoomq.20091204150544.5024"><vh>version</vh></v>
 </v>
 </v>
-<v t="zoomq.20091213221717.4969"><vh>KTRACintro</vh></v>
-<v t="zoomq.20091204150544.9721" a="E"><vh>080811-kdoc-trac</vh>
+<v t="zoomq.20091213221717.4969"></v>
+<v t="zoomq.20091204150544.9721"><vh>080811-kdoc-trac</vh>
 <v t="zoomq.20091204150544.9722"><vh>@nosent index.html</vh>
 <v t="zoomq.20091204150544.9723"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20091204150544.9724"><vh>cssin</vh></v>
@@ -3079,7 +3524,7 @@ svn merge -r 250:HEAD foo.py
 &lt;/html&gt;
 </t>
 <t tx="zoomq.20080621102004.2">所有 s5,t2t,dot 综合演示资料备案</t>
-<t tx="zoomq.20080807095120.28"></t>
+<t tx="zoomq.20080807095120.28">@path /home/zoomq/3Hg/zqlib-hg/tangle/zoomquiet.leo/s5</t>
 <t tx="zoomq.20080919230246.2">@path 080920-oscamp-intro-cpc/</t>
 <t tx="zoomq.20080919230246.3">CPUGlogo-100.png</t>
 <t tx="zoomq.20080919230246.4">&lt;div class="slide"&gt;
@@ -26056,7 +26501,7 @@ Ticket requeriement assist carefuly
     + 维基为核心
     + 源代码友好绑定
     + 自由报表
-    + 开工接口
+    + 开放接口
 
 分别来讲:
 + 维基为核心:
@@ -26103,6 +26548,7137 @@ Ticket requeriement assist carefuly
 
 
 
+</t>
+<t tx="zoomq.20100108150042.4768">@path 100123-KTRACintro
+
+KTRAC ~ 金山怎么用trac
+    +个人效率自由软件集锦
+
+Trac 是号称不干扰己有工作流程的任务管理平台,在金山我们则是用Trac 来建立新的流程;当然Trac 天然的敏捷内在是我们深入定制她的动力!
+
+Trac 发音
+</t>
+<t tx="zoomq.20100116172440.4813">&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+
+&lt;div class="presentation"&gt;
+
+
+@others
+
+
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100116172440.4816">
+&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a target="_blank"  href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+Zoom.Quiet&lt;/a&gt;
+&lt;br/&gt;
+v10.1.19
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+    &lt;div id="controls"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.4817">&lt;div class="slide" id="slide0"&gt;
+&lt;center&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_v300.png"/&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;h3&gt;
+~金山在如何使用Trac
+&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h4&gt;资深大妈::&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;br/&gt;
+&lt;center&gt;
+    &lt;img src="icon/zeuux-logov2red_90h.png"/&gt;
+    &lt;img src="icon/kspeg-logo-s5-72.png"/&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.4819">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h70.png"/&gt;
+&lt;/a&gt;
+Trac 是什么?
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;snap id="largerwd"&gt;T&lt;/snap&gt;icket ~ 传票
+&lt;li&gt;.&lt;snap id="largerwd"&gt;r&lt;/snap&gt;equeriement ~ 需求
+&lt;li&gt;..&lt;snap id="largerwd"&gt;a&lt;/snap&gt;ssist ~ 辅助
+&lt;li&gt;. . .&lt;snap id="largerwd"&gt;c&lt;/snap&gt;arefuly ~ 关怀
+&lt;/ul&gt;
+sys. ~ 系统
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.4820">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+项目管理...
+&lt;div id="sup"&gt;
+关怀一个普适的需求领域...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+必须知道
+&lt;br/&gt;嘛?
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.4821">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知0
+&lt;div id="sup"&gt;
+问题集...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+有嘛事儿
+&lt;br/&gt;
+What
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4822">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知1
+&lt;div id="sup"&gt;
+人力资源
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+有嘛人
+&lt;br/&gt;
+Who
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4823">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知2
+&lt;div id="sup"&gt;
+任务限期
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+何时交?
+&lt;br/&gt;
+When
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4824">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知3
+&lt;div id="sup"&gt;
+甲方...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+交付给谁
+&lt;br/&gt;
+Where
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4825">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知4
+&lt;div id="sup"&gt;
+指标!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+咋算作好
+&lt;br/&gt;
+Why
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4826">Trac 本质追求</t>
+<t tx="zoomq.20100116172440.4827">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+核心思想
+&lt;div id="sup"&gt;
+All Know All
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+AKA
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4829">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+Wiki:本质
+&lt;div id="sup"&gt;
+不是Trac 选择了Wiki,而是Trac 天生是Wiki
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+AKA
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4830"></t>
+<t tx="zoomq.20100116172440.4831">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTrac:0
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-0-login_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+注册配置
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4832">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTrac:1
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-1-allnav_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+主要功能
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4833">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTrac:2
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-2-wiki_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+维基
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4834">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTrac:3
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-3-timeline_scrot.png"/&gt;
+
+&lt;h2 id="largerwd"&gt;
+时间线
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4835">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTrac:4
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-4-report_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+报表
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4836">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTrac:Ticket
+&lt;/h1&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;h2 id="largerwd"&gt;传票
+    &lt;/h2&gt;
+&lt;/td&gt;
+
+&lt;td&gt;&lt;img src="img/2008-06-11-trac-ticket_scrot.png"/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4837">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:0
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-stage-0_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+创建
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4838">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:1
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-stage-1_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+尝试
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4839">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:2
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-stage-2_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+复审
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4840">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:3
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-stage-3_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+测试
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4841">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:4
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-stage-4_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+上线
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4842">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:5
+&lt;/h1&gt;
+&lt;img src="img/2008-06-11-trac-stage-5_scrot.png"/&gt;
+&lt;h2 id="largerwd"&gt;
+在线
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4843">&lt;div class="slide"&gt;
+&lt;h1&gt;
+UsageTracFlow:all
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;img src="img/trac-stage-enhancement-0.5.2.png"/&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4844"></t>
+<t tx="zoomq.20100116172440.4845">&lt;div class="slide"&gt;
+&lt;h1&gt;
+日常Trac:0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+登录
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4846">&lt;div class="slide"&gt;
+&lt;h1&gt;
+日常Trac:{1}
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+我的传票
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4847">&lt;div class="slide"&gt;
+&lt;h1&gt;
+日常Trac:end
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+齐了!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4848">&lt;div class="slide"&gt;
+&lt;h1&gt;
+Trac技巧:0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+维基
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4849">&lt;div class="slide"&gt;
+&lt;h1&gt;
+TracWiki技巧: 0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+#123
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4850">&lt;div class="slide"&gt;
+&lt;h1&gt;
+TracWiki技巧: 1
+&lt;/h1&gt;
+
+&lt;pre&gt;
+{{{
+[URL 链接名称]
+}}}
+&lt;/pre&gt;
+&lt;h2 id="largerwd"&gt;&lt;a href="#"&gt;链接名称&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4851">&lt;div class="slide"&gt;
+&lt;h1&gt;
+TracWiki技巧: 2
+&lt;/h1&gt;
+&lt;pre&gt;
+{{{
+自由格式
+  输入什么是什么
+  #123 的维基文本也不转化
+}}}
+&lt;/pre&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4852">&lt;div class="slide"&gt;
+&lt;h1&gt;
+TracWiki技巧: 3
+&lt;/h1&gt;
+&lt;pre&gt;
+{{{
+普通列表:
+ * 是也乎
+ * 是也乎
+序号列表:
+ 1. 是也乎
+ 1. 是也乎
+}}}
+&lt;/pre&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4853">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+ 文档版本 &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;版本历史::
+    &lt;ul&gt;
+        &lt;li&gt;100123 根据讲演，调整页面顺序&lt;/li&gt;
+        &lt;li&gt;100122 增补Sikuli&lt;/li&gt;
+        &lt;li&gt;100118 增补KTRAC截屏&lt;/li&gt;
+        &lt;li&gt;100116 重整思路，增补氛围&lt;/li&gt;
+        &lt;li&gt;100112 为珠三角技术沙龙重构&lt;/li&gt;
+        &lt;li&gt;080611 紧急修订,补充图片;
+        &lt;br/&gt;定义:
+&lt;b class="alert"&gt;K&lt;/b&gt;ingsoft
+&lt;b class="alert"&gt;T&lt;/b&gt;icket
+&lt;b class="alert"&gt;R&lt;/b&gt;igour
+&lt;b class="alert"&gt;A&lt;/b&gt;gile
+&lt;b class="alert"&gt;C&lt;/b&gt;hannel
+&lt;/li&gt;
+        &lt;li&gt;080610 创建;定义:
+&lt;b class="alert"&gt;T&lt;/b&gt;icket 
+&lt;b class="alert"&gt;r&lt;/b&gt;equeriement
+&lt;b class="alert"&gt;a&lt;/b&gt;ssist
+&lt;b class="alert"&gt;c&lt;/b&gt;arefuly
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4854">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="pix/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+    &lt;span style="float:right;"&gt;&lt;img src="pix/2010-01-18-230729_605x421_leo.png" /&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="pix/LeoProse.gif" /&gt;Leo&lt;/a&gt; : 
+
+
+    &lt;br/&gt;文学编程环境
+    &lt;li&gt; 纯Python 编写的通用编辑环境
+
+
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.4855">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2  id="takahashi8"&gt;
+Q&amp;A
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6071">@path 0911-erloungIV-erlbattle/</t>
+<t tx="zoomq.20100116172440.6072"></t>
+<t tx="zoomq.20100116172440.6073"></t>
+<t tx="zoomq.20100116172440.6074">CPUGlogo-100.png</t>
+<t tx="zoomq.20100116172440.6075">&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+
+&lt;div class="presentation"&gt;
+
+
+@others
+
+
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100116172440.6076">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+&lt;title&gt;KcPyCamp Intro.(powered by S5)v1.1~080918&lt;/title&gt;
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="Leo 4.4.3a3"/&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="presdate" content="20080611" /&gt;
+&lt;meta name="author" content="Zoom.Quiet"/&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6077">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+*/
+ul#largerwd{
+    font-size: 200%;
+    letter-spacing:-18px;
+}
+h2#largerwd {
+    font-size: 560%;
+    text-align: center;
+    letter-spacing:-10px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+snap#largerwd {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+b.alert{
+    color:#F5003D;
+    font-size: 105%;
+}
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+/*080524 append for slide0*/
+DIV#slide0 h3{
+    font-size: 300%;
+}
+PRE#biger{
+    font-size: 150%;
+}
+
+</t>
+<t tx="zoomq.20100116172440.6078">
+&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a target="_blank"  href="http://www.zeuux.org/about/about.cn.html"&gt;
+ZEUUX&lt;/a&gt;
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+    &lt;div id="controls"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.6079">&lt;div class="slide" id="slide0"&gt;
+&lt;br/&gt;
+&lt;h3&gt;
+蟒营
+&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h4&gt; ~ 教学Pythonic体验&lt;/h4&gt;
+&lt;h4&gt; &lt;a href="mailto:zoomquiet+python@gmail.com"&gt;ZoomQuiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.6080">&lt;div class="slide"&gt;
+&lt;h1&gt; 文档版本 &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;版本历史::
+    &lt;ul&gt;
+        &lt;li&gt;v1.1 080918 upgrade for OSCamp&lt;/li&gt;
+        &lt;li&gt;v1.0 080810 fixed 4 internat&lt;/li&gt;
+        &lt;li&gt;v0.9 080806 fixed for new KC people&lt;/li&gt;
+        &lt;li&gt;v0.8 080622 fixed some words&lt;/li&gt;
+        &lt;li&gt;v0.7 080619 创建&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6081">&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;伙同所有热心的
+    &lt;a href="http://www.zeuux.org/community/zeuux-team.cn.html"&gt;ZEUUX.org&lt;/a&gt;
+    成员共同制作
+        ......
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100116172440.6082">&lt;div class="slide"&gt;
+&lt;h1&gt; 提纲 &lt;/h1&gt;
+
+&lt;b style="font-size:150%"&gt;
+&lt;center&gt;
+&lt;ol&gt;
+    &lt;li&gt;KSPEG简介
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+    &lt;li&gt;蟒营 由来
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+    &lt;li&gt;蟒营 体验
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/center&gt;
+&lt;/b&gt;
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100116172440.6083">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KSPEG
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+过程改进
+&lt;/h2&gt;
+&lt;center&gt;
+KingSoft Process Enhancement Group
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6084">&lt;div class="slide"&gt;
+&lt;h1&gt;
+组织位置:研发管理中心
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;center&gt;&lt;img src="img/2008-06-19-speg_kstructure.png"/&gt;&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6085">&lt;div class="slide"&gt;
+&lt;h1&gt;
+开发语言
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;a href="http://python.org"&gt;Python&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6086">&lt;div class="slide"&gt;
+&lt;h1&gt;
+依托社区:
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;img src="icon/CPUGlogo-100.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+&lt;br/&gt;
+&lt;a href="http://groups.google.com/group/ecug"&gt;ECUG&lt;/a&gt;
+    &lt;/li&gt;
+
+&lt;li&gt;
+...
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6087">&lt;div class="slide"&gt;
+&lt;h1&gt;
+目标 2年内
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+KUP
+&lt;/h2&gt;
+&lt;center&gt;
+Kingsoft Unite Process
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6088">&lt;div class="slide"&gt;
+&lt;h1&gt;
+目标 4年内
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+KUP++
+&lt;/h2&gt;
+&lt;center&gt;
+Kingsoft Unite Process+Platfrom
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6089">&lt;div class="slide"&gt;
+&lt;h1&gt;
+目标 5年内
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+KUP#
+&lt;/h2&gt;
+&lt;center&gt;
+Kingsoft Unite 
+&lt;br/&gt;
+Process in Platfrom 
+&lt;br/&gt;
+for Pleasure People
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6090">&lt;div class="slide"&gt;
+&lt;h1&gt;
+部门性质
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+对内服务
+&lt;/h2&gt;
+&lt;center&gt;
+针对软件开发过程:
+    &lt;br/&gt;软件过程改进&lt;b&gt;咨询&lt;/b&gt;服务
+    &lt;br/&gt;&lt;b&gt;开发&lt;/b&gt;软件过程支持系统
+    &lt;br/&gt;&lt;b&gt;运维&lt;/b&gt;内部过程支持系统
+    &lt;br/&gt;推动软件开发&lt;b&gt;知识管理&lt;/b&gt;
+    &lt;br/&gt;支持软件过程&lt;b&gt;质量评估&lt;/b&gt;
+    &lt;br/&gt;...
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6091"></t>
+<t tx="zoomq.20100116172440.6092">&lt;div class="slide"&gt;
+&lt;h1&gt;
+定义!过程改进:
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h3&gt;
+过程改进乃是催生可促生靠谱的人的组织!
+
+&lt;br/&gt;
+&lt;br/&gt;
+
+PE keeps evolving organizations &lt;br/&gt;
+which promoting people be good!
+&lt;/h3&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6093">&lt;div class="slide"&gt;
+&lt;h1&gt;
+过程改进?定义解析...
+&lt;/h1&gt;
+&lt;br/&gt;
+
+&lt;pre id="biger"&gt;
+        过程改进
+            乃是催生  
+                可促生        
+                    靠谱的人
+                的
+            组织!
+&lt;/pre&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6094">&lt;div class="slide"&gt;
+&lt;h1&gt;
+Kaopulity
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;h2 id="largerwd"&gt;
+向靠谱!
+&lt;br/&gt;
+反脑残!
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6095">&lt;div class="slide"&gt;
+&lt;h1&gt;
+Kaopulity?
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+靠谱!
+&lt;/h2&gt;
+&lt;center&gt;
+&lt;h3&gt;是主动的,是经验的,是深入性格的&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h4&gt;对比“专业”&lt;/h4&gt;
+是被动的,是训练的,是外在表现的
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6096"></t>
+<t tx="zoomq.20100116172440.6097">&lt;div class="slide"&gt;
+&lt;h1&gt;
+需要成员
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+年内5人
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6098">&lt;div class="slide"&gt;
+&lt;h1&gt;
+成员要求:0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;a href="http://wiki.rdev.kingsoft.net/moin/KaoPulity"&gt;
+KaoPulity
+&lt;/a&gt;
+&lt;br/&gt;靠 谱 !
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6099">&lt;div class="slide"&gt;
+&lt;h1&gt;
+成员要求:1
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+好奇
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6100">&lt;div class="slide"&gt;
+&lt;h1&gt;
+成员要求:2
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+热情
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6101">&lt;div class="slide"&gt;
+&lt;h1&gt;
+面对挑战:0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+惯性心理
+&lt;br/&gt;(&gt;_&lt;)
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6102">&lt;div class="slide"&gt;
+&lt;h1&gt;
+面对挑战:1
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+自由软件
+&lt;br/&gt;(^o^)
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6103">&lt;div class="slide"&gt;
+&lt;h1&gt;
+面对挑战:2
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+敏捷过程
+&lt;br/&gt;(-_-)
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6104"></t>
+<t tx="zoomq.20100116172440.6105">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC~Kingsoft College
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+金山训练营
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6106">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC ~ 宗旨
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+C++
+&lt;br/&gt;
+强训
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6107">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC ~ 教学
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+作题!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6108">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC ~ 成员
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+学生仔!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6109"></t>
+<t tx="zoomq.20100116172440.6110">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KcPyCamp ~ 训练营 Python 特训班!
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+蟒营
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6111">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~目标
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+解决矛盾!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6112">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~矛盾
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+时间vs
+&lt;br/&gt;可用
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6113">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~立旨
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+挑选
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6114">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~核心
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+实战
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6115">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~图景
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/cpc-index.jpg"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    cpc-items.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6116">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~教学设计
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+魔鬼营!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6117">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~教学体验
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+心理鸿沟!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6118">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~心理:不信!
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+依赖~
+&lt;br/&gt;经验!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6119">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~心理:自尊?
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+容易
+&lt;br/&gt;对抗
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6120">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~心理:放弃...
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+轻易
+&lt;br/&gt;放弃
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6121">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~得经
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+技术?
+&lt;br/&gt;永远不是问题!
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6122">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~得经
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+心态!
+&lt;br/&gt;才是阻碍,,,
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6123">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~得经
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+人的潜力
+&lt;br/&gt;真是无穷!
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6124"></t>
+<t tx="zoomq.20100116172440.6125">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~成果
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/cpc-items.jpg"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    cpc-items.jpg
+    cpc-index.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6126">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~CCRJ
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-ccrj-0_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6127">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~CCRJ
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-ear-0_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6128">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~MogBench
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-mogb-0_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6129">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~MogBench
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-mogb-1_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6130">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="pix/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+    &lt;span style="float:right;"&gt;&lt;img src="pix/2008-snap-leoWrite_scrot.png" /&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="pix/LeoProse.gif" /&gt;Leo&lt;/a&gt; : 
+
+
+    &lt;br/&gt;文学编程环境
+    &lt;li&gt; 纯Python 编写的通用编辑环境
+
+
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6131">&lt;div class="slide"&gt;
+&lt;h1&gt;
+蟒营
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+Q&amp;A
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6132">&lt;div class="slide"&gt;
+&lt;h1&gt;
+定义!过程改进:
+&lt;div id="sup"&gt;
+只有组织具有令内内部成员向靠谱的特质时，所有过程才可用！
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;h2 id="takahashi1"&gt;
+过程改进乃是
+&lt;br/&gt;催生可促生靠谱的人的组织!
+&lt;/h2&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h2&gt;
+&lt;b class="alert"&gt;P&lt;/b&gt;rocess &lt;b class="alert"&gt;E&lt;/b&gt;nhancement 
+keep evolving organizations 
+&lt;br/&gt;
+which promoting people be good!
+&lt;/h2&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    ... 
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6133">how to do for PE?</t>
+<t tx="zoomq.20100116172440.6134">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;::职责0
+&lt;div id="sup"&gt;
+首先要力争将自身改进成学习型组织!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+改造自身
+&lt;br/&gt;
+向靠谱!
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6135">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;::职责1
+&lt;div id="sup"&gt;
+其次将自身对学习型组织的理解和改进经验融合到平台服务中去,来影响其它部门!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+提供过程
+&lt;br/&gt;
+支撑平台
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6136">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;依托社区:
+&lt;div id="sup"&gt;
+部门的战斗力基础是国内外各种技术社区！其中，最亲密的:
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;img src="icon/zeuux-logo-bw_h90.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;img src="icon/CPUGlogo-100.png"/&gt;
+&lt;br/&gt;
+&lt;img src="icon/wp-www_banner.png"/&gt;
+    &lt;/li&gt;
+
+&lt;li&gt;
+&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+&lt;br/&gt;
+&lt;a href="http://groups.google.com/group/ecug"&gt;ECUG&lt;/a&gt;
+    &lt;/li&gt;
+
+&lt;li&gt;
+...
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6137">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;作品集==KUP++
+&lt;div id="sup"&gt;
+KUP++是个支持体系
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="pic/kupp-s5-note_500.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6138">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;的KUP++ 目标是KUP
+&lt;div id="sup"&gt;
+KUP是个方法论以及流程定义
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="pic/kup-s5-note_500.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    kup-formula.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6139">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;角度KUP公式
+&lt;div id="sup"&gt;
+KUP不是RUP;获得认同::从高层,从底层,从自身!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="pic/kup-formula.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6140">&lt;div class="slide"&gt;
+&lt;h1&gt;
+PE::什么是过程改进?
+&lt;div id="sup"&gt;
+任何过程没有可定义／可记录／可追踪／可复用前都是无法改进的！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+令过程
+&lt;br/&gt;
+&lt;b class="alert"&gt;靠谱！&lt;/b&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6141">&lt;&lt;DOCTYPE&gt;&gt;
+&lt;title&gt;恶狼战役项目外一篇~社区(powered by S5)&lt;/title&gt;
+&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+
+
+&lt;div class="presentation"&gt;
+
+@others
+
+
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100116172440.6142">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+</t>
+<t tx="zoomq.20100116172440.6143">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="editor" content="Leo 4.5 final"/&gt;
+&lt;!-- metadata --&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.1" /&gt;
+&lt;meta name="presdate" content="20050728" /&gt;
+&lt;meta name="author" content="Eric A. Meyer" /&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;!-- configuration parameters --&gt;
+&lt;meta name="defaultView" content="slideshow" /&gt;
+&lt;meta name="controlVis" content="hidden" /&gt;
+&lt;!-- style sheet links --&gt;
+&lt;link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" /&gt;
+&lt;link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+&lt;!-- S5 JS --&gt;
+&lt;script src="ui/default/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div class="layout"&gt;
+&lt;div id="controls"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="currentSlide"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6144">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+img {border:0px;}    
+td { font-size: 80%; }
+H1 div#sup{
+    position :  absolute; top:0;right:3%;
+    margin-top: -20px;
+    font-size: 10px; font-style : italic ;
+    color: #385775;
+}
+li sup{display :  inline;
+    font-size: 80%; font-style : italic ;}
+li sub{display :  inline;
+    font-size: 80%; font-style : italic ;
+    color: #eeeeee; }
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for esp.*/
+b.alert{
+    color:#F5003D;
+}
+b{
+    font-size: 115%;
+}
+
+
+/*Zoomq::090401 ziped
+snap#takahashi {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+*/
+</t>
+<t tx="zoomq.20100116172440.6145">.incremental, .incremental *, .incremental *:after {color: #385775; visibility: visible;}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for slide*/
+.slide .current {color: #F8B73E;}
+.slide H1{color:#B7B7DC;}
+DIV#slide0 h3{
+    font-size: 300%;
+}
+</t>
+<t tx="zoomq.20100116172440.6146">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+takahashi ~ 高桥流 大字演示
+*/
+#takahashi0 {
+    font-size: 120%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi1 {
+    font-size: 150%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi2 {
+    font-size: 200%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi3 {
+    font-size: 300%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 10px 0 0 0;
+    padding: 0;
+    }
+#takahashi4 {
+    font-size: 400%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 20px 0 0 0;
+    padding: 0;
+    }
+#takahashi5 {
+    font-size: 500%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 30px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi {
+    font-size: 600%;font-weight :  bolder;
+    text-align: center; 
+    word-spacing: 0px;letter-spacing: -4px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi7 {
+    font-size: 700%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi8 {
+    font-size: 800%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi9 {
+    font-size: 1000%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for UL*/
+ul#takahashi{
+    font-size: 180%;
+    letter-spacing:-2px;
+}
+ul.tinylist{
+    font-size: 80%;
+    letter-spacing:-2px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for PRE */
+PRE.takahashi{
+    font-size: 150%;
+}
+</t>
+<t tx="zoomq.20100116172440.6147">&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td &gt;&lt;a target="_blank"  href="http://wiki.s.kingsoft.net/moin/ZoomQuiet"&gt;
+Zoom.Quiet&lt;/a&gt;
+&lt;br/&gt;
+v9.11.07
+&lt;/td&gt;&lt;td&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="ui/freedom/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;
+&lt;br/&gt;
+兼容浏览器获得最佳体验;-)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;&lt;!--id="footer"--&gt;
+
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+</t>
+<t tx="zoomq.20100116172440.6148">&lt;div class="slide" id="slide0"&gt;
+&lt;br/&gt;
+&lt;h2 id="takahashi3"&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+ErlBattle
+&lt;/a&gt;
+&lt;br/&gt;(恶狼战役)
+&lt;/h2&gt;
+&lt;h4&gt;外一篇～思考社区养成&lt;/h4&gt;
+&lt;h4&gt;资深大妈::&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.6149">&lt;div class="slide"&gt;
+&lt;h1&gt; 免责聲明
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://wiki.s.kingsoft.net/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;参考所有同好行为总结而得
+        ......
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100116172440.6150">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+范畴::
+&lt;div id="sup"&gt;
+历史／体验／问题
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul id="takahashi2"&gt;
+&lt;li&gt;&lt;sup&gt;+3' &lt;/sup&gt;EB 定义&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+11'&lt;/sup&gt;EB 社区变迁&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+7'&lt;/sup&gt;探讨EB发展&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6151">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+什么是"恶狼战役"
+&lt;div id="sup"&gt;
+基于Erlang 语言的实时技术学习平台
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi1"&gt;
+&lt;li&gt;&lt;b class="alert"&gt;Erl&lt;/b&gt;ang
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;B&lt;/b&gt;ase
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;a&lt;/b&gt;ctual
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;t&lt;/b&gt;ime
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;t&lt;/b&gt;echnic
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;l&lt;/b&gt;earnning
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;e&lt;/b&gt;nvironment
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+  Erlang Base actual time technic learnning environment
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6152">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+EB:社区
+&lt;div id="sup"&gt;
+思想和经验,工程维基中收集
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline"&gt;
+如何形成?
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6153">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+基元素本
+&lt;div id="sup"&gt;
+和正常的软件工程完全一致
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt; 目标
+    &lt;/li&gt;
+&lt;li&gt; 人
+    &lt;/li&gt;
+&lt;li&gt; 环境
+    &lt;/li&gt;
+&lt;li&gt; 过程
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6154">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:目标
+
+&lt;div id="sup"&gt;
+原创一个可以长期玩下去的游戏和玩伴
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;a href="http://groups.google.com/group/ecug/browse_thread/thread/f132c35a21586429"&gt;
+Play
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6155">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+依托社区:
+&lt;div id="sup"&gt;
+各种相关技术社区是根本动力！其中，最亲密的:
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src="icon/zeuux-logov2red_90h.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;img src="icon/CPUGlogo-100.png"/&gt;+BPyUG+ZPyUG+SPyUG
+/
+&lt;img src="icon/wp-www_banner.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+    &lt;a href="http://groups.google.com/group/ecug"&gt;ECUG.org&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://groups.google.com/group/pongba"&gt;TopLanguage&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;...
+    &lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6156">社区生态环境</t>
+<t tx="zoomq.20100116172440.6157">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+
+架构源自:KM
+&lt;div id="sup"&gt;
+从IT角度公认的KM系统理解公式..
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi8"&gt;
+&lt;img src="pic/KMap-0.8-400.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6158">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+KM:核心理念
+&lt;div id="sup"&gt;
+有知识可以分享,成员有分享的冲动/动力,组织有分享的平台...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+分享
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6159">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:环境
+&lt;div id="sup"&gt;
+都是公开免费服务...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-env.png" usemap="#eb-envmap"/&gt;
+&lt;/h2&gt;
+
+&lt;&lt;eb-env.map&gt;&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6160">&lt;map id="eb-envmap" name="eb-envmap"&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/" title="EB:工程空间" alt="" coords="256,88,357,118"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/wiki/EbIndex" title="EB:工程维基" alt="" coords="27,187,128,216"/&gt;
+&lt;area shape="rect" href="http://erlbattle.googlecode.com/svn/trunk/LovelyPython/" title="EB:版本仓库" alt="" coords="152,187,253,216"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/issues/list" title="EB:提案追踪" alt="" coords="277,187,379,216"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/erlbattle" title="EB:邮件列表" alt="" coords="277,299,379,328"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/openbookproject" title="erlang&amp;#45;china" alt="" coords="135,88,228,118"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/ecug" title="ECUG" alt="" coords="29,88,101,118"/&gt;
+&lt;/map&gt;
+</t>
+<t tx="zoomq.20100116172440.6161">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:GoogleGroup: erlang-china
+&lt;div id="sup"&gt;
+以为好用..
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/2009-10-09-204908_erlang-china_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6162">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:GoogleGroup: ecug
+&lt;div id="sup"&gt;
+感觉影响力低..
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/2009-10-09-204850_ecug_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6163">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:GoogleGroup: erlbattle
+&lt;div id="sup"&gt;
+专用列表..分散/加重了沟通效率
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/2009-10-09-204957_erlbattle_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    2009-11-07-eb-wiki_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6164">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:code.google 维基
+&lt;div id="sup"&gt;
+最终决议／知识／活动...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/2009-11-07-eb-wiki_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6165">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:SNS驱动
+&lt;div id="sup"&gt;
+都是自然通过沟通形成的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-sns.png" usemap="#eb-snsmap"/&gt;
+&lt;/h2&gt;
+&lt;&lt;eb-sns.map&gt;&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6166">&lt;map id="eb-snsmap" name="eb-snsmap"&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/" title="EB:工程空间" alt="" coords="227,177,328,206"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/wiki/EbIndex" title="EB:工程维基" alt="" coords="203,289,304,318"/&gt;
+&lt;area shape="rect" href="http://erlbattle.googlecode.com/svn/trunk/LovelyPython/" title="EB:版本仓库" alt="" coords="77,289,179,318"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/issues/list" title="EB:提案追踪" alt="" coords="480,289,581,318"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/erlbattle/downloads/list" title="EB:下载资源" alt="" coords="355,289,456,318"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/erlbattle" title="EB:邮件列表" alt="" coords="213,401,315,430"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/openbookproject" title="erlang&amp;#45;china" alt="" coords="360,177,453,206"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/ecug" title="ECUG" alt="" coords="509,177,581,206"/&gt;
+&lt;/map&gt;
+</t>
+<t tx="zoomq.20100116172440.6167">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:社区/工程生命历程
+&lt;div id="sup"&gt;
+都是自然演变的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-flow.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6168">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:角色成份~巫师
+&lt;div id="sup"&gt;
+整体规则维护和制定
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-flowact-0.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6169">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:角色成份~法师
+&lt;div id="sup"&gt;
+核心代码质量和运维...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-flowact-1.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6170">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:角色成份~狼群
+&lt;div id="sup"&gt;
+主力玩家和规则打破及重构群体...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-flowact-2.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6171">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:角色成份~狼人
+&lt;div id="sup"&gt;
+强力单独玩家...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-flowact-3.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6172">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+&lt;a href="http://code.google.com/p/erlbattle/"&gt;
+&lt;b class="alert"&gt;E&lt;/b&gt;er&lt;b class="alert"&gt;B&lt;/b&gt;attle
+&lt;/a&gt;:角色成份生态
+&lt;div id="sup"&gt;
+应该可以控制演变的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/eb-flowact.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6173">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+社区得以成立的根本原因::
+&lt;div id="sup"&gt;
+一切向靠谱，并坚持下来！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+靠谱
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+&lt;h2 id="takahashi3"&gt;
+Kaopulity
+&lt;/h2&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6174">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+靠谱::定义
+&lt;div id="sup"&gt;
+E文定义是ZQ的个人体验的总结
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+Kaopulity
+&lt;b class="alert"&gt;
+&lt;/b&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6175">&lt;div class="slide"&gt;
+&lt;h1&gt;
+靠谱::解析
+&lt;div id="sup"&gt;
+令一个组织内所有过程都可用！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;b class="alert"&gt;K&lt;/b&gt;eep
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;a&lt;/b&gt;ll
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;o&lt;/b&gt;f
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;p&lt;/b&gt;rocesses
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;u&lt;/b&gt;sab&lt;b class="alert"&gt;lity&lt;/b&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6176">&lt;div class="slide"&gt;
+&lt;h1&gt;
+靠谱::什么是可用?
+&lt;div id="sup"&gt;
+全知／全认／全用／可善！ AKA~= All Know All!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+AKA
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6177">&lt;div class="slide"&gt;
+&lt;h1&gt; 
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+小结 
+&lt;div id="sup"&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi3"&gt;
+&lt;li&gt;EB: 形成初步社区,并完成创始人的设想&lt;/li&gt;
+&lt;li&gt;Kaopulity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6178">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+EB:问题
+&lt;div id="sup"&gt;
+怎么继续下去?!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+Go on?
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6179">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+EB:死线
+&lt;div id="sup"&gt;
+理论上是存在的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+终极算法
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6180">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+EB:学习心理
+&lt;div id="sup"&gt;
+实用理由不足
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+为啥学?
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6181">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+EB:形式吸引力
+&lt;div id="sup"&gt;
+RoboCode 失败原因..
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+怎么玩?
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6182">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+EB:社区合力
+&lt;div id="sup"&gt;
+理论上是存在的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+影响力
+&lt;br/&gt;叠加?!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6183">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+是也乎::
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://zoomquiet.org"&gt;
+&lt;img src="pic/50ren-ZoomQuiet-090901-1kw.png"/&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6184">&lt;div class="slide"&gt;
+&lt;h1&gt; 
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+文档版本 
+&lt;div id="sup"&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;修订历史::
+    &lt;ul&gt;
+        &lt;li&gt;091107 增补工程角色的阶段生命图谱&lt;/li&gt;
+        &lt;li&gt;091009 增补zeuux新logo&lt;/li&gt;
+        &lt;li&gt;090930 确定文案结构&lt;/li&gt;
+        &lt;li&gt;090828 创建&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;img src="icon/CPUGlogo-100.png"/&gt;
+ 资深大妈+&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+ 宣传部长:: &lt;a href="mailto:Zoom.Quiet@gmail.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6185">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="pix/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+    &lt;span style="float:right;"&gt;&lt;img src="pix/2008-snap-leoWrite_scrot.png" /&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="pix/LeoProse.gif" /&gt;Leo&lt;/a&gt; : 
+
+
+    &lt;br/&gt;文学编程环境
+    &lt;li&gt; 纯Python 编写的通用编辑环境
+
+
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6186">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/eb-logo.jpeg"/&gt;
+
+提问时间;-)
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+Q&amp;A
+&lt;/h2&gt;
+&lt;center&gt;
+&lt;a href="http://www.zoomquiet.org/share/s5/090913-lovpy/"&gt;
+http://www.zoomquiet.org/share/s5/0911-erloungIV-erlbattle/
+&lt;/a&gt;
+&lt;/br&gt;
+&lt;a href="http://ecug.googlecode.com/svn/trunk/cn-erlounge/iv/zoomq/erloungIV-erlbattle/"&gt;
+ecug(svn):/trunk/cn-erlounge/iv/zoomq/erloungIV-erlbattle/
+&lt;/a&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6336">@path 090913-lovpy/</t>
+<t tx="zoomq.20100116172440.6337"></t>
+<t tx="zoomq.20100116172440.6338"></t>
+<t tx="zoomq.20100116172440.6339">CPUGlogo-100.png</t>
+<t tx="zoomq.20100116172440.6340">&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+
+&lt;div class="presentation"&gt;
+
+
+@others
+
+
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100116172440.6341">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+&lt;title&gt;KcPyCamp Intro.(powered by S5)v1.1~080918&lt;/title&gt;
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="Leo 4.4.3a3"/&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="presdate" content="20080611" /&gt;
+&lt;meta name="author" content="Zoom.Quiet"/&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6342">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+*/
+ul#largerwd{
+    font-size: 200%;
+    letter-spacing:-18px;
+}
+h2#largerwd {
+    font-size: 560%;
+    text-align: center;
+    letter-spacing:-10px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+snap#largerwd {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+b.alert{
+    color:#F5003D;
+    font-size: 105%;
+}
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+/*080524 append for slide0*/
+DIV#slide0 h3{
+    font-size: 300%;
+}
+PRE#biger{
+    font-size: 150%;
+}
+
+</t>
+<t tx="zoomq.20100116172440.6343">
+&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a target="_blank"  href="http://www.zeuux.org/about/about.cn.html"&gt;
+ZEUUX&lt;/a&gt;
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+    &lt;div id="controls"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.6344">&lt;div class="slide" id="slide0"&gt;
+&lt;br/&gt;
+&lt;h3&gt;
+蟒营
+&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h4&gt; ~ 教学Pythonic体验&lt;/h4&gt;
+&lt;h4&gt; &lt;a href="mailto:zoomquiet+python@gmail.com"&gt;ZoomQuiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.6345">&lt;div class="slide"&gt;
+&lt;h1&gt; 文档版本 &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;版本历史::
+    &lt;ul&gt;
+        &lt;li&gt;v1.1 080918 upgrade for OSCamp&lt;/li&gt;
+        &lt;li&gt;v1.0 080810 fixed 4 internat&lt;/li&gt;
+        &lt;li&gt;v0.9 080806 fixed for new KC people&lt;/li&gt;
+        &lt;li&gt;v0.8 080622 fixed some words&lt;/li&gt;
+        &lt;li&gt;v0.7 080619 创建&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6346">&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;伙同所有热心的
+    &lt;a href="http://www.zeuux.org/community/zeuux-team.cn.html"&gt;ZEUUX.org&lt;/a&gt;
+    成员共同制作
+        ......
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100116172440.6347">&lt;div class="slide"&gt;
+&lt;h1&gt; 提纲 &lt;/h1&gt;
+
+&lt;b style="font-size:150%"&gt;
+&lt;center&gt;
+&lt;ol&gt;
+    &lt;li&gt;KSPEG简介
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+    &lt;li&gt;蟒营 由来
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+    &lt;li&gt;蟒营 体验
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/center&gt;
+&lt;/b&gt;
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100116172440.6348">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KSPEG
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+过程改进
+&lt;/h2&gt;
+&lt;center&gt;
+KingSoft Process Enhancement Group
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6349">&lt;div class="slide"&gt;
+&lt;h1&gt;
+组织位置:研发管理中心
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;center&gt;&lt;img src="img/2008-06-19-speg_kstructure.png"/&gt;&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6350">&lt;div class="slide"&gt;
+&lt;h1&gt;
+开发语言
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;a href="http://python.org"&gt;Python&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6351">&lt;div class="slide"&gt;
+&lt;h1&gt;
+依托社区:
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;img src="icon/CPUGlogo-100.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+&lt;br/&gt;
+&lt;a href="http://groups.google.com/group/ecug"&gt;ECUG&lt;/a&gt;
+    &lt;/li&gt;
+
+&lt;li&gt;
+...
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6352">&lt;div class="slide"&gt;
+&lt;h1&gt;
+目标 2年内
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+KUP
+&lt;/h2&gt;
+&lt;center&gt;
+Kingsoft Unite Process
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6353">&lt;div class="slide"&gt;
+&lt;h1&gt;
+目标 4年内
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+KUP++
+&lt;/h2&gt;
+&lt;center&gt;
+Kingsoft Unite Process+Platfrom
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6354">&lt;div class="slide"&gt;
+&lt;h1&gt;
+目标 5年内
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+KUP#
+&lt;/h2&gt;
+&lt;center&gt;
+Kingsoft Unite 
+&lt;br/&gt;
+Process in Platfrom 
+&lt;br/&gt;
+for Pleasure People
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6355">&lt;div class="slide"&gt;
+&lt;h1&gt;
+部门性质
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+对内服务
+&lt;/h2&gt;
+&lt;center&gt;
+针对软件开发过程:
+    &lt;br/&gt;软件过程改进&lt;b&gt;咨询&lt;/b&gt;服务
+    &lt;br/&gt;&lt;b&gt;开发&lt;/b&gt;软件过程支持系统
+    &lt;br/&gt;&lt;b&gt;运维&lt;/b&gt;内部过程支持系统
+    &lt;br/&gt;推动软件开发&lt;b&gt;知识管理&lt;/b&gt;
+    &lt;br/&gt;支持软件过程&lt;b&gt;质量评估&lt;/b&gt;
+    &lt;br/&gt;...
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6356"></t>
+<t tx="zoomq.20100116172440.6357">&lt;div class="slide"&gt;
+&lt;h1&gt;
+定义!过程改进:
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h3&gt;
+过程改进乃是催生可促生靠谱的人的组织!
+
+&lt;br/&gt;
+&lt;br/&gt;
+
+PE keeps evolving organizations &lt;br/&gt;
+which promoting people be good!
+&lt;/h3&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6358">&lt;div class="slide"&gt;
+&lt;h1&gt;
+过程改进?定义解析...
+&lt;/h1&gt;
+&lt;br/&gt;
+
+&lt;pre id="biger"&gt;
+        过程改进
+            乃是催生  
+                可促生        
+                    靠谱的人
+                的
+            组织!
+&lt;/pre&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6359">&lt;div class="slide"&gt;
+&lt;h1&gt;
+Kaopulity
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;h2 id="largerwd"&gt;
+向靠谱!
+&lt;br/&gt;
+反脑残!
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6360">&lt;div class="slide"&gt;
+&lt;h1&gt;
+Kaopulity?
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+靠谱!
+&lt;/h2&gt;
+&lt;center&gt;
+&lt;h3&gt;是主动的,是经验的,是深入性格的&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h4&gt;对比“专业”&lt;/h4&gt;
+是被动的,是训练的,是外在表现的
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6361"></t>
+<t tx="zoomq.20100116172440.6362">&lt;div class="slide"&gt;
+&lt;h1&gt;
+需要成员
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+年内5人
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6363">&lt;div class="slide"&gt;
+&lt;h1&gt;
+成员要求:0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;a href="http://wiki.rdev.kingsoft.net/moin/KaoPulity"&gt;
+KaoPulity
+&lt;/a&gt;
+&lt;br/&gt;靠 谱 !
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6364">&lt;div class="slide"&gt;
+&lt;h1&gt;
+成员要求:1
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+好奇
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6365">&lt;div class="slide"&gt;
+&lt;h1&gt;
+成员要求:2
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+热情
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6366">&lt;div class="slide"&gt;
+&lt;h1&gt;
+面对挑战:0
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+惯性心理
+&lt;br/&gt;(&gt;_&lt;)
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6367">&lt;div class="slide"&gt;
+&lt;h1&gt;
+面对挑战:1
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+自由软件
+&lt;br/&gt;(^o^)
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6368">&lt;div class="slide"&gt;
+&lt;h1&gt;
+面对挑战:2
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+敏捷过程
+&lt;br/&gt;(-_-)
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6369"></t>
+<t tx="zoomq.20100116172440.6370">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC~Kingsoft College
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+金山训练营
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6371">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC ~ 宗旨
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+C++
+&lt;br/&gt;
+强训
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6372">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC ~ 教学
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+作题!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6373">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KC ~ 成员
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+学生仔!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6374"></t>
+<t tx="zoomq.20100116172440.6375">&lt;div class="slide"&gt;
+&lt;h1&gt;
+KcPyCamp ~ 训练营 Python 特训班!
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+蟒营
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6376">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~目标
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+解决矛盾!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6377">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~矛盾
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+时间vs
+&lt;br/&gt;可用
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6378">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~立旨
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+挑选
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6379">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~核心
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+实战
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6380">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~图景
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/cpc-index.jpg"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    cpc-items.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6381">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~教学设计
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+魔鬼营!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6382">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~教学体验
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+心理鸿沟!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6383">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~心理:不信!
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+依赖~
+&lt;br/&gt;经验!
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6384">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~心理:自尊?
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+容易
+&lt;br/&gt;对抗
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6385">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~心理:放弃...
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+轻易
+&lt;br/&gt;放弃
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6386">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~得经
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+技术?
+&lt;br/&gt;永远不是问题!
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6387">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~得经
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+心态!
+&lt;br/&gt;才是阻碍,,,
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6388">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~得经
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+人的潜力
+&lt;br/&gt;真是无穷!
+
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6389"></t>
+<t tx="zoomq.20100116172440.6390">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~成果
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/cpc-items.jpg"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    cpc-items.jpg
+    cpc-index.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6391">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~CCRJ
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-ccrj-0_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6392">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~CCRJ
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-ear-0_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6393">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~MogBench
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-mogb-0_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6394">&lt;div class="slide"&gt;
+&lt;h1&gt;
+CPC~MogBench
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+&lt;/h2&gt;
+&lt;center&gt;&lt;img src="img/2008-09-19-mogb-1_scrot.png"/&gt;&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6395">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="pix/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+    &lt;span style="float:right;"&gt;&lt;img src="pix/2008-snap-leoWrite_scrot.png" /&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="pix/LeoProse.gif" /&gt;Leo&lt;/a&gt; : 
+
+
+    &lt;br/&gt;文学编程环境
+    &lt;li&gt; 纯Python 编写的通用编辑环境
+
+
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6396">&lt;div class="slide"&gt;
+&lt;h1&gt;
+蟒营
+&lt;/h1&gt;
+&lt;h2 id="largerwd"&gt;
+Q&amp;A
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6397">&lt;div class="slide"&gt;
+&lt;h1&gt;
+定义!过程改进:
+&lt;div id="sup"&gt;
+只有组织具有令内内部成员向靠谱的特质时，所有过程才可用！
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;h2 id="takahashi1"&gt;
+过程改进乃是
+&lt;br/&gt;催生可促生靠谱的人的组织!
+&lt;/h2&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h2&gt;
+&lt;b class="alert"&gt;P&lt;/b&gt;rocess &lt;b class="alert"&gt;E&lt;/b&gt;nhancement 
+keep evolving organizations 
+&lt;br/&gt;
+which promoting people be good!
+&lt;/h2&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    ... 
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6398">how to do for PE?</t>
+<t tx="zoomq.20100116172440.6399">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;::职责0
+&lt;div id="sup"&gt;
+首先要力争将自身改进成学习型组织!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+改造自身
+&lt;br/&gt;
+向靠谱!
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6400">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;::职责1
+&lt;div id="sup"&gt;
+其次将自身对学习型组织的理解和改进经验融合到平台服务中去,来影响其它部门!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+提供过程
+&lt;br/&gt;
+支撑平台
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6401">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;依托社区:
+&lt;div id="sup"&gt;
+部门的战斗力基础是国内外各种技术社区！其中，最亲密的:
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;img src="icon/zeuux-logo-bw_h90.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+&lt;img src="icon/CPUGlogo-100.png"/&gt;
+&lt;br/&gt;
+&lt;img src="icon/wp-www_banner.png"/&gt;
+    &lt;/li&gt;
+
+&lt;li&gt;
+&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+&lt;br/&gt;
+&lt;a href="http://groups.google.com/group/ecug"&gt;ECUG&lt;/a&gt;
+    &lt;/li&gt;
+
+&lt;li&gt;
+...
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6402">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;作品集==KUP++
+&lt;div id="sup"&gt;
+KUP++是个支持体系
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="pic/kupp-s5-note_500.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6403">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;的KUP++ 目标是KUP
+&lt;div id="sup"&gt;
+KUP是个方法论以及流程定义
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="pic/kup-s5-note_500.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    kup-formula.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6404">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/kspeg-logo-s5-72.png"/&gt;角度KUP公式
+&lt;div id="sup"&gt;
+KUP不是RUP;获得认同::从高层,从底层,从自身!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="pic/kup-formula.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6405">&lt;div class="slide"&gt;
+&lt;h1&gt;
+PE::什么是过程改进?
+&lt;div id="sup"&gt;
+任何过程没有可定义／可记录／可追踪／可复用前都是无法改进的！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+令过程
+&lt;br/&gt;
+&lt;b class="alert"&gt;靠谱！&lt;/b&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6406">&lt;&lt;DOCTYPE&gt;&gt;
+&lt;title&gt;可爱的Python~初学者极速入门故事成书分享(powered by S5)&lt;/title&gt;
+&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+
+
+&lt;div class="presentation"&gt;
+
+@others
+
+
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100116172440.6407">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+</t>
+<t tx="zoomq.20100116172440.6408">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="editor" content="Leo 4.5 final"/&gt;
+&lt;!-- metadata --&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.1" /&gt;
+&lt;meta name="presdate" content="20050728" /&gt;
+&lt;meta name="author" content="Eric A. Meyer" /&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;!-- configuration parameters --&gt;
+&lt;meta name="defaultView" content="slideshow" /&gt;
+&lt;meta name="controlVis" content="hidden" /&gt;
+&lt;!-- style sheet links --&gt;
+&lt;link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" /&gt;
+&lt;link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+&lt;!-- S5 JS --&gt;
+&lt;script src="ui/default/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div class="layout"&gt;
+&lt;div id="controls"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="currentSlide"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6409">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+img {border:0px;}    
+td { font-size: 80%; }
+H1 div#sup{
+    position :  absolute; top:0;right:3%;
+    margin-top: -20px;
+    font-size: 10px; font-style : italic ;
+    color: #385775;
+}
+li sup{display :  inline;
+    font-size: 80%; font-style : italic ;}
+li sub{display :  inline;
+    font-size: 80%; font-style : italic ;
+    color: #eeeeee; }
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for esp.*/
+b.alert{
+    color:#F5003D;
+}
+b{
+    font-size: 115%;
+}
+
+
+/*Zoomq::090401 ziped
+snap#takahashi {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+*/
+</t>
+<t tx="zoomq.20100116172440.6410">.incremental, .incremental *, .incremental *:after {color: #385775; visibility: visible;}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for slide*/
+.slide .current {color: #F8B73E;}
+.slide H1{color:#B7B7DC;}
+DIV#slide0 h3{
+    font-size: 300%;
+}
+</t>
+<t tx="zoomq.20100116172440.6411">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+takahashi ~ 高桥流 大字演示
+*/
+#takahashi1 {
+    font-size: 150%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi2 {
+    font-size: 200%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi3 {
+    font-size: 300%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 10px 0 0 0;
+    padding: 0;
+    }
+#takahashi4 {
+    font-size: 400%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 20px 0 0 0;
+    padding: 0;
+    }
+#takahashi5 {
+    font-size: 500%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 30px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi {
+    font-size: 600%;font-weight :  bolder;
+    text-align: center; 
+    word-spacing: 0px;letter-spacing: -4px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi7 {
+    font-size: 700%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi8 {
+    font-size: 800%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi9 {
+    font-size: 1000%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for UL*/
+ul#takahashi{
+    font-size: 180%;
+    letter-spacing:-2px;
+}
+ul.tinylist{
+    font-size: 80%;
+    letter-spacing:-2px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for PRE */
+PRE.takahashi{
+    font-size: 150%;
+}
+</t>
+<t tx="zoomq.20100116172440.6412">&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td &gt;&lt;a target="_blank"  href="http://wiki.s.kingsoft.net/moin/ZoomQuiet"&gt;
+Zoom.Quiet&lt;/a&gt;
+&lt;br/&gt;
+090901
+&lt;/td&gt;&lt;td&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="ui/freedom/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;
+&lt;br/&gt;
+兼容浏览器获得最佳体验;-)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;&lt;!--id="footer"--&gt;
+
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+</t>
+<t tx="zoomq.20100116172440.6413">&lt;div class="slide" id="slide0"&gt;
+&lt;br/&gt;
+&lt;h2 id="takahashi3"&gt;
+闲话&lt;img src="icon/lovpy-title.png"/&gt;
+&lt;/h2&gt;
+&lt;h4&gt;主持大妈::&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100116172440.6414">&lt;div class="slide"&gt;
+&lt;h1&gt; 免责聲明
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://wiki.s.kingsoft.net/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;参考所有同好行为总结而得
+        ......
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100116172440.6415">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+范畴::
+&lt;div id="sup"&gt;
+成书趣事儿／体验／经验
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul id="takahashi2"&gt;
+&lt;li&gt;&lt;sup&gt;5'  &lt;/sup&gt;成书助力:FLOSS&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;10'&lt;/sup&gt;组织分布式图书工程&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;25'  &lt;/sup&gt;自由交流...&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6416"></t>
+<t tx="zoomq.20100116172440.6417">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++OS
+&lt;div id="sup"&gt;
+友好而自在...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+Ubuntu
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...http://wiki.woodpecker.org.cn/moin/GraphViz
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6418">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++FF
+&lt;div id="sup"&gt;
+统一窗口
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+FireFox
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6419">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++&lt;img src="icon/gmail_logo-140.jpg"/&gt;
+&lt;div id="sup"&gt;
+极高效能邮件管理环境
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/obpgg-2009-09-03-233948_481x419_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6420">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++FF
+&lt;div id="sup"&gt;
+维基助手
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi4"&gt;
+&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/4125"&gt;It's All Text!&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6421">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++FF
+&lt;div id="sup"&gt;
+网页收集管理中心
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="https://addons.mozilla.org/zh-CN/firefox/addon/427"&gt;
+ScrapBook
+&lt;/a&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    pidgin-2009-09-03-235116_403x337_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6422">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++&lt;a href="http://pidgin.im/"&gt;Pidgin&lt;/a&gt;
+&lt;div id="sup"&gt;
+复合协议IM
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://pidgin.im/"&gt;
+&lt;img src="pic/pidgin-2009-09-03-235116_403x337_scrot.png"/&gt;
+&lt;/a&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    edo-lovpy-2009-09-03-143051_612x291_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6423">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++Python
+&lt;div id="sup"&gt;
+友好的调试环境..
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://ipython.scipy.org/"&gt;
+iPython
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6424">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++维基
+&lt;div id="sup"&gt;
+最靠谱的知识汇集平台
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+MoinMoin
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6425">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++版本管理
+&lt;div id="sup"&gt;
+跨平台的主流版本管理系统
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+SVN
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6426">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++scrot
+&lt;div id="sup"&gt;
+CLI的方便截屏工具...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;a href="http://linuxtoy.org/archives/mastering-scrot.html"&gt;
+scrot&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...scrot
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6427">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++编辑环境
+&lt;div id="sup"&gt;
+基于提纲的文学化编辑环境...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+Leo&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...scrot
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6428">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+＋S5
+&lt;div id="sup"&gt;
+编辑环境特意选择了基于HTML的幻灯系统,来表达知识传播的媒介态度..
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="ui/freedom/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+&lt;table border="0"&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="ui/freedom/LeoProse.gif" /&gt;Leo&lt;/a&gt;  
+&lt;br/&gt;文学编程环境
+&lt;br/&gt;纯Py实现的通用编辑环境
+
+&lt;/td&gt;&lt;td&gt;
+&lt;img src="ui/freedom/2008-snap-leoWrite_scrot.png" /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6429">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++.mm
+&lt;div id="sup"&gt;
+跨平台的思维及数据图谱...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi5"&gt;
+freemind
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...http://wiki.woodpecker.org.cn/moin/GraphViz
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6430">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++.dot
+&lt;div id="sup"&gt;
+自在快捷的图形化脚本...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/GraphViz"&gt;
+Graphviz
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...http://wiki.woodpecker.org.cn/moin/GraphViz
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6431">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++矢量作图 &lt;img src="icon/inkscape-logo.png"/&gt;
+&lt;div id="sup"&gt;
+跨平台的Illstrator
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi4"&gt;
+&lt;img src="pic/inkscape-2009-09-03-234225_900x502_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6432">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++Python
+&lt;div id="sup"&gt;
+维基机器人
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;a href="http://twill.idyll.org/"&gt;
+twill
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6433">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
++ &lt;a href="http://everydo.com/"&gt;&lt;img src="icon/ed-logo.gif"/&gt;&lt;/a&gt;
+&lt;div id="sup"&gt;
+基于Plone 的敏捷SaaS式项目管理
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://obp.everydo.com/projects/599264/todos"&gt;
+&lt;img src="pic/edobp-2009-09-03-235833_1091x361_scrot.png"/&gt;
+&lt;/a&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    edo-lovpy-2009-09-03-143051_612x291_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6434">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+在线图书工程
+&lt;div id="sup"&gt;
+思想和经验,公开在OBP工程维基中！
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline"&gt;
+如何组织?
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6435">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+工程基元素本
+&lt;div id="sup"&gt;
+和正常的软件工程完全一致
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt; 目标
+    &lt;/li&gt;
+&lt;li&gt; 人
+    &lt;/li&gt;
+&lt;li&gt; 环境
+    &lt;/li&gt;
+&lt;li&gt; 过程
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6436">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+&lt;a href="http://code.google.com/p/openbookproject/"&gt;
+&lt;b class="alert"&gt;O&lt;/b&gt;pen&lt;b class="alert"&gt;B&lt;/b&gt;ook&lt;b class="alert"&gt;P&lt;/b&gt;roject
+&lt;/a&gt;:目标
+
+&lt;div id="sup"&gt;
+原创出一本很cool 且有用的图书!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+COOL
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6437">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者s
+&lt;div id="sup"&gt;
+创作分享！
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi7"&gt;
+人多
+&lt;br/&gt;
+力量大！
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6438">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.0
+&lt;div id="sup"&gt;
+原创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+Zoom.Quiet
+&lt;/a&gt;&lt;br/&gt;
+&lt;img src="id/zq-rms.png"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6439">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.1
+&lt;div id="sup"&gt;
+老创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+清风
+&lt;br/&gt;
+&lt;img src="id/qingfeng.jpg"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6440">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.2
+&lt;div id="sup"&gt;
+豆创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://9.douban.com/subject/9000016/"&gt;xyb&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/xyb.jpg"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6441">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.3
+&lt;div id="sup"&gt;
+教创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://zsp.javaeye.com/blog/activities"&gt;SZP&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/zsp.png"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6442">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.4
+&lt;div id="sup"&gt;
+M创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://www.zeuux.com/friend/user/lizzie/"&gt;
+Lizzie&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/lizzie.jpeg"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6443">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.5
+&lt;div id="sup"&gt;
+刘创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://blog.csdn.net/ccat"&gt;
+刘鑫&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/lx.png"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6444">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.6
+&lt;div id="sup"&gt;
+黄创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+黄毅
+&lt;br/&gt;
+&lt;img src="id/huangyi.jpg"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6445">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.7
+&lt;div id="sup"&gt;
+CTO
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+洪强宁
+&lt;br/&gt;
+&lt;img src="id/hongqn-mask.jpg"/&gt;
+&lt;/center&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6446">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.8
+&lt;div id="sup"&gt;
+木创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://hi.baidu.com/limodou"&gt;
+Limodou&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/limodou.png"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6447">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.9
+&lt;div id="sup"&gt;
+潘创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://www.czug.org/blog/panjy/"&gt;
+潘俊勇&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/panjy.png"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6448">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.10
+&lt;div id="sup"&gt;
+侠创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://eishn.blog.163.com/blog/"&gt;
+沈崴&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/shen-0.png"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6449">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.10.1
+&lt;div id="sup"&gt;
+侠创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://eishn.blog.163.com/blog/"&gt;
+沈崴&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/shen-1.png"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6450">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.11
+&lt;div id="sup"&gt;
+哲创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://www.zeuux.com/friend/user/billxu/"&gt;
+BillXu&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/billxu.png"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6451">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.12
+&lt;div id="sup"&gt;
+校创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+孔建军
+&lt;br/&gt;
+&lt;img src="id/1-kongjianjun.jpg"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6452">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.13
+&lt;div id="sup"&gt;
+校创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+高辉
+&lt;br/&gt;
+&lt;img src="id/2-gaohui.jpg"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6453">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+作者.00
+&lt;div id="sup"&gt;
+G创
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi2"&gt;
+&lt;center&gt;
+&lt;a href="http://blog.csdn.net/gvanrossum"&gt;
+Guido van Rossum&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="id/guido.png"/&gt;
+&lt;/center&gt;
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6454">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;依托社区:
+&lt;div id="sup"&gt;
+各种相关技术社区是根本动力！其中，最亲密的:
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src="icon/zeuux-logov2red_90h.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;img src="icon/CPUGlogo-100.png"/&gt;+BPyUG+ZPyUG+SPyUG
+/
+&lt;img src="icon/wp-www_banner.png"/&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;img src="icon/2008-06-19-erl.china_scrot.png"/&gt;
+    &lt;a href="http://groups.google.com/group/ecug"&gt;ECUG.org&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://groups.google.com/group/pongba"&gt;TopLanguage&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://groups.google.com/group/BVtougao"&gt;博文视点专家团&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;...
+    &lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6455">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+催生婆s:
+&lt;div id="sup"&gt;
+专业／耐心／认真的编辑是个宝！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;杨福川
+    &lt;/li&gt;
+&lt;li&gt;方舟
+    &lt;/li&gt;
+&lt;li&gt;周筠(Yeka)
+    &lt;/li&gt;
+&lt;li&gt;彭俊
+    &lt;/li&gt;
+&lt;li&gt;赵士威
+    &lt;/li&gt;
+&lt;li&gt;杨绣国
+    &lt;/li&gt;
+&lt;li&gt;何艳
+    &lt;/li&gt;
+&lt;li&gt;...
+    &lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6456"></t>
+<t tx="zoomq.20100116172440.6457">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+架构源自:KM
+&lt;div id="sup"&gt;
+从IT角度公认的KM系统理解公式..
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi8"&gt;
+&lt;img src="pic/KMap-0.8-400.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6458">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+KM:核心理念
+&lt;div id="sup"&gt;
+有知识可以分享,成员有分享的冲动/动力,组织有分享的平台...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+分享
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6459">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+&lt;a href="http://code.google.com/p/openbookproject/"&gt;
+&lt;b class="alert"&gt;O&lt;/b&gt;pen&lt;b class="alert"&gt;B&lt;/b&gt;ook&lt;b class="alert"&gt;P&lt;/b&gt;roject
+&lt;/a&gt;:环境
+&lt;div id="sup"&gt;
+都是公开免费服务...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/obp-lovpy-env.png" usemap="#obp-lovpy-envmap"/&gt;
+&lt;/h2&gt;
+&lt;map id="obp-lovpy-envmap" name="obp-lovpy-envmap"&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/" title="啄木鸟社区" alt="" coords="343,85,428,112"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/OBP" title="啄木鸟:图书计划" alt="" coords="271,133,385,160"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/CPUG" title="华蠎用户组" alt="" coords="420,181,505,208"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPython" title="啄木鸟:图书维基" alt="" coords="231,181,345,208"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/" title="OBP:工程空间" alt="" coords="188,262,287,289"/&gt;
+&lt;area shape="rect" href="http://groups&amp;#45;beta.google.com/group/python&amp;#45;cn" title="CPyUG列表" alt="" coords="311,262,396,289"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/BPUG" title="京蠎用户组" alt="" coords="420,262,505,289"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ZPyUG" title="珠蠎用户组" alt="" coords="529,262,615,289"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/SPUG" title="长蠎用户组" alt="" coords="639,262,724,289"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/LovPyRush" title="OBP:工程维基" alt="" coords="27,310,125,337"/&gt;
+&lt;area shape="rect" href="http://openbookproject.googlecode.com/svn/trunk/LovelyPython/" title="OBP:版本仓库" alt="" coords="149,310,248,337"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/issues/list" title="OBP:提案追踪" alt="" coords="272,310,371,337"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/openbookproject" title="OBP:邮件列表" alt="" coords="272,358,371,385"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/" title="哲思:社区" alt="" coords="508,37,583,64"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.com/" title="哲思:平台" alt="" coords="452,85,527,112"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/mailman/listinfo/zeuux&amp;#45;python" title="哲思:邮件列表" alt="" coords="551,85,652,112"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/UsageIrc" title="IRC频道" alt="" coords="676,85,748,112"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/@@basecamp_dashboard" title="易度" alt="" coords="773,37,845,64"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/projects/599264/todos" title="易度:图书" alt="" coords="772,85,847,112"/&gt;
+&lt;/map&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6460">@ignore
+@language unknown_language
+&lt;map id="G" name="G"&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/" title="啄木鸟社区" alt="" coords="447,114,532,141"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/OBP" title="啄木鸟:图书计划" alt="" coords="327,168,441,194"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/CPUG" title="华蠎用户组" alt="" coords="528,168,613,194"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPython" title="啄木鸟:图书维基" alt="" coords="252,226,367,253"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/" title="OBP:工程空间" alt="" coords="521,340,620,366"/&gt;
+&lt;area shape="rect" href="http://groups&amp;#45;beta.google.com/group/python&amp;#45;cn" title="CPyUG列表" alt="" coords="644,340,729,366"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/BPUG" title="京蠎用户组" alt="" coords="500,226,585,253"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ZPyUG" title="珠蠎用户组" alt="" coords="708,226,793,253"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/SPUG" title="长蠎用户组" alt="" coords="391,226,476,253"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/LovPyRush" title="OBP:工程维基" alt="" coords="604,393,703,420"/&gt;
+&lt;area shape="rect" href="http://openbookproject.googlecode.com/svn/trunk/LovelyPython/" title="OBP:版本仓库" alt="" coords="359,393,457,420"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/issues/list" title="OBP:提案追踪" alt="" coords="481,393,580,420"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/openbookproject" title="OBP:邮件列表" alt="" coords="481,446,580,473"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/" title="哲思:社区" alt="" coords="181,42,256,69"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.com/" title="哲思:平台" alt="" coords="297,114,372,141"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/mailman/listinfo/zeuux&amp;#45;python" title="哲思:邮件列表" alt="" coords="163,340,264,366"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/UsageIrc" title="IRC频道" alt="" coords="201,114,273,141"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/@@basecamp_dashboard" title="易度" alt="" coords="991,226,1063,253"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/projects/599264/todos" title="易度:图书" alt="" coords="916,340,991,366"/&gt;
+&lt;/map&gt;
+</t>
+<t tx="zoomq.20100116172440.6461">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+&lt;a href="http://code.google.com/p/openbookproject/"&gt;
+&lt;b class="alert"&gt;O&lt;/b&gt;pen&lt;b class="alert"&gt;B&lt;/b&gt;ook&lt;b class="alert"&gt;P&lt;/b&gt;roject
+&lt;/a&gt;:SNS驱动
+&lt;div id="sup"&gt;
+都是自然形成的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/obp-lovpy-sns.png" usemap="#obp-lovpy-snsmap"/&gt;
+&lt;/h2&gt;
+
+&lt;map id="obp-lovpy-snsmap" name="obp-lovpy-snsmap"&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/" title="啄木鸟社区" alt="" coords="447,114,532,141"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/OBP" title="啄木鸟:图书计划" alt="" coords="327,168,441,194"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/CPUG" title="华蠎用户组" alt="" coords="528,168,613,194"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPython" title="啄木鸟:图书维基" alt="" coords="252,226,367,253"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/" title="OBP:工程空间" alt="" coords="521,340,620,366"/&gt;
+&lt;area shape="rect" href="http://groups&amp;#45;beta.google.com/group/python&amp;#45;cn" title="CPyUG列表" alt="" coords="644,340,729,366"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/BPUG" title="京蠎用户组" alt="" coords="500,226,585,253"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ZPyUG" title="珠蠎用户组" alt="" coords="708,226,793,253"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/SPUG" title="长蠎用户组" alt="" coords="391,226,476,253"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/LovPyRush" title="OBP:工程维基" alt="" coords="604,393,703,420"/&gt;
+&lt;area shape="rect" href="http://openbookproject.googlecode.com/svn/trunk/LovelyPython/" title="OBP:版本仓库" alt="" coords="359,393,457,420"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/issues/list" title="OBP:提案追踪" alt="" coords="481,393,580,420"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/openbookproject" title="OBP:邮件列表" alt="" coords="481,446,580,473"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/" title="哲思:社区" alt="" coords="181,42,256,69"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.com/" title="哲思:平台" alt="" coords="297,114,372,141"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/mailman/listinfo/zeuux&amp;#45;python" title="哲思:邮件列表" alt="" coords="163,340,264,366"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/UsageIrc" title="IRC频道" alt="" coords="201,114,273,141"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/@@basecamp_dashboard" title="易度" alt="" coords="991,226,1063,253"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/projects/599264/todos" title="易度:图书" alt="" coords="916,340,991,366"/&gt;
+&lt;/map&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6462">@ignore
+@language unknown_language
+&lt;map id="G" name="G"&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/" title="啄木鸟社区" alt="" coords="447,114,532,141"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/OBP" title="啄木鸟:图书计划" alt="" coords="327,168,441,194"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/CPUG" title="华蠎用户组" alt="" coords="528,168,613,194"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPython" title="啄木鸟:图书维基" alt="" coords="252,226,367,253"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/" title="OBP:工程空间" alt="" coords="521,340,620,366"/&gt;
+&lt;area shape="rect" href="http://groups&amp;#45;beta.google.com/group/python&amp;#45;cn" title="CPyUG列表" alt="" coords="644,340,729,366"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/BPUG" title="京蠎用户组" alt="" coords="500,226,585,253"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/ZPyUG" title="珠蠎用户组" alt="" coords="708,226,793,253"/&gt;
+&lt;area shape="rect" href="http://wiki.woodpecker.org.cn/moin/SPUG" title="长蠎用户组" alt="" coords="391,226,476,253"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/LovPyRush" title="OBP:工程维基" alt="" coords="604,393,703,420"/&gt;
+&lt;area shape="rect" href="http://openbookproject.googlecode.com/svn/trunk/LovelyPython/" title="OBP:版本仓库" alt="" coords="359,393,457,420"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/issues/list" title="OBP:提案追踪" alt="" coords="481,393,580,420"/&gt;
+&lt;area shape="rect" href="http://groups.google.com/group/openbookproject" title="OBP:邮件列表" alt="" coords="481,446,580,473"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/" title="哲思:社区" alt="" coords="181,42,256,69"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.com/" title="哲思:平台" alt="" coords="297,114,372,141"/&gt;
+&lt;area shape="rect" href="http://www.zeuux.org/mailman/listinfo/zeuux&amp;#45;python" title="哲思:邮件列表" alt="" coords="163,340,264,366"/&gt;
+&lt;area shape="rect" href="http://code.google.com/p/openbookproject/wiki/UsageIrc" title="IRC频道" alt="" coords="201,114,273,141"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/@@basecamp_dashboard" title="易度" alt="" coords="991,226,1063,253"/&gt;
+&lt;area shape="rect" href="http://obp.everydo.com/projects/599264/todos" title="易度:图书" alt="" coords="916,340,991,366"/&gt;
+&lt;/map&gt;
+</t>
+<t tx="zoomq.20100116172440.6463">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+&lt;a href="http://code.google.com/p/openbookproject/"&gt;
+&lt;b class="alert"&gt;O&lt;/b&gt;pen&lt;b class="alert"&gt;B&lt;/b&gt;ook&lt;b class="alert"&gt;P&lt;/b&gt;roject
+&lt;/a&gt;:图书形成
+&lt;div id="sup"&gt;
+都是自然演变的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/obp-lovpy-flow.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6464">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+&lt;a href="http://code.google.com/p/openbookproject/"&gt;
+&lt;b class="alert"&gt;O&lt;/b&gt;pen&lt;b class="alert"&gt;B&lt;/b&gt;ook&lt;b class="alert"&gt;P&lt;/b&gt;roject
+&lt;/a&gt;:角色参与
+&lt;div id="sup"&gt;
+都是自然演变的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="pic/obp-lovpy-flowact.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6465">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书的根本原因::
+&lt;div id="sup"&gt;
+一切向靠谱，并坚持下来！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+靠谱
+&lt;/h2&gt;
+&lt;h2 id="takahashi3"&gt;
+Kaopulity
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6466">&lt;div class="slide"&gt;
+&lt;h1&gt;
+靠谱::解析
+&lt;div id="sup"&gt;
+令一个组织内所有过程都可用！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;b class="alert"&gt;K&lt;/b&gt;eep
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;a&lt;/b&gt;ll
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;o&lt;/b&gt;f
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;p&lt;/b&gt;rocesses
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;u&lt;/b&gt;sab&lt;b class="alert"&gt;lity&lt;/b&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100116172440.6467">&lt;div class="slide"&gt;
+&lt;h1&gt;
+靠谱::什么是过程?
+&lt;div id="sup"&gt;
+任何一个有目标／限制／条件的行动组合都是过程!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+行动的
+&lt;br/&gt;
+顺序组合
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6468">&lt;div class="slide"&gt;
+&lt;h1&gt;
+靠谱::什么是可用?
+&lt;div id="sup"&gt;
+全知／全认／全用／可善！ AKA~= All Know All!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+AKA
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6469">&lt;div class="slide"&gt;
+&lt;h1&gt; 
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+小结 
+&lt;div id="sup"&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi3"&gt;
+&lt;li&gt;FLOSS工具的高效使用&lt;/li&gt;
+
+&lt;li&gt;动力源自社区&lt;/li&gt;
+
+&lt;li&gt;Kaopulity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6470">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+是也乎::
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://zoomquiet.org"&gt;
+&lt;img src="pic/50ren-ZoomQuiet-090901-1kw.png"/&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6471">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+提问时间;-)
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+Q&amp;A
+&lt;/h2&gt;
+&lt;center&gt;
+&lt;a href="http://www.zoomquiet.org/share/s5/090913-lovpy/"&gt;
+http://www.zoomquiet.org/share/s5/090913-lovpy/
+&lt;/a&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6472">&lt;div class="slide"&gt;
+&lt;h1&gt; 
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+文档版本 
+&lt;div id="sup"&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;修订历史::
+    &lt;ul&gt;
+        &lt;li&gt;090919 广州技术沙龙No.2 增补礼品问题&lt;/li&gt;
+        &lt;li&gt;090908 增补成书小史&lt;/li&gt;
+        &lt;li&gt;090903 增补图片!&lt;/li&gt;
+        &lt;li&gt;090902 增补流程图谱&lt;/li&gt;
+        &lt;li&gt;090901 增补zeuux新logo&lt;/li&gt;
+        &lt;li&gt;090831 确定演示结构&lt;/li&gt;
+        &lt;li&gt;090828 创建&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;img src="icon/CPUGlogo-100.png"/&gt;
+ 资深大妈:: &lt;a href="mailto:Zoom.Quiet@gmail.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6473">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::KDay 故事先
+&lt;div id="sup"&gt;
+源于在SINA中的真实工作实例...
+同时&lt;a href="http://blog.donews.com/lemur/archive/2005/12/17/660973.aspx"&gt;
+"Python源码剖析"&lt;/a&gt;开始连载
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/KarrigellWebDev"&gt;
+2005-12
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6474">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+杨福川出现
+&lt;div id="sup"&gt;
+本来是讨论MySQL 相关的图书...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+2006-12-29
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6475">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+    &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2007-01-06"&gt;
+    BPUG第14次.豆瓣现场会课
+    &lt;/a&gt;
+&lt;div id="sup"&gt;
+首次公开讨论原创图书,1.20号周筠见面确认计划
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://www.zeuux.org/pipermail/zeuux-python/2007-January/034222.html"&gt;
+2007-01-06
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    http://wiki.woodpecker.org.cn/moin/ObpBroadview
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6476">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+    创立OBP入口
+&lt;div id="sup"&gt;
+首次将出版社引入社区...方舟非常重要...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/ObpBroadview"&gt;
+2007-01-11
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6477">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+    &lt;a href="http://groups.google.com/group/CPyUG/browse_thread/thread/db96d586ad263a82"&gt;
+    "建议给python新手指个明路..."
+    &lt;/a&gt;
+&lt;div id="sup"&gt;
+小白的心声，激发了俺 Mind Hacking 的欲望!
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/ObpBroadview/2007-02-01"&gt;
+2007-02-01
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+080601-pycode.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6478">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+CPyUG总第20次会课
+&lt;div id="sup"&gt;
+，方舟出现佐证原创图书计划...首本!
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2007-08-04"&gt;
+2007-08-04
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+080601-pycode.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6479">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+开始波折...
+&lt;div id="sup"&gt;
+不断的调整图书内容结构，深深体会生产的滋味...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPyEditorRule"&gt;
+2008-03-30
+&lt;/a&gt;&lt;br/&gt;
+&lt;img src="pic/hopes_456x224_scrot.png"/&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6480">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+首部原创中文Python相关技术图书出版
+&lt;div id="sup"&gt;
+可恨哪...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi4"&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/ObpBroadview/2007-02-01"&gt;
+2008-06-01
+&lt;/a&gt;
+&lt;img src="pic/080601-pycode.jpg"/&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+090902-lovpy.jpg
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6481">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+&lt;a href="http://code.google.com/p/openbookproject/source/detail?r=2064"&gt;
+r2062
+&lt;/a&gt; 是交付版本...
+&lt;div id="sup"&gt;
+因为封面以及其它...继续坚持...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/LovPyRush"&gt;
+2008-12-14
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6482">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+出了!&lt;a href="http://www.china-pub.com/195771"&gt;
+2009-09-02
+&lt;/a&gt;
+
+&lt;div id="sup"&gt;
+是也乎...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi4"&gt;
+&lt;img src="pic/090902-lovpy.jpg"/&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6483">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+反问::
+&lt;div id="sup"&gt;
+可爱的Python 图书奖品
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+Pythonic
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+&lt;center&gt;
+&lt;a href="http://www.zoomquiet.org/share/s5/090913-lovpy/"&gt;
+http://www.zoomquiet.org/share/s5/090913-lovpy/
+&lt;/a&gt;
+&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6484">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;img src="icon/lovpy-icon-64x64.png"/&gt;
+成书小传::
+老封面...
+&lt;div id="sup"&gt;
+封面也是非常周折...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi5"&gt;
+&lt;img src="pic/080429-lovpy-bookface_450h.png"/&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100116172440.6485"></t>
+<t tx="zoomq.20100116172440.6486"></t>
+<t tx="zoomq.20100116172440.6663">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="editor" content="Leo 4.6.3 final"/&gt;
+&lt;!-- metadata --&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.1" /&gt;
+&lt;meta name="presdate" content="20050728" /&gt;
+&lt;meta name="author" content="Eric A. Meyer" /&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;!-- configuration parameters --&gt;
+&lt;meta name="defaultView" content="slideshow" /&gt;
+&lt;meta name="controlVis" content="hidden" /&gt;
+&lt;!-- style sheet links --&gt;
+&lt;link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" /&gt;
+&lt;link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+&lt;!-- S5 JS --&gt;
+&lt;script src="ui/default/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div class="layout"&gt;
+&lt;div id="controls"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="currentSlide"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100116172440.6664">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+img {border:0px;}    
+td { font-size: 80%; }
+H1 div#sup{
+    position :  absolute; top:0;right:3%;
+    margin-top: -20px;
+    font-size: 12px; font-style : italic ;
+    color: #385775;
+}
+li sup{display :  inline;
+    font-size: 80%; font-style : italic ;}
+li sub{display :  inline;
+    font-size: 80%; font-style : italic ;
+    color: #eeeeee; }
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for esp.*/
+b.alert{
+    color:#F5003D;
+}
+b{
+    font-size: 115%;
+}
+
+
+/*Zoomq::090401 ziped
+snap#takahashi {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+*/
+</t>
+<t tx="zoomq.20100116172440.6665">.incremental, .incremental *, .incremental *:after {color: #385775; visibility: visible;}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for slide*/
+.slide .current {color: #F8B73E;}
+.slide H1{color:#B7B7DC;}
+DIV#slide0 h3{
+    font-size: 300%;
+}
+</t>
+<t tx="zoomq.20100116172440.6666">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+takahashi ~ 高桥流 大字演示
+*/
+#takahashi0 {
+    font-size: 120%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi1 {
+    font-size: 150%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi2 {
+    font-size: 200%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi3 {
+    font-size: 300%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 10px 0 0 0;
+    padding: 0;
+    }
+#takahashi4 {
+    font-size: 400%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 20px 0 0 0;
+    padding: 0;
+    }
+#takahashi5 {
+    font-size: 500%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 30px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi {
+    font-size: 600%;font-weight :  bolder;
+    text-align: center; 
+    word-spacing: 0px;letter-spacing: -4px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi7 {
+    font-size: 700%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi8 {
+    font-size: 800%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi9 {
+    font-size: 1000%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for UL*/
+ul#takahashi{
+    font-size: 180%;
+    letter-spacing:-2px;
+}
+ul.tinylist{
+    font-size: 80%;
+    letter-spacing:-2px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for PRE */
+PRE.takahashi{
+    font-size: 150%;
+}
+
+</t>
+<t tx="zoomq.20100116172440.6668">&lt;div class="slide"&gt;
+&lt;h1&gt; 免责聲明
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://wiki.s.kingsoft.net/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;参考所有同好行为总结而得
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100117213352.5394"></t>
+<t tx="zoomq.20100117213352.5396">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+范畴::
+&lt;div id="sup"&gt;
+现状/体验/建议
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;sup&gt;+5' &lt;/sup&gt;Trac 现状&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+15'&lt;/sup&gt;Trac 体验&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+15'&lt;/sup&gt;KTRAC 经验&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+5' &lt;/sup&gt;Ticket 翻译讨论&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+20'&lt;/sup&gt;问答&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5398">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+现状
+&lt;div id="sup"&gt;
+国际形势
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-16-153317_trends_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5400">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户列表...
+&lt;div id="sup"&gt;
+内部的没有公开....
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;/br&gt;
+
+&lt;h2&gt;
+&lt;a href="http://trac.edgewall.org/wiki/TracUsers"&gt;
+http://trac.edgewall.org/wiki/TracUsers
+&lt;/a&gt;
+&lt;/br&gt;
+&lt;/h2&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-user-nasa_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5402">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:jQuery
+&lt;div id="sup"&gt;
+知名Ajax 框架社区
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214519_user-jquery_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5404">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:CherryPy
+&lt;div id="sup"&gt;
+老牌Py web框架社区
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214614_user-cherrypy_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5406">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:Twisted
+&lt;div id="sup"&gt;
+电信级网络协议框架!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214648_user-twisted_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5408">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:Plone
+&lt;div id="sup"&gt;
+企业级CMS 平台!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214724_user-plone_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5410">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:OLPC
+&lt;div id="sup"&gt;
+每童一电脑,上网教育本原创集团!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214805_user-olpc_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5412">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:Django
+&lt;div id="sup"&gt;
+最火Py Web 应用框架
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214853_user-djano_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5414">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:Pidgin (Gaim)
+&lt;div id="sup"&gt;
+制式多协议即时通讯工具
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-214933_user-pidgin_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5416">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:VirtualBox
+&lt;div id="sup"&gt;
+最易用虚拟机作品!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-215149_user-virtualbox_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+2010-01-22-194900_user-sikuli_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5418">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+中国企业用户
+&lt;div id="sup"&gt;
+早已在列表中吼过...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2007-01-06"&gt;
+    豆瓣&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt; 好看薄&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://contrib.exoweb.net/wiki/CodeReviewPlugin"&gt;
+    ExoWeb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; 华美汉盛&lt;/li&gt;
+&lt;li&gt; ...&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5420">&lt;div class="slide"&gt;
+&lt;h1&gt;
+是也乎::
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://zoomquiet.org"&gt;
+&lt;img src="icon/50ren-ZoomQuiet-s5-v800.png"/&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5422">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知5
+&lt;div id="sup"&gt;
+过程
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+具体咋做
+&lt;br/&gt;
+How
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5424">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队,不背黑锅,就得！
+&lt;div id="sup"&gt;
+必须明确的工程元素!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+&lt;b class="alert"&gt;5W1H&lt;/b&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5426">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+本质行为
+&lt;div id="sup"&gt;
+将维基的一切特性都用上了...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+WiKi
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5428">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+Trac 自我定义
+&lt;div id="sup"&gt;
+...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-232621_trac-define_scrot.png"/&gt;
+&lt;/center&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;最轻量级Web项目管理环境
+    &lt;/li&gt;
+&lt;li&gt;帮助团队写出&lt;b class="alert"&gt;伟大&lt;/b&gt;软件
+    &lt;/li&gt;
+&lt;li&gt;尽可能不影响原有文化和流程
+    &lt;/li&gt;
+&lt;li&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+包含维基和提案系统的
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5430">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+核心功能,,,
+&lt;div id="sup"&gt;
+相互关联的!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;TracWiki
+    &lt;/li&gt;
+&lt;li&gt;TracLinks
+    &lt;/li&gt;
+&lt;li&gt;TracTickets
+    &lt;/li&gt;
+&lt;li&gt;TracReports
+    &lt;/li&gt;
+&lt;li&gt;TracTimeline
+    &lt;/li&gt;
+&lt;li&gt;TracRoadmap
+    &lt;/li&gt;
+&lt;li&gt;TracSourceBrowse
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5432">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+默认流程
+&lt;div id="sup"&gt;
+for 0.10
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/trac-original-workflow.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5434">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+默认流程+
+&lt;div id="sup"&gt;
+for 0.11
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/trac-basic-workflow.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5436">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+超级插件社区
+&lt;div id="sup"&gt;
+和FireFox 一样简洁的接口引发了&gt;..
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-17-234614_trac-hacks_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100117213352.5437">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+日常使用
+&lt;div id="sup"&gt;
+绝对的单纯!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ol class="incremental" id="takahashi2"&gt;
+&lt;li&gt;login
+    &lt;/li&gt;
+&lt;li&gt;{7} My Tickets
+    &lt;/li&gt;
+&lt;li&gt;fixing Tickets
+    &lt;/li&gt;
+&lt;li&gt;...
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5439">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+覆盖全部任务生命周期
+&lt;div id="sup"&gt;
+除了文档管理...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/cmatrix_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5441">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+运营/客服/产品-&gt;问题/缺陷/需求
+&lt;div id="sup"&gt;
+原始记录
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+Ticket
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5443">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+开发修订之
+&lt;div id="sup"&gt;
+代码和任务通过TracWiki 字符串自然关联了起来！
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+TracLinks
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5445">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+测试确认之
+&lt;div id="sup"&gt;
+Bitten 自动化集成工具...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://bitten.edgewall.org/"&gt;
+Bitten
+&lt;/a&gt;
+&lt;br/&gt;
+&lt;img src="http://www.edgewall.org/gfx/bitten_logo_small.png"/&gt;
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5447">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+运营部署之
+&lt;div id="sup"&gt;
+各种版本系统都可绑定!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+版本管理
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5451">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+覆盖全部任务生命周期
+&lt;div id="sup"&gt;
+除了文档管理...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/cmatrix_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5453">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+传票号
+&lt;div id="sup"&gt;
+TracWiki 的宏
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;b class="alert"&gt;#&lt;/b&gt;123
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5455">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+变更号
+&lt;div id="sup"&gt;
+TracWiki 的宏
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+&lt;b class="alert"&gt;[&lt;/b&gt;
+123
+&lt;b class="alert"&gt;]&lt;/b&gt;
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5457">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+金山的Trac 体验
+&lt;div id="sup"&gt;
+现状...运营中实例
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+37+
+&lt;/h2&gt;
+&lt;h2 id=""&gt;
+SVN仓库45
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5459">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+Ticket
+&lt;div id="sup"&gt;
+    怎么翻译?
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+传票
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5461">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs
+&lt;div id="sup"&gt;
+Trac Enhancement Proposals 贡献集
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+17+
+&lt;/h2&gt;
+
+
+    &lt;div class="handout"&gt;
+2010-01-18-211743_ktrac-teps_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100117213352.5463">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+实例传票
+&lt;div id="sup"&gt;
+用起来的各种内部字段
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-214840_kspeg-2246_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-215437_teps-ttt_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5475">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+Trac 体验小结:
+&lt;div id="sup"&gt;
+总之一个足够靠谱好用的项目管理平台!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;社区稳固,插件活跃
+    &lt;/li&gt;
+&lt;li&gt;各种规模团队皆可
+    &lt;/li&gt;
+&lt;li&gt;基于Wiki,和代码绑定自然
+    &lt;/li&gt;
+&lt;li&gt;关注协同,重视交流
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5489">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs 发布
+&lt;div id="sup"&gt;
+Trac Enhancement Proposals 贡献集
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-214200_trac-teps_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5491">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+金山内部KTRAC实例
+&lt;div id="sup"&gt;
+基本KIS研发团队90%覆盖
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-211950_ktracs_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+2010-01-18-212359_ktractions_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5493">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+金山内部KTRAC实例活跃情况
+&lt;div id="sup"&gt;
+不平均
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-212359_ktractions_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+2010-01-18-212359_ktractions_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5498">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:MMV 
+&lt;div id="sup"&gt;
+里程碑复合视图
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-212653_mmv-0_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5500">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:MMV 
+&lt;div id="sup"&gt;
+里程碑复合视图
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-212723_mmv-1_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5502">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:MMV 
+&lt;div id="sup"&gt;
+里程碑复合视图
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-212752_mmv-2_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+2010-01-18-214622_kspeg-reports_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5504">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KSPEG 报表
+&lt;div id="sup"&gt;
+随用随补
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-18-214622_kspeg-reports_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5506">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+&lt;img src="img/2010-01-18-220846_kspeg-stages_scrot.png"/&gt;
+&lt;div id="sup"&gt;
+在金山成为推荐通用流程,通过传票天然状态和自定Stage 阶段状态结合
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+
+&lt;img src="img/trac-stage-enhancement-0.5.4.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-231122_bitten-doxygen_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5508">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:TTT
+&lt;div id="sup"&gt;
+传票模板
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-215437_teps-ttt_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-220329_ktrac-teps-tac_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5510">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KSPEG:优先级
+&lt;div id="sup"&gt;
+扩展的6级优先
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-215631_kspeg-Priority_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5512">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KSPEG:里程碑
+&lt;div id="sup"&gt;
+历史使用!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-212851_kspeg-verions_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-215911_kspeg-rpn-risklevels_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5514">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KSPEG:严重度
+&lt;div id="sup"&gt;
+历史使用!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-215911_kspeg-rpn-risklevels_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-215911_kspeg-rpn-risklevels_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5516">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:TAC
+&lt;div id="sup"&gt;
+自动补全,结合LDAP的
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-220329_ktrac-teps-tac_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5518">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:mole
+&lt;div id="sup"&gt;
+复合办公引导环境~Multiform official lead environment
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+
+&lt;img src="img/2010-01-18-222054_ktrac-mole_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-222054_ktrac-mole_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5520">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:frog
+&lt;div id="sup"&gt;
+新特性实现进度综合视图~Features release observe garden 
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-222540_ktrac-frog_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+20100118-TracFrogRequirement-Flow.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5522">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:frog 
+&lt;div id="sup"&gt;
+支持流程
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/20100118-TracFrogRequirement-Flow.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-224236_ktrac-ui_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5524">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:UI
+&lt;div id="sup"&gt;
+图片仓库
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-224236_ktrac-ui_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+2010-01-18-224408_ktrac-ui-img_scrot.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5526">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:UI
+&lt;div id="sup"&gt;
+图片仓库
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-18-224408_ktrac-ui-img_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+bm4trac-new-flow2-base_v0.9.png
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5528">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+TEPs:BM4T
+&lt;div id="sup"&gt;
+通过MSG服务,将异种系统进行互联
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+&lt;img src="img/bm4trac-new-flow2-base_v0.9.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118204342.5530">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KTRAC体验小结:
+&lt;div id="sup"&gt;
+真的是看团队而言了!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;想用,就用起来了!
+    &lt;/li&gt;
+&lt;li&gt;要和具体流程结合,就结合了!
+    &lt;/li&gt;
+&lt;li&gt;不想用,怎么也不会用的...
+    &lt;ul class="incremental" &gt;
+    &lt;li&gt;维基太难用...
+        &lt;/li&gt;
+    &lt;li&gt;界面太难看...
+        &lt;/li&gt;
+    &lt;li&gt;好复杂,学不会...
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118231126.5505">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+Bitten之文档
+&lt;div id="sup"&gt;
+Doxygen
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+
+&lt;img src="img/2010-01-18-231122_bitten-doxygen_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118231126.5507">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+Bitten之单元测试
+&lt;div id="sup"&gt;
+Bitten 娘家情况
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;center&gt;
+
+&lt;img src="img/2010-01-18-231706_bitten-builds_scrot.png"/&gt;
+&lt;/center&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118231126.5509">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KTRAC欠缺...
+&lt;div id="sup"&gt;
+中国人特殊的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;Gantt
+    &lt;/li&gt;
+&lt;li&gt;月历
+    &lt;/li&gt;
+&lt;li&gt;人力统计
+    &lt;/li&gt;
+&lt;li&gt;批量变更
+    &lt;/li&gt;
+&lt;li&gt;Scrum
+    &lt;/li&gt;
+&lt;li&gt;Kanban
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100118233330.5511">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KTRAC进一步分享
+&lt;div id="sup"&gt;
+珠三角技术沙龙No.6 珠海站
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;插件开发
+    &lt;sup&gt;&lt;a href="http://trac.edgewall.org/wiki/TracDev/ComponentArchitecture"&gt;TCA&lt;/a&gt;&lt;/sup&gt;
+    &lt;/li&gt;
+&lt;li&gt;流程定制
+    &lt;/li&gt;
+&lt;li&gt;XML-RPC
+    &lt;/li&gt;
+&lt;li&gt;...
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100119093035.5513">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+自然绑定:timeline
+&lt;div id="sup"&gt;
+收集各种项目变更信息
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-19-102227_bind-timeline_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100119093035.5515">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+自然绑定:Changeset
+&lt;div id="sup"&gt;
+通过TracWiki 的 TracLinks
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-19-102241_bind-chnageset_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100119093035.5517">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+自然绑定:Ticket
+&lt;div id="sup"&gt;
+通过TracWiki 的 TracLinks
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;center&gt;
+&lt;img src="img/2010-01-19-102318_bind-ticket_scrot.png"/&gt;
+&lt;/center&gt;
+
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100122195009.5519">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+用户:&lt;a href="http://sikuli.csail.mit.edu/trac/wiki/HelloWorld"&gt;
+Sikuli
+&lt;/a&gt;
+&lt;div id="sup"&gt;
+用截屏来编辑的脚本语言
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src="img/2010-01-22-194900_user-sikuli_scrot.png"/&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
 </t>
 </tnodes>
 </leo_file>

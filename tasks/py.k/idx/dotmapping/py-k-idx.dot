@@ -1,6 +1,6 @@
 digraph mainmap {
 /*图片生成命令:: need:: apt-get install graphviz-cairo
-$ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
+$ dot py-k-idx.dot -Tpng -o py-k-idx.png -Tcmapx -o py-k-idx.map
         style=filled,
         fillcolor=lightyellow,
         fontname="VeraSansYuanTi-Regular.ttf",        
@@ -8,7 +8,7 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         ratio=compress,fill size="12,9",
 */
     graph [label="py.kingsoft.net 网站索引图谱 {by Zoom.Quiet}",
-        labeljust="r",labelloc="t",
+        labeljust="r",labelloc="b",
         fontsize=13.0,
         fontname="WenQuanYi Zen Hei",
         ranksep=0.2,center=1,ratio=compress,
@@ -31,42 +31,46 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
     TB       [label="Astinus",URL="demo/ast/"];
     AMB      [label="Amoebar",URL="demo/amb/"];
     */
-    pyk      [label="py.kingsoft.net 金山Python爱好者协会",shape=plaintext,];
+    pyk      [label="py.kingsoft.net 金山Python爱好者协会",shape=note,];
     kspeg    [label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0">  
             <TR><TD><IMG src="res/kspeg-logo-s5-72.png"/></TD></TR>
-            </TABLE>>,URL="http://groups.google.com/group/kspeg"
+            </TABLE>>,URL="http://www.zoomquiet.org/share/s5/080524-easy-spe/"
             ,shape=box3d,fillcolor=white];
 
     author   [label="有",shape=plaintext];
     include  [label="含",shape=plaintext];
     
-    ZQ       [label="Zoom.Quiet",shape=egg,URL="http://zoomquiet.org"];
+    LJ       [label="richard.liao",shape=egg,fillcolor=none,
+        URL="http://trac-hacks.org/wiki/richard"];
+    ZQ       [label="Zoom.Quiet",shape=egg,fillcolor=none,
+        URL="http://zoomquiet.org"];
         zqblog   [label="pythonic livin\nby PyBlosxom",URL="/zq/pyb/"];
         zqscrap  [label="ScrapBook\n网页收集分享",shape=tab,URL="#"];
             zqfloss   [label="FLOSS",shape=tab,URL="/zq/scrap/floss/"];
             zqskm    [label="SKM",shape=tab,URL="/zq/scrap/skm/"];
     blog     [label="Blogging",shape=tab,URL="#"];
-    WPWIKI   [label="Wiki\nWoodpecker.org.cn",URL="/wiki"];
+    WPWIKI   [label="Wiki\nWoodpecker.org.cn",fillcolor=gray80,URL="/wiki"];
     
     DEMO     [label="作品集锦",shape=tab,URL="#"];
         ktrac    [label="KTRAC",URL="http://trac-hacks.org/wiki/KTRAC"];
-        TEPs     [label="TEPs\n~Trac改进集",URL="/ktrac/"];
-        MSG      [label="MSG\n消息服务精灵",URL="/msg/"];
+        TEPs     [label="TEPs\n~Trac改进集",color=tomato,
+            URL="/ktrac/"];
+        MSG      [label="MSG\n消息服务精灵",fillcolor=gray80,URL="/msg/"];
 
     KM      [label="知识分享",shape=tab,URL="#"];
     OBP      [label="O.B.P",shape=tab,URL="http://code.google.com/p/openbookproject/"];
     pydoc    [label="Python官方文档",shape=tab,URL="#"];
         pydocs   [label="Python Document\nPy文档",shape=tab,URL="/obp/pydocs/"];
-            pydocs26 [label="Py文档\nv2.6",URL="/obp/pydocs/26/"];
-            pydocs3k [label="Py文档\nv3.0",URL="/obp/pydocs/3000/"];
+            pydocs26 [label="Py文档\nv2.6",fillcolor=gray80,URL="/obp/pydocs/26/"];
+            pydocs3k [label="Py文档\nv3.0",fillcolor=gray80,URL="/obp/pydocs/3000/"];
             pytut    [label="Python Tutorial\nPy手册中文版",shape=tab,URL="/obp/pytut/"];
-                pytut25  [label="Py手册中文版\nv2.5",URL="/obp/pytut/25/"];
-                pytut26  [label="Py手册中文版\nv2.6",URL="/obp/pytut/26/"];
-                pytut3k  [label="Py手册中文版\nv3.0",URL="/obp/pytut/3000/"];
+                pytut25  [label="Py手册中文版\nv2.5",fillcolor=gray80,URL="/obp/pytut/25/"];
+                pytut26  [label="Py手册中文版\nv2.6",fillcolor=gray80,URL="/obp/pytut/26/"];
+                pytut3k  [label="Py手册中文版\nv3.0",fillcolor=gray80,URL="/obp/pytut/3000/"];
     pybook   [label="Py技术图书",shape=tab,URL="#"];
         web2py   [label="web2py手册中文版",URL="/obp/web2py/"];
-        tpip     [label="TPiP中文版",URL="/obp/tpip/"];
-        leodoc   [label="Leo手册中文版",URL="/obp/tpip/"];
+        tpip     [label="TPiP中文版",fillcolor=gray80,URL="/obp/tpip/"];
+        leodoc   [label="Leo手册中文版",fillcolor=gray80,URL="/obp/tpip/"];
 
     /*服务关系
     DEMO->TB;
@@ -77,7 +81,7 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
     pyk->include    [label="发布",];
     include->DEMO;
         DEMO->ktrac->TEPs;
-        DEMO->MSG;    
+        DEMO->MSG   [label="准备ing...",];
     include->KM;
         KM->blog->zqblog;
         KM->WPWIKI [label="只读镜像",];
@@ -89,9 +93,11 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
                 pybook->web2py;
                 pybook->tpip;
                 pybook->leodoc;
+
     pyk->kspeg      [label="运维",];
     kspeg->author->ZQ;
-        ZQ->zqblog;
+        ZQ->zqblog  [label="分享",];
         ZQ->zqscrap->zqfloss; zqscrap->zqskm;
+        author->LJ;
  }
 
