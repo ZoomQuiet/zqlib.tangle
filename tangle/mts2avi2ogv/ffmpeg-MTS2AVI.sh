@@ -10,7 +10,7 @@ while [ $ofFROM -le $offTO ]
     #echo 'parsing:: '$SEEDWORD'_'$i'.html'
     echo "trying:: 0$ofFROM.MTS"
     vname=0$ofFROM
-    #ffmpeg -i $vname.MTS -b 18000k -ac 2 -ab 192k -deinterlace -s 640x350 $vname.avi 
+    ffmpeg -i MTS/$vname.MTS -b 18000k -ac 2 -ab 192k -deinterlace -s 640x350 avi/$vname.avi 
     
     echo #vname
     
