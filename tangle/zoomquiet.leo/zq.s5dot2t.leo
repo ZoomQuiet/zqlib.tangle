@@ -2,16 +2,402 @@
 <?xml-stylesheet ekr_test?>
 <leo_file>
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5">
-	<global_window_position top="57" left="1282" height="746" width="1278"/>
+<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
+	<global_window_position top="50" left="50" height="500" width="700"/>
 	<global_log_window_position top="0" left="0" height="0" width="0"/>
 </globals>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="zoomq.20080621102004.2" str_leo_pos="1,0,2,1,9,0"><vh>@chapters</vh></v>
-<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
-<v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
+<v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
+<v t="zoomq.20091204150544.8544" a="E"><vh>KM</vh>
+<v t="zoomq.20100312132537.5535" a="E"><vh>维基思考</vh>
+<v t="zoomq.20100312132537.10639"><vh>不要使用维基!</vh></v>
+<v t="zoomq.20100312132537.5536"><vh>共享的阻碍</vh></v>
+</v>
+<v t="zoomq.20091204150544.8545"><vh>QuickInKM</vh>
+<v t="zoomq.20091204150544.8546"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8547"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8548"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8549"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8550"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8551"><vh>知识管理</vh>
+<v t="zoomq.20091204150544.8552"><vh>KM</vh></v>
+<v t="zoomq.20091204150544.8553"><vh>K?</vh></v>
+<v t="zoomq.20091204150544.8554"><vh>KM?</vh></v>
+<v t="zoomq.20091204150544.8555"><vh>奥苏贝尔</vh></v>
+<v t="zoomq.20091204150544.8556"><vh>教育</vh></v>
+<v t="zoomq.20091204150544.8557"><vh>教育进化</vh></v>
+<v t="zoomq.20091204150544.8558"><vh>知识陀螺</vh></v>
+<v t="zoomq.20091204150544.8559"><vh>信息生命</vh></v>
+<v t="zoomq.20091204150544.8560"><vh>KM陀螺</vh></v>
+<v t="zoomq.20091204150544.8561"><vh>KM系统</vh></v>
+<v t="zoomq.20091204150544.8562"><vh>知识维度</vh></v>
+<v t="zoomq.20091204150544.8563"><vh>WeKnow</vh></v>
+<v t="zoomq.20091204150544.8564"><vh>WeKnow2</vh></v>
+<v t="zoomq.20091204150544.8565"><vh>WeKnow3</vh></v>
+<v t="zoomq.20091204150544.8566"><vh>WeKnow0</vh></v>
+</v>
+<v t="zoomq.20091204150544.8567"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8568"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8569"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8570"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8571"><vh>KMnKB</vh>
+<v t="zoomq.20091204150544.8572"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8573"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8574"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8575"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8576"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8577"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.8578"><vh>知识库</vh>
+<v t="zoomq.20091204150544.8579"><vh>KB?</vh></v>
+<v t="zoomq.20091204150544.8580"><vh>KB!</vh></v>
+<v t="zoomq.20091204150544.8581"><vh>我们的KB</vh></v>
+<v t="zoomq.20091204150544.8582"><vh>KB作用</vh></v>
+<v t="zoomq.20091204150544.8583"><vh>JIRA</vh></v>
+<v t="zoomq.20091204150544.8584"><vh>JIVE</vh></v>
+<v t="zoomq.20091204150544.8585"><vh>JIVEvs</vh></v>
+<v t="zoomq.20091204150544.8586"><vh>Wiki</vh></v>
+<v t="zoomq.20091204150544.8587"><vh>Wiki vs</vh></v>
+<v t="zoomq.20091204150544.8588"><vh>BBS</vh></v>
+<v t="zoomq.20091204150544.8589"><vh>成本</vh></v>
+</v>
+<v t="zoomq.20091204150544.8590"><vh>知识管理</vh>
+<v t="zoomq.20091204150544.8591"><vh>KM</vh></v>
+<v t="zoomq.20091204150544.8592"><vh>KM陀螺</vh></v>
+<v t="zoomq.20091204150544.8593"><vh>知识陀螺</vh></v>
+<v t="zoomq.20091204150544.8594"><vh>K?</vh></v>
+<v t="zoomq.20091204150544.8595"><vh>KM?</vh></v>
+<v t="zoomq.20091204150544.8596"><vh>奥苏贝尔</vh></v>
+<v t="zoomq.20091204150544.8597"><vh>教育</vh></v>
+<v t="zoomq.20091204150544.8598"><vh>教育进化</vh></v>
+<v t="zoomq.20091204150544.8599"><vh>信息生命</vh></v>
+<v t="zoomq.20091204150544.8600"><vh>KM系统</vh></v>
+<v t="zoomq.20091204150544.8601"><vh>WeKnow</vh></v>
+<v t="zoomq.20091204150544.8602"><vh>WeKnow2</vh></v>
+<v t="zoomq.20091204150544.8603"><vh>WeKnow3</vh></v>
+<v t="zoomq.20091204150544.8604"><vh>WeKnow0</vh></v>
+</v>
+<v t="zoomq.20091204150544.8605"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8606"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8607"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8608"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8708"><vh>KsKM</vh>
+<v t="zoomq.20091204150544.8709"><vh>_stuff</vh>
+<v t="zoomq.20091204150544.8710"><vh>character</vh></v>
+<v t="zoomq.20091204150544.8711"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/index.html</vh>
+<v t="zoomq.20091204150544.8712"><vh>index declarations</vh></v>
+<v t="zoomq.20091204150544.8713"><vh>HTML</vh>
+<v t="zoomq.20091204150544.8714"><vh>HEAD</vh></v>
+<v t="zoomq.20091204150544.8715"><vh>BODY</vh>
+<v t="zoomq.20091204150544.8716"><vh>DIV</vh></v>
+<v t="zoomq.20091204150544.8717"><vh>DIV</vh></v>
+<v t="zoomq.20091204150544.8718"><vh>DIV</vh>
+<v t="zoomq.20091204150544.8719"><vh>TABLE</vh></v>
+<v t="zoomq.20091204150544.8720"><vh>TABLE</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8721"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/km-think.txt</vh></v>
+</v>
+<v t="zoomq.20091204150544.8722"><vh>@nosent s5.html</vh>
+<v t="zoomq.20091204150544.8723"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.8724"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.8725"><vh>embedded styles</vh></v>
+</v>
+<v t="zoomq.20091204150544.8726"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.8727"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.8728"><vh>brief</vh></v>
+<v t="zoomq.20091204150544.8729"><vh>概念</vh>
+<v t="zoomq.20091204150544.8730"><vh>知识?</vh>
+<v t="zoomq.20091204150544.8731"><vh>知识金塔</vh></v>
+</v>
+<v t="zoomq.20091204150544.8732"><vh>企业知识</vh>
+<v t="zoomq.20091204150544.8733"><vh>EK多</vh></v>
+<v t="zoomq.20091204150544.8734"><vh>EK杂</vh></v>
+<v t="zoomq.20091204150544.8735"><vh>EK乱</vh></v>
+<v t="zoomq.20091204150544.8736"><vh>EK快</vh></v>
+<v t="zoomq.20091204150544.8737"><vh>EK不定</vh></v>
+<v t="zoomq.20091204150544.8738"><vh>EK难分</vh></v>
+</v>
+<v t="zoomq.20091204150544.8739"><vh>abt.学习</vh>
+<v t="zoomq.20091204150544.8740"><vh>学习?</vh></v>
+<v t="zoomq.20091204150544.8741"><vh>学习阶级</vh></v>
+<v t="zoomq.20091204150544.8742"><vh>学习之轮</vh></v>
+<v t="zoomq.20091204150544.8743"><vh>知识!</vh></v>
+</v>
+<v t="zoomq.20091204150544.8744"><vh>SECI</vh>
+<v t="zoomq.20091204150544.8745"><vh>SECI意义</vh></v>
+<v t="zoomq.20091204150544.8746"><vh>SECIba</vh></v>
+<v t="zoomq.20091204150544.8747"><vh>7-11原始ba</vh></v>
+<v t="zoomq.20091204150544.8748"><vh>7-11对话ba</vh></v>
+<v t="zoomq.20091204150544.8749"><vh>7-11系统ba</vh></v>
+<v t="zoomq.20091204150544.8750"><vh>7-11练习ba</vh></v>
+<v t="zoomq.20091204150544.8751"><vh>原始ba</vh></v>
+<v t="zoomq.20091204150544.8752"><vh>对话ba</vh></v>
+<v t="zoomq.20091204150544.8753"><vh>系统ba</vh></v>
+<v t="zoomq.20091204150544.8754"><vh>练习ba</vh></v>
+</v>
+<v t="zoomq.20091204150544.8755"><vh>知识管理</vh>
+<v t="zoomq.20091204150544.8756"><vh>KM内容</vh></v>
+<v t="zoomq.20091204150544.8757"><vh>EK之轮</vh></v>
+<v t="zoomq.20091204150544.8758"><vh>EK公式</vh></v>
+<v t="zoomq.20091204150544.8759"><vh>HEK关注</vh></v>
+</v>
+<v t="zoomq.20091204150544.8760"><vh>KM概念整理</vh></v>
+</v>
+<v t="zoomq.20091204150544.8761"><vh>规划</vh>
+<v t="zoomq.20091204150544.8762"><vh>KM战略</vh></v>
+<v t="zoomq.20091204150544.8763"><vh>McKinsey Mind</vh></v>
+<v t="zoomq.20091204150544.8764"><vh>KM实施5阶</vh>
+<v t="zoomq.20091204150544.8765"><vh>黄金5则-1</vh></v>
+<v t="zoomq.20091204150544.8766"><vh>黄金5则-2</vh></v>
+<v t="zoomq.20091204150544.8767"><vh>黄金5则-3</vh></v>
+<v t="zoomq.20091204150544.8768"><vh>黄金5则-4</vh></v>
+<v t="zoomq.20091204150544.8769"><vh>黄金5则-5</vh></v>
+</v>
+<v t="zoomq.20091204150544.8770"><vh>KM公式</vh>
+<v t="zoomq.20091204150544.8771"><vh>KM公式核心</vh></v>
+</v>
+<v t="zoomq.20091204150544.8772"><vh>启动规划</vh>
+<v t="zoomq.20091204150544.8773"><vh>CKO</vh></v>
+<v t="zoomq.20091204150544.8774"><vh>KM资源</vh></v>
+<v t="zoomq.20091204150544.8775"><vh>KM态度</vh></v>
+<v t="zoomq.20091204150544.8776"><vh>KM平衡</vh></v>
+</v>
+<v t="zoomq.20091204150544.8777"><vh>KM规划整理</vh></v>
+</v>
+<v t="zoomq.20091204150544.8778"><vh>实施</vh>
+<v t="zoomq.20091204150544.8779"><vh>客服案例</vh>
+<v t="zoomq.20091204150544.8780"><vh>满意度</vh>
+<v t="zoomq.20091204150544.8781"><vh>速度</vh></v>
+<v t="zoomq.20091204150544.8782"><vh>精确</vh></v>
+<v t="zoomq.20091204150544.8783"><vh>客户知识</vh></v>
+<v t="zoomq.20091204150544.8784"><vh>产品知识</vh></v>
+</v>
+<v t="zoomq.20091204150544.8785"><vh>策划</vh>
+<v t="zoomq.20091204150544.8786"><vh>计划</vh></v>
+<v t="zoomq.20091204150544.8787"><vh>识别</vh></v>
+<v t="zoomq.20091204150544.8788"><vh>收集</vh></v>
+<v t="zoomq.20091204150544.8789"><vh>应用</vh></v>
+<v t="zoomq.20091204150544.8790"><vh>创造</vh></v>
+<v t="zoomq.20091204150544.8791"><vh>宣传</vh></v>
+<v t="zoomq.20091204150544.8792"><vh>循环</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8793"><vh>KM实施整理</vh></v>
+</v>
+<v t="zoomq.20091204150544.8794"><vh>持续</vh>
+<v t="zoomq.20091204150544.8795"><vh>KMMM</vh>
+<v t="zoomq.20091204150544.8796"><vh>KMMM1</vh></v>
+<v t="zoomq.20091204150544.8797"><vh>KMMM2</vh></v>
+<v t="zoomq.20091204150544.8798"><vh>KMMM3</vh></v>
+<v t="zoomq.20091204150544.8799"><vh>KMMM4</vh></v>
+<v t="zoomq.20091204150544.8800"><vh>KMMM5</vh></v>
+</v>
+<v t="zoomq.20091204150544.8801"><vh>KE的发展</vh></v>
+<v t="zoomq.20091204150544.8802"><vh>KM持续改进</vh></v>
+</v>
+<v t="zoomq.20091204150544.8803"><vh>参考</vh></v>
+<v t="zoomq.20091204150544.8804"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20091204150544.8805"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.8806"><vh>version</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9305"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9306"><vh>MoinMoin 导览</vh>
+<v t="zoomq.20091204150544.9307"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9308"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.9309"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.9310"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.9311"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.9312"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.9313"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.9314"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.9315"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.9316"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.9317"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.9318"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.9319"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.9320"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.9321"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.9322"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.9323"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9324"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.9325"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.9326"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.9327"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9328"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9329"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.9330"><vh>Dept</vh></v>
+<v t="zoomq.20091204150544.9331"><vh>Dept2</vh></v>
+<v t="zoomq.20091204150544.9332"><vh>Dept3</vh></v>
+<v t="zoomq.20091204150544.9333"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.9334"><vh>Group</vh></v>
+<v t="zoomq.20091204150544.9335"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.9336"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.9337"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.9338"><vh>SUP</vh></v>
+<v t="zoomq.20091204150544.9339"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.9340"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.9341"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.9342"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.9343"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.9344"><vh>Moin杂技</vh></v>
+<v t="zoomq.20091204150544.9345"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.9346"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.9347"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.9348"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.9349"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.9350"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.9351"><vh>Moin Gantt</vh></v>
+<v t="zoomq.20091204150544.9352"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.9353"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.9354"><vh>About</vh></v>
+<v t="zoomq.20091204150544.9355"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.9356"><vh>end</vh></v>
+<v t="zoomq.20091204150544.9357"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9358"><vh>从入门到精通 MoinMoin</vh>
+<v t="zoomq.20091204150544.9359"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9360"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.9361"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.9362"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.9363"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.9364"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.9365"><vh>DirveInto</vh>
+<v t="zoomq.20091204150544.9366"><vh>注册</vh></v>
+<v t="zoomq.20091204150544.9367"><vh>创建</vh></v>
+<v t="zoomq.20091204150544.9368"><vh>修改</vh></v>
+<v t="zoomq.20091204150544.9369"><vh>模板</vh></v>
+<v t="zoomq.20091204150544.9370"><vh>子页面</vh></v>
+<v t="zoomq.20091204150544.9371"><vh>包含</vh></v>
+<v t="zoomq.20091204150544.9372"><vh>月历</vh></v>
+<v t="zoomq.20091204150544.9373"><vh>还有</vh></v>
+<v t="zoomq.20091204150544.9374"><vh>但是！</vh></v>
+</v>
+<v t="zoomq.20091204150544.9375"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.9376"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.9377"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.9378"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.9379"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.9380"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.9381"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.9382"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.9383"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.9384"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.9385"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.9386"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9387"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.9388"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.9389"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.9390"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9391"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9392"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.9393"><vh>Dept</vh></v>
+<v t="zoomq.20091204150544.9394"><vh>Dept2</vh></v>
+<v t="zoomq.20091204150544.9395"><vh>Dept3</vh></v>
+<v t="zoomq.20091204150544.9396"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.9397"><vh>Group</vh></v>
+<v t="zoomq.20091204150544.9398"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.9399"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.9400"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.9401"><vh>SUP</vh></v>
+<v t="zoomq.20091204150544.9402"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.9403"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.9404"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.9405"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.9406"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.9407"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.9408"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.9409"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.9410"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.9411"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.9412"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.9413"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.9414"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.9415"><vh>About</vh></v>
+<v t="zoomq.20091204150544.9416"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.9417"><vh>end</vh></v>
+<v t="zoomq.20091204150544.9418"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9419"><vh>p从入门到精通 MoinMoin</vh>
+<v t="zoomq.20091204150544.9420"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9421"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.9422"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.9423"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.9424"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.9425"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.9426"><vh>DirveInto</vh>
+<v t="zoomq.20091204150544.9427"><vh>注册</vh></v>
+<v t="zoomq.20091204150544.9428"><vh>创建</vh></v>
+<v t="zoomq.20091204150544.9429"><vh>修改</vh></v>
+<v t="zoomq.20091204150544.9430"><vh>模板</vh></v>
+<v t="zoomq.20091204150544.9431"><vh>子页面</vh></v>
+<v t="zoomq.20091204150544.9432"><vh>包含</vh></v>
+<v t="zoomq.20091204150544.9433"><vh>月历</vh></v>
+<v t="zoomq.20091204150544.9434"><vh>还有</vh></v>
+<v t="zoomq.20091204150544.9435"><vh>但是！</vh></v>
+</v>
+<v t="zoomq.20091204150544.9436"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.9437"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.9438"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.9439"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.9440"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.9441"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.9442"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.9443"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.9444"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.9445"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.9446"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.9447"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9448"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.9449"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.9450"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.9451"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9452"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9453"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.9454"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.9455"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.9456"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.9457"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.9458"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.9459"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.9460"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.9461"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.9462"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.9463"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.9464"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.9465"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.9466"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.9467"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.9468"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.9469"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.9470"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.9471"><vh>About</vh></v>
+<v t="zoomq.20091204150544.9472"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.9473"><vh>end</vh></v>
+<v t="zoomq.20091204150544.9474"><vh>S5end</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100312132537.9039"><vh>SPE</vh></v>
+<v t="zoomq.20080523161605"><vh>s5:public</vh>
+<v t="zoomq.20080807095120.28"><vh>ZEUUX:ZPyUG</vh>
 <v t="zoomq.20100116172440.6485"><vh>2008</vh>
 <v t="zoomq.20080523162513"><vh>080524-easy-spe</vh>
 <v t="zoomq.20080523162640"><vh>stuff</vh>
@@ -23,7 +409,7 @@
 <v t="zoomq.20080611153034"><vh>@file /home/zoomq/zData/2MyBrains/s5/0608-VMnSVN/index.html</vh></v>
 </v>
 </v>
-<v t="zoomq.20080523161605.1" tnodeList="zoomq.20080523161605.1,zoomq.20080523162155,zoomq.20080523162155.1,zoomq.20080523162155.2,zoomq.20080523162155.3,zoomq.20080524114858,zoomq.20080523165940,zoomq.20080523170008,zoomq.20080523165824,zoomq.20080524095915,zoomq.20080524100507,zoomq.20080524100709,zoomq.20080524101523,zoomq.20080523165824.1,zoomq.20080523210401,zoomq.20080524105651,zoomq.20080524105058,zoomq.20080524110644,zoomq.20080524110708,zoomq.20080524110804,zoomq.20080524110546,zoomq.20080524111256,zoomq.20080524111256.1,zoomq.20080920122648.4,zoomq.20080524112029,zoomq.20080524111120.2,zoomq.20080524120425,zoomq.20080524124437,zoomq.20080523162155.5,zoomq.20080524113021"><vh>@nosent index.html</vh>
+<v t="zoomq.20080523161605.1"><vh>@nosent index.html</vh>
 <v t="zoomq.20080523162155"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20080523162155.1"><vh>cssin</vh></v>
 </v>
@@ -61,7 +447,7 @@
 </v>
 <v t="zoomq.20080919230246.2"><vh>080807-kspeg-intro-cpc</vh>
 <v t="zoomq.20080919230246.3"><vh>_stuff</vh></v>
-<v t="zoomq.20080919230246.5" tnodeList="zoomq.20080919230246.5,zoomq.20080919230246.6,zoomq.20080919230246.7,zoomq.20080919230246.8,zoomq.20080919230246.9,zoomq.20080919230246.10,zoomq.20080919230246.4,zoomq.20080919230246.28,zoomq.20080919230246.12,zoomq.20080919230246.11,zoomq.20080919230246.13,zoomq.20080919230246.14,zoomq.20080919230246.15,zoomq.20080919230246.16,zoomq.20080919230246.17,zoomq.20080920122648.3,zoomq.20080920122648.4,zoomq.20080524112029,zoomq.20080524111120.2,zoomq.20080524120425,zoomq.20080524124437,zoomq.20080919230246.18,zoomq.20080919230246.19,zoomq.20080919230246.20,zoomq.20080919230246.21,zoomq.20080919230246.22,zoomq.20080919230246.23,zoomq.20080919230246.24,zoomq.20080919230246.25,zoomq.20080919230246.29,zoomq.20080919230246.30,zoomq.20080919230246.31,zoomq.20080919230246.32,zoomq.20080919230246.33,zoomq.20080919230246.35,zoomq.20080919230246.34,zoomq.20080919230246.36,zoomq.20080919230246.37,zoomq.20080919230246.38,zoomq.20080919230246.39,zoomq.20080919230246.40,zoomq.20080919230246.41,zoomq.20080919230246.42,zoomq.20080919230246.43,zoomq.20080919230246.44,zoomq.20080919230246.45,zoomq.20080919230246.54,zoomq.20080919230246.55,zoomq.20080919230246.56,zoomq.20080920122648.2,zoomq.20080919230246.46,zoomq.20080919230246.47,zoomq.20080919230246.50,zoomq.20080919230246.51,zoomq.20080919230246.53,zoomq.20080919230246.26,zoomq.20080919230246.27"><vh>@nosent index.html</vh>
+<v t="zoomq.20080919230246.5"><vh>@nosent index.html</vh>
 <v t="zoomq.20080919230246.6"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20080919230246.7"><vh>cssin</vh></v>
 </v>
@@ -436,9 +822,9 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20100108150042.4768" a="E"><vh>100123-KTRACintro</vh>
+<v t="zoomq.20100108150042.4768"><vh>100123-KTRACintro</vh>
 <v t="zoomq.20091213221717.4969"><vh>KTRACintro</vh></v>
-<v t="zoomq.20100116172440.4813" a="E" tnodeList="zoomq.20100116172440.4813,zoomq.20100116172440.4816,zoomq.20100116172440.4817,zoomq.20100116172440.4819,zoomq.20100116172440.4820,zoomq.20100116172440.4821,zoomq.20100116172440.4822,zoomq.20100116172440.4823,zoomq.20100116172440.4824,zoomq.20100116172440.4825,zoomq.20100116172440.4826,zoomq.20100116172440.4827,zoomq.20100116172440.4829,zoomq.20100116172440.4830,zoomq.20100116172440.4831,zoomq.20100116172440.4832,zoomq.20100116172440.4833,zoomq.20100116172440.4834,zoomq.20100116172440.4835,zoomq.20100116172440.4836,zoomq.20100116172440.4837,zoomq.20100116172440.4838,zoomq.20100116172440.4839,zoomq.20100116172440.4840,zoomq.20100116172440.4841,zoomq.20100116172440.4842,zoomq.20100116172440.4843,zoomq.20100116172440.4844,zoomq.20100116172440.4845,zoomq.20100116172440.4846,zoomq.20100116172440.4847,zoomq.20100116172440.4848,zoomq.20100116172440.4849,zoomq.20100116172440.4850,zoomq.20100116172440.4851,zoomq.20100116172440.4852,zoomq.20100116172440.4853,zoomq.20100116172440.4854,zoomq.20100116172440.4855"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.4813"><vh>@nosent index.html</vh>
 <v t="zoomq.20100116172440.6663"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20100116172440.6664"><vh>embedded styles</vh></v>
 <v t="zoomq.20100116172440.6665"><vh>.slide+.incremental</vh></v>
@@ -471,7 +857,7 @@
 <v t="zoomq.20100117213352.5422"><vh>need5</vh></v>
 <v t="zoomq.20100117213352.5424"><vh>5W1H</vh></v>
 </v>
-<v t="zoomq.20100116172440.4826" a="E"><vh>TracCore</vh>
+<v t="zoomq.20100116172440.4826"><vh>TracCore</vh>
 <v t="zoomq.20100116172440.4827"><vh>思路</vh></v>
 <v t="zoomq.20100117213352.5426"><vh>本质</vh></v>
 <v t="zoomq.20100116172440.4829"><vh>Wiki</vh></v>
@@ -529,7 +915,7 @@
 <v t="zoomq.20100118204342.5530"><vh>KTRAC体验</vh>
 <v t="zoomq.20100118231126.5509"><vh>Trac缺憾</vh></v>
 </v>
-<v t="zoomq.20100117213352.5420" a="E"><vh>Z.Q</vh>
+<v t="zoomq.20100117213352.5420"><vh>Z.Q</vh>
 <v t="zoomq.20100116172440.4854"><vh>S5</vh></v>
 <v t="zoomq.20100116172440.4855"><vh>Q&amp;A</vh></v>
 <v t="zoomq.20100117213352.5459"><vh>Ticket翻译</vh></v>
@@ -1042,7 +1428,7 @@
 </v>
 <v t="zoomq.20091204150544.6940"><vh>SKSiG</vh>
 <v t="zoomq.20091204150544.7013"><vh>SNSintro</vh>
-<v t="zoomq.20091204150544.6977" tnodeList="zoomq.20091204150544.6977,zoomq.20091204150544.6978,zoomq.20091204150544.6979,zoomq.20091204150544.6980,zoomq.20091204150544.6981,zoomq.20091204150544.6982,zoomq.20091204150544.6983,zoomq.20091204150544.6984,zoomq.20091204150544.6985,zoomq.20091204150544.6986,zoomq.20091204150544.6987,zoomq.20091204150544.6988,zoomq.20091204150544.6989,zoomq.20091204150544.6990,zoomq.20091204150544.6991,zoomq.20091204150544.6992,zoomq.20091204150544.6993,zoomq.20091204150544.6994,zoomq.20091204150544.6995,zoomq.20091204150544.6996,zoomq.20091204150544.6997,zoomq.20091204150544.6998,zoomq.20091204150544.6999,zoomq.20091204150544.7000,zoomq.20091204150544.7001,zoomq.20091204150544.7002,zoomq.20091204150544.7003,zoomq.20091204150544.7004,zoomq.20091204150544.7005,zoomq.20091204150544.7006,zoomq.20091204150544.7007,zoomq.20091204150544.7008,zoomq.20091204150544.7009,zoomq.20091204150544.7010,zoomq.20091204150544.7011,zoomq.20091204150544.7012"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.6977"><vh>@nosent index.html</vh>
 <v t="zoomq.20091204150544.6978"><vh>S5head</vh></v>
 <v t="zoomq.20091204150544.6979"><vh>S5foot</vh></v>
 <v t="zoomq.20091204150544.6980"><vh>slideTag</vh></v>
@@ -1261,7 +1647,7 @@
 </v>
 <v t="zoomq.20091204150544.4981"><vh>KUP++</vh>
 <v t="zoomq.20091213221717.4968"><vh>KUP++ 服务推介</vh>
-<v t="zoomq.20091204150544.4982" tnodeList="zoomq.20091204150544.4982,zoomq.20091204150544.4983,zoomq.20091204150544.4984,zoomq.20091204150544.4985,zoomq.20091204150544.4986,zoomq.20091204150544.4987,zoomq.20091204150544.4988,zoomq.20091204150544.4989,zoomq.20091204150544.4990,zoomq.20091204150544.4991,zoomq.20091204150544.4992,zoomq.20091204150544.4993,zoomq.20091204150544.4994,zoomq.20091204150544.4995,zoomq.20091204150544.5021,zoomq.20091204150544.4997,zoomq.20091204150544.4998,zoomq.20091204150544.4999,zoomq.20091204150544.5000,zoomq.20091204150544.5015,zoomq.20091204150544.5020,zoomq.20091204150544.5003,zoomq.20091204150544.5004,zoomq.20091204150544.5020,zoomq.20091204150544.5006,zoomq.20091204150544.5007,zoomq.20091204150544.5008,zoomq.20091204150544.5009,zoomq.20091204150544.5010,zoomq.20091204150544.5020,zoomq.20091204150544.5012,zoomq.20091204150544.5013,zoomq.20091204150544.5014,zoomq.20091204150544.5015,zoomq.20091204150544.5016,zoomq.20091204150544.5017,zoomq.20091204150544.5020,zoomq.20091204150544.5019,zoomq.20091204150544.5020,zoomq.20091204150544.5021,zoomq.20091204150544.5022,zoomq.20091204150544.5023,zoomq.20091204150544.5024"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.4982"><vh>@nosent index.html</vh>
 <v t="zoomq.20091204150544.4983"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
 <v t="zoomq.20091204150544.4984"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20091204150544.4985"><vh>embedded styles</vh></v>
@@ -1427,387 +1813,6 @@
 <v t="zoomq.20091204150544.9667"><vh>version</vh></v>
 <v t="zoomq.20091204150544.9668"><vh>S5</vh></v>
 <v t="zoomq.20091204150544.9669"><vh>Q&amp;A</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8544"><vh>KM</vh>
-<v t="zoomq.20091204150544.8545"><vh>QuickInKM</vh>
-<v t="zoomq.20091204150544.8546"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8547"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8548"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8549"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8550"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8551"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.8552"><vh>KM</vh></v>
-<v t="zoomq.20091204150544.8553"><vh>K?</vh></v>
-<v t="zoomq.20091204150544.8554"><vh>KM?</vh></v>
-<v t="zoomq.20091204150544.8555"><vh>奥苏贝尔</vh></v>
-<v t="zoomq.20091204150544.8556"><vh>教育</vh></v>
-<v t="zoomq.20091204150544.8557"><vh>教育进化</vh></v>
-<v t="zoomq.20091204150544.8558"><vh>知识陀螺</vh></v>
-<v t="zoomq.20091204150544.8559"><vh>信息生命</vh></v>
-<v t="zoomq.20091204150544.8560"><vh>KM陀螺</vh></v>
-<v t="zoomq.20091204150544.8561"><vh>KM系统</vh></v>
-<v t="zoomq.20091204150544.8562"><vh>知识维度</vh></v>
-<v t="zoomq.20091204150544.8563"><vh>WeKnow</vh></v>
-<v t="zoomq.20091204150544.8564"><vh>WeKnow2</vh></v>
-<v t="zoomq.20091204150544.8565"><vh>WeKnow3</vh></v>
-<v t="zoomq.20091204150544.8566"><vh>WeKnow0</vh></v>
-</v>
-<v t="zoomq.20091204150544.8567"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8568"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8569"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8570"><vh>S5end</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8571"><vh>KMnKB</vh>
-<v t="zoomq.20091204150544.8572"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8573"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8574"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8575"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8576"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8577"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.8578"><vh>知识库</vh>
-<v t="zoomq.20091204150544.8579"><vh>KB?</vh></v>
-<v t="zoomq.20091204150544.8580"><vh>KB!</vh></v>
-<v t="zoomq.20091204150544.8581"><vh>我们的KB</vh></v>
-<v t="zoomq.20091204150544.8582"><vh>KB作用</vh></v>
-<v t="zoomq.20091204150544.8583"><vh>JIRA</vh></v>
-<v t="zoomq.20091204150544.8584"><vh>JIVE</vh></v>
-<v t="zoomq.20091204150544.8585"><vh>JIVEvs</vh></v>
-<v t="zoomq.20091204150544.8586"><vh>Wiki</vh></v>
-<v t="zoomq.20091204150544.8587"><vh>Wiki vs</vh></v>
-<v t="zoomq.20091204150544.8588"><vh>BBS</vh></v>
-<v t="zoomq.20091204150544.8589"><vh>成本</vh></v>
-</v>
-<v t="zoomq.20091204150544.8590"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.8591"><vh>KM</vh></v>
-<v t="zoomq.20091204150544.8592"><vh>KM陀螺</vh></v>
-<v t="zoomq.20091204150544.8593"><vh>知识陀螺</vh></v>
-<v t="zoomq.20091204150544.8594"><vh>K?</vh></v>
-<v t="zoomq.20091204150544.8595"><vh>KM?</vh></v>
-<v t="zoomq.20091204150544.8596"><vh>奥苏贝尔</vh></v>
-<v t="zoomq.20091204150544.8597"><vh>教育</vh></v>
-<v t="zoomq.20091204150544.8598"><vh>教育进化</vh></v>
-<v t="zoomq.20091204150544.8599"><vh>信息生命</vh></v>
-<v t="zoomq.20091204150544.8600"><vh>KM系统</vh></v>
-<v t="zoomq.20091204150544.8601"><vh>WeKnow</vh></v>
-<v t="zoomq.20091204150544.8602"><vh>WeKnow2</vh></v>
-<v t="zoomq.20091204150544.8603"><vh>WeKnow3</vh></v>
-<v t="zoomq.20091204150544.8604"><vh>WeKnow0</vh></v>
-</v>
-<v t="zoomq.20091204150544.8605"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8606"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8607"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8608"><vh>S5end</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8708"><vh>KsKM</vh>
-<v t="zoomq.20091204150544.8709"><vh>_stuff</vh>
-<v t="zoomq.20091204150544.8710"><vh>character</vh></v>
-<v t="zoomq.20091204150544.8711"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/index.html</vh>
-<v t="zoomq.20091204150544.8712"><vh>index declarations</vh></v>
-<v t="zoomq.20091204150544.8713"><vh>HTML</vh>
-<v t="zoomq.20091204150544.8714"><vh>HEAD</vh></v>
-<v t="zoomq.20091204150544.8715"><vh>BODY</vh>
-<v t="zoomq.20091204150544.8716"><vh>DIV</vh></v>
-<v t="zoomq.20091204150544.8717"><vh>DIV</vh></v>
-<v t="zoomq.20091204150544.8718"><vh>DIV</vh>
-<v t="zoomq.20091204150544.8719"><vh>TABLE</vh></v>
-<v t="zoomq.20091204150544.8720"><vh>TABLE</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8721"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/km-think.txt</vh></v>
-</v>
-<v t="zoomq.20091204150544.8722"><vh>@nosent s5.html</vh>
-<v t="zoomq.20091204150544.8723"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.8724"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.8725"><vh>embedded styles</vh></v>
-</v>
-<v t="zoomq.20091204150544.8726"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.8727"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.8728"><vh>brief</vh></v>
-<v t="zoomq.20091204150544.8729"><vh>概念</vh>
-<v t="zoomq.20091204150544.8730"><vh>知识?</vh>
-<v t="zoomq.20091204150544.8731"><vh>知识金塔</vh></v>
-</v>
-<v t="zoomq.20091204150544.8732"><vh>企业知识</vh>
-<v t="zoomq.20091204150544.8733"><vh>EK多</vh></v>
-<v t="zoomq.20091204150544.8734"><vh>EK杂</vh></v>
-<v t="zoomq.20091204150544.8735"><vh>EK乱</vh></v>
-<v t="zoomq.20091204150544.8736"><vh>EK快</vh></v>
-<v t="zoomq.20091204150544.8737"><vh>EK不定</vh></v>
-<v t="zoomq.20091204150544.8738"><vh>EK难分</vh></v>
-</v>
-<v t="zoomq.20091204150544.8739"><vh>abt.学习</vh>
-<v t="zoomq.20091204150544.8740"><vh>学习?</vh></v>
-<v t="zoomq.20091204150544.8741"><vh>学习阶级</vh></v>
-<v t="zoomq.20091204150544.8742"><vh>学习之轮</vh></v>
-<v t="zoomq.20091204150544.8743"><vh>知识!</vh></v>
-</v>
-<v t="zoomq.20091204150544.8744"><vh>SECI</vh>
-<v t="zoomq.20091204150544.8745"><vh>SECI意义</vh></v>
-<v t="zoomq.20091204150544.8746"><vh>SECIba</vh></v>
-<v t="zoomq.20091204150544.8747"><vh>7-11原始ba</vh></v>
-<v t="zoomq.20091204150544.8748"><vh>7-11对话ba</vh></v>
-<v t="zoomq.20091204150544.8749"><vh>7-11系统ba</vh></v>
-<v t="zoomq.20091204150544.8750"><vh>7-11练习ba</vh></v>
-<v t="zoomq.20091204150544.8751"><vh>原始ba</vh></v>
-<v t="zoomq.20091204150544.8752"><vh>对话ba</vh></v>
-<v t="zoomq.20091204150544.8753"><vh>系统ba</vh></v>
-<v t="zoomq.20091204150544.8754"><vh>练习ba</vh></v>
-</v>
-<v t="zoomq.20091204150544.8755"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.8756"><vh>KM内容</vh></v>
-<v t="zoomq.20091204150544.8757"><vh>EK之轮</vh></v>
-<v t="zoomq.20091204150544.8758"><vh>EK公式</vh></v>
-<v t="zoomq.20091204150544.8759"><vh>HEK关注</vh></v>
-</v>
-<v t="zoomq.20091204150544.8760"><vh>KM概念整理</vh></v>
-</v>
-<v t="zoomq.20091204150544.8761"><vh>规划</vh>
-<v t="zoomq.20091204150544.8762"><vh>KM战略</vh></v>
-<v t="zoomq.20091204150544.8763"><vh>McKinsey Mind</vh></v>
-<v t="zoomq.20091204150544.8764"><vh>KM实施5阶</vh>
-<v t="zoomq.20091204150544.8765"><vh>黄金5则-1</vh></v>
-<v t="zoomq.20091204150544.8766"><vh>黄金5则-2</vh></v>
-<v t="zoomq.20091204150544.8767"><vh>黄金5则-3</vh></v>
-<v t="zoomq.20091204150544.8768"><vh>黄金5则-4</vh></v>
-<v t="zoomq.20091204150544.8769"><vh>黄金5则-5</vh></v>
-</v>
-<v t="zoomq.20091204150544.8770"><vh>KM公式</vh>
-<v t="zoomq.20091204150544.8771"><vh>KM公式核心</vh></v>
-</v>
-<v t="zoomq.20091204150544.8772"><vh>启动规划</vh>
-<v t="zoomq.20091204150544.8773"><vh>CKO</vh></v>
-<v t="zoomq.20091204150544.8774"><vh>KM资源</vh></v>
-<v t="zoomq.20091204150544.8775"><vh>KM态度</vh></v>
-<v t="zoomq.20091204150544.8776"><vh>KM平衡</vh></v>
-</v>
-<v t="zoomq.20091204150544.8777"><vh>KM规划整理</vh></v>
-</v>
-<v t="zoomq.20091204150544.8778"><vh>实施</vh>
-<v t="zoomq.20091204150544.8779"><vh>客服案例</vh>
-<v t="zoomq.20091204150544.8780"><vh>满意度</vh>
-<v t="zoomq.20091204150544.8781"><vh>速度</vh></v>
-<v t="zoomq.20091204150544.8782"><vh>精确</vh></v>
-<v t="zoomq.20091204150544.8783"><vh>客户知识</vh></v>
-<v t="zoomq.20091204150544.8784"><vh>产品知识</vh></v>
-</v>
-<v t="zoomq.20091204150544.8785"><vh>策划</vh>
-<v t="zoomq.20091204150544.8786"><vh>计划</vh></v>
-<v t="zoomq.20091204150544.8787"><vh>识别</vh></v>
-<v t="zoomq.20091204150544.8788"><vh>收集</vh></v>
-<v t="zoomq.20091204150544.8789"><vh>应用</vh></v>
-<v t="zoomq.20091204150544.8790"><vh>创造</vh></v>
-<v t="zoomq.20091204150544.8791"><vh>宣传</vh></v>
-<v t="zoomq.20091204150544.8792"><vh>循环</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8793"><vh>KM实施整理</vh></v>
-</v>
-<v t="zoomq.20091204150544.8794"><vh>持续</vh>
-<v t="zoomq.20091204150544.8795"><vh>KMMM</vh>
-<v t="zoomq.20091204150544.8796"><vh>KMMM1</vh></v>
-<v t="zoomq.20091204150544.8797"><vh>KMMM2</vh></v>
-<v t="zoomq.20091204150544.8798"><vh>KMMM3</vh></v>
-<v t="zoomq.20091204150544.8799"><vh>KMMM4</vh></v>
-<v t="zoomq.20091204150544.8800"><vh>KMMM5</vh></v>
-</v>
-<v t="zoomq.20091204150544.8801"><vh>KE的发展</vh></v>
-<v t="zoomq.20091204150544.8802"><vh>KM持续改进</vh></v>
-</v>
-<v t="zoomq.20091204150544.8803"><vh>参考</vh></v>
-<v t="zoomq.20091204150544.8804"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20091204150544.8805"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.8806"><vh>version</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9305"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9306"><vh>MoinMoin 导览</vh>
-<v t="zoomq.20091204150544.9307"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9308"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.9309"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.9310"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.9311"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.9312"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.9313"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.9314"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.9315"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.9316"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.9317"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.9318"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.9319"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.9320"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.9321"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.9322"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.9323"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9324"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.9325"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.9326"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.9327"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9328"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9329"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.9330"><vh>Dept</vh></v>
-<v t="zoomq.20091204150544.9331"><vh>Dept2</vh></v>
-<v t="zoomq.20091204150544.9332"><vh>Dept3</vh></v>
-<v t="zoomq.20091204150544.9333"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.9334"><vh>Group</vh></v>
-<v t="zoomq.20091204150544.9335"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.9336"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.9337"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.9338"><vh>SUP</vh></v>
-<v t="zoomq.20091204150544.9339"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.9340"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.9341"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.9342"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.9343"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.9344"><vh>Moin杂技</vh></v>
-<v t="zoomq.20091204150544.9345"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.9346"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.9347"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.9348"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.9349"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.9350"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.9351"><vh>Moin Gantt</vh></v>
-<v t="zoomq.20091204150544.9352"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.9353"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.9354"><vh>About</vh></v>
-<v t="zoomq.20091204150544.9355"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.9356"><vh>end</vh></v>
-<v t="zoomq.20091204150544.9357"><vh>S5end</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9358"><vh>从入门到精通 MoinMoin</vh>
-<v t="zoomq.20091204150544.9359"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9360"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.9361"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.9362"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.9363"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.9364"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.9365"><vh>DirveInto</vh>
-<v t="zoomq.20091204150544.9366"><vh>注册</vh></v>
-<v t="zoomq.20091204150544.9367"><vh>创建</vh></v>
-<v t="zoomq.20091204150544.9368"><vh>修改</vh></v>
-<v t="zoomq.20091204150544.9369"><vh>模板</vh></v>
-<v t="zoomq.20091204150544.9370"><vh>子页面</vh></v>
-<v t="zoomq.20091204150544.9371"><vh>包含</vh></v>
-<v t="zoomq.20091204150544.9372"><vh>月历</vh></v>
-<v t="zoomq.20091204150544.9373"><vh>还有</vh></v>
-<v t="zoomq.20091204150544.9374"><vh>但是！</vh></v>
-</v>
-<v t="zoomq.20091204150544.9375"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.9376"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.9377"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.9378"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.9379"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.9380"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.9381"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.9382"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.9383"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.9384"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.9385"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.9386"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9387"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.9388"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.9389"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.9390"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9391"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9392"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.9393"><vh>Dept</vh></v>
-<v t="zoomq.20091204150544.9394"><vh>Dept2</vh></v>
-<v t="zoomq.20091204150544.9395"><vh>Dept3</vh></v>
-<v t="zoomq.20091204150544.9396"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.9397"><vh>Group</vh></v>
-<v t="zoomq.20091204150544.9398"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.9399"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.9400"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.9401"><vh>SUP</vh></v>
-<v t="zoomq.20091204150544.9402"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.9403"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.9404"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.9405"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.9406"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.9407"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.9408"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.9409"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.9410"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.9411"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.9412"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.9413"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.9414"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.9415"><vh>About</vh></v>
-<v t="zoomq.20091204150544.9416"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.9417"><vh>end</vh></v>
-<v t="zoomq.20091204150544.9418"><vh>S5end</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.9419"><vh>p从入门到精通 MoinMoin</vh>
-<v t="zoomq.20091204150544.9420"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9421"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.9422"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.9423"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.9424"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.9425"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.9426"><vh>DirveInto</vh>
-<v t="zoomq.20091204150544.9427"><vh>注册</vh></v>
-<v t="zoomq.20091204150544.9428"><vh>创建</vh></v>
-<v t="zoomq.20091204150544.9429"><vh>修改</vh></v>
-<v t="zoomq.20091204150544.9430"><vh>模板</vh></v>
-<v t="zoomq.20091204150544.9431"><vh>子页面</vh></v>
-<v t="zoomq.20091204150544.9432"><vh>包含</vh></v>
-<v t="zoomq.20091204150544.9433"><vh>月历</vh></v>
-<v t="zoomq.20091204150544.9434"><vh>还有</vh></v>
-<v t="zoomq.20091204150544.9435"><vh>但是！</vh></v>
-</v>
-<v t="zoomq.20091204150544.9436"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.9437"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.9438"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.9439"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.9440"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.9441"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.9442"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.9443"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.9444"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.9445"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.9446"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.9447"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9448"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.9449"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.9450"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.9451"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9452"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9453"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.9454"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.9455"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.9456"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.9457"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.9458"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.9459"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.9460"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.9461"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.9462"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.9463"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.9464"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.9465"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.9466"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.9467"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.9468"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.9469"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.9470"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.9471"><vh>About</vh></v>
-<v t="zoomq.20091204150544.9472"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.9473"><vh>end</vh></v>
-<v t="zoomq.20091204150544.9474"><vh>S5end</vh></v>
 </v>
 </v>
 </v>
@@ -3525,171 +3530,6 @@ svn merge -r 250:HEAD foo.py
 </t>
 <t tx="zoomq.20080621102004.2">所有 s5,t2t,dot 综合演示资料备案</t>
 <t tx="zoomq.20080807095120.28">@path /home/zoomq/3Hg/zqlib-hg/tangle/zoomquiet.leo/s5</t>
-<t tx="zoomq.20080919230246.2">@path 080920-oscamp-intro-cpc/</t>
-<t tx="zoomq.20080919230246.3">CPUGlogo-100.png</t>
-<t tx="zoomq.20080919230246.4">&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;center&gt;
-&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;
-        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
-    &lt;/a&gt;伙同所有热心的
-    &lt;a href="http://www.zeuux.org/community/zeuux-team.cn.html"&gt;ZEUUX.org&lt;/a&gt;
-    成员共同制作
-        ......
-    &lt;br/&gt;&lt;br/&gt;
-    &lt;ul&gt;
-        &lt;li&gt; 一切资料来自网络互动挖掘
-        &lt;li&gt; 一切想法来自日常学习工作
-        &lt;li&gt; 一切体悟来自各种沟通交流
-        &lt;li&gt; 一切知识来自社区分享印证
-        &lt;li&gt; 一切经验来自个人失败体验
-        &lt;br/&gt; ......
-    &lt;/ul&gt;
-&lt;/center&gt;
-
-    &lt;div class="handout"&gt;
-&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-</t>
-<t tx="zoomq.20080919230246.5">&lt;&lt;s5head&gt;&gt;
-&lt;&lt;footer&gt;&gt;
-&lt;/div&gt;&lt;!-- class="layout"--&gt;
-
-&lt;div class="presentation"&gt;
-
-
-@others
-
-
-
-&lt;/div&gt;&lt;!--class="presentation"--&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20080919230246.6">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-&lt;title&gt;KcPyCamp Intro.(powered by S5)v1.1~080918&lt;/title&gt;
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="generator" content="Leo 4.4.3a3"/&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="presdate" content="20080611" /&gt;
-&lt;meta name="author" content="Zoom.Quiet"/&gt;
-&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;!-- embedded styles --&gt;
-&lt;style type="text/css" media="all"&gt;
-@others
-&lt;/style&gt;
-
-
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;
-</t>
-<t tx="zoomq.20080919230246.7">/* The esp. Effect support 
-    letter-spacing:-20px;
-    width:100%;
-    border : 1px dotter #fff;
-*/
-ul#largerwd{
-    font-size: 200%;
-    letter-spacing:-18px;
-}
-h2#largerwd {
-    font-size: 560%;
-    text-align: center;
-    letter-spacing:-10px;
-    color: #fff;
-    margin: 40px 0 0 0;
-    padding: 0;
-    }
-snap#largerwd {
-    font-size: 500%;
-    letter-spacing:20px;
-    color: #fff;
-    margin: 0 0 0 0;
-    padding: 0 0 .5em 0;
-    }
-b.alert{
-    color:#F5003D;
-    font-size: 105%;
-}
-div#float_logo{
-    position : absolute;
-    top:0px;
-    left:0px;
-}
-/*080524 append for slide0*/
-DIV#slide0 h3{
-    font-size: 300%;
-}
-PRE#biger{
-    font-size: 150%;
-}
-
-</t>
-<t tx="zoomq.20080919230246.8">
-&lt;div id="footer"&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a target="_blank"  href="http://www.zeuux.org/about/about.cn.html"&gt;
-ZEUUX&lt;/a&gt;
-&lt;/td&gt;
-&lt;td rowspan="2"&gt;
-&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
-&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
-&lt;/a&gt;
-推荐使用&lt;a  target="_blank"
-href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-
-    &lt;div id="controls"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-
-</t>
-<t tx="zoomq.20080919230246.9">&lt;div class="slide" id="slide0"&gt;
-&lt;br/&gt;
-&lt;h3&gt;
-蟒营
-&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h4&gt; ~ 教学Pythonic体验&lt;/h4&gt;
-&lt;h4&gt; &lt;a href="mailto:zoomquiet+python@gmail.com"&gt;ZoomQuiet&lt;/a&gt;&lt;/h4&gt;
-
-&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
-
-&lt;/div&gt;
-
-
-</t>
 <t tx="zoomq.20080919230246.10">&lt;div class="slide"&gt;
 &lt;h1&gt; 文档版本 &lt;/h1&gt;
 &lt;ul&gt;
@@ -3845,6 +3685,7 @@ for Pleasure People
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
+<t tx="zoomq.20080919230246.2">@path 080920-oscamp-intro-cpc/</t>
 <t tx="zoomq.20080919230246.20">&lt;div class="slide"&gt;
 &lt;h1&gt;
 成员要求:0
@@ -4003,6 +3844,7 @@ Q&amp;A
 
 </t>
 <t tx="zoomq.20080919230246.29"></t>
+<t tx="zoomq.20080919230246.3">CPUGlogo-100.png</t>
 <t tx="zoomq.20080919230246.30">&lt;div class="slide"&gt;
 &lt;h1&gt;
 KC~Kingsoft College
@@ -4117,6 +3959,41 @@ CPC~核心
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
+<t tx="zoomq.20080919230246.4">&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;伙同所有热心的
+    &lt;a href="http://www.zeuux.org/community/zeuux-team.cn.html"&gt;ZEUUX.org&lt;/a&gt;
+    成员共同制作
+        ......
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
 <t tx="zoomq.20080919230246.40">&lt;div class="slide"&gt;
 &lt;h1&gt;
 CPC~图景
@@ -4220,6 +4097,22 @@ CPC~CCRJ
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
+<t tx="zoomq.20080919230246.5">&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+
+&lt;div class="presentation"&gt;
+
+
+@others
+
+
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
 <t tx="zoomq.20080919230246.50">&lt;div class="slide"&gt;
 &lt;h1&gt;
 CPC~CCRJ
@@ -4301,6 +4194,118 @@ CPC~得经
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
+<t tx="zoomq.20080919230246.6">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+&lt;title&gt;KcPyCamp Intro.(powered by S5)v1.1~080918&lt;/title&gt;
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="Leo 4.4.3a3"/&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="presdate" content="20080611" /&gt;
+&lt;meta name="author" content="Zoom.Quiet"/&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+</t>
+<t tx="zoomq.20080919230246.7">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+*/
+ul#largerwd{
+    font-size: 200%;
+    letter-spacing:-18px;
+}
+h2#largerwd {
+    font-size: 560%;
+    text-align: center;
+    letter-spacing:-10px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+snap#largerwd {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+b.alert{
+    color:#F5003D;
+    font-size: 105%;
+}
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+/*080524 append for slide0*/
+DIV#slide0 h3{
+    font-size: 300%;
+}
+PRE#biger{
+    font-size: 150%;
+}
+
+</t>
+<t tx="zoomq.20080919230246.8">
+&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a target="_blank"  href="http://www.zeuux.org/about/about.cn.html"&gt;
+ZEUUX&lt;/a&gt;
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+    &lt;div id="controls"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20080919230246.9">&lt;div class="slide" id="slide0"&gt;
+&lt;br/&gt;
+&lt;h3&gt;
+蟒营
+&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h4&gt; ~ 教学Pythonic体验&lt;/h4&gt;
+&lt;h4&gt; &lt;a href="mailto:zoomquiet+python@gmail.com"&gt;ZoomQuiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+
+&lt;/div&gt;
+
+
+</t>
 <t tx="zoomq.20080920122648.2"></t>
 <t tx="zoomq.20080920122648.3">&lt;div class="slide"&gt;
 &lt;h1&gt;
@@ -4325,6 +4330,4253 @@ CPC~得经
 &lt;/div&gt;
 </t>
 <t tx="zoomq.20080920122648.4"></t>
+<t tx="zoomq.20091204150544.11135"></t>
+<t tx="zoomq.20091204150544.11136">@path 060528-talking
+
+</t>
+<t tx="zoomq.20091204150544.11137">张成 czhang
+Django:
+    http://solidot.org/article.php?story=20051220095130663&amp;query=django
+    的琛圳迁移到北京
+许艺华 EricHua:
+    http://nkeric.3322.org
+    J2EE
+    ...拼音
+
+李迎辉:
+    Django
+    MTV:
+        App 由 Model 发布
+        流程:
+            1. 配置App
+            2. 发布App
+        Model 的自动组织 Admin 的实际
+        预制的多种管理功能…………
+        
+        </t>
+<t tx="zoomq.20091204150544.11138">
+@others
+</t>
+<t tx="zoomq.20091204150544.11139">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;title&gt;啄木鸟年度规划 (built by S5)&lt;/title&gt;
+
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+
+
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11140">&lt;div id="footer"&gt;
+&lt;h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
+CPUG&lt;/a&gt; 
+中国Python用户组
+
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+
+&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
+&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
+
+060528 14:00
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+Zoom.Quiet
+&lt;/a&gt;
+&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/h2&gt;
+
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11141">&lt;div class="presentation"&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11142">&lt;div class="slide"&gt;
+
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
+
+&lt;h3&gt;
+啄木鸟/CPUG 第八次会课&lt;/sup&gt;
+&lt;/h3&gt;
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11143">
+&lt;div class="slide"&gt;
+&lt;h1&gt;提纲&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;1. Python 的数据分析体验
+    &lt;ul&gt;
+    &lt;li&gt;-- AlbertLee
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2. 自由对谈Python体验
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11144"></t>
+<t tx="zoomq.20091204150544.11145">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区创立历程
+    &lt;ul&gt;
+    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
+    中国Linux论坛 Python 编程 版块
+    &lt;/a&gt;
+    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
+    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
+    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
+    CZUG.org&lt;/a&gt; 开通
+    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
+    python.cn 邮件列表&lt;/a&gt;开通
+    
+    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
+    &lt;br/&gt;http://220.248.2.35:7080
+    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
+    
+    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
+    "高性能分布式网络存储系统的想法"
+    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
+    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
+    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
+    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
+    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
+    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11146">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟开源开发社区 已有资源
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wpwiki_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
+    
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wptrac_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
+    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
+    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
+    CPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
+    BPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
+    python.cn列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
+    cpug-eastchina列表&lt;/a&gt;;...
+    &lt;/sup&gt; 
+    
+    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
+    &lt;img src="img/plone_powered.gif"/&gt;
+    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
+    
+    
+    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
+    &lt;ul&gt;
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
+    啄木鸟会课&lt;/a&gt;
+    
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+    CPUG会课&lt;/a&gt;
+    
+    &lt;/ul&gt;
+    
+    &lt;li&gt; 其它各种实用资源不断补充中……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11147">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
+    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
+    &lt;/a&gt;
+    &lt;li&gt; 以往提案::
+        
+        &lt;li&gt;门户的建议和使用
+        &lt;li&gt;多个服务间的ID通用
+        &lt;li&gt;工作的起始和结束
+        &lt;li&gt;与其它社区的联合
+        &lt;li&gt;社区Blog 是否推出?
+    
+    &lt;li&gt; ……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11148">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区服务控制
+    &lt;ul&gt;
+    &lt;li&gt;Wiki -- 个人资料泛滥问题
+    &lt;ul&gt;
+        &lt;li&gt;加强监管        
+        &lt;li&gt;明确内容原则
+    &lt;/ul&gt;
+    
+    &lt;li&gt;Trac -- 首页篡改严重
+    &lt;ul&gt;
+        &lt;li&gt;系统升级        
+        &lt;li&gt;划分权限
+    &lt;/ul&gt;
+    
+    &lt;li&gt;plone -- 资料更新停顿
+    &lt;ul&gt;
+        &lt;li&gt;系统升级,提高可用性        
+        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
+    &lt;/ul&gt;
+    
+    &lt;/ul&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11149"></t>
+<t tx="zoomq.20091204150544.11150">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;li&gt;啄木鸟/CPUG Python 推广资源
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;ul&gt;
+        &lt;li&gt;翻译文档; 原创文档; 项目文档
+    &lt;/ul&gt;
+    &lt;li&gt;讨论环境
+    &lt;ul&gt;
+        &lt;li&gt;邮件列表; IM群; 专人IM
+    &lt;/ul&gt;
+    &lt;li&gt;项目参与
+    &lt;ul&gt;
+        &lt;li&gt;学习项目; 插件开发; 微项目...
+    &lt;/ul&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11151">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主流媒体
+    &lt;ul&gt;
+    &lt;li&gt;报纸
+    &lt;li&gt;期刊    
+    &lt;li&gt;门户站点
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;个人媒体
+    &lt;ul&gt;
+    &lt;li&gt;Blog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作媒体
+    &lt;ul&gt;
+    &lt;li&gt;社区
+    &lt;li&gt;BBS
+    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
+    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11152">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 学校推广&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;重要性
+    &lt;ul&gt;
+    &lt;li&gt;影响学生群体
+    &lt;li&gt;影响学校政策  
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;必要性
+    &lt;ul&gt;
+    &lt;li&gt;直接产生影响...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作方式
+    &lt;ul&gt;
+    &lt;li&gt;尋求…………
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11153"></t>
+<t tx="zoomq.20091204150544.11154">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Wx
+    &lt;ul&gt;
+    &lt;li&gt;newEdit 的推广
+    &lt;li&gt;newEdit 的插件
+    &lt;li&gt;newEdit 的wizard
+    &lt;li&gt;newEdit 的mixin
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tk
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
+    &lt;li&gt;Leo 插件
+    &lt;li&gt;Leo 汉化
+    &lt;li&gt;Leo 宏
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Qt
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11155">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Django
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; Woodlog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Karrigell
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; 网站管理辅助
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;插件开发
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CherryPy
+    &lt;ul&gt;
+    &lt;li&gt;CherryFlow;Continuation 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TurboGears
+    &lt;ul&gt;
+    &lt;li&gt;Ajax 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
+    &lt;ul&gt;
+    &lt;li&gt;P2P; 存储; 搜索...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11156">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;社区的形象/拳头产品？！
+&lt;/li&gt;
+&lt;li&gt;Woodlog
+    &lt;ul&gt;
+    &lt;li&gt;Django 基础; 全新特性
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;Zen 式开发和使用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ZqBlog
+    &lt;ul&gt;
+    &lt;li&gt;基于Gmail的存储
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11157"></t>
+<t tx="zoomq.20091204150544.11158">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/a&gt;    共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+        &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;/a&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
+    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11159">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;自由！高贵的精神支柱
+&lt;/li&gt;
+&lt;li&gt;开源！神奇的软件开发模式
+&lt;/li&gt;
+&lt;li&gt;Python！美好易用的脚本语言
+&lt;/li&gt;
+
+&lt;li&gt;那未  :
+    &lt;ul&gt;
+    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
+    &lt;/li&gt;
+    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
+    &lt;ul&gt;
+        &lt;li&gt;我们相识相知的一般途径:
+            &lt;ul&gt;
+            &lt;li&gt;订阅列表……
+            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
+            &lt;li&gt;在自个儿Blog 中深入讨论……
+            &lt;li&gt;加入Wiki 贡献文章
+            &lt;li&gt;被点名作事儿……
+            &lt;li&gt;被现实中对应上，加入项目团队…………
+            &lt;/ul&gt;
+        &lt;/li&gt; 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;实际使用Python 来真正体验自由的力量
+    &lt;/li&gt;
+    &lt;li&gt;....
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11160">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11161">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
+        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
+        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
+        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.xulei.org/"&gt;
+        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
+        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://xyb.8800.org/"&gt;
+        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.douban.com/"&gt;
+        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
+        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
+        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
+        
+        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
+        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
+        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
+        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
+        ......
+        
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有想法来自日常学习工作
+        &lt;li&gt; 所有体悟来自各种沟通分享
+        &lt;li&gt; 所有知识来自网络分享印证
+        &lt;li&gt; 所有经验来自个人失败经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11162">&lt;/div&gt;&lt;!--class="layout" --&gt;
+&lt;/div&gt;&lt;!-- class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11163">南非生人，USA大学，印度，澳州，韩国干活………………
+
+</t>
+<t tx="zoomq.20091204150544.11164">@path 0226-wood06/ui/</t>
+<t tx="zoomq.20091204150544.11165">/* Following are the presentation styles -- edit away!
+   Note that the 'body' font size may have to be changed if the resolution is
+    different than expected. 
+Base Blue fixed for Chinese Slide show...
+Zoom.Quiet    
+051106-DeepBlue #2E2E5A :: #000294
+ right bottom no-repeat
+    */
+
+body {background: #2E2E5A url(freedombottom.gif); 
+    color: #fff; 
+    font-size: 2em;
+    }
+:link, :visited {text-decoration: none; color: #F8B73E;}
+#controls :active {color: #88A !important;}
+#controls :focus {outline: 1px dotted #227;}
+h1, h2, h3, h4 {
+    font-size: 100%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+h5{
+    font-size: 85%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+
+ul, pre {margin: 0; line-height: 1em;}
+
+html, body {margin: 0; padding: 0;}
+img {border:0px;}    
+span #logo{float:left;
+    }
+blockquote, q {font-style: italic;}
+blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
+blockquote p {margin: 0;}
+blockquote i {font-style: normal;}
+blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
+blockquote b i {font-style: italic;}
+
+kbd {font-weight: bold; font-size: 1em;}
+sup {font-size: smaller; line-height: 1px;}
+
+/*color: #533;*/
+code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
+code.bad, code del {color: red;}
+code.old {color: silver;}
+pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
+pre code {display: block;}
+
+ul {margin-left: 0.5em; list-style: disc;
+}
+li {margin-top: 0.25em; margin-right: 0;
+    line-height: 1em;}
+/*Zoomq::051115 fixed as list padding: 0.5em;*/
+ul ul {line-height: 100%; 
+    padding-top: 0.4em;padding-left: 0.5em;}
+ul ul li {font-size: 85%; list-style: square;}
+
+
+img.leader {display: block; margin: 0 auto;}
+
+div#header, div#footer {background: #005; color: #9183BF;
+  font-family: Verdana, Helvetica, sans-serif;}
+div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
+  line-height: 1px;}
+/* 051106-DeepBlue #000136 #17172F */
+div#footer {font-size: 0.5em; font-weight: bold; 
+    padding: .5em 0; height: 36px; 
+    border-top: 1px solid #08093F; 
+    background: #17172F url(bluefooter.jpg) top right no-repeat; }
+#footer h1, #footer h2 {display: block; padding: 0 1em;}
+#footer h2 {font-style: italic;}
+
+div.long {font-size: 0.75em;}
+.slide {
+	font-family: georgia, Times, 'Times New Roman', serif;
+  background: transparent url(bluebg.gif) repeat-x;
+    padding: 0px;
+}
+.slide h1 {position: absolute; left: 87px; z-index: 1;
+ white-space: nowrap;
+ text-transform: capitalize;
+ top: .5em; width: 80%;
+ margin: 0 0 0.5em 0; text-align: center; 
+ padding: 0px;
+ font: 150%/1em georgia, Times, 'Times New Roman', serif;
+ color: #fff; 
+ background: transparent; 
+ }
+/*transparent*/
+.slide h3 {font-size: 130%;}
+h1 abbr {font-variant: small-caps;}
+
+div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
+  width: 50%; height: 100%;
+  text-align: right;}
+#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
+  top: auto; height: auto;}
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0; padding: 0;}
+div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
+  border: none;
+  cursor: pointer;
+  background: transparent; color: #9183BF;
+  }/*#9183BF;*/
+div#controls select {visibility: hidden; background: #DDD; color: #227;}
+div#controls div:hover select {visibility: visible;}
+
+#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
+
+
+#slide0 {padding-top: 3.5em; font-size: 90%;}
+#slide0 h1 {
+    position: static; margin: 1em 0 1.33em; padding: 0;
+    white-space: normal;
+    background: transparent;
+    margin: 0 auto; width: 90%; height: 281px;
+    text-align: center;
+    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
+   color: #fff;}
+#slide0 h3 {font-size: 1.5em;}
+#slide0 h4 {font-size: 1em;}
+#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
+#slide0 p {margin-top: 0.7em;}
+
+
+ul.urls {list-style: none; display: inline; margin: 0;}
+.urls li {display: inline; margin: 0;}
+.note {display: none;}</t>
+<t tx="zoomq.20091204150544.11166">/* The following styles size, place, and layer the slide components.
+   Edit these if you want to change the overall slide layout.
+   The commented lines can be uncommented (and modified, if necessary) 
+    to help you with the rearrangement process. */
+
+div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
+div#header {top: 0; height: 3em; z-index: 1;}
+div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
+/*Zoomq::051115 adjust for Freedom */
+div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
+div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
+#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
+
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0;}
+#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
+html&gt;body #currentSlide {position: fixed;}
+
+/*
+div#header {background: #FCC;}
+div#footer {background: #CCF;}
+div#controls {background: #BBD;}
+div#currentSlide {background: #FFC;}
+*/
+</t>
+<t tx="zoomq.20091204150544.11167">@path 060502-index
+
+</t>
+<t tx="zoomq.20091204150544.11168">张成 czhang
+Django:
+    http://solidot.org/article.php?story=20051220095130663&amp;query=django
+    的琛圳迁移到北京
+许艺华 EricHua:
+    http://nkeric.3322.org
+    J2EE
+    ...拼音
+
+李迎辉:
+    Django
+    MTV:
+        App 由 Model 发布
+        流程:
+            1. 配置App
+            2. 发布App
+        Model 的自动组织 Admin 的实际
+        预制的多种管理功能…………
+        
+        </t>
+<t tx="zoomq.20091204150544.11169">
+@others
+</t>
+<t tx="zoomq.20091204150544.11170">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;title&gt;啄木鸟年度规划 (built by S5)&lt;/title&gt;
+
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+
+
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11171">&lt;div id="footer"&gt;
+&lt;h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
+CPUG&lt;/a&gt; 
+中国Python用户组
+
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+
+&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
+&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
+
+060502 14:00
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+Zoom.Quiet
+&lt;/a&gt;
+&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/h2&gt;
+
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11172">&lt;div class="presentation"&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11173">&lt;div class="slide"&gt;
+
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
+
+&lt;h3&gt;
+啄木鸟/CPUG 第七次会课&lt;/sup&gt;
+&lt;/h3&gt;
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11174">
+&lt;div class="slide"&gt;
+&lt;h1&gt;提纲&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;1. Python 的内存调试技巧 
+    &lt;ul&gt;
+    &lt;li&gt;-- 小新|Dephij 讲述OpenLDAP与内存 不得不说的故事
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2. 分享自由软件以及 webpy.org 的体验
+&lt;ul&gt;
+    &lt;li&gt;-- Korea Debian 友人 Kai Hendry &lt;hendry AT iki.fi&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3. Dive Into Python 5.4 版本正式释放说明
+&lt;ul&gt;
+    &lt;li&gt;翻译工程的组织和Ubuntu文档的进入 
+    &lt;li&gt;-- Liang Osmond|ZoomQuiet
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;4. Sharing Ubuntu 5.1 CD
+&lt;ul&gt;
+    &lt;li&gt;-- GuiXing...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11175"></t>
+<t tx="zoomq.20091204150544.11176">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区创立历程
+    &lt;ul&gt;
+    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
+    中国Linux论坛 Python 编程 版块
+    &lt;/a&gt;
+    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
+    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
+    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
+    CZUG.org&lt;/a&gt; 开通
+    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
+    python.cn 邮件列表&lt;/a&gt;开通
+    
+    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
+    &lt;br/&gt;http://220.248.2.35:7080
+    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
+    
+    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
+    "高性能分布式网络存储系统的想法"
+    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
+    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
+    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
+    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
+    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
+    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11177">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟开源开发社区 已有资源
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wpwiki_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
+    
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wptrac_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
+    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
+    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
+    CPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
+    BPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
+    python.cn列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
+    cpug-eastchina列表&lt;/a&gt;;...
+    &lt;/sup&gt; 
+    
+    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
+    &lt;img src="img/plone_powered.gif"/&gt;
+    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
+    
+    
+    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
+    &lt;ul&gt;
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
+    啄木鸟会课&lt;/a&gt;
+    
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+    CPUG会课&lt;/a&gt;
+    
+    &lt;/ul&gt;
+    
+    &lt;li&gt; 其它各种实用资源不断补充中……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11178">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
+    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
+    &lt;/a&gt;
+    &lt;li&gt; 以往提案::
+        
+        &lt;li&gt;门户的建议和使用
+        &lt;li&gt;多个服务间的ID通用
+        &lt;li&gt;工作的起始和结束
+        &lt;li&gt;与其它社区的联合
+        &lt;li&gt;社区Blog 是否推出?
+    
+    &lt;li&gt; ……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11179">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区服务控制
+    &lt;ul&gt;
+    &lt;li&gt;Wiki -- 个人资料泛滥问题
+    &lt;ul&gt;
+        &lt;li&gt;加强监管        
+        &lt;li&gt;明确内容原则
+    &lt;/ul&gt;
+    
+    &lt;li&gt;Trac -- 首页篡改严重
+    &lt;ul&gt;
+        &lt;li&gt;系统升级        
+        &lt;li&gt;划分权限
+    &lt;/ul&gt;
+    
+    &lt;li&gt;plone -- 资料更新停顿
+    &lt;ul&gt;
+        &lt;li&gt;系统升级,提高可用性        
+        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
+    &lt;/ul&gt;
+    
+    &lt;/ul&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11180"></t>
+<t tx="zoomq.20091204150544.11181">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;li&gt;啄木鸟/CPUG Python 推广资源
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;ul&gt;
+        &lt;li&gt;翻译文档; 原创文档; 项目文档
+    &lt;/ul&gt;
+    &lt;li&gt;讨论环境
+    &lt;ul&gt;
+        &lt;li&gt;邮件列表; IM群; 专人IM
+    &lt;/ul&gt;
+    &lt;li&gt;项目参与
+    &lt;ul&gt;
+        &lt;li&gt;学习项目; 插件开发; 微项目...
+    &lt;/ul&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11182">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主流媒体
+    &lt;ul&gt;
+    &lt;li&gt;报纸
+    &lt;li&gt;期刊    
+    &lt;li&gt;门户站点
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;个人媒体
+    &lt;ul&gt;
+    &lt;li&gt;Blog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作媒体
+    &lt;ul&gt;
+    &lt;li&gt;社区
+    &lt;li&gt;BBS
+    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
+    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11183">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 学校推广&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;重要性
+    &lt;ul&gt;
+    &lt;li&gt;影响学生群体
+    &lt;li&gt;影响学校政策  
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;必要性
+    &lt;ul&gt;
+    &lt;li&gt;直接产生影响...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作方式
+    &lt;ul&gt;
+    &lt;li&gt;尋求…………
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11184"></t>
+<t tx="zoomq.20091204150544.11185">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Wx
+    &lt;ul&gt;
+    &lt;li&gt;newEdit 的推广
+    &lt;li&gt;newEdit 的插件
+    &lt;li&gt;newEdit 的wizard
+    &lt;li&gt;newEdit 的mixin
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tk
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
+    &lt;li&gt;Leo 插件
+    &lt;li&gt;Leo 汉化
+    &lt;li&gt;Leo 宏
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Qt
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11186">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Django
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; Woodlog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Karrigell
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; 网站管理辅助
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;插件开发
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CherryPy
+    &lt;ul&gt;
+    &lt;li&gt;CherryFlow;Continuation 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TurboGears
+    &lt;ul&gt;
+    &lt;li&gt;Ajax 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
+    &lt;ul&gt;
+    &lt;li&gt;P2P; 存储; 搜索...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11187">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;社区的形象/拳头产品？！
+&lt;/li&gt;
+&lt;li&gt;Woodlog
+    &lt;ul&gt;
+    &lt;li&gt;Django 基础; 全新特性
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;Zen 式开发和使用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ZqBlog
+    &lt;ul&gt;
+    &lt;li&gt;基于Gmail的存储
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11188"></t>
+<t tx="zoomq.20091204150544.11189">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/a&gt;    共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+        &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;/a&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
+    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11190">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;自由！高贵的精神支柱
+&lt;/li&gt;
+&lt;li&gt;开源！神奇的软件开发模式
+&lt;/li&gt;
+&lt;li&gt;Python！美好易用的脚本语言
+&lt;/li&gt;
+
+&lt;li&gt;那未  :
+    &lt;ul&gt;
+    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
+    &lt;/li&gt;
+    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
+    &lt;ul&gt;
+        &lt;li&gt;我们相识相知的一般途径:
+            &lt;ul&gt;
+            &lt;li&gt;订阅列表……
+            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
+            &lt;li&gt;在自个儿Blog 中深入讨论……
+            &lt;li&gt;加入Wiki 贡献文章
+            &lt;li&gt;被点名作事儿……
+            &lt;li&gt;被现实中对应上，加入项目团队…………
+            &lt;/ul&gt;
+        &lt;/li&gt; 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;实际使用Python 来真正体验自由的力量
+    &lt;/li&gt;
+    &lt;li&gt;....
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11191">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11192">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
+        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
+        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
+        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.xulei.org/"&gt;
+        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
+        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://xyb.8800.org/"&gt;
+        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.douban.com/"&gt;
+        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
+        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
+        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
+        
+        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
+        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
+        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
+        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
+        ......
+        
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有想法来自日常学习工作
+        &lt;li&gt; 所有体悟来自各种沟通分享
+        &lt;li&gt; 所有知识来自网络分享印证
+        &lt;li&gt; 所有经验来自个人失败经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11193">&lt;/div&gt;&lt;!--class="layout" --&gt;
+&lt;/div&gt;&lt;!-- class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11194">南非生人，USA大学，印度，澳州，韩国干活………………
+
+</t>
+<t tx="zoomq.20091204150544.11195">@path 0226-wood06/ui/</t>
+<t tx="zoomq.20091204150544.11196">/* Following are the presentation styles -- edit away!
+   Note that the 'body' font size may have to be changed if the resolution is
+    different than expected. 
+Base Blue fixed for Chinese Slide show...
+Zoom.Quiet    
+051106-DeepBlue #2E2E5A :: #000294
+ right bottom no-repeat
+    */
+
+body {background: #2E2E5A url(freedombottom.gif); 
+    color: #fff; 
+    font-size: 2em;
+    }
+:link, :visited {text-decoration: none; color: #F8B73E;}
+#controls :active {color: #88A !important;}
+#controls :focus {outline: 1px dotted #227;}
+h1, h2, h3, h4 {
+    font-size: 100%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+h5{
+    font-size: 85%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+
+ul, pre {margin: 0; line-height: 1em;}
+
+html, body {margin: 0; padding: 0;}
+img {border:0px;}    
+span #logo{float:left;
+    }
+blockquote, q {font-style: italic;}
+blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
+blockquote p {margin: 0;}
+blockquote i {font-style: normal;}
+blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
+blockquote b i {font-style: italic;}
+
+kbd {font-weight: bold; font-size: 1em;}
+sup {font-size: smaller; line-height: 1px;}
+
+/*color: #533;*/
+code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
+code.bad, code del {color: red;}
+code.old {color: silver;}
+pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
+pre code {display: block;}
+
+ul {margin-left: 0.5em; list-style: disc;
+}
+li {margin-top: 0.25em; margin-right: 0;
+    line-height: 1em;}
+/*Zoomq::051115 fixed as list padding: 0.5em;*/
+ul ul {line-height: 100%; 
+    padding-top: 0.4em;padding-left: 0.5em;}
+ul ul li {font-size: 85%; list-style: square;}
+
+
+img.leader {display: block; margin: 0 auto;}
+
+div#header, div#footer {background: #005; color: #9183BF;
+  font-family: Verdana, Helvetica, sans-serif;}
+div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
+  line-height: 1px;}
+/* 051106-DeepBlue #000136 #17172F */
+div#footer {font-size: 0.5em; font-weight: bold; 
+    padding: .5em 0; height: 36px; 
+    border-top: 1px solid #08093F; 
+    background: #17172F url(bluefooter.jpg) top right no-repeat; }
+#footer h1, #footer h2 {display: block; padding: 0 1em;}
+#footer h2 {font-style: italic;}
+
+div.long {font-size: 0.75em;}
+.slide {
+	font-family: georgia, Times, 'Times New Roman', serif;
+  background: transparent url(bluebg.gif) repeat-x;
+    padding: 0px;
+}
+.slide h1 {position: absolute; left: 87px; z-index: 1;
+ white-space: nowrap;
+ text-transform: capitalize;
+ top: .5em; width: 80%;
+ margin: 0 0 0.5em 0; text-align: center; 
+ padding: 0px;
+ font: 150%/1em georgia, Times, 'Times New Roman', serif;
+ color: #fff; 
+ background: transparent; 
+ }
+/*transparent*/
+.slide h3 {font-size: 130%;}
+h1 abbr {font-variant: small-caps;}
+
+div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
+  width: 50%; height: 100%;
+  text-align: right;}
+#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
+  top: auto; height: auto;}
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0; padding: 0;}
+div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
+  border: none;
+  cursor: pointer;
+  background: transparent; color: #9183BF;
+  }/*#9183BF;*/
+div#controls select {visibility: hidden; background: #DDD; color: #227;}
+div#controls div:hover select {visibility: visible;}
+
+#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
+
+
+#slide0 {padding-top: 3.5em; font-size: 90%;}
+#slide0 h1 {
+    position: static; margin: 1em 0 1.33em; padding: 0;
+    white-space: normal;
+    background: transparent;
+    margin: 0 auto; width: 90%; height: 281px;
+    text-align: center;
+    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
+   color: #fff;}
+#slide0 h3 {font-size: 1.5em;}
+#slide0 h4 {font-size: 1em;}
+#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
+#slide0 p {margin-top: 0.7em;}
+
+
+ul.urls {list-style: none; display: inline; margin: 0;}
+.urls li {display: inline; margin: 0;}
+.note {display: none;}</t>
+<t tx="zoomq.20091204150544.11197">/* The following styles size, place, and layer the slide components.
+   Edit these if you want to change the overall slide layout.
+   The commented lines can be uncommented (and modified, if necessary) 
+    to help you with the rearrangement process. */
+
+div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
+div#header {top: 0; height: 3em; z-index: 1;}
+div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
+/*Zoomq::051115 adjust for Freedom */
+div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
+div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
+#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
+
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0;}
+#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
+html&gt;body #currentSlide {position: fixed;}
+
+/*
+div#header {background: #FCC;}
+div#footer {background: #CCF;}
+div#controls {background: #BBD;}
+div#currentSlide {background: #FFC;}
+*/
+</t>
+<t tx="zoomq.20091204150544.11198">@path 0326-douban
+
+</t>
+<t tx="zoomq.20091204150544.11199">张成 czhang
+Django:
+    http://solidot.org/article.php?story=20051220095130663&amp;query=django
+    的琛圳迁移到北京
+许艺华 EricHua:
+    http://nkeric.3322.org
+    J2EE
+    ...拼音
+
+李迎辉:
+    Django
+    MTV:
+        App 由 Model 发布
+        流程:
+            1. 配置App
+            2. 发布App
+        Model 的自动组织 Admin 的实际
+        预制的多种管理功能…………
+        
+        </t>
+<t tx="zoomq.20091204150544.11200">维基 的维护方式:
+    精华贴模式的
+    维基索引页！！！
+    
+    1. 维基索引
+    2. CMS的收集支持
+    3. </t>
+<t tx="zoomq.20091204150544.11201">
+@others
+</t>
+<t tx="zoomq.20091204150544.11202">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;title&gt;啄木鸟06第二次会课 (built by S5)&lt;/title&gt;
+
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+
+
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11203">&lt;div id="footer"&gt;
+&lt;h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
+CPUG&lt;/a&gt; 
+中国Python用户组
+
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+
+&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
+&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
+
+v0.4.060326
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+Zoom.Quiet
+&lt;/a&gt;
+&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/h2&gt;
+
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11204">&lt;div class="presentation"&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11205">&lt;div class="slide"&gt;
+
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
+
+&lt;h3&gt;
+啄木鸟/CPUG会课交流
+&lt;/h3&gt;
+
+&lt;br/&gt;
+
+&lt;h4&gt;
+woodlog 安装与使用
+
+&lt;br/&gt;
+豆瓣网发展
+
+&lt;br/&gt;
+啄木鸟维基改进
+
+&lt;/h4&gt;
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11206">
+&lt;div class="slide"&gt;
+&lt;h1&gt;提纲&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;社区本身
+    &lt;ul&gt;
+    &lt;li&gt;持续建设
+    &lt;li&gt;增进提案的深入讨论
+    &lt;li&gt;服务控制
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python推广
+    &lt;ul&gt;
+    &lt;li&gt;活动还是文档？
+    &lt;li&gt;媒体平台
+    &lt;li&gt;典型示范
+    &lt;li&gt;学校合作
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;啄木鸟/CPUG 项目
+    &lt;ul&gt;
+    &lt;li&gt;GUI - newEdit
+    &lt;li&gt;Web - 丰富的选择
+    &lt;li&gt;Blog - 突破点？
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11207"></t>
+<t tx="zoomq.20091204150544.11208">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区创立历程
+    &lt;ul&gt;
+    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
+    中国Linux论坛 Python 编程 版块
+    &lt;/a&gt;
+    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
+    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
+    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
+    CZUG.org&lt;/a&gt; 开通
+    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
+    python.cn 邮件列表&lt;/a&gt;开通
+    
+    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
+    &lt;br/&gt;http://220.248.2.35:7080
+    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
+    
+    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
+    "高性能分布式网络存储系统的想法"
+    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
+    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
+    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
+    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
+    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
+    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11209">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟开源开发社区 已有资源
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wpwiki_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
+    
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wptrac_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
+    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
+    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
+    CPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
+    BPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
+    python.cn列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
+    cpug-eastchina列表&lt;/a&gt;;...
+    &lt;/sup&gt; 
+    
+    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
+    &lt;img src="img/plone_powered.gif"/&gt;
+    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
+    
+    
+    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
+    &lt;ul&gt;
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
+    啄木鸟会课&lt;/a&gt;
+    
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+    CPUG会课&lt;/a&gt;
+    
+    &lt;/ul&gt;
+    
+    &lt;li&gt; 其它各种实用资源不断补充中……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11210">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
+    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
+    &lt;/a&gt;
+    &lt;li&gt; 以往提案::
+        
+        &lt;li&gt;门户的建议和使用
+        &lt;li&gt;多个服务间的ID通用
+        &lt;li&gt;工作的起始和结束
+        &lt;li&gt;与其它社区的联合
+        &lt;li&gt;社区Blog 是否推出?
+    
+    &lt;li&gt; ……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11211">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区服务控制
+    &lt;ul&gt;
+    &lt;li&gt;Wiki -- 个人资料泛滥问题
+    &lt;ul&gt;
+        &lt;li&gt;加强监管        
+        &lt;li&gt;明确内容原则
+    &lt;/ul&gt;
+    
+    &lt;li&gt;Trac -- 首页篡改严重
+    &lt;ul&gt;
+        &lt;li&gt;系统升级        
+        &lt;li&gt;划分权限
+    &lt;/ul&gt;
+    
+    &lt;li&gt;plone -- 资料更新停顿
+    &lt;ul&gt;
+        &lt;li&gt;系统升级,提高可用性        
+        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
+    &lt;/ul&gt;
+    
+    &lt;/ul&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11212"></t>
+<t tx="zoomq.20091204150544.11213">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;li&gt;啄木鸟/CPUG Python 推广资源
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;ul&gt;
+        &lt;li&gt;翻译文档; 原创文档; 项目文档
+    &lt;/ul&gt;
+    &lt;li&gt;讨论环境
+    &lt;ul&gt;
+        &lt;li&gt;邮件列表; IM群; 专人IM
+    &lt;/ul&gt;
+    &lt;li&gt;项目参与
+    &lt;ul&gt;
+        &lt;li&gt;学习项目; 插件开发; 微项目...
+    &lt;/ul&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11214">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主流媒体
+    &lt;ul&gt;
+    &lt;li&gt;报纸
+    &lt;li&gt;期刊    
+    &lt;li&gt;门户站点
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;个人媒体
+    &lt;ul&gt;
+    &lt;li&gt;Blog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作媒体
+    &lt;ul&gt;
+    &lt;li&gt;社区
+    &lt;li&gt;BBS
+    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
+    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11215">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 学校推广&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;重要性
+    &lt;ul&gt;
+    &lt;li&gt;影响学生群体
+    &lt;li&gt;影响学校政策  
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;必要性
+    &lt;ul&gt;
+    &lt;li&gt;直接产生影响...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作方式
+    &lt;ul&gt;
+    &lt;li&gt;尋求…………
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11216"></t>
+<t tx="zoomq.20091204150544.11217">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Wx
+    &lt;ul&gt;
+    &lt;li&gt;newEdit 的推广
+    &lt;li&gt;newEdit 的插件
+    &lt;li&gt;newEdit 的wizard
+    &lt;li&gt;newEdit 的mixin
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tk
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
+    &lt;li&gt;Leo 插件
+    &lt;li&gt;Leo 汉化
+    &lt;li&gt;Leo 宏
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Qt
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11218">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Django
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; Woodlog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Karrigell
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; 网站管理辅助
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;插件开发
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CherryPy
+    &lt;ul&gt;
+    &lt;li&gt;CherryFlow;Continuation 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TurboGears
+    &lt;ul&gt;
+    &lt;li&gt;Ajax 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
+    &lt;ul&gt;
+    &lt;li&gt;P2P; 存储; 搜索...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11219">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;社区的形象/拳头产品？！
+&lt;/li&gt;
+&lt;li&gt;Woodlog
+    &lt;ul&gt;
+    &lt;li&gt;Django 基础; 全新特性
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;Zen 式开发和使用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ZqBlog
+    &lt;ul&gt;
+    &lt;li&gt;基于Gmail的存储
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11220"></t>
+<t tx="zoomq.20091204150544.11221">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/a&gt;    共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+        &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;/a&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
+    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11222">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;自由！高贵的精神支柱
+&lt;/li&gt;
+&lt;li&gt;开源！神奇的软件开发模式
+&lt;/li&gt;
+&lt;li&gt;Python！美好易用的脚本语言
+&lt;/li&gt;
+
+&lt;li&gt;那未  :
+    &lt;ul&gt;
+    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
+    &lt;/li&gt;
+    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
+    &lt;ul&gt;
+        &lt;li&gt;我们相识相知的一般途径:
+            &lt;ul&gt;
+            &lt;li&gt;订阅列表……
+            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
+            &lt;li&gt;在自个儿Blog 中深入讨论……
+            &lt;li&gt;加入Wiki 贡献文章
+            &lt;li&gt;被点名作事儿……
+            &lt;li&gt;被现实中对应上，加入项目团队…………
+            &lt;/ul&gt;
+        &lt;/li&gt; 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;实际使用Python 来真正体验自由的力量
+    &lt;/li&gt;
+    &lt;li&gt;....
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11223">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11224">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
+        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
+        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
+        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.xulei.org/"&gt;
+        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
+        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://xyb.8800.org/"&gt;
+        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.douban.com/"&gt;
+        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
+        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
+        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
+        
+        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
+        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
+        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
+        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
+        ......
+        
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有想法来自日常学习工作
+        &lt;li&gt; 所有体悟来自各种沟通分享
+        &lt;li&gt; 所有知识来自网络分享印证
+        &lt;li&gt; 所有经验来自个人失败经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11225">&lt;/div&gt;&lt;!--class="layout" --&gt;
+&lt;/div&gt;&lt;!-- class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11226">@path 0226-wood06/ui/</t>
+<t tx="zoomq.20091204150544.11227">/* Following are the presentation styles -- edit away!
+   Note that the 'body' font size may have to be changed if the resolution is
+    different than expected. 
+Base Blue fixed for Chinese Slide show...
+Zoom.Quiet    
+051106-DeepBlue #2E2E5A :: #000294
+ right bottom no-repeat
+    */
+
+body {background: #2E2E5A url(freedombottom.gif); 
+    color: #fff; 
+    font-size: 2em;
+    }
+:link, :visited {text-decoration: none; color: #F8B73E;}
+#controls :active {color: #88A !important;}
+#controls :focus {outline: 1px dotted #227;}
+h1, h2, h3, h4 {
+    font-size: 100%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+h5{
+    font-size: 85%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+
+ul, pre {margin: 0; line-height: 1em;}
+
+html, body {margin: 0; padding: 0;}
+img {border:0px;}    
+span #logo{float:left;
+    }
+blockquote, q {font-style: italic;}
+blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
+blockquote p {margin: 0;}
+blockquote i {font-style: normal;}
+blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
+blockquote b i {font-style: italic;}
+
+kbd {font-weight: bold; font-size: 1em;}
+sup {font-size: smaller; line-height: 1px;}
+
+/*color: #533;*/
+code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
+code.bad, code del {color: red;}
+code.old {color: silver;}
+pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
+pre code {display: block;}
+
+ul {margin-left: 0.5em; list-style: disc;
+}
+li {margin-top: 0.25em; margin-right: 0;
+    line-height: 1em;}
+/*Zoomq::051115 fixed as list padding: 0.5em;*/
+ul ul {line-height: 100%; 
+    padding-top: 0.4em;padding-left: 0.5em;}
+ul ul li {font-size: 85%; list-style: square;}
+
+
+img.leader {display: block; margin: 0 auto;}
+
+div#header, div#footer {background: #005; color: #9183BF;
+  font-family: Verdana, Helvetica, sans-serif;}
+div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
+  line-height: 1px;}
+/* 051106-DeepBlue #000136 #17172F */
+div#footer {font-size: 0.5em; font-weight: bold; 
+    padding: .5em 0; height: 36px; 
+    border-top: 1px solid #08093F; 
+    background: #17172F url(bluefooter.jpg) top right no-repeat; }
+#footer h1, #footer h2 {display: block; padding: 0 1em;}
+#footer h2 {font-style: italic;}
+
+div.long {font-size: 0.75em;}
+.slide {
+	font-family: georgia, Times, 'Times New Roman', serif;
+  background: transparent url(bluebg.gif) repeat-x;
+    padding: 0px;
+}
+.slide h1 {position: absolute; left: 87px; z-index: 1;
+ white-space: nowrap;
+ text-transform: capitalize;
+ top: .5em; width: 80%;
+ margin: 0 0 0.5em 0; text-align: center; 
+ padding: 0px;
+ font: 150%/1em georgia, Times, 'Times New Roman', serif;
+ color: #fff; 
+ background: transparent; 
+ }
+/*transparent*/
+.slide h3 {font-size: 130%;}
+h1 abbr {font-variant: small-caps;}
+
+div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
+  width: 50%; height: 100%;
+  text-align: right;}
+#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
+  top: auto; height: auto;}
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0; padding: 0;}
+div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
+  border: none;
+  cursor: pointer;
+  background: transparent; color: #9183BF;
+  }/*#9183BF;*/
+div#controls select {visibility: hidden; background: #DDD; color: #227;}
+div#controls div:hover select {visibility: visible;}
+
+#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
+
+
+#slide0 {padding-top: 3.5em; font-size: 90%;}
+#slide0 h1 {
+    position: static; margin: 1em 0 1.33em; padding: 0;
+    white-space: normal;
+    background: transparent;
+    margin: 0 auto; width: 90%; height: 281px;
+    text-align: center;
+    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
+   color: #fff;}
+#slide0 h3 {font-size: 1.5em;}
+#slide0 h4 {font-size: 1em;}
+#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
+#slide0 p {margin-top: 0.7em;}
+
+
+ul.urls {list-style: none; display: inline; margin: 0;}
+.urls li {display: inline; margin: 0;}
+.note {display: none;}</t>
+<t tx="zoomq.20091204150544.11228">/* The following styles size, place, and layer the slide components.
+   Edit these if you want to change the overall slide layout.
+   The commented lines can be uncommented (and modified, if necessary) 
+    to help you with the rearrangement process. */
+
+div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
+div#header {top: 0; height: 3em; z-index: 1;}
+div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
+/*Zoomq::051115 adjust for Freedom */
+div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
+div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
+#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
+
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0;}
+#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
+html&gt;body #currentSlide {position: fixed;}
+
+/*
+div#header {background: #FCC;}
+div#footer {background: #CCF;}
+div#controls {background: #BBD;}
+div#currentSlide {background: #FFC;}
+*/
+</t>
+<t tx="zoomq.20091204150544.11229">@path 0226-wood06
+
+</t>
+<t tx="zoomq.20091204150544.11230">张成 czhang
+Django:
+    http://solidot.org/article.php?story=20051220095130663&amp;query=django
+    的琛圳迁移到北京
+许艺华 EricHua:
+    http://nkeric.3322.org
+    J2EE
+    ...拼音
+
+李迎辉:
+    Django
+    MTV:
+        App 由 Model 发布
+        流程:
+            1. 配置App
+            2. 发布App
+        Model 的自动组织 Admin 的实际
+        预制的多种管理功能…………
+        
+        </t>
+<t tx="zoomq.20091204150544.11231">
+@others
+</t>
+<t tx="zoomq.20091204150544.11232">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;title&gt;啄木鸟年度规划 (built by S5)&lt;/title&gt;
+
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+
+
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11233">&lt;div id="footer"&gt;
+&lt;h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
+CPUG&lt;/a&gt; 
+中国Python用户组
+
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+
+&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
+&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
+
+v0.7.060225
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+Zoom.Quiet
+&lt;/a&gt;
+&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/h2&gt;
+
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11234">&lt;div class="presentation"&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11235">&lt;div class="slide"&gt;
+
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
+
+&lt;h3&gt;
+啄木鸟/CPUG社区2006规划&lt;/sup&gt;
+&lt;/h3&gt;
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11236">
+&lt;div class="slide"&gt;
+&lt;h1&gt;提纲&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;社区本身
+    &lt;ul&gt;
+    &lt;li&gt;持续建设
+    &lt;li&gt;增进提案的深入讨论
+    &lt;li&gt;服务控制
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python推广
+    &lt;ul&gt;
+    &lt;li&gt;活动还是文档？
+    &lt;li&gt;媒体平台
+    &lt;li&gt;典型示范
+    &lt;li&gt;学校合作
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;啄木鸟/CPUG 项目
+    &lt;ul&gt;
+    &lt;li&gt;GUI - newEdit
+    &lt;li&gt;Web - 丰富的选择
+    &lt;li&gt;Blog - 突破点？
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11237"></t>
+<t tx="zoomq.20091204150544.11238">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区创立历程
+    &lt;ul&gt;
+    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
+    中国Linux论坛 Python 编程 版块
+    &lt;/a&gt;
+    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
+    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
+    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
+    CZUG.org&lt;/a&gt; 开通
+    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
+    python.cn 邮件列表&lt;/a&gt;开通
+    
+    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
+    &lt;br/&gt;http://220.248.2.35:7080
+    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
+    
+    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
+    "高性能分布式网络存储系统的想法"
+    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
+    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
+    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
+    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
+    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
+    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11239">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟开源开发社区 已有资源
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wpwiki_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
+    
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/wptrac_banner.gif"/&gt;
+    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
+    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
+    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
+    CPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
+    BPUG列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
+    python.cn列表&lt;/a&gt;;
+    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
+    cpug-eastchina列表&lt;/a&gt;;...
+    &lt;/sup&gt; 
+    
+    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
+    &lt;img src="img/plone_powered.gif"/&gt;
+    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
+    
+    
+    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
+    &lt;ul&gt;
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
+    啄木鸟会课&lt;/a&gt;
+    
+    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+    CPUG会课&lt;/a&gt;
+    
+    &lt;/ul&gt;
+    
+    &lt;li&gt; 其它各种实用资源不断补充中……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11240">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
+    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
+    &lt;/a&gt;
+    &lt;li&gt; 以往提案::
+        
+        &lt;li&gt;门户的建议和使用
+        &lt;li&gt;多个服务间的ID通用
+        &lt;li&gt;工作的起始和结束
+        &lt;li&gt;与其它社区的联合
+        &lt;li&gt;社区Blog 是否推出?
+    
+    &lt;li&gt; ……
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11241">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;啄木鸟/CPUG社区服务控制
+    &lt;ul&gt;
+    &lt;li&gt;Wiki -- 个人资料泛滥问题
+    &lt;ul&gt;
+        &lt;li&gt;加强监管        
+        &lt;li&gt;明确内容原则
+    &lt;/ul&gt;
+    
+    &lt;li&gt;Trac -- 首页篡改严重
+    &lt;ul&gt;
+        &lt;li&gt;系统升级        
+        &lt;li&gt;划分权限
+    &lt;/ul&gt;
+    
+    &lt;li&gt;plone -- 资料更新停顿
+    &lt;ul&gt;
+        &lt;li&gt;系统升级,提高可用性        
+        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
+    &lt;/ul&gt;
+    
+    &lt;/ul&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11242"></t>
+<t tx="zoomq.20091204150544.11243">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;li&gt;啄木鸟/CPUG Python 推广资源
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;ul&gt;
+        &lt;li&gt;翻译文档; 原创文档; 项目文档
+    &lt;/ul&gt;
+    &lt;li&gt;讨论环境
+    &lt;ul&gt;
+        &lt;li&gt;邮件列表; IM群; 专人IM
+    &lt;/ul&gt;
+    &lt;li&gt;项目参与
+    &lt;ul&gt;
+        &lt;li&gt;学习项目; 插件开发; 微项目...
+    &lt;/ul&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11244">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主流媒体
+    &lt;ul&gt;
+    &lt;li&gt;报纸
+    &lt;li&gt;期刊    
+    &lt;li&gt;门户站点
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;个人媒体
+    &lt;ul&gt;
+    &lt;li&gt;Blog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作媒体
+    &lt;ul&gt;
+    &lt;li&gt;社区
+    &lt;li&gt;BBS
+    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
+    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11245">
+
+&lt;div class="slide"&gt;
+&lt;h1&gt;Python 学校推广&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;重要性
+    &lt;ul&gt;
+    &lt;li&gt;影响学生群体
+    &lt;li&gt;影响学校政策  
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;必要性
+    &lt;ul&gt;
+    &lt;li&gt;直接产生影响...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;合作方式
+    &lt;ul&gt;
+    &lt;li&gt;尋求…………
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11246"></t>
+<t tx="zoomq.20091204150544.11247">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Wx
+    &lt;ul&gt;
+    &lt;li&gt;newEdit 的推广
+    &lt;li&gt;newEdit 的插件
+    &lt;li&gt;newEdit 的wizard
+    &lt;li&gt;newEdit 的mixin
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tk
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
+    &lt;li&gt;Leo 插件
+    &lt;li&gt;Leo 汉化
+    &lt;li&gt;Leo 宏
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Qt
+    &lt;ul&gt;
+    &lt;li&gt;文档
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11248">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Django
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; Woodlog
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Karrigell
+    &lt;ul&gt;
+    &lt;li&gt;教程文档; 网站管理辅助
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;插件开发
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CherryPy
+    &lt;ul&gt;
+    &lt;li&gt;CherryFlow;Continuation 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TurboGears
+    &lt;ul&gt;
+    &lt;li&gt;Ajax 应用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
+    &lt;ul&gt;
+    &lt;li&gt;P2P; 存储; 搜索...
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11249">
+&lt;div class="slide"&gt;
+&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;社区的形象/拳头产品？！
+&lt;/li&gt;
+&lt;li&gt;Woodlog
+    &lt;ul&gt;
+    &lt;li&gt;Django 基础; 全新特性
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PyBlosxom
+    &lt;ul&gt;
+    &lt;li&gt;Zen 式开发和使用
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ZqBlog
+    &lt;ul&gt;
+    &lt;li&gt;基于Gmail的存储
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; ....
+&lt;/ul&gt;
+
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11250"></t>
+<t tx="zoomq.20091204150544.11251">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/a&gt;    共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
+        &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;/a&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
+    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11252">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;自由！高贵的精神支柱
+&lt;/li&gt;
+&lt;li&gt;开源！神奇的软件开发模式
+&lt;/li&gt;
+&lt;li&gt;Python！美好易用的脚本语言
+&lt;/li&gt;
+
+&lt;li&gt;那未  :
+    &lt;ul&gt;
+    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
+    &lt;/li&gt;
+    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
+    &lt;ul&gt;
+        &lt;li&gt;我们相识相知的一般途径:
+            &lt;ul&gt;
+            &lt;li&gt;订阅列表……
+            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
+            &lt;li&gt;在自个儿Blog 中深入讨论……
+            &lt;li&gt;加入Wiki 贡献文章
+            &lt;li&gt;被点名作事儿……
+            &lt;li&gt;被现实中对应上，加入项目团队…………
+            &lt;/ul&gt;
+        &lt;/li&gt; 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;实际使用Python 来真正体验自由的力量
+    &lt;/li&gt;
+    &lt;li&gt;....
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11253">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11254">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
+        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
+        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
+        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
+        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.xulei.org/"&gt;
+        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
+        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://xyb.8800.org/"&gt;
+        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.douban.com/"&gt;
+        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
+        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
+        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
+        
+        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
+        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
+        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
+        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
+        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
+        ......
+        
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有想法来自日常学习工作
+        &lt;li&gt; 所有体悟来自各种沟通分享
+        &lt;li&gt; 所有知识来自网络分享印证
+        &lt;li&gt; 所有经验来自个人失败经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11255">&lt;/div&gt;&lt;!--class="layout" --&gt;
+&lt;/div&gt;&lt;!-- class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11256">@path 0226-wood06/ui/</t>
+<t tx="zoomq.20091204150544.11257">/* Following are the presentation styles -- edit away!
+   Note that the 'body' font size may have to be changed if the resolution is
+    different than expected. 
+Base Blue fixed for Chinese Slide show...
+Zoom.Quiet    
+051106-DeepBlue #2E2E5A :: #000294
+ right bottom no-repeat
+    */
+
+body {background: #2E2E5A url(freedombottom.gif); 
+    color: #fff; 
+    font-size: 2em;
+    }
+:link, :visited {text-decoration: none; color: #F8B73E;}
+#controls :active {color: #88A !important;}
+#controls :focus {outline: 1px dotted #227;}
+h1, h2, h3, h4 {
+    font-size: 100%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+h5{
+    font-size: 85%; 
+    margin: 0; padding: 0; font-weight: inherit;}
+
+ul, pre {margin: 0; line-height: 1em;}
+
+html, body {margin: 0; padding: 0;}
+img {border:0px;}    
+span #logo{float:left;
+    }
+blockquote, q {font-style: italic;}
+blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
+blockquote p {margin: 0;}
+blockquote i {font-style: normal;}
+blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
+blockquote b i {font-style: italic;}
+
+kbd {font-weight: bold; font-size: 1em;}
+sup {font-size: smaller; line-height: 1px;}
+
+/*color: #533;*/
+code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
+code.bad, code del {color: red;}
+code.old {color: silver;}
+pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
+pre code {display: block;}
+
+ul {margin-left: 0.5em; list-style: disc;
+}
+li {margin-top: 0.25em; margin-right: 0;
+    line-height: 1em;}
+/*Zoomq::051115 fixed as list padding: 0.5em;*/
+ul ul {line-height: 100%; 
+    padding-top: 0.4em;padding-left: 0.5em;}
+ul ul li {font-size: 85%; list-style: square;}
+
+
+img.leader {display: block; margin: 0 auto;}
+
+div#header, div#footer {background: #005; color: #9183BF;
+  font-family: Verdana, Helvetica, sans-serif;}
+div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
+  line-height: 1px;}
+/* 051106-DeepBlue #000136 #17172F */
+div#footer {font-size: 0.5em; font-weight: bold; 
+    padding: .5em 0; height: 36px; 
+    border-top: 1px solid #08093F; 
+    background: #17172F url(bluefooter.jpg) top right no-repeat; }
+#footer h1, #footer h2 {display: block; padding: 0 1em;}
+#footer h2 {font-style: italic;}
+
+div.long {font-size: 0.75em;}
+.slide {
+	font-family: georgia, Times, 'Times New Roman', serif;
+  background: transparent url(bluebg.gif) repeat-x;
+    padding: 0px;
+}
+.slide h1 {position: absolute; left: 87px; z-index: 1;
+ white-space: nowrap;
+ text-transform: capitalize;
+ top: .5em; width: 80%;
+ margin: 0 0 0.5em 0; text-align: center; 
+ padding: 0px;
+ font: 150%/1em georgia, Times, 'Times New Roman', serif;
+ color: #fff; 
+ background: transparent; 
+ }
+/*transparent*/
+.slide h3 {font-size: 130%;}
+h1 abbr {font-variant: small-caps;}
+
+div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
+  width: 50%; height: 100%;
+  text-align: right;}
+#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
+  top: auto; height: auto;}
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0; padding: 0;}
+div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
+  border: none;
+  cursor: pointer;
+  background: transparent; color: #9183BF;
+  }/*#9183BF;*/
+div#controls select {visibility: hidden; background: #DDD; color: #227;}
+div#controls div:hover select {visibility: visible;}
+
+#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
+
+
+#slide0 {padding-top: 3.5em; font-size: 90%;}
+#slide0 h1 {
+    position: static; margin: 1em 0 1.33em; padding: 0;
+    white-space: normal;
+    background: transparent;
+    margin: 0 auto; width: 90%; height: 281px;
+    text-align: center;
+    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
+   color: #fff;}
+#slide0 h3 {font-size: 1.5em;}
+#slide0 h4 {font-size: 1em;}
+#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
+#slide0 p {margin-top: 0.7em;}
+
+
+ul.urls {list-style: none; display: inline; margin: 0;}
+.urls li {display: inline; margin: 0;}
+.note {display: none;}</t>
+<t tx="zoomq.20091204150544.11258">/* The following styles size, place, and layer the slide components.
+   Edit these if you want to change the overall slide layout.
+   The commented lines can be uncommented (and modified, if necessary) 
+    to help you with the rearrangement process. */
+
+div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
+div#header {top: 0; height: 3em; z-index: 1;}
+div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
+/*Zoomq::051115 adjust for Freedom */
+div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
+div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
+#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
+
+div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
+  margin: 0;}
+#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
+html&gt;body #currentSlide {position: fixed;}
+
+/*
+div#header {background: #FCC;}
+div#footer {background: #CCF;}
+div#controls {background: #BBD;}
+div#currentSlide {background: #FFC;}
+*/
+</t>
+<t tx="zoomq.20091204150544.11259">2005年度会课记录</t>
+<t tx="zoomq.20091204150544.11260"></t>
+<t tx="zoomq.20091204150544.11261">1. 遇到Python 的故事！
+    偶然性
+    必须性
+    行业性
+    从管理入手的，从工作入手的，从兴趣入口的
+
+2. 会议组织，有些混乱，
+    名牌
+    介绍
+    小团体
+    
+简短的会课主题说明i
+</t>
+<t tx="zoomq.20091204150544.11262">实到 21人
+
+HD 发表了新浪的开源决心！
+    九月有正式项目释放
+    资源是由新浪稳定提供的
+    有些问题要共同思考:
+        1. 项目的确立,如何？
+        2. 项目的持续,何如？        
+nEO 进行了开源社区交流的感慨...
+    1. 交流技巧
+    2. 遵守标准
+    Python开发，功夫在诗外    
+Limodou EasyGui 演示:
+    1. 标准！ 安装，测试!
+    2. 演示，丰富的可用性:
+        特殊应用，快速组织窗口列:
+            S5 将t2t之类的语法引入？
+            预览，图片？            
+        wx 应用，代码框架....
+    3. 文档缺乏...    
+    经验积累:
+        1. 文章
+        2. 代码 --&gt; ZqLib ...
+            代码分享有语境的限制
+            代码仅仅对应于特殊的问题解决            
+        3. 转化为代码模板或是框架?
+    经验，转化为数据驱动，而非事务驱动!
+    初学者，代码学习&lt;--&gt;快速开发(使用)    
+    sample --&gt; pattern     
+    Pythonic 的学习体验，永远有可用的成果！ 由使用快感来支持学习动力！
+    功能代码，开发技巧的积累，再分离，纯化，再思考，形成模式
+    "简单即是美！" -- 使用，学习时
+    "数据是应用中心" -- 现实体验！
+        
+    1. 经验代码--&gt; 代码框架 的提炼技巧！！
+        预先思考
+        重构
+        
+    2. 命令行响应的设计技巧 :
+        命令要足够简单
+        命令功能要足够
+        命令要足够恰当...
+    
+
+</t>
+<t tx="zoomq.20091204150544.11263">MFC 的界面详细设计工具
+</t>
+<t tx="zoomq.20091204150544.11264">http://wiki.woodpecker.org.cn/moin/Otter%e6%a8%a1%e6%9d%bf%e6%b5%8b%e8%af%95%e8%ae%b0%e5%bd%95
+
+.dot 的产品依赖分析
+</t>
+<t tx="zoomq.20091204150544.11265">   1. 宣布 CPUG + BPUG 民间Python 推广社团成立！
+   
+   (2. HD 《新浪的自由之心--新浪与Open Source之缘》)   
+   
+   3. 讨论CPUG 的组织，目标，近期计划:
+       组织定义:
+           CPUG是中国第一个正式成立的Python用户的民间组织，
+           在广大Python爱好者的推动下成立的                   
+        组织关系:
+            CPUG 主要是整体组织形象
+            *PUG 是线下交流的实体团队            
+       0. 基本目标:
+           加强交流
+           促进学习           
+       1. 形成技术核心,
+       2. 创造条件,集中分配工作机会
+       
+       近期计划:
+           需求确认:
+               CPUG门户的内容组织,审核流程
+               CZUG+CPUG 的同步推进               
+            资源整合:
+                1. 网路空间
+                2. 域名:
+                    python.cn 为主门户
+                    啄木鸟保留原来 CoP 模式
+                3. 服务
+                    -&gt; web管理团队
+                    -&gt; 内容管理团队
+                        每周精华
+                    -&gt; 技术促进团队:
+                        1. 列表 的内容引导,规范的促进
+                        2. 个人项目的发表组织
+                        3. 已有项目的协调组织
+                        4. Python 核心技术的研究
+                                   
+       项目的诞生流程:
+           portal 内容审核;          
+              
+   4. 讨论BPUG 的组织，目标，近期计划:
+       1. 地域性 PUG 是宣传为重心
+       2. 线下的面对面交流
+       
+   5. 上海润普，CZUG 站长 panjubyong 的Plone 畅想
+
+   6. 自由讨论，大家混个脸熟
+   
+   
+</t>
+<t tx="zoomq.20091204150544.11266">CPUG及BPUG 成立大会 胜利闭幕!
+
+经过高效充实的汇报,讨论, 
+中国Python用户组(又称:华蟒用户群) 正式在北京诞生!
+同一时刻 BPUG(京蟒用户群)也创立了!
+
+这是一个平凡阴雨的夏日,但是我完全感受的到中国又一种力量正式聚集起来了!
+
+一个人如果力求完善自己，他就会看到，为此也必须同时完善他人.
+一个人如果不关心别人的完善，自己便不可能完善.
+(详见 http://wiki.woodpecker.org.cn/moin/SkSig)
+
+所有与会人士,都是中国在Python语言方面的先行者,
+都是意识到 "能力越大,责任越大" 的热血行者
+
+超时两小时的长会,主要进行了三项主题演讲,自由讨论确定了两项议题:
+    1. limodou 的《 CPUG社区建设与发展》
+        从整体，长期发展的视角向CPUG的社区化发展提出了建议
+    2. QiangningHong 的 《邮件列表的规范和礼节：创造良性发展的交流空间》
+        通过统计分析，对比Python.org 列表，为我们重要的交流场所
+        ——python.cn 邮件列表,提出了科学的改进建议
+    3. PanJunYong 的 《Zope和Plone的发展现状》
+        从专业角度，回顾，剖析，汇报了 Zope这一优秀的开发平台，
+        Plone 这一优秀的应用平台 的发展现状，为我们树立了一个非常有价值的发展方向
+    
+    i: 确认CPUG 的总领地位!
+        作为中国Python 学习/应用/推广 活动的整体形象组织;
+        制作 CPUG 的统一门户,来组织各种开发，推广活动
+    ii: 确认*PUG 的地域性交流组织主体地位
+        BPUG 作为第一个成立的PUG 组织，负责北京地区Python用户的交流活动组织
+        比较特殊是当前 CPUG 委托 BPUG 进行实际的管理活动
+
+引发的课题:
+    1.  我与Python -- http://wiki.woodpecker.org.cn/moin/MeAndPyStory
+        征集 学习Python故事 作为推广和学习资料的一部分，长期征集
+    2.  CPUG 前进路线 -- http://wiki.woodpecker.org.cn/moin/CPUGroadway
+        讨论，确定CPUG近期的行动计划，整合资源，经营形象，维护门户
+        http://wiki.woodpecker.org.cn/moin/CPUGroadway/OrganizeEncode
+        设立职责；使用 “路见不平一声吼” 的原则，主动认领担当！所有人共同监督
+
+以上！详细大会内容，录音下载等等见
+http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30
+
+第一自任 尚书令兼工利部侍郞 ZoomQuiet 报道
+
+
+
+
+
+
+    </t>
+<t tx="zoomq.20091204150544.11267">= 组织结构 =
+'''设立初步的团队结构，主动认领担当吧！'''
+ * 上效[http://zh.wikipedia.org/wiki/%E5%94%90%E6%9C%9D 唐朝官制] 突出中国特色，设定以下[[FootNote(各省长官称'''令''';各部长官统称'''侍郞''';下属成员皆为'''行者''')]]
+机构
+
+== 中书省 ==
+'''掌决策，提出发展目标，计划...形成各种项目/活动的草案；'''
+ * 决策机构,相当于立法机关；
+ * 相当于"总体规划团队";为社区组织规划五年计划这样的
+=== 中书令者 ===
+''自个儿吼哪！''
+ * 推荐 tomZ
+== 门下省 ==
+'''持顾问，上下的正式文案，计划的审查，会议的组织等等'''
+ * 审议机构,相当于议院，组织大家 针对各种计划，进行各种建议，投票，Chat 等等；
+ * 相当于固定活动的组织团队
+=== 门下令 ===
+''自个儿吼哪！''
+ * 推荐 nEO
+== 尚书省 ==
+'''统执行,统筹资源，跟踪进度，选拔人才，收集反馈，提出建议……'''
+ * 行政机构,分管各种具体事务,相当于各 *ZUG 社区实体了，
+    * 其下再分不同方面的管理团队
+=== 尚书令 ===
+''自个儿吼哪！''
+ * ZoomQuiet -- 啄木鸟资源保管员是也乎
+ 
+=== 吏选部 ===
+ * 专Python,Zope,Plone... 的人才培养,选拔;组织基础到高级的文档翻译;
+  * 当于"文档和翻译团队";
+==== 侍郞 ====
+''自个儿吼哪！''
+
+=== 户民部 ===
+ * 专,用户响应,服务:
+  1. 注册用户服务,维护列表秩序,及时回答问题,总结FAQ到Wiki;
+  1. 确定精华文章,提取重要讨论形成文档;
+  1. 观察各地*PUG 活动近况组织《CPUG双周刊》……
+ * 当"内容维护团队";
+==== 侍郞 ====
+''自个儿吼哪！''
+ * 推荐 QiangningHong
+
+=== 礼广部 ===
+ * 专,推广，宣传:
+     1. 收集其它网站信息,RSS简报,Ring/Track Back回响交互链接;
+     1. 组织 对外联络,推荐文章的编写,成功案例的收集....
+     1. 设计社区logo,维护统一形象展示
+ *  当"市场团队"+"设计团队";
+==== 侍郞 ====
+''自个儿吼哪！''
+ * 推荐 limodou -- Python 应用名人哪！有知名Blog 窗口
+
+=== 刑奖部 ==
+ * 专,规章制度的执行监察:
+     1. 处理用户投诉,其它网站,媒体等等的反馈;
+     1. 跟踪 bugTracker 系统的修改进度,
+     1. 记录用户表现,组织各种有奖活动(比如说,培训,书藉鼓励等等),接受捐助...
+ *  当"Web维护团队";
+==== 侍郞 ====
+''自个儿吼哪！''
+
+=== 兵锋部 ===
+ * 专,新技术钻研:
+     1. Python-Zope-Plone.. 的应用研发,预研;
+     1. 跟踪最新Python 技术,网络技术;
+     1. 关注Python产品更新,收集,学习新的思想;
+     1. 组织/维护/开发 社区自主产品;
+     1. 对 Python企业应用,XML应用,Jabber技术等等可能的未来应用进行研究,准备;
+      * 比如说已经开始被 linuxforum.net;CNBlog.org 关注的知识管理/分享标准平台!
+      * 从社区的讨论中发现,新的需求,新的市场!
+ * 当"核心开发团队";
+==== 侍郞 ====
+''自个儿吼哪！'' [[FootNote(建议拥有个人项目的行者都先加入)]]
+ 
+=== 工利部 ===
+ * 专,社区基础环境的管理:
+     1. 维护Web系统正常高效运行,防病毒....
+     1. 相关项目开发,比如说定制门户平台...
+     1. 管理所有成员贡献的有效代码,维护CVS/Subversion 代码库,
+
+        * 当"Web管理团队"
+
+==== 侍郞 ====
+''自个儿吼哪！''[[FootNote(建议手中有网路资源的都先加入)]]
+ * ZoomQuiet</t>
+<t tx="zoomq.20091204150544.11268">社区建设:
+    整体的大方向，
+    功能，目标
+    培训
+    机会把握
+    
+    
+    真实的推广，
+    
+    
+
+</t>
+<t tx="zoomq.20091204150544.11269">凡是有准备资料，正式议题的行者都可以自主进行，要求:
+    发言&lt;15';组织讨论&lt;20';总结&lt;5';) 
+
+[si`pake]
+[bi`pake]
+
+列表!
+    重要的交流
+    礼节
+    统计
+    编码!!!
+
+简单与美好
+
+知识管理,知识积累,历史沉淀
+
+用户群!!!
+
+巧用期....</t>
+<t tx="zoomq.20091204150544.11270">
+资源整合
+
+统一形象
+    力量统一,机会加大
+    
+成果推广
+
+
+能力越大,责任越大!
+
+
+
+
+
+</t>
+<t tx="zoomq.20091204150544.11271">@path CbPUG
+
+@others</t>
+<t tx="zoomq.20091204150544.11272">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+&lt;title&gt;Wiki and MoinMoin(built by S5)&lt;/title&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="presdate" content="20050701" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+&lt;META NAME="generator" CONTENT="http://txt2tags.sf.net"&gt;
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="company" content="Sina.com.cn" /&gt;
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11273">&lt;div id="footer"&gt;
+&lt;h1&gt;2005-07-30&lt;/h1&gt;
+&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
+华蟒用户小组
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11274">&lt;div class="presentation"&gt;
+</t>
+<t tx="zoomq.20091204150544.11275">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
+&amp;
+&lt;img src="img/BPUGlogo130.gif" /&gt;
+&lt;br/&gt;
+成立大会
+&lt;/h1&gt;
+
+
+&lt;h3&gt;&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+&lt;img src="img/WikiTshirt-logo.gif" /&gt;&lt;/a&gt;
+&lt;br/&gt;
+&lt;a  target="_blank" href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;
+    Zoom.Quiet&lt;/a&gt;&lt;/h3&gt;
+    &lt;br/&gt;
+
+
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11276">
+&lt;div class="slide"&gt;
+&lt;h1&gt;大会议程&lt;/h1&gt;
+
+&lt;img src="img/CPUGlogo-100.gif" /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;到场签到
+    &lt;ul&gt;&lt;li&gt;(在Wiki页面，记录到达会议室时间就好)
+    &lt;/ul&gt;
+     &lt;/li&gt;
+&lt;li&gt;拍照取证
+    &lt;ul&gt;&lt;li&gt;(为了保止冒名顶替的说……哈哈哈！)
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;开幕辞
+    &lt;/li&gt;
+&lt;li&gt;进入议题 
+    &lt;ul&gt;&lt;li&gt;(目标可以是决定CPUG/BPUG的大政方针，也可以仅仅是确认我们应该确定的问题)
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;主题讨论
+ &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，要求：发言&lt;15';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;li&gt;闭幕&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11277">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;a  target="_blank" href="http://www.woodpecker.org.cn/"&gt;
+&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/a&gt;
+&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/h1&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区组织的各种项目
+    &lt;/li&gt;
+&lt;li&gt;总结开源项目组织模式
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11278">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
+    &lt;/li&gt;
+&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
+    &lt;/li&gt;
+&lt;li&gt;那么:
+    &lt;ul&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
+        &lt;/li&gt;
+    &lt;li&gt;我们要如何....
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11279">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11280">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有思想来自日常工作体验
+        &lt;li&gt; 所有经验来自失败的经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11281">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/br&gt;共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;br/&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;img src="img/SPUG-T.gif" /&gt;
+        &lt;ul&gt;
+        &lt;li&gt; 新的开始
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11282">&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11283"></t>
+<t tx="zoomq.20091204150544.11284">@path CPUG-c050828
+
+
+@others</t>
+<t tx="zoomq.20091204150544.11285">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+&lt;title&gt;Wiki and MoinMoin(built by S5)&lt;/title&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="presdate" content="20050701" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+&lt;META NAME="generator" CONTENT="http://txt2tags.sf.net"&gt;
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="company" content="Sina.com.cn" /&gt;
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11286">&lt;div id="footer"&gt;
+&lt;h1&gt;2005-07-30&lt;/h1&gt;
+&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
+中国Python用户组
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11287">&lt;div class="presentation"&gt;
+</t>
+<t tx="zoomq.20091204150544.11288">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
+
+&lt;br/&gt;
+第一次会课
+&lt;/h1&gt;
+
+&lt;h3&gt;
+《新浪的开源之心》
+&lt;br&gt;
+《EasyGUI 概要》
+
+
+&lt;/h3&gt;
+    &lt;br/&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11289">
+&lt;div class="slide"&gt;
+&lt;h1&gt;大会议程&lt;/h1&gt;
+
+&lt;img src="img/CPUGlogo-100.gif" /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;到场签到
+    &lt;ul&gt;&lt;li&gt;(认领或是制作名牌,注明到场时间)
+    &lt;/ul&gt;
+     &lt;/li&gt;
+&lt;li&gt;拍照取证
+    &lt;ul&gt;&lt;li&gt;(为了宣传Pythoner的风采……哈哈哈！)
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;开幕辞
+    &lt;/li&gt;
+&lt;li&gt;主题讨论
+ &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，
+ &lt;br/&gt;
+ 要求：发言&lt;35';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;li&gt;闭幕&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11290">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;a  target="_blank" href="http://www.woodpecker.org.cn/"&gt;
+&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/a&gt;
+&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/h1&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区组织的各种项目
+    &lt;/li&gt;
+&lt;li&gt;总结开源项目组织模式
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11291">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
+    &lt;/li&gt;
+&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
+    &lt;/li&gt;
+&lt;li&gt;那么:
+    &lt;ul&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
+        &lt;/li&gt;
+    &lt;li&gt;我们要如何....
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11292">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11293">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有思想来自日常工作体验
+        &lt;li&gt; 所有经验来自失败的经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11294">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/br&gt;共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;br/&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;img src="img/SPUG-T.gif" /&gt;
+        &lt;ul&gt;
+        &lt;li&gt; 新的开始
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11295">&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11296">场地难找，商住空间
+大家到会比较准时
+
+有人因为 分析Bt 代码而知道Python
+有人因为 业务平台开发，注意到Zope3 的理性结构设计
+有人因为 寻找 free FTP 服务而找到 Zope
+有人因为 快速工程公式的实现而遇到Python
+.....
+
+因为Python 的广阔应用可能性，大家不约而同的注意，使用了Python
+
+初学者，使用者都已经过Python 的能力没有整体  的了解了！通过Limodou 的引导，
+对 Python 更加有信心了！
+
+发布工具:
+    setuptools
+    PyPi 模块库
+
+完全变成了 Pythonic 的推广会…………
+    
+    </t>
+<t tx="zoomq.20091204150544.11297">Django:
+    DB 的优秀操作体验
+
+GTalk bot:
+    1. i18N
+    2. ini2obj
+    3. 数据为中心
+
+门户建议:
+    1. CPUG 的商业化发展设计:
+        人气汇集和开发交流分离        
+    2. 内容设计:
+        吸引为主....
+    初学者:
+        类库说明
+        wx demo 的自学指导
+    通过Python 的学习来获得Pythonic 体验!!!
+    magic code 的展示
+    
+        
+        
+
+
+
+</t>
+<t tx="zoomq.20091204150544.11298">@path CPUG-class
+
+@others
+</t>
+<t tx="zoomq.20091204150544.11299">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+&lt;title&gt;Wiki and MoinMoin(built by S5)&lt;/title&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="presdate" content="20050701" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+&lt;META NAME="generator" CONTENT="http://txt2tags.sf.net"&gt;
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="company" content="Sina.com.cn" /&gt;
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11300">&lt;div id="footer"&gt;
+&lt;h1&gt;2005-07-30&lt;/h1&gt;
+&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
+中国Python用户组
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11301">&lt;div class="presentation"&gt;
+</t>
+<t tx="zoomq.20091204150544.11302">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
+
+&lt;br/&gt;
+第二次会课
+&lt;/h1&gt;
+
+&lt;h3&gt;
+《Django 基于模型的Web应用体验》
+&lt;br&gt;
+《GTalk confbot 快速开发过程》
+&lt;br&gt;
+《CPUG 门户建设调研报告》
+
+
+&lt;/h3&gt;
+    &lt;br/&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11303">
+&lt;div class="slide"&gt;
+&lt;h1&gt;大会议程&lt;/h1&gt;
+
+&lt;img src="img/CPUGlogo-100.gif" /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;到场签到
+    &lt;ul&gt;&lt;li&gt;(认领或是制作名牌,注明到场时间)
+    &lt;/ul&gt;
+     &lt;/li&gt;
+&lt;li&gt;拍照取证
+    &lt;ul&gt;&lt;li&gt;(为了宣传Pythoner的风采……哈哈哈！)
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;开幕辞
+    &lt;/li&gt;
+&lt;li&gt;主题讨论
+ &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，
+ &lt;br/&gt;
+ 要求：发言&lt;35';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;li&gt;闭幕&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11304">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;a  target="_blank" href="http://www.woodpecker.org.cn/"&gt;
+&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/a&gt;
+&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/h1&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区组织的各种项目
+    &lt;/li&gt;
+&lt;li&gt;总结开源项目组织模式
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11305">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
+    &lt;/li&gt;
+&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
+    &lt;/li&gt;
+&lt;li&gt;那么:
+    &lt;ul&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
+        &lt;/li&gt;
+    &lt;li&gt;我们要如何....
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11306">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11307">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有思想来自日常工作体验
+        &lt;li&gt; 所有经验来自失败的经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11308">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    &lt;/br&gt;共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
+        &lt;br/&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;img src="img/SPUG-T.gif" /&gt;
+        &lt;ul&gt;
+        &lt;li&gt; 新的开始
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11309">&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20091204150544.11310">@path 051030-CPUGc3
+
+        
+        
+
+
+
+</t>
+<t tx="zoomq.20091204150544.11311">@path 051030-CPUGc3/CPUG-c051030
+
+@others
+</t>
+<t tx="zoomq.20091204150544.11312">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;title&gt;CPUG 会课(built by S5)&lt;/title&gt;
+
+&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.0" /&gt;
+&lt;meta name="author" content="Zoom.Quiet" /&gt;
+
+
+&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+
+&lt;div class="layout"&gt;
+
+&lt;div id="currentSlide"&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11313">&lt;div id="footer"&gt;
+&lt;h1&gt;2005-10-30&lt;/h1&gt;
+&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
+中国Python用户组
+&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
+&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;div id="controls"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;    </t>
+<t tx="zoomq.20091204150544.11314">&lt;div class="presentation"&gt;
+
+</t>
+<t tx="zoomq.20091204150544.11315">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
+
+&lt;br/&gt;
+第三次会课
+&lt;/h1&gt;
+
+&lt;h3&gt;
+《ZqLib/WeKnow重新启动&lt;sup&gt;+Leo环境初论&lt;/sup&gt;》
+&lt;br&gt;
+
+&lt;/h3&gt;
+    &lt;br/&gt;
+
+
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20091204150544.11316">
+&lt;div class="slide"&gt;
+&lt;h1&gt;大会议程&lt;/h1&gt;
+
+&lt;img src="img/CPUGlogo-100.gif" /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;到场签到
+    &lt;ul&gt;&lt;li&gt;(认领或是制作名牌,注明到场时间)
+    &lt;/ul&gt;
+     &lt;/li&gt;
+&lt;!---
+&lt;li&gt;拍照取证
+    &lt;ul&gt;&lt;li&gt;(为了宣传Pythoner的风采……哈哈哈！)
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;开幕辞
+    &lt;/li&gt;
+&lt;!----&gt;    
+&lt;li&gt;主题讨论
+ &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，
+ &lt;br/&gt;
+ 要求：发言&lt;35';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;li&gt;闭幕&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11317">
+&lt;div class="slide"&gt;
+&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
+
+&lt;a target="_blank" href="http://www.woodpecker.org.cn/"&gt;
+
+&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/a&gt;
+&lt;br/&gt;&lt;br/&gt;
+
+&lt;ul&gt;
+&lt;li&gt;回顾啄木鸟社区组织的各种项目
+    &lt;/li&gt;
+&lt;li&gt;总结开源项目组织模式
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11318">
+&lt;div class="slide"&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
+    &lt;/li&gt;
+&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
+    &lt;/li&gt;
+&lt;li&gt;那么:
+    &lt;ul&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
+        &lt;/li&gt;
+    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
+        &lt;/li&gt;
+    &lt;li&gt;我们要如何....
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11319">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
+    &lt;br/&gt;:: 文学编程环境
+    &lt;li&gt; 纯Python 实现的通用编辑环境 
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11320">
+&lt;div class="slide"&gt;
+&lt;h1&gt; 制作免责 &lt;/h1&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
+    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
+        &lt;li&gt; 一切资料来自互联网
+        &lt;li&gt; 所有思想来自日常工作体验
+        &lt;li&gt; 所有经验来自失败的经历……        
+        &lt;/ul&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11321">
+&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
+    共同的旗帜！
+        &lt;ul&gt;
+        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
+        制度化的交流
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;新的开始:&lt;img src="img/SPUG-T.gif" /&gt;
+    &lt;/li&gt;
+        
+&lt;/ul&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20091204150544.11322">&lt;/div&gt;&lt;!--class="layout" --&gt;
+&lt;/div&gt;&lt;!-- class="presentation"--&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
 <t tx="zoomq.20091204150544.4881">@path /home/zoomq/4svn/kdoc-trunk/3.过程改进/s5/</t>
 <t tx="zoomq.20091204150544.4981">@path s5/kupp-intro/</t>
 <t tx="zoomq.20091204150544.4982">&lt;&lt;DOCTYPE&gt;&gt;
@@ -22231,4253 +26483,6 @@ KUP# 是个文化机制
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20091204150544.11135"></t>
-<t tx="zoomq.20091204150544.11136">@path 060528-talking
-
-</t>
-<t tx="zoomq.20091204150544.11137">张成 czhang
-Django:
-    http://solidot.org/article.php?story=20051220095130663&amp;query=django
-    的琛圳迁移到北京
-许艺华 EricHua:
-    http://nkeric.3322.org
-    J2EE
-    ...拼音
-
-李迎辉:
-    Django
-    MTV:
-        App 由 Model 发布
-        流程:
-            1. 配置App
-            2. 发布App
-        Model 的自动组织 Admin 的实际
-        预制的多种管理功能…………
-        
-        </t>
-<t tx="zoomq.20091204150544.11138">
-@others
-</t>
-<t tx="zoomq.20091204150544.11139">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-&lt;head&gt;
-&lt;title&gt;啄木鸟年度规划 (built by S5)&lt;/title&gt;
-
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-
-
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11140">&lt;div id="footer"&gt;
-&lt;h2&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
-CPUG&lt;/a&gt; 
-中国Python用户组
-
-&lt;/td&gt;
-&lt;td rowspan="2"&gt;
-
-&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
-&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
-
-060528 14:00
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-Zoom.Quiet
-&lt;/a&gt;
-&lt;/td&gt;
-
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/h2&gt;
-
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11141">&lt;div class="presentation"&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11142">&lt;div class="slide"&gt;
-
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
-
-&lt;h3&gt;
-啄木鸟/CPUG 第八次会课&lt;/sup&gt;
-&lt;/h3&gt;
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11143">
-&lt;div class="slide"&gt;
-&lt;h1&gt;提纲&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;1. Python 的数据分析体验
-    &lt;ul&gt;
-    &lt;li&gt;-- AlbertLee
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;2. 自由对谈Python体验
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11144"></t>
-<t tx="zoomq.20091204150544.11145">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区创立历程
-    &lt;ul&gt;
-    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
-    中国Linux论坛 Python 编程 版块
-    &lt;/a&gt;
-    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
-    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
-    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
-    CZUG.org&lt;/a&gt; 开通
-    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
-    python.cn 邮件列表&lt;/a&gt;开通
-    
-    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
-    &lt;br/&gt;http://220.248.2.35:7080
-    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
-    
-    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
-    "高性能分布式网络存储系统的想法"
-    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
-    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
-    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
-    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
-    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
-    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11146">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟开源开发社区 已有资源
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wpwiki_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
-    
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wptrac_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
-    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
-    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
-    CPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
-    BPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
-    python.cn列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
-    cpug-eastchina列表&lt;/a&gt;;...
-    &lt;/sup&gt; 
-    
-    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
-    &lt;img src="img/plone_powered.gif"/&gt;
-    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
-    
-    
-    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
-    &lt;ul&gt;
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
-    啄木鸟会课&lt;/a&gt;
-    
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-    CPUG会课&lt;/a&gt;
-    
-    &lt;/ul&gt;
-    
-    &lt;li&gt; 其它各种实用资源不断补充中……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11147">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
-    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
-    &lt;/a&gt;
-    &lt;li&gt; 以往提案::
-        
-        &lt;li&gt;门户的建议和使用
-        &lt;li&gt;多个服务间的ID通用
-        &lt;li&gt;工作的起始和结束
-        &lt;li&gt;与其它社区的联合
-        &lt;li&gt;社区Blog 是否推出?
-    
-    &lt;li&gt; ……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11148">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区服务控制
-    &lt;ul&gt;
-    &lt;li&gt;Wiki -- 个人资料泛滥问题
-    &lt;ul&gt;
-        &lt;li&gt;加强监管        
-        &lt;li&gt;明确内容原则
-    &lt;/ul&gt;
-    
-    &lt;li&gt;Trac -- 首页篡改严重
-    &lt;ul&gt;
-        &lt;li&gt;系统升级        
-        &lt;li&gt;划分权限
-    &lt;/ul&gt;
-    
-    &lt;li&gt;plone -- 资料更新停顿
-    &lt;ul&gt;
-        &lt;li&gt;系统升级,提高可用性        
-        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
-    &lt;/ul&gt;
-    
-    &lt;/ul&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11149"></t>
-<t tx="zoomq.20091204150544.11150">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;li&gt;啄木鸟/CPUG Python 推广资源
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;ul&gt;
-        &lt;li&gt;翻译文档; 原创文档; 项目文档
-    &lt;/ul&gt;
-    &lt;li&gt;讨论环境
-    &lt;ul&gt;
-        &lt;li&gt;邮件列表; IM群; 专人IM
-    &lt;/ul&gt;
-    &lt;li&gt;项目参与
-    &lt;ul&gt;
-        &lt;li&gt;学习项目; 插件开发; 微项目...
-    &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11151">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;主流媒体
-    &lt;ul&gt;
-    &lt;li&gt;报纸
-    &lt;li&gt;期刊    
-    &lt;li&gt;门户站点
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;个人媒体
-    &lt;ul&gt;
-    &lt;li&gt;Blog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作媒体
-    &lt;ul&gt;
-    &lt;li&gt;社区
-    &lt;li&gt;BBS
-    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
-    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11152">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 学校推广&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;重要性
-    &lt;ul&gt;
-    &lt;li&gt;影响学生群体
-    &lt;li&gt;影响学校政策  
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;必要性
-    &lt;ul&gt;
-    &lt;li&gt;直接产生影响...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作方式
-    &lt;ul&gt;
-    &lt;li&gt;尋求…………
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11153"></t>
-<t tx="zoomq.20091204150544.11154">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Wx
-    &lt;ul&gt;
-    &lt;li&gt;newEdit 的推广
-    &lt;li&gt;newEdit 的插件
-    &lt;li&gt;newEdit 的wizard
-    &lt;li&gt;newEdit 的mixin
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Tk
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
-    &lt;li&gt;Leo 插件
-    &lt;li&gt;Leo 汉化
-    &lt;li&gt;Leo 宏
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Qt
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11155">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Django
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; Woodlog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Karrigell
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; 网站管理辅助
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;插件开发
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;CherryPy
-    &lt;ul&gt;
-    &lt;li&gt;CherryFlow;Continuation 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;TurboGears
-    &lt;ul&gt;
-    &lt;li&gt;Ajax 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
-    &lt;ul&gt;
-    &lt;li&gt;P2P; 存储; 搜索...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11156">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;社区的形象/拳头产品？！
-&lt;/li&gt;
-&lt;li&gt;Woodlog
-    &lt;ul&gt;
-    &lt;li&gt;Django 基础; 全新特性
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;Zen 式开发和使用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;ZqBlog
-    &lt;ul&gt;
-    &lt;li&gt;基于Gmail的存储
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11157"></t>
-<t tx="zoomq.20091204150544.11158">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/a&gt;    共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-        &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;/a&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
-    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11159">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;自由！高贵的精神支柱
-&lt;/li&gt;
-&lt;li&gt;开源！神奇的软件开发模式
-&lt;/li&gt;
-&lt;li&gt;Python！美好易用的脚本语言
-&lt;/li&gt;
-
-&lt;li&gt;那未  :
-    &lt;ul&gt;
-    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
-    &lt;/li&gt;
-    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
-    &lt;ul&gt;
-        &lt;li&gt;我们相识相知的一般途径:
-            &lt;ul&gt;
-            &lt;li&gt;订阅列表……
-            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
-            &lt;li&gt;在自个儿Blog 中深入讨论……
-            &lt;li&gt;加入Wiki 贡献文章
-            &lt;li&gt;被点名作事儿……
-            &lt;li&gt;被现实中对应上，加入项目团队…………
-            &lt;/ul&gt;
-        &lt;/li&gt; 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;实际使用Python 来真正体验自由的力量
-    &lt;/li&gt;
-    &lt;li&gt;....
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11160">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11161">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
-        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
-        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
-        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.xulei.org/"&gt;
-        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
-        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://xyb.8800.org/"&gt;
-        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.douban.com/"&gt;
-        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
-        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
-        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
-        
-        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
-        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
-        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
-        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
-        ......
-        
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有想法来自日常学习工作
-        &lt;li&gt; 所有体悟来自各种沟通分享
-        &lt;li&gt; 所有知识来自网络分享印证
-        &lt;li&gt; 所有经验来自个人失败经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11162">&lt;/div&gt;&lt;!--class="layout" --&gt;
-&lt;/div&gt;&lt;!-- class="presentation"--&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11163">南非生人，USA大学，印度，澳州，韩国干活………………
-
-</t>
-<t tx="zoomq.20091204150544.11164">@path 0226-wood06/ui/</t>
-<t tx="zoomq.20091204150544.11165">/* Following are the presentation styles -- edit away!
-   Note that the 'body' font size may have to be changed if the resolution is
-    different than expected. 
-Base Blue fixed for Chinese Slide show...
-Zoom.Quiet    
-051106-DeepBlue #2E2E5A :: #000294
- right bottom no-repeat
-    */
-
-body {background: #2E2E5A url(freedombottom.gif); 
-    color: #fff; 
-    font-size: 2em;
-    }
-:link, :visited {text-decoration: none; color: #F8B73E;}
-#controls :active {color: #88A !important;}
-#controls :focus {outline: 1px dotted #227;}
-h1, h2, h3, h4 {
-    font-size: 100%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-h5{
-    font-size: 85%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-
-ul, pre {margin: 0; line-height: 1em;}
-
-html, body {margin: 0; padding: 0;}
-img {border:0px;}    
-span #logo{float:left;
-    }
-blockquote, q {font-style: italic;}
-blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
-blockquote p {margin: 0;}
-blockquote i {font-style: normal;}
-blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
-blockquote b i {font-style: italic;}
-
-kbd {font-weight: bold; font-size: 1em;}
-sup {font-size: smaller; line-height: 1px;}
-
-/*color: #533;*/
-code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
-code.bad, code del {color: red;}
-code.old {color: silver;}
-pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
-pre code {display: block;}
-
-ul {margin-left: 0.5em; list-style: disc;
-}
-li {margin-top: 0.25em; margin-right: 0;
-    line-height: 1em;}
-/*Zoomq::051115 fixed as list padding: 0.5em;*/
-ul ul {line-height: 100%; 
-    padding-top: 0.4em;padding-left: 0.5em;}
-ul ul li {font-size: 85%; list-style: square;}
-
-
-img.leader {display: block; margin: 0 auto;}
-
-div#header, div#footer {background: #005; color: #9183BF;
-  font-family: Verdana, Helvetica, sans-serif;}
-div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
-  line-height: 1px;}
-/* 051106-DeepBlue #000136 #17172F */
-div#footer {font-size: 0.5em; font-weight: bold; 
-    padding: .5em 0; height: 36px; 
-    border-top: 1px solid #08093F; 
-    background: #17172F url(bluefooter.jpg) top right no-repeat; }
-#footer h1, #footer h2 {display: block; padding: 0 1em;}
-#footer h2 {font-style: italic;}
-
-div.long {font-size: 0.75em;}
-.slide {
-	font-family: georgia, Times, 'Times New Roman', serif;
-  background: transparent url(bluebg.gif) repeat-x;
-    padding: 0px;
-}
-.slide h1 {position: absolute; left: 87px; z-index: 1;
- white-space: nowrap;
- text-transform: capitalize;
- top: .5em; width: 80%;
- margin: 0 0 0.5em 0; text-align: center; 
- padding: 0px;
- font: 150%/1em georgia, Times, 'Times New Roman', serif;
- color: #fff; 
- background: transparent; 
- }
-/*transparent*/
-.slide h3 {font-size: 130%;}
-h1 abbr {font-variant: small-caps;}
-
-div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
-  width: 50%; height: 100%;
-  text-align: right;}
-#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
-  top: auto; height: auto;}
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0; padding: 0;}
-div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
-  border: none;
-  cursor: pointer;
-  background: transparent; color: #9183BF;
-  }/*#9183BF;*/
-div#controls select {visibility: hidden; background: #DDD; color: #227;}
-div#controls div:hover select {visibility: visible;}
-
-#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
-
-
-#slide0 {padding-top: 3.5em; font-size: 90%;}
-#slide0 h1 {
-    position: static; margin: 1em 0 1.33em; padding: 0;
-    white-space: normal;
-    background: transparent;
-    margin: 0 auto; width: 90%; height: 281px;
-    text-align: center;
-    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
-   color: #fff;}
-#slide0 h3 {font-size: 1.5em;}
-#slide0 h4 {font-size: 1em;}
-#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
-#slide0 p {margin-top: 0.7em;}
-
-
-ul.urls {list-style: none; display: inline; margin: 0;}
-.urls li {display: inline; margin: 0;}
-.note {display: none;}</t>
-<t tx="zoomq.20091204150544.11166">/* The following styles size, place, and layer the slide components.
-   Edit these if you want to change the overall slide layout.
-   The commented lines can be uncommented (and modified, if necessary) 
-    to help you with the rearrangement process. */
-
-div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
-div#header {top: 0; height: 3em; z-index: 1;}
-div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
-/*Zoomq::051115 adjust for Freedom */
-div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
-div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
-#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
-
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0;}
-#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
-html&gt;body #currentSlide {position: fixed;}
-
-/*
-div#header {background: #FCC;}
-div#footer {background: #CCF;}
-div#controls {background: #BBD;}
-div#currentSlide {background: #FFC;}
-*/
-</t>
-<t tx="zoomq.20091204150544.11167">@path 060502-index
-
-</t>
-<t tx="zoomq.20091204150544.11168">张成 czhang
-Django:
-    http://solidot.org/article.php?story=20051220095130663&amp;query=django
-    的琛圳迁移到北京
-许艺华 EricHua:
-    http://nkeric.3322.org
-    J2EE
-    ...拼音
-
-李迎辉:
-    Django
-    MTV:
-        App 由 Model 发布
-        流程:
-            1. 配置App
-            2. 发布App
-        Model 的自动组织 Admin 的实际
-        预制的多种管理功能…………
-        
-        </t>
-<t tx="zoomq.20091204150544.11169">
-@others
-</t>
-<t tx="zoomq.20091204150544.11170">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-&lt;head&gt;
-&lt;title&gt;啄木鸟年度规划 (built by S5)&lt;/title&gt;
-
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-
-
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11171">&lt;div id="footer"&gt;
-&lt;h2&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
-CPUG&lt;/a&gt; 
-中国Python用户组
-
-&lt;/td&gt;
-&lt;td rowspan="2"&gt;
-
-&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
-&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
-
-060502 14:00
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-Zoom.Quiet
-&lt;/a&gt;
-&lt;/td&gt;
-
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/h2&gt;
-
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11172">&lt;div class="presentation"&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11173">&lt;div class="slide"&gt;
-
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
-
-&lt;h3&gt;
-啄木鸟/CPUG 第七次会课&lt;/sup&gt;
-&lt;/h3&gt;
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11174">
-&lt;div class="slide"&gt;
-&lt;h1&gt;提纲&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;1. Python 的内存调试技巧 
-    &lt;ul&gt;
-    &lt;li&gt;-- 小新|Dephij 讲述OpenLDAP与内存 不得不说的故事
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;2. 分享自由软件以及 webpy.org 的体验
-&lt;ul&gt;
-    &lt;li&gt;-- Korea Debian 友人 Kai Hendry &lt;hendry AT iki.fi&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;3. Dive Into Python 5.4 版本正式释放说明
-&lt;ul&gt;
-    &lt;li&gt;翻译工程的组织和Ubuntu文档的进入 
-    &lt;li&gt;-- Liang Osmond|ZoomQuiet
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;li&gt;4. Sharing Ubuntu 5.1 CD
-&lt;ul&gt;
-    &lt;li&gt;-- GuiXing...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11175"></t>
-<t tx="zoomq.20091204150544.11176">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区创立历程
-    &lt;ul&gt;
-    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
-    中国Linux论坛 Python 编程 版块
-    &lt;/a&gt;
-    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
-    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
-    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
-    CZUG.org&lt;/a&gt; 开通
-    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
-    python.cn 邮件列表&lt;/a&gt;开通
-    
-    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
-    &lt;br/&gt;http://220.248.2.35:7080
-    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
-    
-    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
-    "高性能分布式网络存储系统的想法"
-    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
-    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
-    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
-    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
-    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
-    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11177">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟开源开发社区 已有资源
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wpwiki_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
-    
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wptrac_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
-    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
-    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
-    CPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
-    BPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
-    python.cn列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
-    cpug-eastchina列表&lt;/a&gt;;...
-    &lt;/sup&gt; 
-    
-    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
-    &lt;img src="img/plone_powered.gif"/&gt;
-    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
-    
-    
-    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
-    &lt;ul&gt;
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
-    啄木鸟会课&lt;/a&gt;
-    
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-    CPUG会课&lt;/a&gt;
-    
-    &lt;/ul&gt;
-    
-    &lt;li&gt; 其它各种实用资源不断补充中……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11178">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
-    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
-    &lt;/a&gt;
-    &lt;li&gt; 以往提案::
-        
-        &lt;li&gt;门户的建议和使用
-        &lt;li&gt;多个服务间的ID通用
-        &lt;li&gt;工作的起始和结束
-        &lt;li&gt;与其它社区的联合
-        &lt;li&gt;社区Blog 是否推出?
-    
-    &lt;li&gt; ……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11179">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区服务控制
-    &lt;ul&gt;
-    &lt;li&gt;Wiki -- 个人资料泛滥问题
-    &lt;ul&gt;
-        &lt;li&gt;加强监管        
-        &lt;li&gt;明确内容原则
-    &lt;/ul&gt;
-    
-    &lt;li&gt;Trac -- 首页篡改严重
-    &lt;ul&gt;
-        &lt;li&gt;系统升级        
-        &lt;li&gt;划分权限
-    &lt;/ul&gt;
-    
-    &lt;li&gt;plone -- 资料更新停顿
-    &lt;ul&gt;
-        &lt;li&gt;系统升级,提高可用性        
-        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
-    &lt;/ul&gt;
-    
-    &lt;/ul&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11180"></t>
-<t tx="zoomq.20091204150544.11181">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;li&gt;啄木鸟/CPUG Python 推广资源
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;ul&gt;
-        &lt;li&gt;翻译文档; 原创文档; 项目文档
-    &lt;/ul&gt;
-    &lt;li&gt;讨论环境
-    &lt;ul&gt;
-        &lt;li&gt;邮件列表; IM群; 专人IM
-    &lt;/ul&gt;
-    &lt;li&gt;项目参与
-    &lt;ul&gt;
-        &lt;li&gt;学习项目; 插件开发; 微项目...
-    &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11182">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;主流媒体
-    &lt;ul&gt;
-    &lt;li&gt;报纸
-    &lt;li&gt;期刊    
-    &lt;li&gt;门户站点
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;个人媒体
-    &lt;ul&gt;
-    &lt;li&gt;Blog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作媒体
-    &lt;ul&gt;
-    &lt;li&gt;社区
-    &lt;li&gt;BBS
-    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
-    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11183">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 学校推广&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;重要性
-    &lt;ul&gt;
-    &lt;li&gt;影响学生群体
-    &lt;li&gt;影响学校政策  
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;必要性
-    &lt;ul&gt;
-    &lt;li&gt;直接产生影响...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作方式
-    &lt;ul&gt;
-    &lt;li&gt;尋求…………
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11184"></t>
-<t tx="zoomq.20091204150544.11185">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Wx
-    &lt;ul&gt;
-    &lt;li&gt;newEdit 的推广
-    &lt;li&gt;newEdit 的插件
-    &lt;li&gt;newEdit 的wizard
-    &lt;li&gt;newEdit 的mixin
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Tk
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
-    &lt;li&gt;Leo 插件
-    &lt;li&gt;Leo 汉化
-    &lt;li&gt;Leo 宏
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Qt
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11186">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Django
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; Woodlog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Karrigell
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; 网站管理辅助
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;插件开发
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;CherryPy
-    &lt;ul&gt;
-    &lt;li&gt;CherryFlow;Continuation 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;TurboGears
-    &lt;ul&gt;
-    &lt;li&gt;Ajax 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
-    &lt;ul&gt;
-    &lt;li&gt;P2P; 存储; 搜索...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11187">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;社区的形象/拳头产品？！
-&lt;/li&gt;
-&lt;li&gt;Woodlog
-    &lt;ul&gt;
-    &lt;li&gt;Django 基础; 全新特性
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;Zen 式开发和使用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;ZqBlog
-    &lt;ul&gt;
-    &lt;li&gt;基于Gmail的存储
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11188"></t>
-<t tx="zoomq.20091204150544.11189">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/a&gt;    共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-        &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;/a&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
-    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11190">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;自由！高贵的精神支柱
-&lt;/li&gt;
-&lt;li&gt;开源！神奇的软件开发模式
-&lt;/li&gt;
-&lt;li&gt;Python！美好易用的脚本语言
-&lt;/li&gt;
-
-&lt;li&gt;那未  :
-    &lt;ul&gt;
-    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
-    &lt;/li&gt;
-    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
-    &lt;ul&gt;
-        &lt;li&gt;我们相识相知的一般途径:
-            &lt;ul&gt;
-            &lt;li&gt;订阅列表……
-            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
-            &lt;li&gt;在自个儿Blog 中深入讨论……
-            &lt;li&gt;加入Wiki 贡献文章
-            &lt;li&gt;被点名作事儿……
-            &lt;li&gt;被现实中对应上，加入项目团队…………
-            &lt;/ul&gt;
-        &lt;/li&gt; 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;实际使用Python 来真正体验自由的力量
-    &lt;/li&gt;
-    &lt;li&gt;....
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11191">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11192">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
-        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
-        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
-        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.xulei.org/"&gt;
-        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
-        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://xyb.8800.org/"&gt;
-        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.douban.com/"&gt;
-        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
-        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
-        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
-        
-        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
-        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
-        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
-        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
-        ......
-        
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有想法来自日常学习工作
-        &lt;li&gt; 所有体悟来自各种沟通分享
-        &lt;li&gt; 所有知识来自网络分享印证
-        &lt;li&gt; 所有经验来自个人失败经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11193">&lt;/div&gt;&lt;!--class="layout" --&gt;
-&lt;/div&gt;&lt;!-- class="presentation"--&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11194">南非生人，USA大学，印度，澳州，韩国干活………………
-
-</t>
-<t tx="zoomq.20091204150544.11195">@path 0226-wood06/ui/</t>
-<t tx="zoomq.20091204150544.11196">/* Following are the presentation styles -- edit away!
-   Note that the 'body' font size may have to be changed if the resolution is
-    different than expected. 
-Base Blue fixed for Chinese Slide show...
-Zoom.Quiet    
-051106-DeepBlue #2E2E5A :: #000294
- right bottom no-repeat
-    */
-
-body {background: #2E2E5A url(freedombottom.gif); 
-    color: #fff; 
-    font-size: 2em;
-    }
-:link, :visited {text-decoration: none; color: #F8B73E;}
-#controls :active {color: #88A !important;}
-#controls :focus {outline: 1px dotted #227;}
-h1, h2, h3, h4 {
-    font-size: 100%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-h5{
-    font-size: 85%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-
-ul, pre {margin: 0; line-height: 1em;}
-
-html, body {margin: 0; padding: 0;}
-img {border:0px;}    
-span #logo{float:left;
-    }
-blockquote, q {font-style: italic;}
-blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
-blockquote p {margin: 0;}
-blockquote i {font-style: normal;}
-blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
-blockquote b i {font-style: italic;}
-
-kbd {font-weight: bold; font-size: 1em;}
-sup {font-size: smaller; line-height: 1px;}
-
-/*color: #533;*/
-code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
-code.bad, code del {color: red;}
-code.old {color: silver;}
-pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
-pre code {display: block;}
-
-ul {margin-left: 0.5em; list-style: disc;
-}
-li {margin-top: 0.25em; margin-right: 0;
-    line-height: 1em;}
-/*Zoomq::051115 fixed as list padding: 0.5em;*/
-ul ul {line-height: 100%; 
-    padding-top: 0.4em;padding-left: 0.5em;}
-ul ul li {font-size: 85%; list-style: square;}
-
-
-img.leader {display: block; margin: 0 auto;}
-
-div#header, div#footer {background: #005; color: #9183BF;
-  font-family: Verdana, Helvetica, sans-serif;}
-div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
-  line-height: 1px;}
-/* 051106-DeepBlue #000136 #17172F */
-div#footer {font-size: 0.5em; font-weight: bold; 
-    padding: .5em 0; height: 36px; 
-    border-top: 1px solid #08093F; 
-    background: #17172F url(bluefooter.jpg) top right no-repeat; }
-#footer h1, #footer h2 {display: block; padding: 0 1em;}
-#footer h2 {font-style: italic;}
-
-div.long {font-size: 0.75em;}
-.slide {
-	font-family: georgia, Times, 'Times New Roman', serif;
-  background: transparent url(bluebg.gif) repeat-x;
-    padding: 0px;
-}
-.slide h1 {position: absolute; left: 87px; z-index: 1;
- white-space: nowrap;
- text-transform: capitalize;
- top: .5em; width: 80%;
- margin: 0 0 0.5em 0; text-align: center; 
- padding: 0px;
- font: 150%/1em georgia, Times, 'Times New Roman', serif;
- color: #fff; 
- background: transparent; 
- }
-/*transparent*/
-.slide h3 {font-size: 130%;}
-h1 abbr {font-variant: small-caps;}
-
-div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
-  width: 50%; height: 100%;
-  text-align: right;}
-#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
-  top: auto; height: auto;}
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0; padding: 0;}
-div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
-  border: none;
-  cursor: pointer;
-  background: transparent; color: #9183BF;
-  }/*#9183BF;*/
-div#controls select {visibility: hidden; background: #DDD; color: #227;}
-div#controls div:hover select {visibility: visible;}
-
-#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
-
-
-#slide0 {padding-top: 3.5em; font-size: 90%;}
-#slide0 h1 {
-    position: static; margin: 1em 0 1.33em; padding: 0;
-    white-space: normal;
-    background: transparent;
-    margin: 0 auto; width: 90%; height: 281px;
-    text-align: center;
-    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
-   color: #fff;}
-#slide0 h3 {font-size: 1.5em;}
-#slide0 h4 {font-size: 1em;}
-#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
-#slide0 p {margin-top: 0.7em;}
-
-
-ul.urls {list-style: none; display: inline; margin: 0;}
-.urls li {display: inline; margin: 0;}
-.note {display: none;}</t>
-<t tx="zoomq.20091204150544.11197">/* The following styles size, place, and layer the slide components.
-   Edit these if you want to change the overall slide layout.
-   The commented lines can be uncommented (and modified, if necessary) 
-    to help you with the rearrangement process. */
-
-div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
-div#header {top: 0; height: 3em; z-index: 1;}
-div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
-/*Zoomq::051115 adjust for Freedom */
-div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
-div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
-#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
-
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0;}
-#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
-html&gt;body #currentSlide {position: fixed;}
-
-/*
-div#header {background: #FCC;}
-div#footer {background: #CCF;}
-div#controls {background: #BBD;}
-div#currentSlide {background: #FFC;}
-*/
-</t>
-<t tx="zoomq.20091204150544.11198">@path 0326-douban
-
-</t>
-<t tx="zoomq.20091204150544.11199">张成 czhang
-Django:
-    http://solidot.org/article.php?story=20051220095130663&amp;query=django
-    的琛圳迁移到北京
-许艺华 EricHua:
-    http://nkeric.3322.org
-    J2EE
-    ...拼音
-
-李迎辉:
-    Django
-    MTV:
-        App 由 Model 发布
-        流程:
-            1. 配置App
-            2. 发布App
-        Model 的自动组织 Admin 的实际
-        预制的多种管理功能…………
-        
-        </t>
-<t tx="zoomq.20091204150544.11200">维基 的维护方式:
-    精华贴模式的
-    维基索引页！！！
-    
-    1. 维基索引
-    2. CMS的收集支持
-    3. </t>
-<t tx="zoomq.20091204150544.11201">
-@others
-</t>
-<t tx="zoomq.20091204150544.11202">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-&lt;head&gt;
-&lt;title&gt;啄木鸟06第二次会课 (built by S5)&lt;/title&gt;
-
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-
-
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11203">&lt;div id="footer"&gt;
-&lt;h2&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
-CPUG&lt;/a&gt; 
-中国Python用户组
-
-&lt;/td&gt;
-&lt;td rowspan="2"&gt;
-
-&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
-&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
-
-v0.4.060326
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-Zoom.Quiet
-&lt;/a&gt;
-&lt;/td&gt;
-
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/h2&gt;
-
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11204">&lt;div class="presentation"&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11205">&lt;div class="slide"&gt;
-
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
-
-&lt;h3&gt;
-啄木鸟/CPUG会课交流
-&lt;/h3&gt;
-
-&lt;br/&gt;
-
-&lt;h4&gt;
-woodlog 安装与使用
-
-&lt;br/&gt;
-豆瓣网发展
-
-&lt;br/&gt;
-啄木鸟维基改进
-
-&lt;/h4&gt;
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11206">
-&lt;div class="slide"&gt;
-&lt;h1&gt;提纲&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;社区本身
-    &lt;ul&gt;
-    &lt;li&gt;持续建设
-    &lt;li&gt;增进提案的深入讨论
-    &lt;li&gt;服务控制
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Python推广
-    &lt;ul&gt;
-    &lt;li&gt;活动还是文档？
-    &lt;li&gt;媒体平台
-    &lt;li&gt;典型示范
-    &lt;li&gt;学校合作
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;啄木鸟/CPUG 项目
-    &lt;ul&gt;
-    &lt;li&gt;GUI - newEdit
-    &lt;li&gt;Web - 丰富的选择
-    &lt;li&gt;Blog - 突破点？
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11207"></t>
-<t tx="zoomq.20091204150544.11208">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区创立历程
-    &lt;ul&gt;
-    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
-    中国Linux论坛 Python 编程 版块
-    &lt;/a&gt;
-    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
-    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
-    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
-    CZUG.org&lt;/a&gt; 开通
-    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
-    python.cn 邮件列表&lt;/a&gt;开通
-    
-    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
-    &lt;br/&gt;http://220.248.2.35:7080
-    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
-    
-    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
-    "高性能分布式网络存储系统的想法"
-    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
-    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
-    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
-    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
-    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
-    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11209">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟开源开发社区 已有资源
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wpwiki_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
-    
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wptrac_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
-    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
-    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
-    CPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
-    BPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
-    python.cn列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
-    cpug-eastchina列表&lt;/a&gt;;...
-    &lt;/sup&gt; 
-    
-    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
-    &lt;img src="img/plone_powered.gif"/&gt;
-    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
-    
-    
-    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
-    &lt;ul&gt;
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
-    啄木鸟会课&lt;/a&gt;
-    
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-    CPUG会课&lt;/a&gt;
-    
-    &lt;/ul&gt;
-    
-    &lt;li&gt; 其它各种实用资源不断补充中……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11210">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
-    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
-    &lt;/a&gt;
-    &lt;li&gt; 以往提案::
-        
-        &lt;li&gt;门户的建议和使用
-        &lt;li&gt;多个服务间的ID通用
-        &lt;li&gt;工作的起始和结束
-        &lt;li&gt;与其它社区的联合
-        &lt;li&gt;社区Blog 是否推出?
-    
-    &lt;li&gt; ……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11211">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区服务控制
-    &lt;ul&gt;
-    &lt;li&gt;Wiki -- 个人资料泛滥问题
-    &lt;ul&gt;
-        &lt;li&gt;加强监管        
-        &lt;li&gt;明确内容原则
-    &lt;/ul&gt;
-    
-    &lt;li&gt;Trac -- 首页篡改严重
-    &lt;ul&gt;
-        &lt;li&gt;系统升级        
-        &lt;li&gt;划分权限
-    &lt;/ul&gt;
-    
-    &lt;li&gt;plone -- 资料更新停顿
-    &lt;ul&gt;
-        &lt;li&gt;系统升级,提高可用性        
-        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
-    &lt;/ul&gt;
-    
-    &lt;/ul&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11212"></t>
-<t tx="zoomq.20091204150544.11213">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;li&gt;啄木鸟/CPUG Python 推广资源
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;ul&gt;
-        &lt;li&gt;翻译文档; 原创文档; 项目文档
-    &lt;/ul&gt;
-    &lt;li&gt;讨论环境
-    &lt;ul&gt;
-        &lt;li&gt;邮件列表; IM群; 专人IM
-    &lt;/ul&gt;
-    &lt;li&gt;项目参与
-    &lt;ul&gt;
-        &lt;li&gt;学习项目; 插件开发; 微项目...
-    &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11214">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;主流媒体
-    &lt;ul&gt;
-    &lt;li&gt;报纸
-    &lt;li&gt;期刊    
-    &lt;li&gt;门户站点
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;个人媒体
-    &lt;ul&gt;
-    &lt;li&gt;Blog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作媒体
-    &lt;ul&gt;
-    &lt;li&gt;社区
-    &lt;li&gt;BBS
-    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
-    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11215">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 学校推广&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;重要性
-    &lt;ul&gt;
-    &lt;li&gt;影响学生群体
-    &lt;li&gt;影响学校政策  
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;必要性
-    &lt;ul&gt;
-    &lt;li&gt;直接产生影响...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作方式
-    &lt;ul&gt;
-    &lt;li&gt;尋求…………
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11216"></t>
-<t tx="zoomq.20091204150544.11217">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Wx
-    &lt;ul&gt;
-    &lt;li&gt;newEdit 的推广
-    &lt;li&gt;newEdit 的插件
-    &lt;li&gt;newEdit 的wizard
-    &lt;li&gt;newEdit 的mixin
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Tk
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
-    &lt;li&gt;Leo 插件
-    &lt;li&gt;Leo 汉化
-    &lt;li&gt;Leo 宏
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Qt
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11218">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Django
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; Woodlog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Karrigell
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; 网站管理辅助
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;插件开发
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;CherryPy
-    &lt;ul&gt;
-    &lt;li&gt;CherryFlow;Continuation 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;TurboGears
-    &lt;ul&gt;
-    &lt;li&gt;Ajax 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
-    &lt;ul&gt;
-    &lt;li&gt;P2P; 存储; 搜索...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11219">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;社区的形象/拳头产品？！
-&lt;/li&gt;
-&lt;li&gt;Woodlog
-    &lt;ul&gt;
-    &lt;li&gt;Django 基础; 全新特性
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;Zen 式开发和使用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;ZqBlog
-    &lt;ul&gt;
-    &lt;li&gt;基于Gmail的存储
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11220"></t>
-<t tx="zoomq.20091204150544.11221">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/a&gt;    共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-        &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;/a&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
-    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11222">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;自由！高贵的精神支柱
-&lt;/li&gt;
-&lt;li&gt;开源！神奇的软件开发模式
-&lt;/li&gt;
-&lt;li&gt;Python！美好易用的脚本语言
-&lt;/li&gt;
-
-&lt;li&gt;那未  :
-    &lt;ul&gt;
-    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
-    &lt;/li&gt;
-    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
-    &lt;ul&gt;
-        &lt;li&gt;我们相识相知的一般途径:
-            &lt;ul&gt;
-            &lt;li&gt;订阅列表……
-            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
-            &lt;li&gt;在自个儿Blog 中深入讨论……
-            &lt;li&gt;加入Wiki 贡献文章
-            &lt;li&gt;被点名作事儿……
-            &lt;li&gt;被现实中对应上，加入项目团队…………
-            &lt;/ul&gt;
-        &lt;/li&gt; 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;实际使用Python 来真正体验自由的力量
-    &lt;/li&gt;
-    &lt;li&gt;....
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11223">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11224">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
-        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
-        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
-        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.xulei.org/"&gt;
-        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
-        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://xyb.8800.org/"&gt;
-        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.douban.com/"&gt;
-        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
-        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
-        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
-        
-        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
-        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
-        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
-        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
-        ......
-        
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有想法来自日常学习工作
-        &lt;li&gt; 所有体悟来自各种沟通分享
-        &lt;li&gt; 所有知识来自网络分享印证
-        &lt;li&gt; 所有经验来自个人失败经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11225">&lt;/div&gt;&lt;!--class="layout" --&gt;
-&lt;/div&gt;&lt;!-- class="presentation"--&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11226">@path 0226-wood06/ui/</t>
-<t tx="zoomq.20091204150544.11227">/* Following are the presentation styles -- edit away!
-   Note that the 'body' font size may have to be changed if the resolution is
-    different than expected. 
-Base Blue fixed for Chinese Slide show...
-Zoom.Quiet    
-051106-DeepBlue #2E2E5A :: #000294
- right bottom no-repeat
-    */
-
-body {background: #2E2E5A url(freedombottom.gif); 
-    color: #fff; 
-    font-size: 2em;
-    }
-:link, :visited {text-decoration: none; color: #F8B73E;}
-#controls :active {color: #88A !important;}
-#controls :focus {outline: 1px dotted #227;}
-h1, h2, h3, h4 {
-    font-size: 100%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-h5{
-    font-size: 85%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-
-ul, pre {margin: 0; line-height: 1em;}
-
-html, body {margin: 0; padding: 0;}
-img {border:0px;}    
-span #logo{float:left;
-    }
-blockquote, q {font-style: italic;}
-blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
-blockquote p {margin: 0;}
-blockquote i {font-style: normal;}
-blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
-blockquote b i {font-style: italic;}
-
-kbd {font-weight: bold; font-size: 1em;}
-sup {font-size: smaller; line-height: 1px;}
-
-/*color: #533;*/
-code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
-code.bad, code del {color: red;}
-code.old {color: silver;}
-pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
-pre code {display: block;}
-
-ul {margin-left: 0.5em; list-style: disc;
-}
-li {margin-top: 0.25em; margin-right: 0;
-    line-height: 1em;}
-/*Zoomq::051115 fixed as list padding: 0.5em;*/
-ul ul {line-height: 100%; 
-    padding-top: 0.4em;padding-left: 0.5em;}
-ul ul li {font-size: 85%; list-style: square;}
-
-
-img.leader {display: block; margin: 0 auto;}
-
-div#header, div#footer {background: #005; color: #9183BF;
-  font-family: Verdana, Helvetica, sans-serif;}
-div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
-  line-height: 1px;}
-/* 051106-DeepBlue #000136 #17172F */
-div#footer {font-size: 0.5em; font-weight: bold; 
-    padding: .5em 0; height: 36px; 
-    border-top: 1px solid #08093F; 
-    background: #17172F url(bluefooter.jpg) top right no-repeat; }
-#footer h1, #footer h2 {display: block; padding: 0 1em;}
-#footer h2 {font-style: italic;}
-
-div.long {font-size: 0.75em;}
-.slide {
-	font-family: georgia, Times, 'Times New Roman', serif;
-  background: transparent url(bluebg.gif) repeat-x;
-    padding: 0px;
-}
-.slide h1 {position: absolute; left: 87px; z-index: 1;
- white-space: nowrap;
- text-transform: capitalize;
- top: .5em; width: 80%;
- margin: 0 0 0.5em 0; text-align: center; 
- padding: 0px;
- font: 150%/1em georgia, Times, 'Times New Roman', serif;
- color: #fff; 
- background: transparent; 
- }
-/*transparent*/
-.slide h3 {font-size: 130%;}
-h1 abbr {font-variant: small-caps;}
-
-div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
-  width: 50%; height: 100%;
-  text-align: right;}
-#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
-  top: auto; height: auto;}
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0; padding: 0;}
-div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
-  border: none;
-  cursor: pointer;
-  background: transparent; color: #9183BF;
-  }/*#9183BF;*/
-div#controls select {visibility: hidden; background: #DDD; color: #227;}
-div#controls div:hover select {visibility: visible;}
-
-#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
-
-
-#slide0 {padding-top: 3.5em; font-size: 90%;}
-#slide0 h1 {
-    position: static; margin: 1em 0 1.33em; padding: 0;
-    white-space: normal;
-    background: transparent;
-    margin: 0 auto; width: 90%; height: 281px;
-    text-align: center;
-    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
-   color: #fff;}
-#slide0 h3 {font-size: 1.5em;}
-#slide0 h4 {font-size: 1em;}
-#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
-#slide0 p {margin-top: 0.7em;}
-
-
-ul.urls {list-style: none; display: inline; margin: 0;}
-.urls li {display: inline; margin: 0;}
-.note {display: none;}</t>
-<t tx="zoomq.20091204150544.11228">/* The following styles size, place, and layer the slide components.
-   Edit these if you want to change the overall slide layout.
-   The commented lines can be uncommented (and modified, if necessary) 
-    to help you with the rearrangement process. */
-
-div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
-div#header {top: 0; height: 3em; z-index: 1;}
-div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
-/*Zoomq::051115 adjust for Freedom */
-div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
-div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
-#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
-
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0;}
-#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
-html&gt;body #currentSlide {position: fixed;}
-
-/*
-div#header {background: #FCC;}
-div#footer {background: #CCF;}
-div#controls {background: #BBD;}
-div#currentSlide {background: #FFC;}
-*/
-</t>
-<t tx="zoomq.20091204150544.11229">@path 0226-wood06
-
-</t>
-<t tx="zoomq.20091204150544.11230">张成 czhang
-Django:
-    http://solidot.org/article.php?story=20051220095130663&amp;query=django
-    的琛圳迁移到北京
-许艺华 EricHua:
-    http://nkeric.3322.org
-    J2EE
-    ...拼音
-
-李迎辉:
-    Django
-    MTV:
-        App 由 Model 发布
-        流程:
-            1. 配置App
-            2. 发布App
-        Model 的自动组织 Admin 的实际
-        预制的多种管理功能…………
-        
-        </t>
-<t tx="zoomq.20091204150544.11231">
-@others
-</t>
-<t tx="zoomq.20091204150544.11232">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-&lt;head&gt;
-&lt;title&gt;啄木鸟年度规划 (built by S5)&lt;/title&gt;
-
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-
-
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11233">&lt;div id="footer"&gt;
-&lt;h2&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;a target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;
-CPUG&lt;/a&gt; 
-中国Python用户组
-
-&lt;/td&gt;
-&lt;td rowspan="2"&gt;
-
-&lt;a  target="_blank" href="http://creativecommons.cn/licenses/by-nc-sa/1.0/"&gt;
-&lt;img src="img/CC1.0-by-nc-sa.png" /&gt;&lt;/a&gt;
-
-v0.7.060225
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-&lt;img src="img/BPUGlableT.gif" /&gt;&lt;/a&gt;
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-Zoom.Quiet
-&lt;/a&gt;
-&lt;/td&gt;
-
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/h2&gt;
-
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11234">&lt;div class="presentation"&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11235">&lt;div class="slide"&gt;
-
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;&lt;/h1&gt;
-
-&lt;h3&gt;
-啄木鸟/CPUG社区2006规划&lt;/sup&gt;
-&lt;/h3&gt;
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11236">
-&lt;div class="slide"&gt;
-&lt;h1&gt;提纲&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;社区本身
-    &lt;ul&gt;
-    &lt;li&gt;持续建设
-    &lt;li&gt;增进提案的深入讨论
-    &lt;li&gt;服务控制
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Python推广
-    &lt;ul&gt;
-    &lt;li&gt;活动还是文档？
-    &lt;li&gt;媒体平台
-    &lt;li&gt;典型示范
-    &lt;li&gt;学校合作
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;啄木鸟/CPUG 项目
-    &lt;ul&gt;
-    &lt;li&gt;GUI - newEdit
-    &lt;li&gt;Web - 丰富的选择
-    &lt;li&gt;Blog - 突破点？
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11237"></t>
-<t tx="zoomq.20091204150544.11238">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区创立历程
-    &lt;ul&gt;
-    &lt;li&gt;2001年4月 &lt;a href="http://www.linuxforum.net/forum/postlist.php?Cat=&amp;Board=python"&gt;
-    中国Linux论坛 Python 编程 版块
-    &lt;/a&gt;
-    &lt;li&gt;2002年4月 &lt;a href="http://www.chinesepython.org/"&gt;
-    &lt;img src="foto/cpylogo.gif"/&gt;&lt;/a&gt;发布 
-    &lt;li&gt;2003年2月 &lt;a href="http://www.chinesepython.org/"&gt;
-    CZUG.org&lt;/a&gt; 开通
-    &lt;li&gt;2004年1月 &lt;a href="http://python.cn/pipermail/python-chinese/"&gt;
-    python.cn 邮件列表&lt;/a&gt;开通
-    
-    &lt;li&gt;2004年3月30日 在上海发布汇集Python知识的Wiki 
-    &lt;br/&gt;http://220.248.2.35:7080
-    &lt;sup&gt;反向代理发布 MoinMoin 1.2系统&lt;/sup&gt;
-    
-    &lt;li&gt;2004年7月2日 HD &lt;a href="http://python.cn/pipermail/python-chinese/2004-July/002072.html"&gt;
-    "高性能分布式网络存储系统的想法"
-    &lt;/a&gt; 促成一个以项目为中心的实践型社区的计划
-    &lt;li&gt; 2005年5月 HD进入新浪，使用专用主机开启 &lt;a href="http://www.woodpecker.org.cn/"&gt;woodpecker.org.cn&lt;/a&gt;
-    &lt;li&gt;2005年6月1日 &lt;a href="http://wiki.woodpecker.org.cn/moin/CnPyUniteLayout"&gt;
-    经讨论&lt;/a&gt; 决定整合资源建立 CPUG
-    &lt;li&gt; 2005年7月30日&lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30"&gt;
-    &lt;img src="img/CPUGlogo-100.gif" /&gt;&lt;/a&gt;成立..
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11239">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟开源开发社区 已有资源
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wpwiki_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 知识管理&lt;/sup&gt;
-    
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/wptrac_banner.gif"/&gt;
-    &lt;/a&gt; &lt;sup&gt;-- 项目管理&lt;/sup&gt;
-    &lt;li&gt;&lt;img src="img/groups_medium_zh-CN.gif"/&gt;
-    &lt;sup&gt;&lt;a href="http://groups.google.com/group/CPUG/aboutG"&gt;
-    CPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/bpug/about"&gt;
-    BPUG列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/python-cn/about"&gt;
-    python.cn列表&lt;/a&gt;;
-    &lt;a href="http://groups.google.com/group/cpug-eastchina/about"&gt;
-    cpug-eastchina列表&lt;/a&gt;;...
-    &lt;/sup&gt; 
-    
-    &lt;li&gt;&lt;a href="hhttp://python.cn/"&gt;    
-    &lt;img src="img/plone_powered.gif"/&gt;
-    社区门户&lt;/a&gt; &lt;sup&gt;域名&lt;a href="http://www.exoweb.net/"&gt;Exoweb捐赠&lt;/a&gt;,主机由啄木鸟社区提供&lt;/sup&gt;
-    
-    
-    &lt;li&gt; 会课制度 -- &lt;sup&gt;让我们互为老师&lt;/sup&gt;
-    &lt;ul&gt;
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerClass"&gt;
-    啄木鸟会课&lt;/a&gt;
-    
-    &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-    CPUG会课&lt;/a&gt;
-    
-    &lt;/ul&gt;
-    
-    &lt;li&gt; 其它各种实用资源不断补充中……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11240">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区 增进讨论:
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs"&gt;
-    http://wiki.woodpecker.org.cn/moin/WoodpeckerEPs
-    &lt;/a&gt;
-    &lt;li&gt; 以往提案::
-        
-        &lt;li&gt;门户的建议和使用
-        &lt;li&gt;多个服务间的ID通用
-        &lt;li&gt;工作的起始和结束
-        &lt;li&gt;与其它社区的联合
-        &lt;li&gt;社区Blog 是否推出?
-    
-    &lt;li&gt; ……
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11241">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;啄木鸟/CPUG社区服务控制
-    &lt;ul&gt;
-    &lt;li&gt;Wiki -- 个人资料泛滥问题
-    &lt;ul&gt;
-        &lt;li&gt;加强监管        
-        &lt;li&gt;明确内容原则
-    &lt;/ul&gt;
-    
-    &lt;li&gt;Trac -- 首页篡改严重
-    &lt;ul&gt;
-        &lt;li&gt;系统升级        
-        &lt;li&gt;划分权限
-    &lt;/ul&gt;
-    
-    &lt;li&gt;plone -- 资料更新停顿
-    &lt;ul&gt;
-        &lt;li&gt;系统升级,提高可用性        
-        &lt;li&gt;更新联动: 列表，Wiki，项目，会课活动……
-    &lt;/ul&gt;
-    
-    &lt;/ul&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11242"></t>
-<t tx="zoomq.20091204150544.11243">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;li&gt;啄木鸟/CPUG Python 推广资源
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;ul&gt;
-        &lt;li&gt;翻译文档; 原创文档; 项目文档
-    &lt;/ul&gt;
-    &lt;li&gt;讨论环境
-    &lt;ul&gt;
-        &lt;li&gt;邮件列表; IM群; 专人IM
-    &lt;/ul&gt;
-    &lt;li&gt;项目参与
-    &lt;ul&gt;
-        &lt;li&gt;学习项目; 插件开发; 微项目...
-    &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11244">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 推广渠道&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;主流媒体
-    &lt;ul&gt;
-    &lt;li&gt;报纸
-    &lt;li&gt;期刊    
-    &lt;li&gt;门户站点
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;个人媒体
-    &lt;ul&gt;
-    &lt;li&gt;Blog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作媒体
-    &lt;ul&gt;
-    &lt;li&gt;社区
-    &lt;li&gt;BBS
-    &lt;li&gt;&lt;a href="http://solidot.org/"&gt;Solidot&lt;/a&gt;;
-    &lt;a href="http://www.livedigg.com/"&gt;digg&lt;/a&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;li&gt;&lt;a href="http://python.org"&gt;&lt;img src="foto/python.jpg" /&gt;&lt;/a&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11245">
-
-&lt;div class="slide"&gt;
-&lt;h1&gt;Python 学校推广&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;重要性
-    &lt;ul&gt;
-    &lt;li&gt;影响学生群体
-    &lt;li&gt;影响学校政策  
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;必要性
-    &lt;ul&gt;
-    &lt;li&gt;直接产生影响...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合作方式
-    &lt;ul&gt;
-    &lt;li&gt;尋求…………
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11246"></t>
-<t tx="zoomq.20091204150544.11247">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::GUI 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Wx
-    &lt;ul&gt;
-    &lt;li&gt;newEdit 的推广
-    &lt;li&gt;newEdit 的插件
-    &lt;li&gt;newEdit 的wizard
-    &lt;li&gt;newEdit 的mixin
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Tk
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyWgo"&gt;PyWgo&lt;/a&gt;
-    &lt;li&gt;Leo 插件
-    &lt;li&gt;Leo 汉化
-    &lt;li&gt;Leo 宏
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Qt
-    &lt;ul&gt;
-    &lt;li&gt;文档
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11248">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Web 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Django
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; Woodlog
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Karrigell
-    &lt;ul&gt;
-    &lt;li&gt;教程文档; 网站管理辅助
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;插件开发
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;CherryPy
-    &lt;ul&gt;
-    &lt;li&gt;CherryFlow;Continuation 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;TurboGears
-    &lt;ul&gt;
-    &lt;li&gt;Ajax 应用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/PyKt"&gt;PyKt&lt;/a&gt;
-    &lt;ul&gt;
-    &lt;li&gt;P2P; 存储; 搜索...
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11249">
-&lt;div class="slide"&gt;
-&lt;h1&gt;项目推广::Blog 开发&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;社区的形象/拳头产品？！
-&lt;/li&gt;
-&lt;li&gt;Woodlog
-    &lt;ul&gt;
-    &lt;li&gt;Django 基础; 全新特性
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PyBlosxom
-    &lt;ul&gt;
-    &lt;li&gt;Zen 式开发和使用
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;ZqBlog
-    &lt;ul&gt;
-    &lt;li&gt;基于Gmail的存储
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt; ....
-&lt;/ul&gt;
-
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11250"></t>
-<t tx="zoomq.20091204150544.11251">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-    &lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/a&gt;    共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://wiki.woodpecker.org.cn/moin/BPUG"&gt;
-        &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;/a&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;新的开始:&lt;a href="http://wiki.woodpecker.org.cn/moin/SPUG/"&gt;
-    &lt;img src="img/SPUG-T.gif"/&gt;&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;……更多其它地区的 PUG 组织在筹备中！
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11252">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;自由！高贵的精神支柱
-&lt;/li&gt;
-&lt;li&gt;开源！神奇的软件开发模式
-&lt;/li&gt;
-&lt;li&gt;Python！美好易用的脚本语言
-&lt;/li&gt;
-
-&lt;li&gt;那未  :
-    &lt;ul&gt;
-    &lt;li&gt;我们从自由软件运动中可以印证哲学理念的力量
-    &lt;/li&gt;
-    &lt;li&gt;我们从开源开发模式中可以学习社区的合作
-    &lt;ul&gt;
-        &lt;li&gt;我们相识相知的一般途径:
-            &lt;ul&gt;
-            &lt;li&gt;订阅列表……
-            &lt;li&gt;看不过眼，回复/指导/教导/讨论……
-            &lt;li&gt;在自个儿Blog 中深入讨论……
-            &lt;li&gt;加入Wiki 贡献文章
-            &lt;li&gt;被点名作事儿……
-            &lt;li&gt;被现实中对应上，加入项目团队…………
-            &lt;/ul&gt;
-        &lt;/li&gt; 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;实际使用Python 来真正体验自由的力量
-    &lt;/li&gt;
-    &lt;li&gt;....
-    &lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11253">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于S&lt;sup&gt;5&lt;/sup&gt; &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11254">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有热心的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;a href="http://www.donews.net/limodou"&gt;
-        &lt;img src="id/limodou.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/m/hdcola"&gt;
-        &lt;img src="id/HD.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"&gt;
-        &lt;img src="id/zhouqi.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/AlbertLee"&gt;
-        &lt;img src="id/AlbertLee.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.xulei.org/"&gt;
-        &lt;img src="id/eddyxu.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://www.livejournal.com/users/hongqn/"&gt;
-        &lt;img src="id/QiangningHong.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://xyb.8800.org/"&gt;
-        &lt;img src="id/xyb.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.douban.com/"&gt;
-        &lt;img src="id/beanABei.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/Hoxide"&gt;
-        &lt;img src="id/hoxide.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.sina.com.cn/u/1140330320"&gt;
-        &lt;img src="id/rive4.gif" /&gt;&lt;/a&gt;
-        
-        ,&lt;a href="http://www.donews.net/changzheng/"&gt;
-        &lt;img src="id/breeze.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://blog.donews.com/perrin/"&gt;
-        &lt;img src="id/perrin.gif" /&gt;&lt;/a&gt;
-        ,&lt;a href="http://wiki.woodpecker.org.cn/moin/nEO"&gt;
-        &lt;img src="id/neo.gif" /&gt;&lt;/a&gt;
-        ......
-        
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有想法来自日常学习工作
-        &lt;li&gt; 所有体悟来自各种沟通分享
-        &lt;li&gt; 所有知识来自网络分享印证
-        &lt;li&gt; 所有经验来自个人失败经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11255">&lt;/div&gt;&lt;!--class="layout" --&gt;
-&lt;/div&gt;&lt;!-- class="presentation"--&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11256">@path 0226-wood06/ui/</t>
-<t tx="zoomq.20091204150544.11257">/* Following are the presentation styles -- edit away!
-   Note that the 'body' font size may have to be changed if the resolution is
-    different than expected. 
-Base Blue fixed for Chinese Slide show...
-Zoom.Quiet    
-051106-DeepBlue #2E2E5A :: #000294
- right bottom no-repeat
-    */
-
-body {background: #2E2E5A url(freedombottom.gif); 
-    color: #fff; 
-    font-size: 2em;
-    }
-:link, :visited {text-decoration: none; color: #F8B73E;}
-#controls :active {color: #88A !important;}
-#controls :focus {outline: 1px dotted #227;}
-h1, h2, h3, h4 {
-    font-size: 100%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-h5{
-    font-size: 85%; 
-    margin: 0; padding: 0; font-weight: inherit;}
-
-ul, pre {margin: 0; line-height: 1em;}
-
-html, body {margin: 0; padding: 0;}
-img {border:0px;}    
-span #logo{float:left;
-    }
-blockquote, q {font-style: italic;}
-blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: center; font-size: 1em;}
-blockquote p {margin: 0;}
-blockquote i {font-style: normal;}
-blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
-blockquote b i {font-style: italic;}
-
-kbd {font-weight: bold; font-size: 1em;}
-sup {font-size: smaller; line-height: 1px;}
-
-/*color: #533;*/
-code {padding: 2px 0.25em; font-weight: bold; color: #c30;}
-code.bad, code del {color: red;}
-code.old {color: silver;}
-pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
-pre code {display: block;}
-
-ul {margin-left: 0.5em; list-style: disc;
-}
-li {margin-top: 0.25em; margin-right: 0;
-    line-height: 1em;}
-/*Zoomq::051115 fixed as list padding: 0.5em;*/
-ul ul {line-height: 100%; 
-    padding-top: 0.4em;padding-left: 0.5em;}
-ul ul li {font-size: 85%; list-style: square;}
-
-
-img.leader {display: block; margin: 0 auto;}
-
-div#header, div#footer {background: #005; color: #9183BF;
-  font-family: Verdana, Helvetica, sans-serif;}
-div#header {background: #005 url(bodybg.gif) -16px 0 no-repeat;
-  line-height: 1px;}
-/* 051106-DeepBlue #000136 #17172F */
-div#footer {font-size: 0.5em; font-weight: bold; 
-    padding: .5em 0; height: 36px; 
-    border-top: 1px solid #08093F; 
-    background: #17172F url(bluefooter.jpg) top right no-repeat; }
-#footer h1, #footer h2 {display: block; padding: 0 1em;}
-#footer h2 {font-style: italic;}
-
-div.long {font-size: 0.75em;}
-.slide {
-	font-family: georgia, Times, 'Times New Roman', serif;
-  background: transparent url(bluebg.gif) repeat-x;
-    padding: 0px;
-}
-.slide h1 {position: absolute; left: 87px; z-index: 1;
- white-space: nowrap;
- text-transform: capitalize;
- top: .5em; width: 80%;
- margin: 0 0 0.5em 0; text-align: center; 
- padding: 0px;
- font: 150%/1em georgia, Times, 'Times New Roman', serif;
- color: #fff; 
- background: transparent; 
- }
-/*transparent*/
-.slide h3 {font-size: 130%;}
-h1 abbr {font-variant: small-caps;}
-
-div#controls {position: absolute; z-index: 1; left: 50%; top: 0;
-  width: 50%; height: 100%;
-  text-align: right;}
-#footer&gt;div#controls {position: fixed; bottom: 0; padding: 1em 0;
-  top: auto; height: auto;}
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0; padding: 0;}
-div#controls a {font-size: 2em; padding: 0; margin: 0 0.5em; 
-  border: none;
-  cursor: pointer;
-  background: transparent; color: #9183BF;
-  }/*#9183BF;*/
-div#controls select {visibility: hidden; background: #DDD; color: #227;}
-div#controls div:hover select {visibility: visible;}
-
-#currentSlide {text-align: center; font-size: 0.75em; color: #449;}
-
-
-#slide0 {padding-top: 3.5em; font-size: 90%;}
-#slide0 h1 {
-    position: static; margin: 1em 0 1.33em; padding: 0;
-    white-space: normal;
-    background: transparent;
-    margin: 0 auto; width: 90%; height: 281px;
-    text-align: center;
-    font: 2.25em Georgia, Times, 'Times New Roman', serif; 
-   color: #fff;}
-#slide0 h3 {font-size: 1.5em;}
-#slide0 h4 {font-size: 1em;}
-#slide0 h3, #slide0 h4, #slide0 p {margin: 0; text-align: center; color: #fff;}
-#slide0 p {margin-top: 0.7em;}
-
-
-ul.urls {list-style: none; display: inline; margin: 0;}
-.urls li {display: inline; margin: 0;}
-.note {display: none;}</t>
-<t tx="zoomq.20091204150544.11258">/* The following styles size, place, and layer the slide components.
-   Edit these if you want to change the overall slide layout.
-   The commented lines can be uncommented (and modified, if necessary) 
-    to help you with the rearrangement process. */
-
-div#header, div#footer, div.slide {width: 100%; top: 0; left: 0;}
-div#header {top: 0; height: 3em; z-index: 1;}
-div#footer {top: auto; bottom: 0; height: 2.5em; z-index: 5;}
-/*Zoomq::051115 adjust for Freedom */
-div.slide {top: 0; width: 92%; padding: 3em 4% 4%; z-index: 2;}
-div#controls {left: 50%; top: 0; width: 50%; height: 100%; z-index: 1;}
-#footer&gt;div#controls {bottom: 0; top: auto; height: auto;}
-
-div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
-  margin: 0;}
-#currentSlide {position: absolute; width: 10%; left: 45%; bottom: 1em; z-index: 10;}
-html&gt;body #currentSlide {position: fixed;}
-
-/*
-div#header {background: #FCC;}
-div#footer {background: #CCF;}
-div#controls {background: #BBD;}
-div#currentSlide {background: #FFC;}
-*/
-</t>
-<t tx="zoomq.20091204150544.11259">2005年度会课记录</t>
-<t tx="zoomq.20091204150544.11260"></t>
-<t tx="zoomq.20091204150544.11261">1. 遇到Python 的故事！
-    偶然性
-    必须性
-    行业性
-    从管理入手的，从工作入手的，从兴趣入口的
-
-2. 会议组织，有些混乱，
-    名牌
-    介绍
-    小团体
-    
-简短的会课主题说明i
-</t>
-<t tx="zoomq.20091204150544.11262">实到 21人
-
-HD 发表了新浪的开源决心！
-    九月有正式项目释放
-    资源是由新浪稳定提供的
-    有些问题要共同思考:
-        1. 项目的确立,如何？
-        2. 项目的持续,何如？        
-nEO 进行了开源社区交流的感慨...
-    1. 交流技巧
-    2. 遵守标准
-    Python开发，功夫在诗外    
-Limodou EasyGui 演示:
-    1. 标准！ 安装，测试!
-    2. 演示，丰富的可用性:
-        特殊应用，快速组织窗口列:
-            S5 将t2t之类的语法引入？
-            预览，图片？            
-        wx 应用，代码框架....
-    3. 文档缺乏...    
-    经验积累:
-        1. 文章
-        2. 代码 --&gt; ZqLib ...
-            代码分享有语境的限制
-            代码仅仅对应于特殊的问题解决            
-        3. 转化为代码模板或是框架?
-    经验，转化为数据驱动，而非事务驱动!
-    初学者，代码学习&lt;--&gt;快速开发(使用)    
-    sample --&gt; pattern     
-    Pythonic 的学习体验，永远有可用的成果！ 由使用快感来支持学习动力！
-    功能代码，开发技巧的积累，再分离，纯化，再思考，形成模式
-    "简单即是美！" -- 使用，学习时
-    "数据是应用中心" -- 现实体验！
-        
-    1. 经验代码--&gt; 代码框架 的提炼技巧！！
-        预先思考
-        重构
-        
-    2. 命令行响应的设计技巧 :
-        命令要足够简单
-        命令功能要足够
-        命令要足够恰当...
-    
-
-</t>
-<t tx="zoomq.20091204150544.11263">MFC 的界面详细设计工具
-</t>
-<t tx="zoomq.20091204150544.11264">http://wiki.woodpecker.org.cn/moin/Otter%e6%a8%a1%e6%9d%bf%e6%b5%8b%e8%af%95%e8%ae%b0%e5%bd%95
-
-.dot 的产品依赖分析
-</t>
-<t tx="zoomq.20091204150544.11265">   1. 宣布 CPUG + BPUG 民间Python 推广社团成立！
-   
-   (2. HD 《新浪的自由之心--新浪与Open Source之缘》)   
-   
-   3. 讨论CPUG 的组织，目标，近期计划:
-       组织定义:
-           CPUG是中国第一个正式成立的Python用户的民间组织，
-           在广大Python爱好者的推动下成立的                   
-        组织关系:
-            CPUG 主要是整体组织形象
-            *PUG 是线下交流的实体团队            
-       0. 基本目标:
-           加强交流
-           促进学习           
-       1. 形成技术核心,
-       2. 创造条件,集中分配工作机会
-       
-       近期计划:
-           需求确认:
-               CPUG门户的内容组织,审核流程
-               CZUG+CPUG 的同步推进               
-            资源整合:
-                1. 网路空间
-                2. 域名:
-                    python.cn 为主门户
-                    啄木鸟保留原来 CoP 模式
-                3. 服务
-                    -&gt; web管理团队
-                    -&gt; 内容管理团队
-                        每周精华
-                    -&gt; 技术促进团队:
-                        1. 列表 的内容引导,规范的促进
-                        2. 个人项目的发表组织
-                        3. 已有项目的协调组织
-                        4. Python 核心技术的研究
-                                   
-       项目的诞生流程:
-           portal 内容审核;          
-              
-   4. 讨论BPUG 的组织，目标，近期计划:
-       1. 地域性 PUG 是宣传为重心
-       2. 线下的面对面交流
-       
-   5. 上海润普，CZUG 站长 panjubyong 的Plone 畅想
-
-   6. 自由讨论，大家混个脸熟
-   
-   
-</t>
-<t tx="zoomq.20091204150544.11266">CPUG及BPUG 成立大会 胜利闭幕!
-
-经过高效充实的汇报,讨论, 
-中国Python用户组(又称:华蟒用户群) 正式在北京诞生!
-同一时刻 BPUG(京蟒用户群)也创立了!
-
-这是一个平凡阴雨的夏日,但是我完全感受的到中国又一种力量正式聚集起来了!
-
-一个人如果力求完善自己，他就会看到，为此也必须同时完善他人.
-一个人如果不关心别人的完善，自己便不可能完善.
-(详见 http://wiki.woodpecker.org.cn/moin/SkSig)
-
-所有与会人士,都是中国在Python语言方面的先行者,
-都是意识到 "能力越大,责任越大" 的热血行者
-
-超时两小时的长会,主要进行了三项主题演讲,自由讨论确定了两项议题:
-    1. limodou 的《 CPUG社区建设与发展》
-        从整体，长期发展的视角向CPUG的社区化发展提出了建议
-    2. QiangningHong 的 《邮件列表的规范和礼节：创造良性发展的交流空间》
-        通过统计分析，对比Python.org 列表，为我们重要的交流场所
-        ——python.cn 邮件列表,提出了科学的改进建议
-    3. PanJunYong 的 《Zope和Plone的发展现状》
-        从专业角度，回顾，剖析，汇报了 Zope这一优秀的开发平台，
-        Plone 这一优秀的应用平台 的发展现状，为我们树立了一个非常有价值的发展方向
-    
-    i: 确认CPUG 的总领地位!
-        作为中国Python 学习/应用/推广 活动的整体形象组织;
-        制作 CPUG 的统一门户,来组织各种开发，推广活动
-    ii: 确认*PUG 的地域性交流组织主体地位
-        BPUG 作为第一个成立的PUG 组织，负责北京地区Python用户的交流活动组织
-        比较特殊是当前 CPUG 委托 BPUG 进行实际的管理活动
-
-引发的课题:
-    1.  我与Python -- http://wiki.woodpecker.org.cn/moin/MeAndPyStory
-        征集 学习Python故事 作为推广和学习资料的一部分，长期征集
-    2.  CPUG 前进路线 -- http://wiki.woodpecker.org.cn/moin/CPUGroadway
-        讨论，确定CPUG近期的行动计划，整合资源，经营形象，维护门户
-        http://wiki.woodpecker.org.cn/moin/CPUGroadway/OrganizeEncode
-        设立职责；使用 “路见不平一声吼” 的原则，主动认领担当！所有人共同监督
-
-以上！详细大会内容，录音下载等等见
-http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30
-
-第一自任 尚书令兼工利部侍郞 ZoomQuiet 报道
-
-
-
-
-
-
-    </t>
-<t tx="zoomq.20091204150544.11267">= 组织结构 =
-'''设立初步的团队结构，主动认领担当吧！'''
- * 上效[http://zh.wikipedia.org/wiki/%E5%94%90%E6%9C%9D 唐朝官制] 突出中国特色，设定以下[[FootNote(各省长官称'''令''';各部长官统称'''侍郞''';下属成员皆为'''行者''')]]
-机构
-
-== 中书省 ==
-'''掌决策，提出发展目标，计划...形成各种项目/活动的草案；'''
- * 决策机构,相当于立法机关；
- * 相当于"总体规划团队";为社区组织规划五年计划这样的
-=== 中书令者 ===
-''自个儿吼哪！''
- * 推荐 tomZ
-== 门下省 ==
-'''持顾问，上下的正式文案，计划的审查，会议的组织等等'''
- * 审议机构,相当于议院，组织大家 针对各种计划，进行各种建议，投票，Chat 等等；
- * 相当于固定活动的组织团队
-=== 门下令 ===
-''自个儿吼哪！''
- * 推荐 nEO
-== 尚书省 ==
-'''统执行,统筹资源，跟踪进度，选拔人才，收集反馈，提出建议……'''
- * 行政机构,分管各种具体事务,相当于各 *ZUG 社区实体了，
-    * 其下再分不同方面的管理团队
-=== 尚书令 ===
-''自个儿吼哪！''
- * ZoomQuiet -- 啄木鸟资源保管员是也乎
- 
-=== 吏选部 ===
- * 专Python,Zope,Plone... 的人才培养,选拔;组织基础到高级的文档翻译;
-  * 当于"文档和翻译团队";
-==== 侍郞 ====
-''自个儿吼哪！''
-
-=== 户民部 ===
- * 专,用户响应,服务:
-  1. 注册用户服务,维护列表秩序,及时回答问题,总结FAQ到Wiki;
-  1. 确定精华文章,提取重要讨论形成文档;
-  1. 观察各地*PUG 活动近况组织《CPUG双周刊》……
- * 当"内容维护团队";
-==== 侍郞 ====
-''自个儿吼哪！''
- * 推荐 QiangningHong
-
-=== 礼广部 ===
- * 专,推广，宣传:
-     1. 收集其它网站信息,RSS简报,Ring/Track Back回响交互链接;
-     1. 组织 对外联络,推荐文章的编写,成功案例的收集....
-     1. 设计社区logo,维护统一形象展示
- *  当"市场团队"+"设计团队";
-==== 侍郞 ====
-''自个儿吼哪！''
- * 推荐 limodou -- Python 应用名人哪！有知名Blog 窗口
-
-=== 刑奖部 ==
- * 专,规章制度的执行监察:
-     1. 处理用户投诉,其它网站,媒体等等的反馈;
-     1. 跟踪 bugTracker 系统的修改进度,
-     1. 记录用户表现,组织各种有奖活动(比如说,培训,书藉鼓励等等),接受捐助...
- *  当"Web维护团队";
-==== 侍郞 ====
-''自个儿吼哪！''
-
-=== 兵锋部 ===
- * 专,新技术钻研:
-     1. Python-Zope-Plone.. 的应用研发,预研;
-     1. 跟踪最新Python 技术,网络技术;
-     1. 关注Python产品更新,收集,学习新的思想;
-     1. 组织/维护/开发 社区自主产品;
-     1. 对 Python企业应用,XML应用,Jabber技术等等可能的未来应用进行研究,准备;
-      * 比如说已经开始被 linuxforum.net;CNBlog.org 关注的知识管理/分享标准平台!
-      * 从社区的讨论中发现,新的需求,新的市场!
- * 当"核心开发团队";
-==== 侍郞 ====
-''自个儿吼哪！'' [[FootNote(建议拥有个人项目的行者都先加入)]]
- 
-=== 工利部 ===
- * 专,社区基础环境的管理:
-     1. 维护Web系统正常高效运行,防病毒....
-     1. 相关项目开发,比如说定制门户平台...
-     1. 管理所有成员贡献的有效代码,维护CVS/Subversion 代码库,
-
-        * 当"Web管理团队"
-
-==== 侍郞 ====
-''自个儿吼哪！''[[FootNote(建议手中有网路资源的都先加入)]]
- * ZoomQuiet</t>
-<t tx="zoomq.20091204150544.11268">社区建设:
-    整体的大方向，
-    功能，目标
-    培训
-    机会把握
-    
-    
-    真实的推广，
-    
-    
-
-</t>
-<t tx="zoomq.20091204150544.11269">凡是有准备资料，正式议题的行者都可以自主进行，要求:
-    发言&lt;15';组织讨论&lt;20';总结&lt;5';) 
-
-[si`pake]
-[bi`pake]
-
-列表!
-    重要的交流
-    礼节
-    统计
-    编码!!!
-
-简单与美好
-
-知识管理,知识积累,历史沉淀
-
-用户群!!!
-
-巧用期....</t>
-<t tx="zoomq.20091204150544.11270">
-资源整合
-
-统一形象
-    力量统一,机会加大
-    
-成果推广
-
-
-能力越大,责任越大!
-
-
-
-
-
-</t>
-<t tx="zoomq.20091204150544.11271">@path CbPUG
-
-@others</t>
-<t tx="zoomq.20091204150544.11272">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-&lt;title&gt;Wiki and MoinMoin(built by S5)&lt;/title&gt;
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="presdate" content="20050701" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-&lt;META NAME="generator" CONTENT="http://txt2tags.sf.net"&gt;
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="company" content="Sina.com.cn" /&gt;
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11273">&lt;div id="footer"&gt;
-&lt;h1&gt;2005-07-30&lt;/h1&gt;
-&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
-华蟒用户小组
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
-&lt;/h2&gt;
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11274">&lt;div class="presentation"&gt;
-</t>
-<t tx="zoomq.20091204150544.11275">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
-&amp;
-&lt;img src="img/BPUGlogo130.gif" /&gt;
-&lt;br/&gt;
-成立大会
-&lt;/h1&gt;
-
-
-&lt;h3&gt;&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-&lt;img src="img/WikiTshirt-logo.gif" /&gt;&lt;/a&gt;
-&lt;br/&gt;
-&lt;a  target="_blank" href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;
-    Zoom.Quiet&lt;/a&gt;&lt;/h3&gt;
-    &lt;br/&gt;
-
-
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11276">
-&lt;div class="slide"&gt;
-&lt;h1&gt;大会议程&lt;/h1&gt;
-
-&lt;img src="img/CPUGlogo-100.gif" /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;到场签到
-    &lt;ul&gt;&lt;li&gt;(在Wiki页面，记录到达会议室时间就好)
-    &lt;/ul&gt;
-     &lt;/li&gt;
-&lt;li&gt;拍照取证
-    &lt;ul&gt;&lt;li&gt;(为了保止冒名顶替的说……哈哈哈！)
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;开幕辞
-    &lt;/li&gt;
-&lt;li&gt;进入议题 
-    &lt;ul&gt;&lt;li&gt;(目标可以是决定CPUG/BPUG的大政方针，也可以仅仅是确认我们应该确定的问题)
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;主题讨论
- &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，要求：发言&lt;15';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;闭幕&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11277">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;a  target="_blank" href="http://www.woodpecker.org.cn/"&gt;
-&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/a&gt;
-&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/h1&gt;
-
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区组织的各种项目
-    &lt;/li&gt;
-&lt;li&gt;总结开源项目组织模式
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11278">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
-    &lt;/li&gt;
-&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
-    &lt;/li&gt;
-&lt;li&gt;那么:
-    &lt;ul&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
-        &lt;/li&gt;
-    &lt;li&gt;我们要如何....
-        &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11279">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于... &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11280">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有思想来自日常工作体验
-        &lt;li&gt; 所有经验来自失败的经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11281">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/br&gt;共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;br/&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;img src="img/SPUG-T.gif" /&gt;
-        &lt;ul&gt;
-        &lt;li&gt; 新的开始
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11282">&lt;/div&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11283"></t>
-<t tx="zoomq.20091204150544.11284">@path CPUG-c050828
-
-
-@others</t>
-<t tx="zoomq.20091204150544.11285">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-&lt;title&gt;Wiki and MoinMoin(built by S5)&lt;/title&gt;
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="presdate" content="20050701" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-&lt;META NAME="generator" CONTENT="http://txt2tags.sf.net"&gt;
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="company" content="Sina.com.cn" /&gt;
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11286">&lt;div id="footer"&gt;
-&lt;h1&gt;2005-07-30&lt;/h1&gt;
-&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
-中国Python用户组
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
-&lt;/h2&gt;
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11287">&lt;div class="presentation"&gt;
-</t>
-<t tx="zoomq.20091204150544.11288">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
-
-&lt;br/&gt;
-第一次会课
-&lt;/h1&gt;
-
-&lt;h3&gt;
-《新浪的开源之心》
-&lt;br&gt;
-《EasyGUI 概要》
-
-
-&lt;/h3&gt;
-    &lt;br/&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11289">
-&lt;div class="slide"&gt;
-&lt;h1&gt;大会议程&lt;/h1&gt;
-
-&lt;img src="img/CPUGlogo-100.gif" /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;到场签到
-    &lt;ul&gt;&lt;li&gt;(认领或是制作名牌,注明到场时间)
-    &lt;/ul&gt;
-     &lt;/li&gt;
-&lt;li&gt;拍照取证
-    &lt;ul&gt;&lt;li&gt;(为了宣传Pythoner的风采……哈哈哈！)
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;开幕辞
-    &lt;/li&gt;
-&lt;li&gt;主题讨论
- &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，
- &lt;br/&gt;
- 要求：发言&lt;35';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;闭幕&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11290">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;a  target="_blank" href="http://www.woodpecker.org.cn/"&gt;
-&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/a&gt;
-&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/h1&gt;
-
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区组织的各种项目
-    &lt;/li&gt;
-&lt;li&gt;总结开源项目组织模式
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11291">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
-    &lt;/li&gt;
-&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
-    &lt;/li&gt;
-&lt;li&gt;那么:
-    &lt;ul&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
-        &lt;/li&gt;
-    &lt;li&gt;我们要如何....
-        &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11292">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于... &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11293">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有思想来自日常工作体验
-        &lt;li&gt; 所有经验来自失败的经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11294">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/br&gt;共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;br/&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;img src="img/SPUG-T.gif" /&gt;
-        &lt;ul&gt;
-        &lt;li&gt; 新的开始
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11295">&lt;/div&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11296">场地难找，商住空间
-大家到会比较准时
-
-有人因为 分析Bt 代码而知道Python
-有人因为 业务平台开发，注意到Zope3 的理性结构设计
-有人因为 寻找 free FTP 服务而找到 Zope
-有人因为 快速工程公式的实现而遇到Python
-.....
-
-因为Python 的广阔应用可能性，大家不约而同的注意，使用了Python
-
-初学者，使用者都已经过Python 的能力没有整体  的了解了！通过Limodou 的引导，
-对 Python 更加有信心了！
-
-发布工具:
-    setuptools
-    PyPi 模块库
-
-完全变成了 Pythonic 的推广会…………
-    
-    </t>
-<t tx="zoomq.20091204150544.11297">Django:
-    DB 的优秀操作体验
-
-GTalk bot:
-    1. i18N
-    2. ini2obj
-    3. 数据为中心
-
-门户建议:
-    1. CPUG 的商业化发展设计:
-        人气汇集和开发交流分离        
-    2. 内容设计:
-        吸引为主....
-    初学者:
-        类库说明
-        wx demo 的自学指导
-    通过Python 的学习来获得Pythonic 体验!!!
-    magic code 的展示
-    
-        
-        
-
-
-
-</t>
-<t tx="zoomq.20091204150544.11298">@path CPUG-class
-
-@others
-</t>
-<t tx="zoomq.20091204150544.11299">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-&lt;title&gt;Wiki and MoinMoin(built by S5)&lt;/title&gt;
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="presdate" content="20050701" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-&lt;META NAME="generator" CONTENT="http://txt2tags.sf.net"&gt;
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="company" content="Sina.com.cn" /&gt;
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11300">&lt;div id="footer"&gt;
-&lt;h1&gt;2005-07-30&lt;/h1&gt;
-&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
-中国Python用户组
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
-&lt;/h2&gt;
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11301">&lt;div class="presentation"&gt;
-</t>
-<t tx="zoomq.20091204150544.11302">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
-
-&lt;br/&gt;
-第二次会课
-&lt;/h1&gt;
-
-&lt;h3&gt;
-《Django 基于模型的Web应用体验》
-&lt;br&gt;
-《GTalk confbot 快速开发过程》
-&lt;br&gt;
-《CPUG 门户建设调研报告》
-
-
-&lt;/h3&gt;
-    &lt;br/&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11303">
-&lt;div class="slide"&gt;
-&lt;h1&gt;大会议程&lt;/h1&gt;
-
-&lt;img src="img/CPUGlogo-100.gif" /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;到场签到
-    &lt;ul&gt;&lt;li&gt;(认领或是制作名牌,注明到场时间)
-    &lt;/ul&gt;
-     &lt;/li&gt;
-&lt;li&gt;拍照取证
-    &lt;ul&gt;&lt;li&gt;(为了宣传Pythoner的风采……哈哈哈！)
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;开幕辞
-    &lt;/li&gt;
-&lt;li&gt;主题讨论
- &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，
- &lt;br/&gt;
- 要求：发言&lt;35';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;闭幕&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11304">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;a  target="_blank" href="http://www.woodpecker.org.cn/"&gt;
-&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/a&gt;
-&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/h1&gt;
-
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区组织的各种项目
-    &lt;/li&gt;
-&lt;li&gt;总结开源项目组织模式
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11305">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
-    &lt;/li&gt;
-&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
-    &lt;/li&gt;
-&lt;li&gt;那么:
-    &lt;ul&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
-        &lt;/li&gt;
-    &lt;li&gt;我们要如何....
-        &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11306">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于... &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11307">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有思想来自日常工作体验
-        &lt;li&gt; 所有经验来自失败的经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11308">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    &lt;/br&gt;共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
-        &lt;br/&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;img src="img/SPUG-T.gif" /&gt;
-        &lt;ul&gt;
-        &lt;li&gt; 新的开始
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11309">&lt;/div&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
-<t tx="zoomq.20091204150544.11310">@path 051030-CPUGc3
-
-        
-        
-
-
-
-</t>
-<t tx="zoomq.20091204150544.11311">@path 051030-CPUGc3/CPUG-c051030
-
-@others
-</t>
-<t tx="zoomq.20091204150544.11312">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-&lt;head&gt;
-&lt;title&gt;CPUG 会课(built by S5)&lt;/title&gt;
-
-&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
-
-&lt;meta name="generator" content="S5" /&gt;
-&lt;meta name="version" content="S5 1.0" /&gt;
-&lt;meta name="author" content="Zoom.Quiet" /&gt;
-
-
-&lt;link rel="stylesheet" href="ui/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
-&lt;link rel="stylesheet" href="ui/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
-&lt;link rel="stylesheet" href="ui/print.css" type="text/css" media="print" id="slidePrint" /&gt;
-&lt;script src="ui/slides.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-
-&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-&lt;head&gt;
-
-&lt;div class="layout"&gt;
-
-&lt;div id="currentSlide"&gt;&lt;/div&gt;
-&lt;div id="header"&gt;&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11313">&lt;div id="footer"&gt;
-&lt;h1&gt;2005-10-30&lt;/h1&gt;
-&lt;h2&gt;&lt;a  target="_blank"  href="http://www.woodpecker.org.cn/CPUG/"&gt;CPUG&lt;/a&gt; 
-中国Python用户组
-&lt;a  target="_blank" href="http://wiki.woodpecker.org.cn/moin/CPUG"&gt;
-&lt;img src="img/BPUGlabelT.png" /&gt;&lt;/a&gt;
-&lt;/h2&gt;
-
-&lt;div id="controls"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;    </t>
-<t tx="zoomq.20091204150544.11314">&lt;div class="presentation"&gt;
-
-</t>
-<t tx="zoomq.20091204150544.11315">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/CPUGlogo-150.gif" /&gt;
-
-&lt;br/&gt;
-第三次会课
-&lt;/h1&gt;
-
-&lt;h3&gt;
-《ZqLib/WeKnow重新启动&lt;sup&gt;+Leo环境初论&lt;/sup&gt;》
-&lt;br&gt;
-
-&lt;/h3&gt;
-    &lt;br/&gt;
-
-
-&lt;/div&gt;
-</t>
-<t tx="zoomq.20091204150544.11316">
-&lt;div class="slide"&gt;
-&lt;h1&gt;大会议程&lt;/h1&gt;
-
-&lt;img src="img/CPUGlogo-100.gif" /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;到场签到
-    &lt;ul&gt;&lt;li&gt;(认领或是制作名牌,注明到场时间)
-    &lt;/ul&gt;
-     &lt;/li&gt;
-&lt;!---
-&lt;li&gt;拍照取证
-    &lt;ul&gt;&lt;li&gt;(为了宣传Pythoner的风采……哈哈哈！)
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;开幕辞
-    &lt;/li&gt;
-&lt;!----&gt;    
-&lt;li&gt;主题讨论
- &lt;ul&gt;&lt;li&gt;(凡是有准备资料，正式议题的行者都可以自主进行，
- &lt;br/&gt;
- 要求：发言&lt;35';组织讨论&lt;20';总结&lt;5';)    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;闭幕&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11317">
-&lt;div class="slide"&gt;
-&lt;h1&gt;&lt;img src="img/wpwww_banner.gif" /&gt;&lt;/h1&gt;
-
-&lt;a target="_blank" href="http://www.woodpecker.org.cn/"&gt;
-
-&lt;sup&gt;项目观察和展望&lt;/sup&gt;&lt;/a&gt;
-&lt;br/&gt;&lt;br/&gt;
-
-&lt;ul&gt;
-&lt;li&gt;回顾啄木鸟社区组织的各种项目
-    &lt;/li&gt;
-&lt;li&gt;总结开源项目组织模式
-    &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11318">
-&lt;div class="slide"&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Wiki ! 快捷科学的公共写作模式！
-    &lt;/li&gt;
-&lt;li&gt;MoinMoin 轻便灵活，高效的 Wiki 系统！
-    &lt;/li&gt;
-&lt;li&gt;那么:
-    &lt;ul&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识整理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识管理？
-        &lt;/li&gt;
-    &lt;li&gt;我们利用Wiki 可以进行怎样的知识分享？
-        &lt;/li&gt;
-    &lt;li&gt;我们要如何....
-        &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11319">&lt;div class="slide"&gt;
-&lt;h1&gt; 关于... &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;幻灯展示: 
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://www.meyerweb.com/eric/tools/s5/"&gt;
-    &lt;img src="S5icon.GIF" /&gt;
-    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
-    &lt;li&gt; 纯HTML 幻灯效果工具制作 &lt;a href="s5-intro.html"&gt;本地介绍页面&lt;/a&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-&lt;li&gt;编写环境:     &lt;span style="float:right"&gt;&lt;img src="snap-leoWrite.png"&gt;
-    &lt;/span&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a target="_blank"  href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
-    &lt;img src="LeoProse.gif" /&gt;Leo&lt;/a&gt; 
-    &lt;br/&gt;:: 文学编程环境
-    &lt;li&gt; 纯Python 实现的通用编辑环境 
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11320">
-&lt;div class="slide"&gt;
-&lt;h1&gt; 制作免责 &lt;/h1&gt;
-
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://wiki.internal.sina.com.cn/moin/ZoomQuiet"&gt;Zoom.Quiet 
-    &lt;/a&gt;伙同所有认识的中国Pythoner共同制作 
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="id/huangdong.gif" /&gt;,&lt;img src="id/zhouqi.gif" /&gt;,&lt;img src="id/xuehu.gif" /&gt;...
-        &lt;li&gt; 一切资料来自互联网
-        &lt;li&gt; 所有思想来自日常工作体验
-        &lt;li&gt; 所有经验来自失败的经历……        
-        &lt;/ul&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11321">
-&lt;div class="slide"&gt;
-&lt;h1&gt; &lt;img src="img/WikiTshirt-logo.gif" /&gt; &lt;/h1&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;img src="img/CPUGlogo-100rc1.gif" /&gt;
-    共同的旗帜！
-        &lt;ul&gt;
-        &lt;li&gt; &lt;img src="img/BPUGlogo90.gif" /&gt;
-        制度化的交流
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;新的开始:&lt;img src="img/SPUG-T.gif" /&gt;
-    &lt;/li&gt;
-        
-&lt;/ul&gt;
-&lt;/div&gt;</t>
-<t tx="zoomq.20091204150544.11322">&lt;/div&gt;&lt;!--class="layout" --&gt;
-&lt;/div&gt;&lt;!-- class="presentation"--&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</t>
 <t tx="zoomq.20091213221717.4968"></t>
 <t tx="zoomq.20091213221717.4969">有关Trac 使用心得:
 
@@ -33680,5 +33685,352 @@ Sikuli
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
+<t tx="zoomq.20100312132537.10639">你不适合使用维基!
+
+这样的你不是维基用户:
+    - 维基使用太麻烦没有 word 好用!
+        - 不能粘贴 Excel
+        - 不能方便的插入图片
+        - 不能作表格
+        - 不能快速刷格式
+        ...
+    - 在维基中我找不到任何我想要的!
+        - 应该象** 有个清晰的友好的搜索/查询/索引...
+
+维基是个对等的知识分享平台,
+你没有付出就没有收获!
+想不劳而获,享受维基的所有好处,那是不可能的!
+
+维基不等于 维基百科!
+百科只是维基的著名应用案例,维基平台不是为百科全书而发明的!
+
+    </t>
+<t tx="zoomq.20100312132537.5535">Zoom.Quiet &lt;zoom.quiet@gmail.com&gt;
+sender-time	Sent at 13:25 (GMT+08:00). Current time there: 1:28 PM. ✆
+to	sociallearnlab@googlegroups.com
+date	Fri, Mar 12, 2010 at 13:25
+subject	Re: [SLL:7091] [求助]基于wiki平台建立高校学习型班级的可行性
+mailed-by	gmail.com
+
+	hide details 13:25 (3 minutes ago) 	
+
+2010/3/12 li li &lt;wzqwfflxl750220@gmail.com&gt;:
+&gt; 我正好在做类似的工作，也是刚开始，在分析必要性和可行性分析，但我是打算在学校内部搭建一个平台，促进整个学校利用wiki技术进行教学的改进。
+&gt;
+囧...
+维基不是技术问题哪，
+而是沟通思想和态度的问题，
+从单向的灌输，到双向的共笔积累，
+从教导式的教育，到探讨式的学习,
+...
+
+不过，就俺这些年推广维基的体验，提醒:
+以下情景不要尝试推广维基:
+- 资料只是发布性质的，没有长期不断增补的需要的
+- 内容是红头文档式的，对格式的要求高于内容权威性的
+- 信息的维护是制度式的,没有可能全员参与的
+- 涉及团队超级忙的,没有什么时间进行尝试新方式的
+如果面对以上情景推广维基,是找不自在,找骂的!
+参考:
+知识管理工具比较‏‏ - 北京群英汇信息技术有限公司
+http://orz.se/6IV
+
+注意! 维基只是知识仓库,不是 CMS/OA/ERP/CRM ....
+只有靠谱的团队可以将维基用出花儿来,
+不想用维基的组织,不论使用什么维基系统,都只能落个报怨!
+参考:
+帮助-访问权限控制表 - 1.9 Master Wiki
+http://master19.moinmo.in/%E5%B8%AE%E5%8A%A9-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6%E8%A1%A8
+
+推荐使用MoinMoin
+配合 ACL(极限控制可以的) 使用场合
+
+  1. 互联网上的公开社区维基
+  2. 维基作为一个简单的 CMS
+  3. 内部网上的维基
+  4. 维基作为公司页面
+  5. 在只读页面上进行评论
+- Show quoted text -
+</t>
+<t tx="zoomq.20100312132537.5536">琴(286435049) 13:11:42
+请问各位有研究知识共享的吗？  
+JW He /heart(2406043) 13:12:24
+这里是知识管理论坛呢：） 
+琴(286435049) 13:12:44
+知识共享也属于知识管理的范畴吧  
+JW He /heart(2406043) 13:12:54
+当然的 
+渔歌(171073674) 14:52:39
+知识共享的具体需求是什么，琴。。。  
+琴(286435049) 14:55:06
+这个我还不清楚哎，我了解的是企业知识共享的障碍  
+ 琴(286435049) 14:55:34
+我想看看有没有搞这方面研究的  
+ 渔歌(171073674) 14:56:45
+企业知识共享的障碍啊，你想研究什么具体问题吗？项目推不动还是需求找不准  
+ 琴(286435049) 14:57:22
+我想看看有没有在这方面建模型的？  
+ 渔歌(171073674) 14:57:55
+哦，你做的有点超前哦  
+ 琴(286435049) 14:58:17
+我的论文需要建模型，弄了好长时间感觉都不太合适，想向大家咨询一下找点思路  
+ 渔歌(171073674) 14:59:05
+你可以把论文给我看看，也许会在学习的基础上，灵感爆发  
+JW He /heart(2406043) 14:59:27
+跟学，呵呵 
+琴(286435049) 15:00:08
+论文还没写好，现在一直是在改提纲，因为模型建不了，内容就不太好确定  
+渔歌(171073674) 15:00:24
+哦，可以先提纲，我们也可以学习  
+琴(286435049) 15:01:14
+那我跟你说一下障碍，你看看能建什么模型吧  
+JW He /heart(2406043) 15:01:16
+内容本来就不着急的，只是看你说的，好像写什么也没有确定似的：） 
+琴(286435049) 15:02:38
+确定写什么了，就写知识共享的障碍和对策  
+渔歌(171073674) 15:02:52
+障碍？  
+渔歌(171073674) 15:03:02
+人性啊  
+琴(286435049) 15:03:30
+障碍大概有四方面的吧：共享对象的障碍，共享主体的障碍，共享环境的障碍，技术方面的障碍  
+渔歌(171073674) 15:03:52
+理论派  
+JW He /heart(2406043) 15:04:17
+借用知识共享本身的模型不就行了？ 
+琴(286435049) 15:04:17
+确实是理论啊，我没经过实践啊  
+琴(286435049) 15:04:31
+知识共享本身的模型?  
+琴(286435049) 15:04:39
+什么模型啊？  
+JW He /heart(2406043) 15:09:29
+网上很多知识管理模型呀，还有一些KM的公式也可以借用的 
+琴(286435049) 15:10:29
+知识管理的模型太概括化了，不合适的  
+JW He /heart(2406043) 15:10:59
+但KM的模型肯定涉及到你说的那几个主体的 
+琴(286435049) 15:11:17
+我在网上搜，怎么都没有搜到啊  
+JW He /heart(2406043) 15:13:37
+KM=(P+K)S不就是一个吗？呵呵 
+琴(286435049) 15:14:42
+P=people,K=knowledge,S=share  
+JW He /heart(2406043) 15:15:27
+嗯，
+你也可以上深圳蓝凌公司，他们理论研究得不少的，也有比较多的模型 
+JW He /heart(2406043) 15:17:16
+只是这家公司比较关注理论研究，所以有一些你可以看看的，如果要看原版，最好是看英文的：） 
+渔歌(171073674) 15:18:03
+其实，如果说写论文的话，可能需要一些公司或者模型，但是也需要放到一个行业看会比较好  
+琴(286435049) 15:18:15
+呵呵，现在来不及看英文的了，得先把模型剪出来，别的以后再看吧  
+渔歌(171073674) 15:18:30
+如果纯粹从理论做的话，我建议可以选：知识管理的绩效评估这个专题  
+琴(286435049) 15:19:48
+如果从某个行业来写可能会更好写一些  
+JW He /heart(2406043) 15:20:05
+呵呵，看来目前抄是最快的了，哈哈 
+渔歌(171073674) 15:21:13
+貌似抄也不能乱抄，要低调点哦，规避风险  
+银杏管理咨询(1054983586) 15:21:14
+你想找知识管理的模块吗  
+琴(286435049) 15:23:12
+是关于知识共享的  
+JW He /heart(2406043) 15:23:34
+人家发在我的群的具体现象，都是与你的主题相关的，借你用用，不过你需要改写法才能相关起来的，呵呵：
+想把文档传到“网络磁盘”中，但操作实在太繁琐！ 
+“网络磁盘”中目录层次太多，又搜不了！ 
+能不能把文件、邮件、聊天记录都存在一个系统里？ 
+查看文档还要先下载到本地！
+经过下载、编辑、保存、上传才能完成文档修改！ 
+文档共享不能指定到部门或特定的人！ 
+一篇文档需要多人编辑，但没有版本控制功能！ 
+别人更新了文档，我不知道！ 
+网上的资料怎么方便的收藏和共享给别人？ 
+查看一篇文档的时候与之相关的内容在哪儿？ 
+无法获得其他人对文档的反馈！ 
+没有办法找到系统里找到最有价值的内容！
+怎么知道大家最关注的内容呢？ 
+想一眼看到分散在系统各个地方的内容！  
+银杏管理咨询(1054983586) 15:23:37
+知识共享不是知识管理的一个方面吗  
+银杏管理咨询(1054983586) 15:24:59
+那你有时间可以参考下我个人资料上的OA中的相关模块，其实在企业中的知识管理、知识型企业具体表现的模块也就那十几个，其他的也没什么的  
+银杏管理咨询(1054983586) 15:25:28
+只是你要根据每个模块来展开论述，并图文并茂吧了  
+JW He /heart(2406043) 15:25:59
+是不错的推广方法   
+琴(286435049) 15:26:00
+对，老师强调一定要建模型  
+JW He /heart(2406043) 15:26:57
+提醒一下，模块 不等于 模型：） 
+银杏管理咨询(1054983586) 15:27:23
+我们是软件系统，本身就是建立有模型的，比你老师要求的更好，因为你们是学院派，我们是实战派的，再好的东西在企业具有可操作性才是最重要的呢  
+琴(286435049) 15:27:32
+从模块中挖掘各个因素，再建模型’  
+银杏管理咨询(1054983586) 15:27:59
+这就是为什么现在学校培养的毕业生为什么找不到工作的原因，闭门造车  
+银杏管理咨询(1054983586) 15:28:46
+我一听你老师出的知识共享，就知道是典型的学院派  
+琴(286435049) 15:29:43
+这个题目不是老师出的，是我自己想的，老师不管给定题目  
+银杏管理咨询(1054983586) 15:29:57
+那你就把题目改了  
+银杏管理咨询(1054983586) 15:31:52
+你把名字改了，该成知识管理，然后参考我们的系统模型，做的肯定比你自己憋出来的东西好的  
+琴(286435049) 15:32:25
+知识管理太大了  
+琴(286435049) 15:32:39
+我原来定的是知识管理，后来改成知识共享的  
+银杏管理咨询(1054983586) 15:32:46
+可你的知识共享在企业根本就没什么用啊  
+银杏管理咨询(1054983586) 15:33:12
+也就是说你在研究一个空洞的没有实际意义的题目啊  
+琴(286435049) 15:33:50
+不是啊，这个还是有意义的，在企业内部如果能解决知识共享的障碍问题，对企业很有用的  
+琴(286435049) 15:34:28
+知识共享是知识管理的核心，没有共享，管理也就失去了他的意义  
+银杏管理咨询(1054983586) 15:34:42
+你俩毕业都没有，你知道企业的知识管理是如何做的啊  
+银杏管理咨询(1054983586) 15:35:02
+知识共享是知识管理的核心，严重的错误  
+JW He /heart(2406043) 15:35:27
+支持琴，我就支持你搞知识共享的研究，的确很重要：） 
+JW He /heart(2406043) 15:35:56
+不过也很想了解银杏管理咨询认为是错误的原因：） 
+银杏管理咨询(1054983586) 15:35:56
+你先查下资料，企业在什么背景下提出了知识管理的概念，并漫漫重视的  
+JW He /heart(2406043) 15:37:32
+我是自发想搞知识管理的，对于你的说法，的确不是太了解，能否详细说下，谢谢：） 
+银杏管理咨询(1054983586) 15:38:14
+企业做知识管理的最重要的目的是：依靠企业知识的积累来提高人员的素质、服务的提升、产品的创新，从而以更少的投入获得更大了利润，也就是更优秀的产出比的。  
+琴(286435049) 15:39:15
+但是只是知识积累而不能共享，不能被员工吸收的话，那积累这些知识岂不是失去了意义？  
+JW He /heart(2406043) 15:39:18
+不过，要实现这个目的不就是要加强知识共享吗？ 
+银杏管理咨询(1054983586) 15:40:40
+而知识公享知识这一知识管理中的一个引用方法的，例如设计部通过知识的积累、总结、学习等，在一定授权范围内可以查阅积累的相关知识，这无意为公司积累了财富，提高了设计部的工作效率，因此简单的共享，企业根本就不做的  
+银杏管理咨询(1054983586) 15:41:33
+你不了解企业啊，企业的第一使命是利润，他做知识管理也是为了利润，他积累了而不利用产生利润，你说他会做吗  
+琴(286435049) 15:42:06
+但是有些隐性知识，比如一些员工的经验，是不容易查到的，这就是共享的一个大障碍 
+琴(286435049) 15:42:43
+知识积累了，在利用的过程中就会产生很多障碍啊  
+银杏管理咨询(1054983586) 15:42:58
+你可能通过研究知识共享，然后建立模型，找到了很多的方法、解决方案，结果拿到企业，人家连看都不看的  
+琴(286435049) 15:43:43
+我们只是写论文，但是我觉得这个还是有他的研究意义的  
+银杏管理咨询(1054983586) 15:44:27
+而且现在的很多企业都贯彻了ISO、HACCP等等，在这方面都有严格的规定的，不是说你想共享个什么东西就可以做的  
+琴(286435049) 15:44:31
+中国的知识管理还没实施多少年，而且真正能在这方面做好的公司太少了  
+银杏管理咨询(1054983586) 15:45:37
+呵呵你先研究吧，有什么结果欢迎指导啊  
+JW He /heart(2406043) 15:46:07
+例如设计部通过知识的积累、总结、学习等，在一定授权范围内可以查阅积累的相关知识，这无意为公司积累了财富，提高了设计部的工作效率，因此简单的共享，企业根本就不做的 
+其实你好象还是支持共享的，只是认为不能简单的共享，要能创造价值而已，呵呵。 
+JW He /heart(2406043) 15:48:45
+我觉得从知识管理的相关主体进行一些研究，如果真的能找到解决方案，对知识管理也是一大贡献嘛，只是大家研究这么久的问题，要想有好的方案，是需要付出足够的精力与努力的，应付论文的方式可能难有突破 
+琴(286435049) 15:49:41
+对头  
+JW He /heart(2406043) 15:51:06
+如果可能，是否可以把论文的部分内容也分享给我们学习一下？等你完成后：） 
+琴(286435049) 15:51:39
+呵呵，好的  
+银杏管理咨询(1054983586) 15:52:17
+JW He，你研究下我们的知识管理的相关模块与模型，并欢迎你提出宝贵的意见啊 
+ JW He /heart(2406043) 15:55:37
+大家一起学习当然是好事，有时间一定学习你们的产品，只是不知为什么，你们的网站我打不开。
+另外，我认为OA与KM还是有一些不同的：）我比较喜欢KM这个方向。 
+ 渔歌(171073674) 15:55:49
+我觉得把，琴，你可以就知识共享在组织的落地问题，展开论文  
+ 银杏管理咨询(1054983586) 15:56:32
+你把KM研究透了，组织成材料，我们共同探讨学习下了  
+ 银杏管理咨询(1054983586) 15:57:00
+KM只是被我们内嵌入到OA中了  
+ 琴(286435049) 15:57:09
+落地问题？  
+ JW He /heart(2406043) 15:58:48
+对蓝凌的产品不了解，不过觉得他们理论和推广方面还是做了不少贡献，所以推荐的 
+ JW He /heart(2406043) 15:57:55
+KM只是被我们内嵌入到OA中了，这个也是我希望的：）
+不应该有专门的KM系统，它必需被嵌入工作流程与日常业务中去 
+ 渔歌(171073674) 15:58:42
+是啊，你光做模型的话，有点单调，其实这么多大哥谈的问题，都是觉得，知识管理纠结的是实际操作取得效果的问题，知识管理本身是一个虚的东西，如果能够体现出价值，关键在真正实现知识共享，有效进行知识传递，这个不错，但是问题是，要实现这个关键目标会遇到很多障碍，  
+ 渔歌(171073674) 15:58:47
+要说理论，抄书有很多  
+ 渔歌(171073674) 15:59:05
+但是要说具体怎么更好的实现知识共享的目标，还是需要具体措施的  
+ JW He /heart(2406043) 15:59:22
+渔歌的说法我很认同：） 
+ 琴(286435049) 15:59:53
+是啊，我现在就是在写障碍与对策  
+ 渔歌(171073674) 16:00:22
+谢谢捧场，所以，你可以从模型出发，就现实问题，提出解决思路  
+ 琴(286435049) 16:00:28
+我本来是想写障碍，再相应写对策，但老师说必须要有模型  
+ 琴(286435049) 16:00:40
+要把问题量化  
+ 渔歌(171073674) 16:00:43
+包括针对显性知识和隐性知识的管理，其实障碍是不一样的  
+ 渔歌(171073674) 16:00:53
+可以有模型啊  
+ 琴(286435049) 16:01:09
+对，是不一样的  
+ 琴(286435049) 16:01:30
+现在就是为这个模型发愁，不知道建什么样的模型比较合适  
+ 渔歌(171073674) 16:13:18
+关于模型，创新是很难的，我建议你可以从成熟的模型出发，重点阐述落地方面的问题  
+ 琴(286435049) 16:13:57
+我查了，障碍方面的模型很少
+</t>
+<t tx="zoomq.20100312132537.9039">立论:
+    过程改进必须准备好作为证据的数据和分析模型作为后路
+背景:
++ 悲惨工作三征兆
+    - 默默无闻性——我们感到没有人在乎我们是否在那儿。
+    - 不可测量性——我们不知道自己的工作干得好不好。
+    - 不相关性——我们感觉自己的工作不管怎样都无所谓。
+    工作郁闷的三座大山 - FT中文网 - FTChinese.com
+    http://www.ftchinese.com/story_print.php?storyid=001015882
++ 流程是对先前蠢行的内在反应。
+    http://many.corante.com/archives/2003/09/17/process_is_an_embedded_reaction_to_prior_stupidity.php
+
+分析:
+过程改进是这样一种领域的工作:
+- 当一个组织发现以下类似情景时:
+ - 人员流动频繁
+ - 产品收集增长变缓
+ - 内部创新无力
+ 等等没谱的事儿增多;但是从各种丰富的制度中又查不出问题时,
+- 一般就有咨询公司建议:"要想公司长盛不衰，就得持续改进过程了！"
+- 于是组建过程改进部门，期望:
+ + 清查现有流程,看是否高效
+ + 鉴别现有流程,看是否可以自动化
+ + 设计更加简练的流程,避开麻烦的旧流程
+ 总之,通过改善人们的工作/协同活动来激发出组织的自学习性,令组织富有活力/创造力...
+
+推导:
+问题在于,过程改进是个组织内部的实体组织,一样有成本支出;
+-&gt; 有成本就必须有回报
+  -&gt; 过程改进组织,是一个实体内部唯一那个提供间接服务的部门,其工作成效只能通过他人的工作表现(向靠谱的速效)来衡量
+    -&gt; 但是,财务是每月结算的,最长也就能缓到一年,过程改进一年之内没有看得过去的成效,将无法说服相关领导保持甚至于加大投入
+      -&gt; 所以,必须从改进伊始就尽可能的收集所有公司运作的各种数据,并立即建立模型,来换算成某种看起来过硬的指标,以便在高层失去耐心之前,调出来和当前的数据进行对比,产生一种过程改进卓有成效的印象!
+        &lt;- 否则,要未偷换概念,抢其它事儿来作;要末解散!
+
+和过程改进一样,
+但凡是其目标是改变现有行为正式的:
+- 建立新敏捷开发模式/流程/团队
+- 创立/发展/推广社区
+- 引入新测试工具/模型/流程
+...
+如果没有"必须准备好作为证据的数据和分析模型作为后路"的觉悟,
+一般来讲失败是可期待的 ;-)
+ 
+
+-- 
+http://zoomquiet.org 人生苦短,Pythonic!-) 
+过程改进乃是催生可促生靠谱的人的组织! (PE keeps evolving organizations which promoting people be good!) </t>
 </tnodes>
 </leo_file>
