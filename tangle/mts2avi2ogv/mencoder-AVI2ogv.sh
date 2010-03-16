@@ -9,7 +9,7 @@ while [ $ofFROM -le $offTO ]
     do
     vname=0$ofFROM
     echo "trying:: $vname.avi"
-    mencoder $vname.avi -o $vname.ogv -ovc lavc -oac mp3lame
+    mencoder avi/$vname.avi -o ogv/$vname.ogv -ovc lavc -oac mp3lame
     ofFROM=`expr $ofFROM + 1`
     done
 
