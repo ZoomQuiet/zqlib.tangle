@@ -10,502 +10,224 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
-<v t="zoomq.20091204150544.8544" a="E"><vh>KM</vh>
-<v t="zoomq.20100312132537.5535" a="E"><vh>维基思考</vh>
-<v t="zoomq.20100312132537.10639"><vh>不要使用维基!</vh></v>
-<v t="zoomq.20100312132537.5536"><vh>共享的阻碍</vh></v>
+<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
+<v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
+<v t="zoomq.20100322235812.5543" a="E"><vh>100419-Pythonic</vh>
+<v t="zoomq.20100407094145.5747"><vh>_chaos</vh>
+<v t="zoomq.20100405215514.5579"><vh>教育</vh></v>
+<v t="zoomq.20100327110414.5545"><vh>Chat</vh></v>
 </v>
-<v t="zoomq.20091204150544.8545"><vh>QuickInKM</vh>
-<v t="zoomq.20091204150544.8546"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8547"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8548"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8549"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8550"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8551"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.8552"><vh>KM</vh></v>
-<v t="zoomq.20091204150544.8553"><vh>K?</vh></v>
-<v t="zoomq.20091204150544.8554"><vh>KM?</vh></v>
-<v t="zoomq.20091204150544.8555"><vh>奥苏贝尔</vh></v>
-<v t="zoomq.20091204150544.8556"><vh>教育</vh></v>
-<v t="zoomq.20091204150544.8557"><vh>教育进化</vh></v>
-<v t="zoomq.20091204150544.8558"><vh>知识陀螺</vh></v>
-<v t="zoomq.20091204150544.8559"><vh>信息生命</vh></v>
-<v t="zoomq.20091204150544.8560"><vh>KM陀螺</vh></v>
-<v t="zoomq.20091204150544.8561"><vh>KM系统</vh></v>
-<v t="zoomq.20091204150544.8562"><vh>知识维度</vh></v>
-<v t="zoomq.20091204150544.8563"><vh>WeKnow</vh></v>
-<v t="zoomq.20091204150544.8564"><vh>WeKnow2</vh></v>
-<v t="zoomq.20091204150544.8565"><vh>WeKnow3</vh></v>
-<v t="zoomq.20091204150544.8566"><vh>WeKnow0</vh></v>
+<v t="zoomq.20100407094145.5664" a="E"><vh>@nosent index.html</vh>
+<v t="zoomq.20100407094145.5749"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20100407094145.5665"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100407094145.5666"><vh>embedded styles</vh></v>
+<v t="zoomq.20100407094145.5667"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100407094145.5668"><vh>takahashi</vh></v>
 </v>
-<v t="zoomq.20091204150544.8567"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8568"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8569"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8570"><vh>S5end</vh></v>
+<v t="zoomq.20100407094145.5669"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100407094145.5670"><vh>page0</vh>
+<v t="zoomq.20100407094145.5671"><vh>免责</vh></v>
+</v>
+<v t="zoomq.20100407094145.5672"><vh>brief</vh></v>
+<v t="zoomq.20100407094145.5754"><vh>学生</vh>
+<v t="zoomq.20100407094145.5828" a="E"><vh>为什么?</vh>
+<v t="zoomq.20100407094145.5830"><vh>在公司!</vh></v>
+<v t="zoomq.20100407094145.5832"><vh>核心差异</vh></v>
+</v>
+<v t="zoomq.20100407094145.5755"><vh>Kaopulity</vh>
+<v t="zoomq.20100407094145.5756"><vh>defKaopulity</vh></v>
+<v t="zoomq.20100407094145.5757"><vh>AKA</vh></v>
+<v t="zoomq.20100407094145.5834"><vh>anti脑残</vh></v>
+<v t="zoomq.20100407094145.5836"><vh>学校非学</vh></v>
 </v>
 </v>
-<v t="zoomq.20091204150544.8571"><vh>KMnKB</vh>
-<v t="zoomq.20091204150544.8572"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8573"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8574"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8575"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8576"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8577"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.8578"><vh>知识库</vh>
-<v t="zoomq.20091204150544.8579"><vh>KB?</vh></v>
-<v t="zoomq.20091204150544.8580"><vh>KB!</vh></v>
-<v t="zoomq.20091204150544.8581"><vh>我们的KB</vh></v>
-<v t="zoomq.20091204150544.8582"><vh>KB作用</vh></v>
-<v t="zoomq.20091204150544.8583"><vh>JIRA</vh></v>
-<v t="zoomq.20091204150544.8584"><vh>JIVE</vh></v>
-<v t="zoomq.20091204150544.8585"><vh>JIVEvs</vh></v>
-<v t="zoomq.20091204150544.8586"><vh>Wiki</vh></v>
-<v t="zoomq.20091204150544.8587"><vh>Wiki vs</vh></v>
-<v t="zoomq.20091204150544.8588"><vh>BBS</vh></v>
-<v t="zoomq.20091204150544.8589"><vh>成本</vh></v>
+<v t="zoomq.20100407094145.5808"><vh>悲惨工作</vh>
+<v t="zoomq.20100407094145.5809"><vh>对策</vh>
+<v t="zoomq.20100407094145.5819"><vh>need0</vh></v>
+<v t="zoomq.20100407094145.5820"><vh>need1</vh></v>
+<v t="zoomq.20100407094145.5821"><vh>need2</vh></v>
+<v t="zoomq.20100407094145.5822"><vh>need3</vh></v>
+<v t="zoomq.20100407094145.5823"><vh>need4</vh></v>
+<v t="zoomq.20100407094145.5824"><vh>need5</vh></v>
+<v t="zoomq.20100407094145.5826"><vh>烈士</vh></v>
 </v>
-<v t="zoomq.20091204150544.8590"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.8591"><vh>KM</vh></v>
-<v t="zoomq.20091204150544.8592"><vh>KM陀螺</vh></v>
-<v t="zoomq.20091204150544.8593"><vh>知识陀螺</vh></v>
-<v t="zoomq.20091204150544.8594"><vh>K?</vh></v>
-<v t="zoomq.20091204150544.8595"><vh>KM?</vh></v>
-<v t="zoomq.20091204150544.8596"><vh>奥苏贝尔</vh></v>
-<v t="zoomq.20091204150544.8597"><vh>教育</vh></v>
-<v t="zoomq.20091204150544.8598"><vh>教育进化</vh></v>
-<v t="zoomq.20091204150544.8599"><vh>信息生命</vh></v>
-<v t="zoomq.20091204150544.8600"><vh>KM系统</vh></v>
-<v t="zoomq.20091204150544.8601"><vh>WeKnow</vh></v>
-<v t="zoomq.20091204150544.8602"><vh>WeKnow2</vh></v>
-<v t="zoomq.20091204150544.8603"><vh>WeKnow3</vh></v>
-<v t="zoomq.20091204150544.8604"><vh>WeKnow0</vh></v>
+<v t="zoomq.20100407094145.5994"><vh>工作的层级</vh></v>
 </v>
-<v t="zoomq.20091204150544.8605"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8606"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8607"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8608"><vh>S5end</vh></v>
+<v t="zoomq.20100407094145.5996"><vh>brief</vh></v>
+<v t="zoomq.20100407094145.5992"><vh>PKM</vh>
+<v t="zoomq.20100407094145.5758"><vh>KM</vh>
+<v t="zoomq.20100407094145.5800"><vh>WeKnow:1</vh>
+<v t="zoomq.20100407094145.5803"><vh>WeKnow:2</vh></v>
+<v t="zoomq.20100407094145.5805"><vh>WeKnow:3</vh></v>
 </v>
 </v>
-<v t="zoomq.20091204150544.8708"><vh>KsKM</vh>
-<v t="zoomq.20091204150544.8709"><vh>_stuff</vh>
-<v t="zoomq.20091204150544.8710"><vh>character</vh></v>
-<v t="zoomq.20091204150544.8711"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/index.html</vh>
-<v t="zoomq.20091204150544.8712"><vh>index declarations</vh></v>
-<v t="zoomq.20091204150544.8713"><vh>HTML</vh>
-<v t="zoomq.20091204150544.8714"><vh>HEAD</vh></v>
-<v t="zoomq.20091204150544.8715"><vh>BODY</vh>
-<v t="zoomq.20091204150544.8716"><vh>DIV</vh></v>
-<v t="zoomq.20091204150544.8717"><vh>DIV</vh></v>
-<v t="zoomq.20091204150544.8718"><vh>DIV</vh>
-<v t="zoomq.20091204150544.8719"><vh>TABLE</vh></v>
-<v t="zoomq.20091204150544.8720"><vh>TABLE</vh></v>
+<v t="zoomq.20100407094145.5807"><vh>学习的层级</vh></v>
+<v t="zoomq.20100407094145.5760"><vh>KM:持续改进</vh>
+<v t="zoomq.20100407094145.5766"><vh>坚持:寓言</vh>
+<v t="zoomq.20100407094145.5769"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5771"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5773"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5775"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5777"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5779"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5781"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5783"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5785"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5787"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5789"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5791"><vh>寓言</vh></v>
+<v t="zoomq.20100407094145.5793"><vh>寓言</vh></v>
 </v>
 </v>
 </v>
+<v t="zoomq.20100407094145.5795"><vh>期望</vh>
+<v t="zoomq.20100407094145.5797"><vh>GTD</vh></v>
+<v t="zoomq.20100407094145.6002"><vh>做项目吧</vh></v>
+<v t="zoomq.20100407094145.6004"><vh>写博客吧</vh>
+<v t="zoomq.20100407094145.6012"><vh>沟通法则</vh></v>
 </v>
-<v t="zoomq.20091204150544.8721"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/km-think.txt</vh></v>
+<v t="zoomq.20100407094145.6006"><vh>读代码吧</vh></v>
+<v t="zoomq.20100408130454.5718"><vh>宅点东西吧</vh></v>
+<v t="zoomq.20100408130454.5720"><vh>关注经济学吧</vh></v>
+<v t="zoomq.20100407094145.6014"><vh>典章常推</vh></v>
 </v>
-<v t="zoomq.20091204150544.8722"><vh>@nosent s5.html</vh>
-<v t="zoomq.20091204150544.8723"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.8724"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20091204150544.8725"><vh>embedded styles</vh></v>
+<v t="zoomq.20100407094145.5998"><vh>brief</vh></v>
+<v t="zoomq.20100407094145.5741" a="E"><vh>Z.Q</vh>
+<v t="zoomq.20100407094145.5742"><vh>S5</vh></v>
+<v t="zoomq.20100407094145.5745"><vh>version</vh></v>
+<v t="zoomq.20100407094145.5746"><vh>KTRAC广告</vh></v>
 </v>
-<v t="zoomq.20091204150544.8726"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20091204150544.8727"><vh>page0</vh></v>
-<v t="zoomq.20091204150544.8728"><vh>brief</vh></v>
-<v t="zoomq.20091204150544.8729"><vh>概念</vh>
-<v t="zoomq.20091204150544.8730"><vh>知识?</vh>
-<v t="zoomq.20091204150544.8731"><vh>知识金塔</vh></v>
-</v>
-<v t="zoomq.20091204150544.8732"><vh>企业知识</vh>
-<v t="zoomq.20091204150544.8733"><vh>EK多</vh></v>
-<v t="zoomq.20091204150544.8734"><vh>EK杂</vh></v>
-<v t="zoomq.20091204150544.8735"><vh>EK乱</vh></v>
-<v t="zoomq.20091204150544.8736"><vh>EK快</vh></v>
-<v t="zoomq.20091204150544.8737"><vh>EK不定</vh></v>
-<v t="zoomq.20091204150544.8738"><vh>EK难分</vh></v>
-</v>
-<v t="zoomq.20091204150544.8739"><vh>abt.学习</vh>
-<v t="zoomq.20091204150544.8740"><vh>学习?</vh></v>
-<v t="zoomq.20091204150544.8741"><vh>学习阶级</vh></v>
-<v t="zoomq.20091204150544.8742"><vh>学习之轮</vh></v>
-<v t="zoomq.20091204150544.8743"><vh>知识!</vh></v>
-</v>
-<v t="zoomq.20091204150544.8744"><vh>SECI</vh>
-<v t="zoomq.20091204150544.8745"><vh>SECI意义</vh></v>
-<v t="zoomq.20091204150544.8746"><vh>SECIba</vh></v>
-<v t="zoomq.20091204150544.8747"><vh>7-11原始ba</vh></v>
-<v t="zoomq.20091204150544.8748"><vh>7-11对话ba</vh></v>
-<v t="zoomq.20091204150544.8749"><vh>7-11系统ba</vh></v>
-<v t="zoomq.20091204150544.8750"><vh>7-11练习ba</vh></v>
-<v t="zoomq.20091204150544.8751"><vh>原始ba</vh></v>
-<v t="zoomq.20091204150544.8752"><vh>对话ba</vh></v>
-<v t="zoomq.20091204150544.8753"><vh>系统ba</vh></v>
-<v t="zoomq.20091204150544.8754"><vh>练习ba</vh></v>
-</v>
-<v t="zoomq.20091204150544.8755"><vh>知识管理</vh>
-<v t="zoomq.20091204150544.8756"><vh>KM内容</vh></v>
-<v t="zoomq.20091204150544.8757"><vh>EK之轮</vh></v>
-<v t="zoomq.20091204150544.8758"><vh>EK公式</vh></v>
-<v t="zoomq.20091204150544.8759"><vh>HEK关注</vh></v>
-</v>
-<v t="zoomq.20091204150544.8760"><vh>KM概念整理</vh></v>
-</v>
-<v t="zoomq.20091204150544.8761"><vh>规划</vh>
-<v t="zoomq.20091204150544.8762"><vh>KM战略</vh></v>
-<v t="zoomq.20091204150544.8763"><vh>McKinsey Mind</vh></v>
-<v t="zoomq.20091204150544.8764"><vh>KM实施5阶</vh>
-<v t="zoomq.20091204150544.8765"><vh>黄金5则-1</vh></v>
-<v t="zoomq.20091204150544.8766"><vh>黄金5则-2</vh></v>
-<v t="zoomq.20091204150544.8767"><vh>黄金5则-3</vh></v>
-<v t="zoomq.20091204150544.8768"><vh>黄金5则-4</vh></v>
-<v t="zoomq.20091204150544.8769"><vh>黄金5则-5</vh></v>
-</v>
-<v t="zoomq.20091204150544.8770"><vh>KM公式</vh>
-<v t="zoomq.20091204150544.8771"><vh>KM公式核心</vh></v>
-</v>
-<v t="zoomq.20091204150544.8772"><vh>启动规划</vh>
-<v t="zoomq.20091204150544.8773"><vh>CKO</vh></v>
-<v t="zoomq.20091204150544.8774"><vh>KM资源</vh></v>
-<v t="zoomq.20091204150544.8775"><vh>KM态度</vh></v>
-<v t="zoomq.20091204150544.8776"><vh>KM平衡</vh></v>
-</v>
-<v t="zoomq.20091204150544.8777"><vh>KM规划整理</vh></v>
-</v>
-<v t="zoomq.20091204150544.8778"><vh>实施</vh>
-<v t="zoomq.20091204150544.8779"><vh>客服案例</vh>
-<v t="zoomq.20091204150544.8780"><vh>满意度</vh>
-<v t="zoomq.20091204150544.8781"><vh>速度</vh></v>
-<v t="zoomq.20091204150544.8782"><vh>精确</vh></v>
-<v t="zoomq.20091204150544.8783"><vh>客户知识</vh></v>
-<v t="zoomq.20091204150544.8784"><vh>产品知识</vh></v>
-</v>
-<v t="zoomq.20091204150544.8785"><vh>策划</vh>
-<v t="zoomq.20091204150544.8786"><vh>计划</vh></v>
-<v t="zoomq.20091204150544.8787"><vh>识别</vh></v>
-<v t="zoomq.20091204150544.8788"><vh>收集</vh></v>
-<v t="zoomq.20091204150544.8789"><vh>应用</vh></v>
-<v t="zoomq.20091204150544.8790"><vh>创造</vh></v>
-<v t="zoomq.20091204150544.8791"><vh>宣传</vh></v>
-<v t="zoomq.20091204150544.8792"><vh>循环</vh></v>
+<v t="zoomq.20100407094145.5762"><vh>总结7+-2</vh></v>
+<v t="zoomq.20100407094145.5743"><vh>Q&amp;A</vh></v>
 </v>
 </v>
-<v t="zoomq.20091204150544.8793"><vh>KM实施整理</vh></v>
+<v t="zoomq.20100108150042.4768"><vh>100123-KTRACintro</vh>
+<v t="zoomq.20091213221717.4969"><vh>KTRACintro</vh></v>
+<v t="zoomq.20100116172440.4813"><vh>@nosent index.html</vh>
+<v t="zoomq.20100116172440.6663"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100116172440.6664"><vh>embedded styles</vh></v>
+<v t="zoomq.20100116172440.6665"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100116172440.6666"><vh>takahashi</vh></v>
 </v>
-<v t="zoomq.20091204150544.8794"><vh>持续</vh>
-<v t="zoomq.20091204150544.8795"><vh>KMMM</vh>
-<v t="zoomq.20091204150544.8796"><vh>KMMM1</vh></v>
-<v t="zoomq.20091204150544.8797"><vh>KMMM2</vh></v>
-<v t="zoomq.20091204150544.8798"><vh>KMMM3</vh></v>
-<v t="zoomq.20091204150544.8799"><vh>KMMM4</vh></v>
-<v t="zoomq.20091204150544.8800"><vh>KMMM5</vh></v>
+<v t="zoomq.20100116172440.4816"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100116172440.4817"><vh>page0</vh>
+<v t="zoomq.20100116172440.6668"><vh>免责</vh></v>
+<v t="zoomq.20100117213352.5396"><vh>brief</vh></v>
 </v>
-<v t="zoomq.20091204150544.8801"><vh>KE的发展</vh></v>
-<v t="zoomq.20091204150544.8802"><vh>KM持续改进</vh></v>
+<v t="zoomq.20100117213352.5398"><vh>TracNowUsage</vh>
+<v t="zoomq.20100117213352.5400"><vh>TracUser0</vh></v>
+<v t="zoomq.20100117213352.5402"><vh>TracUser1</vh></v>
+<v t="zoomq.20100117213352.5404"><vh>TracUser2</vh></v>
+<v t="zoomq.20100117213352.5406"><vh>TracUser3</vh></v>
+<v t="zoomq.20100117213352.5408"><vh>TracUser4</vh></v>
+<v t="zoomq.20100117213352.5410"><vh>TracUser5</vh></v>
+<v t="zoomq.20100117213352.5412"><vh>TracUser6</vh></v>
+<v t="zoomq.20100117213352.5414"><vh>TracUser7</vh></v>
+<v t="zoomq.20100117213352.5416"><vh>TracUser8</vh></v>
+<v t="zoomq.20100122195009.5519"><vh>TracUser9</vh></v>
+<v t="zoomq.20100117213352.5418"><vh>TracChina</vh></v>
 </v>
-<v t="zoomq.20091204150544.8803"><vh>参考</vh></v>
-<v t="zoomq.20091204150544.8804"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20091204150544.8805"><vh>S5</vh></v>
-<v t="zoomq.20091204150544.8806"><vh>version</vh></v>
+<v t="zoomq.20100116172440.4820"><vh>PMneed</vh>
+<v t="zoomq.20100116172440.4821"><vh>need0</vh></v>
+<v t="zoomq.20100116172440.4822"><vh>need1</vh></v>
+<v t="zoomq.20100116172440.4823"><vh>need2</vh></v>
+<v t="zoomq.20100116172440.4824"><vh>need3</vh></v>
+<v t="zoomq.20100116172440.4825"><vh>need4</vh></v>
+<v t="zoomq.20100117213352.5422"><vh>need5</vh></v>
+<v t="zoomq.20100117213352.5424"><vh>5W1H</vh></v>
 </v>
+<v t="zoomq.20100116172440.4826"><vh>TracCore</vh>
+<v t="zoomq.20100116172440.4827"><vh>思路</vh></v>
+<v t="zoomq.20100117213352.5426"><vh>本质</vh></v>
+<v t="zoomq.20100116172440.4829"><vh>Wiki</vh></v>
+<v t="zoomq.20100117213352.5428"><vh>Trac自述</vh></v>
+<v t="zoomq.20100117213352.5430"><vh>TracFeeling</vh>
+<v t="zoomq.20100117213352.5432"><vh>TracFlow0</vh></v>
+<v t="zoomq.20100117213352.5434"><vh>TracFlow1</vh></v>
+<v t="zoomq.20100117213352.5436"><vh>Trachacks</vh></v>
+<v t="zoomq.20100117213352.5437"><vh>日常</vh></v>
+<v t="zoomq.20100117213352.5439"><vh>生命周期</vh></v>
+<v t="zoomq.20100117213352.5441"><vh>生命周期:0</vh></v>
+<v t="zoomq.20100117213352.5443"><vh>生命周期:1</vh>
+<v t="zoomq.20100117213352.5453"><vh>传票号</vh></v>
+<v t="zoomq.20100117213352.5455"><vh>changeset</vh></v>
+<v t="zoomq.20100119093035.5513"><vh>BIND:timeline</vh></v>
+<v t="zoomq.20100119093035.5515"><vh>BIND:changeset</vh></v>
+<v t="zoomq.20100119093035.5517"><vh>BIND:ticket</vh></v>
 </v>
-<v t="zoomq.20091204150544.9305"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9306"><vh>MoinMoin 导览</vh>
-<v t="zoomq.20091204150544.9307"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9308"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.9309"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.9310"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.9311"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.9312"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.9313"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.9314"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.9315"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.9316"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.9317"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.9318"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.9319"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.9320"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.9321"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.9322"><vh>结构化文本</vh></v>
+<v t="zoomq.20100117213352.5445"><vh>生命周期:2 Bitten</vh>
+<v t="zoomq.20100118231126.5507"><vh>BittenSelf</vh></v>
+<v t="zoomq.20100118231126.5505"><vh>kspegBitten</vh></v>
 </v>
-<v t="zoomq.20091204150544.9323"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9324"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.9325"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.9326"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.9327"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9328"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9329"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.9330"><vh>Dept</vh></v>
-<v t="zoomq.20091204150544.9331"><vh>Dept2</vh></v>
-<v t="zoomq.20091204150544.9332"><vh>Dept3</vh></v>
-<v t="zoomq.20091204150544.9333"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.9334"><vh>Group</vh></v>
-<v t="zoomq.20091204150544.9335"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.9336"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.9337"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.9338"><vh>SUP</vh></v>
-<v t="zoomq.20091204150544.9339"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.9340"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.9341"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.9342"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.9343"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.9344"><vh>Moin杂技</vh></v>
-<v t="zoomq.20091204150544.9345"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.9346"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.9347"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.9348"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.9349"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.9350"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.9351"><vh>Moin Gantt</vh></v>
-<v t="zoomq.20091204150544.9352"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.9353"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.9354"><vh>About</vh></v>
-<v t="zoomq.20091204150544.9355"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.9356"><vh>end</vh></v>
-<v t="zoomq.20091204150544.9357"><vh>S5end</vh></v>
+<v t="zoomq.20100117213352.5447"><vh>生命周期:3</vh></v>
+<v t="zoomq.20100117213352.5451"><vh>生命周期</vh></v>
 </v>
 </v>
-<v t="zoomq.20091204150544.9358"><vh>从入门到精通 MoinMoin</vh>
-<v t="zoomq.20091204150544.9359"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9360"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.9361"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.9362"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.9363"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.9364"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.9365"><vh>DirveInto</vh>
-<v t="zoomq.20091204150544.9366"><vh>注册</vh></v>
-<v t="zoomq.20091204150544.9367"><vh>创建</vh></v>
-<v t="zoomq.20091204150544.9368"><vh>修改</vh></v>
-<v t="zoomq.20091204150544.9369"><vh>模板</vh></v>
-<v t="zoomq.20091204150544.9370"><vh>子页面</vh></v>
-<v t="zoomq.20091204150544.9371"><vh>包含</vh></v>
-<v t="zoomq.20091204150544.9372"><vh>月历</vh></v>
-<v t="zoomq.20091204150544.9373"><vh>还有</vh></v>
-<v t="zoomq.20091204150544.9374"><vh>但是！</vh></v>
+<v t="zoomq.20100118204342.5475"><vh>TracSummary</vh></v>
+<v t="zoomq.20100117213352.5457"><vh>KTRAC</vh>
+<v t="zoomq.20100118204342.5491"><vh>KTRACs</vh>
+<v t="zoomq.20100118204342.5493"><vh>KTRACtions</vh></v>
 </v>
-<v t="zoomq.20091204150544.9375"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.9376"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.9377"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.9378"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.9379"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.9380"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.9381"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.9382"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.9383"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.9384"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.9385"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.9386"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9387"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.9388"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.9389"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.9390"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9391"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9392"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.9393"><vh>Dept</vh></v>
-<v t="zoomq.20091204150544.9394"><vh>Dept2</vh></v>
-<v t="zoomq.20091204150544.9395"><vh>Dept3</vh></v>
-<v t="zoomq.20091204150544.9396"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.9397"><vh>Group</vh></v>
-<v t="zoomq.20091204150544.9398"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.9399"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.9400"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.9401"><vh>SUP</vh></v>
-<v t="zoomq.20091204150544.9402"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.9403"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.9404"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.9405"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.9406"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.9407"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.9408"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.9409"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.9410"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.9411"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.9412"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.9413"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.9414"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.9415"><vh>About</vh></v>
-<v t="zoomq.20091204150544.9416"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.9417"><vh>end</vh></v>
-<v t="zoomq.20091204150544.9418"><vh>S5end</vh></v>
+<v t="zoomq.20100117213352.5461"><vh>TEPs</vh>
+<v t="zoomq.20100118204342.5489"><vh>TEPs发布</vh></v>
+<v t="zoomq.20100118204342.5504"><vh>kspeg实情</vh>
+<v t="zoomq.20100117213352.5463"><vh>kspeg#2246</vh></v>
+<v t="zoomq.20100118204342.5508"><vh>TEPs:TTT</vh></v>
+<v t="zoomq.20100118204342.5516"><vh>TEPs:TAC</vh></v>
+<v t="zoomq.20100118204342.5510"><vh>kspeg优先</vh></v>
+<v t="zoomq.20100118204342.5512"><vh>kspeg里程碑</vh></v>
+<v t="zoomq.20100118204342.5514"><vh>kspeg风险</vh></v>
+<v t="zoomq.20100118204342.5506"><vh>kspeg通用流程</vh></v>
+<v t="zoomq.20100118204342.5498"><vh>MMV</vh>
+<v t="zoomq.20100118204342.5500"><vh>MMV1</vh></v>
+<v t="zoomq.20100118204342.5502"><vh>MMV2</vh></v>
 </v>
 </v>
-<v t="zoomq.20091204150544.9419"><vh>p从入门到精通 MoinMoin</vh>
-<v t="zoomq.20091204150544.9420"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.9421"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.9422"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.9423"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.9424"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.9425"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.9426"><vh>DirveInto</vh>
-<v t="zoomq.20091204150544.9427"><vh>注册</vh></v>
-<v t="zoomq.20091204150544.9428"><vh>创建</vh></v>
-<v t="zoomq.20091204150544.9429"><vh>修改</vh></v>
-<v t="zoomq.20091204150544.9430"><vh>模板</vh></v>
-<v t="zoomq.20091204150544.9431"><vh>子页面</vh></v>
-<v t="zoomq.20091204150544.9432"><vh>包含</vh></v>
-<v t="zoomq.20091204150544.9433"><vh>月历</vh></v>
-<v t="zoomq.20091204150544.9434"><vh>还有</vh></v>
-<v t="zoomq.20091204150544.9435"><vh>但是！</vh></v>
-</v>
-<v t="zoomq.20091204150544.9436"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.9437"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.9438"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.9439"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.9440"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.9441"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.9442"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.9443"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.9444"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.9445"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.9446"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.9447"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.9448"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.9449"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.9450"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.9451"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9452"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.9453"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.9454"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.9455"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.9456"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.9457"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.9458"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.9459"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.9460"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.9461"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.9462"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.9463"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.9464"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.9465"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.9466"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.9467"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.9468"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.9469"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.9470"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.9471"><vh>About</vh></v>
-<v t="zoomq.20091204150544.9472"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.9473"><vh>end</vh></v>
-<v t="zoomq.20091204150544.9474"><vh>S5end</vh></v>
+<v t="zoomq.20100118204342.5518"><vh>TEPs:mole</vh></v>
+<v t="zoomq.20100118204342.5520"><vh>TEPs:frog</vh></v>
+<v t="zoomq.20100118204342.5522"><vh>TEPs:frog流程</vh></v>
+<v t="zoomq.20100118204342.5524"><vh>TEPs:UI</vh></v>
+<v t="zoomq.20100118204342.5526"><vh>TEPs:UI看图</vh></v>
+<v t="zoomq.20100118204342.5528"><vh>TEPs:BM4T</vh></v>
 </v>
 </v>
+<v t="zoomq.20100118204342.5530"><vh>KTRAC体验</vh>
+<v t="zoomq.20100118231126.5509"><vh>Trac缺憾</vh></v>
+</v>
+<v t="zoomq.20100117213352.5420"><vh>Z.Q</vh>
+<v t="zoomq.20100116172440.4854"><vh>S5</vh></v>
+<v t="zoomq.20100116172440.4855"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100117213352.5459"><vh>Ticket翻译</vh></v>
+<v t="zoomq.20100116172440.4853"><vh>version</vh></v>
+<v t="zoomq.20100118233330.5511"><vh>KTRAC广告</vh></v>
 </v>
 </v>
-<v t="zoomq.20100312132537.9039"><vh>SPE</vh></v>
-<v t="zoomq.20080523161605"><vh>s5:public</vh>
-<v t="zoomq.20080807095120.28"><vh>ZEUUX:ZPyUG</vh>
-<v t="zoomq.20100116172440.6485"><vh>2008</vh>
-<v t="zoomq.20080523162513"><vh>080524-easy-spe</vh>
-<v t="zoomq.20080523162640"><vh>stuff</vh>
-<v t="zoomq.20080523162640.1"><vh>largeWords</vh></v>
-<v t="zoomq.20080524100214"><vh>cookstroy</vh>
-<v t="zoomq.20080524100214.1"><vh>@file /home/zoomq/zComs/KingSoft/KsDMC/iTech/easyPI/easySPEG.txt</vh></v>
+<v t="zoomq.20100117213352.5394"><vh>_stuff</vh>
+<v t="zoomq.20100116172440.4844"><vh>Norm.Trac</vh>
+<v t="zoomq.20100116172440.4845"><vh>日常0</vh></v>
+<v t="zoomq.20100116172440.4846"><vh>日常1</vh></v>
+<v t="zoomq.20100116172440.4847"><vh>日常end</vh></v>
+<v t="zoomq.20100116172440.4848"><vh>Trac技巧</vh></v>
+<v t="zoomq.20100116172440.4849"><vh>技巧0</vh></v>
+<v t="zoomq.20100116172440.4850"><vh>技巧1</vh></v>
+<v t="zoomq.20100116172440.4851"><vh>技巧2</vh></v>
+<v t="zoomq.20100116172440.4852"><vh>技巧3</vh></v>
 </v>
-<v t="zoomq.20080524114624"><vh>idx</vh>
-<v t="zoomq.20080611153034"><vh>@file /home/zoomq/zData/2MyBrains/s5/0608-VMnSVN/index.html</vh></v>
-</v>
-</v>
-<v t="zoomq.20080523161605.1"><vh>@nosent index.html</vh>
-<v t="zoomq.20080523162155"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20080523162155.1"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20080523162155.2"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20080523162155.3"><vh>page0</vh></v>
-<v t="zoomq.20080524114858"><vh>免责</vh></v>
-<v t="zoomq.20080523165940"><vh>SPE?</vh></v>
-<v t="zoomq.20080523170008"><vh>everywhere</vh></v>
-<v t="zoomq.20080523165824"><vh>story</vh>
-<v t="zoomq.20080524095915"><vh>cook0</vh></v>
-<v t="zoomq.20080524100507"><vh>cook1</vh></v>
-<v t="zoomq.20080524100709"><vh>cook2</vh></v>
-<v t="zoomq.20080524101523"><vh>cook4SEP0</vh></v>
-</v>
-<v t="zoomq.20080523165824.1"><vh>SPE</vh>
-<v t="zoomq.20080523210401"><vh>easyPE0</vh></v>
-<v t="zoomq.20080524105651"><vh>easyPE1</vh></v>
-<v t="zoomq.20080524105058"><vh>SPEgoal0</vh></v>
-<v t="zoomq.20080524110644"><vh>SPEgoal1</vh></v>
-<v t="zoomq.20080524110708"><vh>SPEgoal2</vh></v>
-<v t="zoomq.20080524110804"><vh>SPEsummary</vh></v>
-<v t="zoomq.20080524110546"><vh>SPEGrp0</vh></v>
-<v t="zoomq.20080524111256"><vh>SPEGrp1</vh></v>
-<v t="zoomq.20080524111256.1"><vh>SPEGrp2</vh></v>
-<v t="zoomq.20080920122648.4"><vh>SPE理论</vh>
-<v t="zoomq.20080524112029"><vh>zqSPE</vh></v>
-<v t="zoomq.20080524111120.2"><vh>zqSPEcode</vh></v>
-<v t="zoomq.20080524120425"><vh>Kaopulity</vh></v>
-<v t="zoomq.20080524124437"><vh>defKaopulity</vh></v>
-</v>
-</v>
-<v t="zoomq.20080523162155.5"><vh>version</vh></v>
-<v t="zoomq.20080524113021"><vh>Q&amp;A</vh></v>
-</v>
-</v>
-<v t="zoomq.20080919230246.2"><vh>080807-kspeg-intro-cpc</vh>
-<v t="zoomq.20080919230246.3"><vh>_stuff</vh></v>
-<v t="zoomq.20080919230246.5"><vh>@nosent index.html</vh>
-<v t="zoomq.20080919230246.6"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20080919230246.7"><vh>cssin</vh></v>
-</v>
-<v t="zoomq.20080919230246.8"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20080919230246.9"><vh>page0</vh></v>
-<v t="zoomq.20080919230246.10"><vh>version</vh></v>
-<v t="zoomq.20080919230246.4"><vh>免责</vh></v>
-<v t="zoomq.20080919230246.28"><vh>summary</vh></v>
-<v t="zoomq.20080919230246.12"><vh>KSPEG</vh>
-<v t="zoomq.20080919230246.11"><vh>position</vh></v>
-<v t="zoomq.20080919230246.13"><vh>开发语言</vh></v>
-<v t="zoomq.20080919230246.14"><vh>community</vh></v>
-<v t="zoomq.20080919230246.15"><vh>goal0</vh></v>
-<v t="zoomq.20080919230246.16"><vh>goal1</vh></v>
-<v t="zoomq.20080919230246.17"><vh>goal2</vh></v>
-<v t="zoomq.20080920122648.3"><vh>goalAll</vh></v>
-</v>
-<v t="zoomq.20080920122648.4"></v>
-<v t="zoomq.20080919230246.18"><vh>KSPEG need</vh>
-<v t="zoomq.20080919230246.19"><vh>need</vh></v>
-<v t="zoomq.20080919230246.20"><vh>ask0</vh></v>
-<v t="zoomq.20080919230246.21"><vh>ask1</vh></v>
-<v t="zoomq.20080919230246.22"><vh>ask2</vh></v>
-<v t="zoomq.20080919230246.23"><vh>challenge0</vh></v>
-<v t="zoomq.20080919230246.24"><vh>challenge1</vh></v>
-<v t="zoomq.20080919230246.25"><vh>challenge2</vh></v>
-</v>
-<v t="zoomq.20080919230246.29"><vh>KC</vh>
-<v t="zoomq.20080919230246.30"><vh>KC0</vh></v>
-<v t="zoomq.20080919230246.31"><vh>KC任务</vh></v>
-<v t="zoomq.20080919230246.32"><vh>KC教学</vh></v>
-<v t="zoomq.20080919230246.33"><vh>KC学员</vh></v>
-</v>
-<v t="zoomq.20080919230246.35"><vh>CPC</vh>
-<v t="zoomq.20080919230246.34"><vh>CPC0</vh></v>
-<v t="zoomq.20080919230246.36"><vh>CPC目标</vh></v>
-<v t="zoomq.20080919230246.37"><vh>CPC矛盾</vh></v>
-<v t="zoomq.20080919230246.38"><vh>CPC立旨</vh></v>
-<v t="zoomq.20080919230246.39"><vh>CPC核心</vh></v>
-<v t="zoomq.20080919230246.40"><vh>CPC图景</vh></v>
-<v t="zoomq.20080919230246.41"><vh>CPC设计</vh></v>
-<v t="zoomq.20080919230246.42"><vh>CPC体验</vh></v>
-<v t="zoomq.20080919230246.43"><vh>CPC心理0</vh></v>
-<v t="zoomq.20080919230246.44"><vh>CPC心理1</vh></v>
-<v t="zoomq.20080919230246.45"><vh>CPC心理2</vh></v>
-<v t="zoomq.20080919230246.54"><vh>CPC结论0</vh></v>
-<v t="zoomq.20080919230246.55"><vh>CPC结论1</vh></v>
-<v t="zoomq.20080919230246.56"><vh>CPC结论2</vh></v>
-<v t="zoomq.20080920122648.2"><vh>CPCitems</vh>
-<v t="zoomq.20080919230246.46"><vh>CPC成果</vh></v>
-<v t="zoomq.20080919230246.47"><vh>CPC:CCRJ</vh></v>
-<v t="zoomq.20080919230246.50"><vh>CPC:EAR</vh></v>
-<v t="zoomq.20080919230246.51"><vh>CPC:M.B0</vh></v>
-<v t="zoomq.20080919230246.53"><vh>CPC:M.B1</vh></v>
-</v>
-</v>
-<v t="zoomq.20080919230246.26"><vh>S5</vh></v>
-<v t="zoomq.20080919230246.27"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100116172440.4819"><vh>Trac</vh></v>
+<v t="zoomq.20100116172440.4830"><vh>TracActions</vh>
+<v t="zoomq.20100116172440.4831"><vh>Usage0</vh></v>
+<v t="zoomq.20100116172440.4832"><vh>Usage1</vh></v>
+<v t="zoomq.20100116172440.4833"><vh>Usage2</vh></v>
+<v t="zoomq.20100116172440.4834"><vh>Usage3</vh></v>
+<v t="zoomq.20100116172440.4835"><vh>Usage4</vh></v>
+<v t="zoomq.20100116172440.4836"><vh>Ticket</vh></v>
+<v t="zoomq.20100116172440.4837"><vh>Flow:0</vh></v>
+<v t="zoomq.20100116172440.4838"><vh>Flow:1</vh></v>
+<v t="zoomq.20100116172440.4839"><vh>Flow:2</vh></v>
+<v t="zoomq.20100116172440.4840"><vh>Flow:3</vh></v>
+<v t="zoomq.20100116172440.4841"><vh>Flow:4</vh></v>
+<v t="zoomq.20100116172440.4842"><vh>Flow:5</vh></v>
+<v t="zoomq.20100116172440.4843"><vh>Flow:all</vh></v>
 </v>
 </v>
 </v>
@@ -822,133 +544,114 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20100108150042.4768"><vh>100123-KTRACintro</vh>
-<v t="zoomq.20091213221717.4969"><vh>KTRACintro</vh></v>
-<v t="zoomq.20100116172440.4813"><vh>@nosent index.html</vh>
-<v t="zoomq.20100116172440.6663"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20100116172440.6664"><vh>embedded styles</vh></v>
-<v t="zoomq.20100116172440.6665"><vh>.slide+.incremental</vh></v>
-<v t="zoomq.20100116172440.6666"><vh>takahashi</vh></v>
+<v t="zoomq.20100116172440.6485"><vh>2008</vh>
+<v t="zoomq.20080523162513"><vh>080524-easy-spe</vh>
+<v t="zoomq.20080523162640"><vh>stuff</vh>
+<v t="zoomq.20080523162640.1"><vh>largeWords</vh></v>
+<v t="zoomq.20080524100214"><vh>cookstroy</vh>
+<v t="zoomq.20080524100214.1"><vh>@file /home/zoomq/zComs/KingSoft/KsDMC/iTech/easyPI/easySPEG.txt</vh></v>
 </v>
-<v t="zoomq.20100116172440.4816"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20100116172440.4817"><vh>page0</vh>
-<v t="zoomq.20100116172440.6668"><vh>免责</vh></v>
-<v t="zoomq.20100117213352.5396"><vh>brief</vh></v>
-</v>
-<v t="zoomq.20100117213352.5398"><vh>TracNowUsage</vh>
-<v t="zoomq.20100117213352.5400"><vh>TracUser0</vh></v>
-<v t="zoomq.20100117213352.5402"><vh>TracUser1</vh></v>
-<v t="zoomq.20100117213352.5404"><vh>TracUser2</vh></v>
-<v t="zoomq.20100117213352.5406"><vh>TracUser3</vh></v>
-<v t="zoomq.20100117213352.5408"><vh>TracUser4</vh></v>
-<v t="zoomq.20100117213352.5410"><vh>TracUser5</vh></v>
-<v t="zoomq.20100117213352.5412"><vh>TracUser6</vh></v>
-<v t="zoomq.20100117213352.5414"><vh>TracUser7</vh></v>
-<v t="zoomq.20100117213352.5416"><vh>TracUser8</vh></v>
-<v t="zoomq.20100122195009.5519"><vh>TracUser9</vh></v>
-<v t="zoomq.20100117213352.5418"><vh>TracChina</vh></v>
-</v>
-<v t="zoomq.20100116172440.4820"><vh>PMneed</vh>
-<v t="zoomq.20100116172440.4821"><vh>need0</vh></v>
-<v t="zoomq.20100116172440.4822"><vh>need1</vh></v>
-<v t="zoomq.20100116172440.4823"><vh>need2</vh></v>
-<v t="zoomq.20100116172440.4824"><vh>need3</vh></v>
-<v t="zoomq.20100116172440.4825"><vh>need4</vh></v>
-<v t="zoomq.20100117213352.5422"><vh>need5</vh></v>
-<v t="zoomq.20100117213352.5424"><vh>5W1H</vh></v>
-</v>
-<v t="zoomq.20100116172440.4826"><vh>TracCore</vh>
-<v t="zoomq.20100116172440.4827"><vh>思路</vh></v>
-<v t="zoomq.20100117213352.5426"><vh>本质</vh></v>
-<v t="zoomq.20100116172440.4829"><vh>Wiki</vh></v>
-<v t="zoomq.20100117213352.5428"><vh>Trac自述</vh></v>
-<v t="zoomq.20100117213352.5430"><vh>TracFeeling</vh>
-<v t="zoomq.20100117213352.5432"><vh>TracFlow0</vh></v>
-<v t="zoomq.20100117213352.5434"><vh>TracFlow1</vh></v>
-<v t="zoomq.20100117213352.5436"><vh>Trachacks</vh></v>
-<v t="zoomq.20100117213352.5437"><vh>日常</vh></v>
-<v t="zoomq.20100117213352.5439"><vh>生命周期</vh></v>
-<v t="zoomq.20100117213352.5441"><vh>生命周期:0</vh></v>
-<v t="zoomq.20100117213352.5443"><vh>生命周期:1</vh>
-<v t="zoomq.20100117213352.5453"><vh>传票号</vh></v>
-<v t="zoomq.20100117213352.5455"><vh>changeset</vh></v>
-<v t="zoomq.20100119093035.5513"><vh>BIND:timeline</vh></v>
-<v t="zoomq.20100119093035.5515"><vh>BIND:changeset</vh></v>
-<v t="zoomq.20100119093035.5517"><vh>BIND:ticket</vh></v>
-</v>
-<v t="zoomq.20100117213352.5445"><vh>生命周期:2 Bitten</vh>
-<v t="zoomq.20100118231126.5507"><vh>BittenSelf</vh></v>
-<v t="zoomq.20100118231126.5505"><vh>kspegBitten</vh></v>
-</v>
-<v t="zoomq.20100117213352.5447"><vh>生命周期:3</vh></v>
-<v t="zoomq.20100117213352.5451"><vh>生命周期</vh></v>
+<v t="zoomq.20080524114624"><vh>idx</vh>
+<v t="zoomq.20080611153034"><vh>@file /home/zoomq/zData/2MyBrains/s5/0608-VMnSVN/index.html</vh></v>
 </v>
 </v>
-<v t="zoomq.20100118204342.5475"><vh>TracSummary</vh></v>
-<v t="zoomq.20100117213352.5457"><vh>KTRAC</vh>
-<v t="zoomq.20100118204342.5491"><vh>KTRACs</vh>
-<v t="zoomq.20100118204342.5493"><vh>KTRACtions</vh></v>
+<v t="zoomq.20080523161605.1"><vh>@nosent index.html</vh>
+<v t="zoomq.20080523162155"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20080523162155.1"><vh>cssin</vh></v>
 </v>
-<v t="zoomq.20100117213352.5461"><vh>TEPs</vh>
-<v t="zoomq.20100118204342.5489"><vh>TEPs发布</vh></v>
-<v t="zoomq.20100118204342.5504"><vh>kspeg实情</vh>
-<v t="zoomq.20100117213352.5463"><vh>kspeg#2246</vh></v>
-<v t="zoomq.20100118204342.5508"><vh>TEPs:TTT</vh></v>
-<v t="zoomq.20100118204342.5516"><vh>TEPs:TAC</vh></v>
-<v t="zoomq.20100118204342.5510"><vh>kspeg优先</vh></v>
-<v t="zoomq.20100118204342.5512"><vh>kspeg里程碑</vh></v>
-<v t="zoomq.20100118204342.5514"><vh>kspeg风险</vh></v>
-<v t="zoomq.20100118204342.5506"><vh>kspeg通用流程</vh></v>
-<v t="zoomq.20100118204342.5498"><vh>MMV</vh>
-<v t="zoomq.20100118204342.5500"><vh>MMV1</vh></v>
-<v t="zoomq.20100118204342.5502"><vh>MMV2</vh></v>
+<v t="zoomq.20080523162155.2"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20080523162155.3"><vh>page0</vh></v>
+<v t="zoomq.20080524114858"><vh>免责</vh></v>
+<v t="zoomq.20080523165940"><vh>SPE?</vh></v>
+<v t="zoomq.20080523170008"><vh>everywhere</vh></v>
+<v t="zoomq.20080523165824"><vh>story</vh>
+<v t="zoomq.20080524095915"><vh>cook0</vh></v>
+<v t="zoomq.20080524100507"><vh>cook1</vh></v>
+<v t="zoomq.20080524100709"><vh>cook2</vh></v>
+<v t="zoomq.20080524101523"><vh>cook4SEP0</vh></v>
 </v>
-</v>
-<v t="zoomq.20100118204342.5518"><vh>TEPs:mole</vh></v>
-<v t="zoomq.20100118204342.5520"><vh>TEPs:frog</vh></v>
-<v t="zoomq.20100118204342.5522"><vh>TEPs:frog流程</vh></v>
-<v t="zoomq.20100118204342.5524"><vh>TEPs:UI</vh></v>
-<v t="zoomq.20100118204342.5526"><vh>TEPs:UI看图</vh></v>
-<v t="zoomq.20100118204342.5528"><vh>TEPs:BM4T</vh></v>
-</v>
-</v>
-<v t="zoomq.20100118204342.5530"><vh>KTRAC体验</vh>
-<v t="zoomq.20100118231126.5509"><vh>Trac缺憾</vh></v>
-</v>
-<v t="zoomq.20100117213352.5420"><vh>Z.Q</vh>
-<v t="zoomq.20100116172440.4854"><vh>S5</vh></v>
-<v t="zoomq.20100116172440.4855"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20100117213352.5459"><vh>Ticket翻译</vh></v>
-<v t="zoomq.20100116172440.4853"><vh>version</vh></v>
-<v t="zoomq.20100118233330.5511"><vh>KTRAC广告</vh></v>
+<v t="zoomq.20080523165824.1"><vh>SPE</vh>
+<v t="zoomq.20080523210401"><vh>easyPE0</vh></v>
+<v t="zoomq.20080524105651"><vh>easyPE1</vh></v>
+<v t="zoomq.20080524105058"><vh>SPEgoal0</vh></v>
+<v t="zoomq.20080524110644"><vh>SPEgoal1</vh></v>
+<v t="zoomq.20080524110708"><vh>SPEgoal2</vh></v>
+<v t="zoomq.20080524110804"><vh>SPEsummary</vh></v>
+<v t="zoomq.20080524110546"><vh>SPEGrp0</vh></v>
+<v t="zoomq.20080524111256"><vh>SPEGrp1</vh></v>
+<v t="zoomq.20080524111256.1"><vh>SPEGrp2</vh></v>
+<v t="zoomq.20080920122648.4"><vh>SPE理论</vh>
+<v t="zoomq.20080524112029"><vh>zqSPE</vh></v>
+<v t="zoomq.20080524111120.2"><vh>zqSPEcode</vh></v>
+<v t="zoomq.20080524120425"><vh>Kaopulity</vh></v>
+<v t="zoomq.20080524124437"><vh>defKaopulity</vh></v>
 </v>
 </v>
-<v t="zoomq.20100117213352.5394"><vh>_stuff</vh>
-<v t="zoomq.20100116172440.4844"><vh>Norm.Trac</vh>
-<v t="zoomq.20100116172440.4845"><vh>日常0</vh></v>
-<v t="zoomq.20100116172440.4846"><vh>日常1</vh></v>
-<v t="zoomq.20100116172440.4847"><vh>日常end</vh></v>
-<v t="zoomq.20100116172440.4848"><vh>Trac技巧</vh></v>
-<v t="zoomq.20100116172440.4849"><vh>技巧0</vh></v>
-<v t="zoomq.20100116172440.4850"><vh>技巧1</vh></v>
-<v t="zoomq.20100116172440.4851"><vh>技巧2</vh></v>
-<v t="zoomq.20100116172440.4852"><vh>技巧3</vh></v>
+<v t="zoomq.20080523162155.5"><vh>version</vh></v>
+<v t="zoomq.20080524113021"><vh>Q&amp;A</vh></v>
 </v>
-<v t="zoomq.20100116172440.4819"><vh>Trac</vh></v>
-<v t="zoomq.20100116172440.4830"><vh>TracActions</vh>
-<v t="zoomq.20100116172440.4831"><vh>Usage0</vh></v>
-<v t="zoomq.20100116172440.4832"><vh>Usage1</vh></v>
-<v t="zoomq.20100116172440.4833"><vh>Usage2</vh></v>
-<v t="zoomq.20100116172440.4834"><vh>Usage3</vh></v>
-<v t="zoomq.20100116172440.4835"><vh>Usage4</vh></v>
-<v t="zoomq.20100116172440.4836"><vh>Ticket</vh></v>
-<v t="zoomq.20100116172440.4837"><vh>Flow:0</vh></v>
-<v t="zoomq.20100116172440.4838"><vh>Flow:1</vh></v>
-<v t="zoomq.20100116172440.4839"><vh>Flow:2</vh></v>
-<v t="zoomq.20100116172440.4840"><vh>Flow:3</vh></v>
-<v t="zoomq.20100116172440.4841"><vh>Flow:4</vh></v>
-<v t="zoomq.20100116172440.4842"><vh>Flow:5</vh></v>
-<v t="zoomq.20100116172440.4843"><vh>Flow:all</vh></v>
+</v>
+<v t="zoomq.20080919230246.2"><vh>080807-kspeg-intro-cpc</vh>
+<v t="zoomq.20080919230246.3"><vh>_stuff</vh></v>
+<v t="zoomq.20080919230246.5"><vh>@nosent index.html</vh>
+<v t="zoomq.20080919230246.6"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20080919230246.7"><vh>cssin</vh></v>
+</v>
+<v t="zoomq.20080919230246.8"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20080919230246.9"><vh>page0</vh></v>
+<v t="zoomq.20080919230246.10"><vh>version</vh></v>
+<v t="zoomq.20080919230246.4"><vh>免责</vh></v>
+<v t="zoomq.20080919230246.28"><vh>summary</vh></v>
+<v t="zoomq.20080919230246.12"><vh>KSPEG</vh>
+<v t="zoomq.20080919230246.11"><vh>position</vh></v>
+<v t="zoomq.20080919230246.13"><vh>开发语言</vh></v>
+<v t="zoomq.20080919230246.14"><vh>community</vh></v>
+<v t="zoomq.20080919230246.15"><vh>goal0</vh></v>
+<v t="zoomq.20080919230246.16"><vh>goal1</vh></v>
+<v t="zoomq.20080919230246.17"><vh>goal2</vh></v>
+<v t="zoomq.20080920122648.3"><vh>goalAll</vh></v>
+</v>
+<v t="zoomq.20080920122648.4"></v>
+<v t="zoomq.20080919230246.18"><vh>KSPEG need</vh>
+<v t="zoomq.20080919230246.19"><vh>need</vh></v>
+<v t="zoomq.20080919230246.20"><vh>ask0</vh></v>
+<v t="zoomq.20080919230246.21"><vh>ask1</vh></v>
+<v t="zoomq.20080919230246.22"><vh>ask2</vh></v>
+<v t="zoomq.20080919230246.23"><vh>challenge0</vh></v>
+<v t="zoomq.20080919230246.24"><vh>challenge1</vh></v>
+<v t="zoomq.20080919230246.25"><vh>challenge2</vh></v>
+</v>
+<v t="zoomq.20080919230246.29"><vh>KC</vh>
+<v t="zoomq.20080919230246.30"><vh>KC0</vh></v>
+<v t="zoomq.20080919230246.31"><vh>KC任务</vh></v>
+<v t="zoomq.20080919230246.32"><vh>KC教学</vh></v>
+<v t="zoomq.20080919230246.33"><vh>KC学员</vh></v>
+</v>
+<v t="zoomq.20080919230246.35"><vh>CPC</vh>
+<v t="zoomq.20080919230246.34"><vh>CPC0</vh></v>
+<v t="zoomq.20080919230246.36"><vh>CPC目标</vh></v>
+<v t="zoomq.20080919230246.37"><vh>CPC矛盾</vh></v>
+<v t="zoomq.20080919230246.38"><vh>CPC立旨</vh></v>
+<v t="zoomq.20080919230246.39"><vh>CPC核心</vh></v>
+<v t="zoomq.20080919230246.40"><vh>CPC图景</vh></v>
+<v t="zoomq.20080919230246.41"><vh>CPC设计</vh></v>
+<v t="zoomq.20080919230246.42"><vh>CPC体验</vh></v>
+<v t="zoomq.20080919230246.43"><vh>CPC心理0</vh></v>
+<v t="zoomq.20080919230246.44"><vh>CPC心理1</vh></v>
+<v t="zoomq.20080919230246.45"><vh>CPC心理2</vh></v>
+<v t="zoomq.20080919230246.54"><vh>CPC结论0</vh></v>
+<v t="zoomq.20080919230246.55"><vh>CPC结论1</vh></v>
+<v t="zoomq.20080919230246.56"><vh>CPC结论2</vh></v>
+<v t="zoomq.20080920122648.2"><vh>CPCitems</vh>
+<v t="zoomq.20080919230246.46"><vh>CPC成果</vh></v>
+<v t="zoomq.20080919230246.47"><vh>CPC:CCRJ</vh></v>
+<v t="zoomq.20080919230246.50"><vh>CPC:EAR</vh></v>
+<v t="zoomq.20080919230246.51"><vh>CPC:M.B0</vh></v>
+<v t="zoomq.20080919230246.53"><vh>CPC:M.B1</vh></v>
+</v>
+</v>
+<v t="zoomq.20080919230246.26"><vh>S5</vh></v>
+<v t="zoomq.20080919230246.27"><vh>Q&amp;A</vh></v>
 </v>
 </v>
 </v>
@@ -1471,6 +1174,7 @@
 </v>
 </v>
 <v t="zoomq.20091204150544.4881"><vh>s5:KIS</vh>
+<v t="zoomq.20100312132537.9039"><vh>SPE必须有后路</vh></v>
 <v t="zoomq.20091204150544.9625"><vh>4KsPEG</vh>
 <v t="zoomq.20091204150544.9867"><vh>goal4kspeg</vh>
 <v t="zoomq.20091204150544.9868"><vh>_stuff</vh>
@@ -1817,10 +1521,417 @@
 </v>
 </v>
 </v>
+<v t="zoomq.20100329224802.5547"><vh>PyCon</vh>
+<v t="zoomq.20100329224802.5548"><vh>@nosent PythoniCampMonograph.rst</vh>
+<v t="zoomq.20100329224802.5549"><vh>概述</vh></v>
+<v t="zoomq.20100329224802.5550"><vh>作者</vh></v>
+<v t="zoomq.20100329224802.5551"><vh>鸣谢</vh></v>
+<v t="zoomq.20100329224802.5552"><vh>蟒营</vh></v>
+<v t="zoomq.20100329224802.5553"><vh>中国IT教育</vh></v>
+<v t="zoomq.20100329224802.5554"><vh>招聘现实</vh></v>
+<v t="zoomq.20100329224802.5555"><vh>蟒营的产生</vh></v>
+<v t="zoomq.20100329224802.5556"><vh>蟒营之金山</vh></v>
+<v t="zoomq.20100329224802.5557"><vh>蟒营之北京</vh></v>
+<v t="zoomq.20100329224802.5558"><vh>结论 和 设想</vh></v>
+<v t="zoomq.20100329224802.5559"><vh>参考</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8544"><vh>KM</vh>
+<v t="zoomq.20100402224720.9032"><vh>ZQ写作</vh>
+<v t="zoomq.20100402224720.9033"><vh>向靠谱</vh>
+<v t="zoomq.20100402224720.10728"><vh>mailinglist</vh></v>
+</v>
+</v>
+<v t="zoomq.20100312132537.5535"><vh>维基思考</vh>
+<v t="zoomq.20100312132537.10639"><vh>不要使用维基!</vh></v>
+<v t="zoomq.20100312132537.5536"><vh>共享的阻碍</vh></v>
+</v>
+<v t="zoomq.20091204150544.8545"><vh>QuickInKM</vh>
+<v t="zoomq.20091204150544.8546"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8547"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8548"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8549"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8550"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8551"><vh>知识管理</vh>
+<v t="zoomq.20091204150544.8552"><vh>KM</vh></v>
+<v t="zoomq.20091204150544.8553"><vh>K?</vh></v>
+<v t="zoomq.20091204150544.8554"><vh>KM?</vh></v>
+<v t="zoomq.20091204150544.8555"><vh>奥苏贝尔</vh></v>
+<v t="zoomq.20091204150544.8556"><vh>教育</vh></v>
+<v t="zoomq.20091204150544.8557"><vh>教育进化</vh></v>
+<v t="zoomq.20091204150544.8558"><vh>知识陀螺</vh></v>
+<v t="zoomq.20091204150544.8559"><vh>信息生命</vh></v>
+<v t="zoomq.20091204150544.8560"><vh>KM陀螺</vh></v>
+<v t="zoomq.20091204150544.8561"><vh>KM系统</vh></v>
+<v t="zoomq.20091204150544.8562"><vh>知识维度</vh></v>
+<v t="zoomq.20091204150544.8563"><vh>WeKnow</vh></v>
+<v t="zoomq.20091204150544.8564"><vh>WeKnow2</vh></v>
+<v t="zoomq.20091204150544.8565"><vh>WeKnow3</vh></v>
+<v t="zoomq.20091204150544.8566"><vh>WeKnow0</vh></v>
+</v>
+<v t="zoomq.20091204150544.8567"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8568"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8569"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8570"><vh>S5end</vh></v>
+</v>
+<v t="zoomq.20091204150544.8571"><vh>KMnKB</vh>
+<v t="zoomq.20091204150544.8572"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8573"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8574"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8575"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8576"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8577"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.8578"><vh>知识库</vh>
+<v t="zoomq.20091204150544.8579"><vh>KB?</vh></v>
+<v t="zoomq.20091204150544.8580"><vh>KB!</vh></v>
+<v t="zoomq.20091204150544.8581"><vh>我们的KB</vh></v>
+<v t="zoomq.20091204150544.8582"><vh>KB作用</vh></v>
+<v t="zoomq.20091204150544.8583"><vh>JIRA</vh></v>
+<v t="zoomq.20091204150544.8584"><vh>JIVE</vh></v>
+<v t="zoomq.20091204150544.8585"><vh>JIVEvs</vh></v>
+<v t="zoomq.20091204150544.8586"><vh>Wiki</vh></v>
+<v t="zoomq.20091204150544.8587"><vh>Wiki vs</vh></v>
+<v t="zoomq.20091204150544.8588"><vh>BBS</vh></v>
+<v t="zoomq.20091204150544.8589"><vh>成本</vh></v>
+</v>
+<v t="zoomq.20091204150544.8590"><vh>知识管理</vh>
+<v t="zoomq.20091204150544.8591"><vh>KM</vh></v>
+<v t="zoomq.20091204150544.8592"><vh>KM陀螺</vh></v>
+<v t="zoomq.20091204150544.8593"><vh>知识陀螺</vh></v>
+<v t="zoomq.20091204150544.8594"><vh>K?</vh></v>
+<v t="zoomq.20091204150544.8595"><vh>KM?</vh></v>
+<v t="zoomq.20091204150544.8596"><vh>奥苏贝尔</vh></v>
+<v t="zoomq.20091204150544.8597"><vh>教育</vh></v>
+<v t="zoomq.20091204150544.8598"><vh>教育进化</vh></v>
+<v t="zoomq.20091204150544.8599"><vh>信息生命</vh></v>
+<v t="zoomq.20091204150544.8600"><vh>KM系统</vh></v>
+<v t="zoomq.20091204150544.8601"><vh>WeKnow</vh></v>
+<v t="zoomq.20091204150544.8602"><vh>WeKnow2</vh></v>
+<v t="zoomq.20091204150544.8603"><vh>WeKnow3</vh></v>
+<v t="zoomq.20091204150544.8604"><vh>WeKnow0</vh></v>
+</v>
+<v t="zoomq.20091204150544.8605"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8606"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8607"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8608"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8708"><vh>KsKM</vh>
+<v t="zoomq.20091204150544.8709"><vh>_stuff</vh>
+<v t="zoomq.20091204150544.8710"><vh>character</vh></v>
+<v t="zoomq.20091204150544.8711"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/index.html</vh>
+<v t="zoomq.20091204150544.8712"><vh>index declarations</vh></v>
+<v t="zoomq.20091204150544.8713"><vh>HTML</vh>
+<v t="zoomq.20091204150544.8714"><vh>HEAD</vh></v>
+<v t="zoomq.20091204150544.8715"><vh>BODY</vh>
+<v t="zoomq.20091204150544.8716"><vh>DIV</vh></v>
+<v t="zoomq.20091204150544.8717"><vh>DIV</vh></v>
+<v t="zoomq.20091204150544.8718"><vh>DIV</vh>
+<v t="zoomq.20091204150544.8719"><vh>TABLE</vh></v>
+<v t="zoomq.20091204150544.8720"><vh>TABLE</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8721"><vh>@file /home/zoomq/4svn/2kingsoft/kdoc.root/trunk/3.过程改进/KsKM/km-think.txt</vh></v>
+</v>
+<v t="zoomq.20091204150544.8722"><vh>@nosent s5.html</vh>
+<v t="zoomq.20091204150544.8723"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.8724"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20091204150544.8725"><vh>embedded styles</vh></v>
+</v>
+<v t="zoomq.20091204150544.8726"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20091204150544.8727"><vh>page0</vh></v>
+<v t="zoomq.20091204150544.8728"><vh>brief</vh></v>
+<v t="zoomq.20091204150544.8729"><vh>概念</vh>
+<v t="zoomq.20091204150544.8730"><vh>知识?</vh>
+<v t="zoomq.20091204150544.8731"><vh>知识金塔</vh></v>
+</v>
+<v t="zoomq.20091204150544.8732"><vh>企业知识</vh>
+<v t="zoomq.20091204150544.8733"><vh>EK多</vh></v>
+<v t="zoomq.20091204150544.8734"><vh>EK杂</vh></v>
+<v t="zoomq.20091204150544.8735"><vh>EK乱</vh></v>
+<v t="zoomq.20091204150544.8736"><vh>EK快</vh></v>
+<v t="zoomq.20091204150544.8737"><vh>EK不定</vh></v>
+<v t="zoomq.20091204150544.8738"><vh>EK难分</vh></v>
+</v>
+<v t="zoomq.20091204150544.8739"><vh>abt.学习</vh>
+<v t="zoomq.20091204150544.8740"><vh>学习?</vh></v>
+<v t="zoomq.20091204150544.8741"><vh>学习阶级</vh></v>
+<v t="zoomq.20091204150544.8742"><vh>学习之轮</vh></v>
+<v t="zoomq.20091204150544.8743"><vh>知识!</vh></v>
+</v>
+<v t="zoomq.20091204150544.8744"><vh>SECI</vh>
+<v t="zoomq.20091204150544.8745"><vh>SECI意义</vh></v>
+<v t="zoomq.20091204150544.8746"><vh>SECIba</vh></v>
+<v t="zoomq.20091204150544.8747"><vh>7-11原始ba</vh></v>
+<v t="zoomq.20091204150544.8748"><vh>7-11对话ba</vh></v>
+<v t="zoomq.20091204150544.8749"><vh>7-11系统ba</vh></v>
+<v t="zoomq.20091204150544.8750"><vh>7-11练习ba</vh></v>
+<v t="zoomq.20091204150544.8751"><vh>原始ba</vh></v>
+<v t="zoomq.20091204150544.8752"><vh>对话ba</vh></v>
+<v t="zoomq.20091204150544.8753"><vh>系统ba</vh></v>
+<v t="zoomq.20091204150544.8754"><vh>练习ba</vh></v>
+</v>
+<v t="zoomq.20091204150544.8755"><vh>知识管理</vh>
+<v t="zoomq.20091204150544.8756"><vh>KM内容</vh></v>
+<v t="zoomq.20091204150544.8757"><vh>EK之轮</vh></v>
+<v t="zoomq.20091204150544.8758"><vh>EK公式</vh></v>
+<v t="zoomq.20091204150544.8759"><vh>HEK关注</vh></v>
+</v>
+<v t="zoomq.20091204150544.8760"><vh>KM概念整理</vh></v>
+</v>
+<v t="zoomq.20091204150544.8761"><vh>规划</vh>
+<v t="zoomq.20091204150544.8762"><vh>KM战略</vh></v>
+<v t="zoomq.20091204150544.8763"><vh>McKinsey Mind</vh></v>
+<v t="zoomq.20091204150544.8764"><vh>KM实施5阶</vh>
+<v t="zoomq.20091204150544.8765"><vh>黄金5则-1</vh></v>
+<v t="zoomq.20091204150544.8766"><vh>黄金5则-2</vh></v>
+<v t="zoomq.20091204150544.8767"><vh>黄金5则-3</vh></v>
+<v t="zoomq.20091204150544.8768"><vh>黄金5则-4</vh></v>
+<v t="zoomq.20091204150544.8769"><vh>黄金5则-5</vh></v>
+</v>
+<v t="zoomq.20091204150544.8770"><vh>KM公式</vh>
+<v t="zoomq.20091204150544.8771"><vh>KM公式核心</vh></v>
+</v>
+<v t="zoomq.20091204150544.8772"><vh>启动规划</vh>
+<v t="zoomq.20091204150544.8773"><vh>CKO</vh></v>
+<v t="zoomq.20091204150544.8774"><vh>KM资源</vh></v>
+<v t="zoomq.20091204150544.8775"><vh>KM态度</vh></v>
+<v t="zoomq.20091204150544.8776"><vh>KM平衡</vh></v>
+</v>
+<v t="zoomq.20091204150544.8777"><vh>KM规划整理</vh></v>
+</v>
+<v t="zoomq.20091204150544.8778"><vh>实施</vh>
+<v t="zoomq.20091204150544.8779"><vh>客服案例</vh>
+<v t="zoomq.20091204150544.8780"><vh>满意度</vh>
+<v t="zoomq.20091204150544.8781"><vh>速度</vh></v>
+<v t="zoomq.20091204150544.8782"><vh>精确</vh></v>
+<v t="zoomq.20091204150544.8783"><vh>客户知识</vh></v>
+<v t="zoomq.20091204150544.8784"><vh>产品知识</vh></v>
+</v>
+<v t="zoomq.20091204150544.8785"><vh>策划</vh>
+<v t="zoomq.20091204150544.8786"><vh>计划</vh></v>
+<v t="zoomq.20091204150544.8787"><vh>识别</vh></v>
+<v t="zoomq.20091204150544.8788"><vh>收集</vh></v>
+<v t="zoomq.20091204150544.8789"><vh>应用</vh></v>
+<v t="zoomq.20091204150544.8790"><vh>创造</vh></v>
+<v t="zoomq.20091204150544.8791"><vh>宣传</vh></v>
+<v t="zoomq.20091204150544.8792"><vh>循环</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8793"><vh>KM实施整理</vh></v>
+</v>
+<v t="zoomq.20091204150544.8794"><vh>持续</vh>
+<v t="zoomq.20091204150544.8795"><vh>KMMM</vh>
+<v t="zoomq.20091204150544.8796"><vh>KMMM1</vh></v>
+<v t="zoomq.20091204150544.8797"><vh>KMMM2</vh></v>
+<v t="zoomq.20091204150544.8798"><vh>KMMM3</vh></v>
+<v t="zoomq.20091204150544.8799"><vh>KMMM4</vh></v>
+<v t="zoomq.20091204150544.8800"><vh>KMMM5</vh></v>
+</v>
+<v t="zoomq.20091204150544.8801"><vh>KE的发展</vh></v>
+<v t="zoomq.20091204150544.8802"><vh>KM持续改进</vh></v>
+</v>
+<v t="zoomq.20091204150544.8803"><vh>参考</vh></v>
+<v t="zoomq.20091204150544.8804"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20091204150544.8805"><vh>S5</vh></v>
+<v t="zoomq.20091204150544.8806"><vh>version</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9305"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9306"><vh>MoinMoin 导览</vh>
+<v t="zoomq.20091204150544.9307"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9308"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.9309"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.9310"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.9311"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.9312"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.9313"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.9314"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.9315"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.9316"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.9317"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.9318"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.9319"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.9320"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.9321"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.9322"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.9323"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9324"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.9325"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.9326"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.9327"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9328"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9329"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.9330"><vh>Dept</vh></v>
+<v t="zoomq.20091204150544.9331"><vh>Dept2</vh></v>
+<v t="zoomq.20091204150544.9332"><vh>Dept3</vh></v>
+<v t="zoomq.20091204150544.9333"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.9334"><vh>Group</vh></v>
+<v t="zoomq.20091204150544.9335"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.9336"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.9337"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.9338"><vh>SUP</vh></v>
+<v t="zoomq.20091204150544.9339"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.9340"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.9341"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.9342"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.9343"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.9344"><vh>Moin杂技</vh></v>
+<v t="zoomq.20091204150544.9345"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.9346"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.9347"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.9348"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.9349"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.9350"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.9351"><vh>Moin Gantt</vh></v>
+<v t="zoomq.20091204150544.9352"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.9353"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.9354"><vh>About</vh></v>
+<v t="zoomq.20091204150544.9355"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.9356"><vh>end</vh></v>
+<v t="zoomq.20091204150544.9357"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9358"><vh>从入门到精通 MoinMoin</vh>
+<v t="zoomq.20091204150544.9359"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9360"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.9361"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.9362"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.9363"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.9364"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.9365"><vh>DirveInto</vh>
+<v t="zoomq.20091204150544.9366"><vh>注册</vh></v>
+<v t="zoomq.20091204150544.9367"><vh>创建</vh></v>
+<v t="zoomq.20091204150544.9368"><vh>修改</vh></v>
+<v t="zoomq.20091204150544.9369"><vh>模板</vh></v>
+<v t="zoomq.20091204150544.9370"><vh>子页面</vh></v>
+<v t="zoomq.20091204150544.9371"><vh>包含</vh></v>
+<v t="zoomq.20091204150544.9372"><vh>月历</vh></v>
+<v t="zoomq.20091204150544.9373"><vh>还有</vh></v>
+<v t="zoomq.20091204150544.9374"><vh>但是！</vh></v>
+</v>
+<v t="zoomq.20091204150544.9375"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.9376"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.9377"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.9378"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.9379"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.9380"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.9381"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.9382"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.9383"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.9384"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.9385"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.9386"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9387"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.9388"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.9389"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.9390"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9391"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9392"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.9393"><vh>Dept</vh></v>
+<v t="zoomq.20091204150544.9394"><vh>Dept2</vh></v>
+<v t="zoomq.20091204150544.9395"><vh>Dept3</vh></v>
+<v t="zoomq.20091204150544.9396"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.9397"><vh>Group</vh></v>
+<v t="zoomq.20091204150544.9398"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.9399"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.9400"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.9401"><vh>SUP</vh></v>
+<v t="zoomq.20091204150544.9402"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.9403"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.9404"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.9405"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.9406"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.9407"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.9408"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.9409"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.9410"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.9411"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.9412"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.9413"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.9414"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.9415"><vh>About</vh></v>
+<v t="zoomq.20091204150544.9416"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.9417"><vh>end</vh></v>
+<v t="zoomq.20091204150544.9418"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.9419"><vh>p从入门到精通 MoinMoin</vh>
+<v t="zoomq.20091204150544.9420"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.9421"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.9422"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.9423"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.9424"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.9425"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.9426"><vh>DirveInto</vh>
+<v t="zoomq.20091204150544.9427"><vh>注册</vh></v>
+<v t="zoomq.20091204150544.9428"><vh>创建</vh></v>
+<v t="zoomq.20091204150544.9429"><vh>修改</vh></v>
+<v t="zoomq.20091204150544.9430"><vh>模板</vh></v>
+<v t="zoomq.20091204150544.9431"><vh>子页面</vh></v>
+<v t="zoomq.20091204150544.9432"><vh>包含</vh></v>
+<v t="zoomq.20091204150544.9433"><vh>月历</vh></v>
+<v t="zoomq.20091204150544.9434"><vh>还有</vh></v>
+<v t="zoomq.20091204150544.9435"><vh>但是！</vh></v>
+</v>
+<v t="zoomq.20091204150544.9436"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.9437"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.9438"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.9439"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.9440"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.9441"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.9442"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.9443"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.9444"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.9445"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.9446"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.9447"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.9448"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.9449"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.9450"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.9451"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9452"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.9453"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.9454"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.9455"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.9456"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.9457"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.9458"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.9459"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.9460"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.9461"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.9462"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.9463"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.9464"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.9465"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.9466"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.9467"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.9468"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.9469"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.9470"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.9471"><vh>About</vh></v>
+<v t="zoomq.20091204150544.9472"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.9473"><vh>end</vh></v>
+<v t="zoomq.20091204150544.9474"><vh>S5end</vh></v>
+</v>
+</v>
+</v>
+</v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="zoomq.20080523161605">@path /home/zoomq/zData/2MyBrains/s5</t>
-<t tx="zoomq.20080523161605.1">&lt;&lt;s5head&gt;&gt;
+<t tx="zoomq.20080523161605"></t>
+<t tx="zoomq.20080523161605.1">@language html
+@tabwidth -4
+&lt;&lt;s5head&gt;&gt;
 &lt;&lt;footer&gt;&gt;
 &lt;/div&gt;&lt;!-- class="layout"--&gt;
 
@@ -3529,7 +3640,7 @@ svn merge -r 250:HEAD foo.py
 &lt;/html&gt;
 </t>
 <t tx="zoomq.20080621102004.2">所有 s5,t2t,dot 综合演示资料备案</t>
-<t tx="zoomq.20080807095120.28">@path /home/zoomq/3Hg/zqlib-hg/tangle/zoomquiet.leo/s5</t>
+<t tx="zoomq.20080807095120.28">@path s5/</t>
 <t tx="zoomq.20080919230246.10">&lt;div class="slide"&gt;
 &lt;h1&gt; 文档版本 &lt;/h1&gt;
 &lt;ul&gt;
@@ -4097,7 +4208,9 @@ CPC~CCRJ
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20080919230246.5">&lt;&lt;s5head&gt;&gt;
+<t tx="zoomq.20080919230246.5">@language html
+@tabwidth -4
+&lt;&lt;s5head&gt;&gt;
 &lt;&lt;footer&gt;&gt;
 &lt;/div&gt;&lt;!-- class="layout"--&gt;
 
@@ -26563,7 +26676,9 @@ Trac 是号称不干扰己有工作流程的任务管理平台,在金山我们�
 
 Trac 发音
 </t>
-<t tx="zoomq.20100116172440.4813">&lt;&lt;s5head&gt;&gt;
+<t tx="zoomq.20100116172440.4813">@language html
+@tabwidth -4
+&lt;&lt;s5head&gt;&gt;
 &lt;&lt;footer&gt;&gt;
 &lt;/div&gt;&lt;!-- class="layout"--&gt;
 
@@ -28263,7 +28378,10 @@ PE::什么是过程改进?
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100116172440.6141">&lt;&lt;DOCTYPE&gt;&gt;
+<t tx="zoomq.20100116172440.6141">@language html
+@tabwidth -4
+
+&lt;&lt;DOCTYPE&gt;&gt;
 &lt;title&gt;恶狼战役项目外一篇~社区(powered by S5)&lt;/title&gt;
 &lt;&lt;s5head&gt;&gt;
 &lt;&lt;footer&gt;&gt;
@@ -30287,7 +30405,9 @@ PE::什么是过程改进?
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100116172440.6406">&lt;&lt;DOCTYPE&gt;&gt;
+<t tx="zoomq.20100116172440.6406">@language html
+@tabwidth -4
+&lt;&lt;DOCTYPE&gt;&gt;
 &lt;title&gt;可爱的Python~初学者极速入门故事成书分享(powered by S5)&lt;/title&gt;
 &lt;&lt;s5head&gt;&gt;
 &lt;&lt;footer&gt;&gt;
@@ -34032,5 +34152,2256 @@ KM只是被我们内嵌入到OA中了，这个也是我希望的：）
 -- 
 http://zoomquiet.org 人生苦短,Pythonic!-) 
 过程改进乃是催生可促生靠谱的人的组织! (PE keeps evolving organizations which promoting people be good!) </t>
+<t tx="zoomq.20100322235812.5543">@path 100418-pythonic-offer
+</t>
+<t tx="zoomq.20100327110414.5545">...
+(2010-03-15 14:32:24) Zoomq: 
+http://www.zoomquiet.org/share/s5/080920-oscamp-intro-cpc/
+(2010-03-15 14:32:37) Zoomq: 
+这方面,俺是一直关注并非常愿意推动的
+(2010-03-15 14:33:01) Zoomq: 
+http://wiki.woodpecker.org.cn/moin/PythonicCamp 这次PyCon 亚洲大会俺的论文就是相关这方面的
+(2010-03-15 14:41:04) 赖勇浩{163: 
+#嗯，蟒营不错，但我听那帮学生的说法是希望有个英雄，以榜样的形式，鼓励他们走这条路
+(2010-03-15 14:45:27) Zoomq: 
+咭,那是中国人的狂想,这是将一个项目置于一个人的爱好之下的危险心理,
+(2010-03-15 14:45:55) Zoomq: 
+这是中国人几千年封建社会造成的两种极端心理!
+(2010-03-15 14:46:08) Zoomq: 
+- 我是英雄!
+(2010-03-15 14:46:25) Zoomq: 
+- 我不可能是英雄,所以,我要找到英雄追随!
+(2010-03-15 14:46:50) Zoomq: 
+前者造就了 WPS 等等个人软件英雄,
+(2010-03-15 14:47:00) Zoomq: 
+所以,在后来中国就整体落后了,
+(2010-03-15 14:47:28) Zoomq: 
+因为外国是用整个社区的智慧来发展各种技术,中国人只是在等待英雄出现
+(2010-03-15 14:47:47) 赖勇浩{163: 
+这是文化，
+(2010-03-15 14:47:52) 赖勇浩{163: 
+很多人都是这样的
+(2010-03-15 14:47:58) 赖勇浩{163: 
+没有了榜样活不下去
+(2010-03-15 14:49:07) Zoomq: 
+所以,得有人出来打破"文化",只是适当的改变想法,王候将相宁有种,变成学习就是玩,就是享受,享受自个儿的智力能力
+(2010-03-15 14:49:18) Zoomq: 
+其实根儿上,是不愿意承担负责,
+(2010-03-15 14:49:36) Zoomq: 
+国人,从来是不逼到死角不发威的,
+(2010-03-15 14:50:10) Zoomq: 
+从小教育,我是革命一颗钉,一直有上面承担责任,只要讨好上面,一切就好,
+(2010-03-15 14:50:15) Zoomq: 
+这在其它方面可行,
+(2010-03-15 14:50:50) Zoomq: 
+技术方面,科学方面,就没有这茬了,只能孤独求索来的才是自个儿的,
+(2010-03-15 14:50:54) Zoomq: 
+其它的都是别人的
+(2010-03-15 14:55:10) 赖勇浩{163: 
+目前来说，我已经不会去指望别人有革命觉悟了
+(2010-03-15 14:56:18) Zoomq: 
+咔咔咔,指不指望和是否尝试改变,是两回事儿;
+(2010-03-15 14:56:34) Zoomq: 
+大家都尝试一下,还有希望的,大家都等,那就永远没有什么希望了
+
+</t>
+<t tx="zoomq.20100329224802.5547">@path wiki
+</t>
+<t tx="zoomq.20100329224802.5548">##language:zh
+#format rst
+:status: 校对; ZoomQuiet ;完成度72%;
+
+:参考: 
+
+    - `PyCon2010亚洲 &lt;PyCon2010&gt;`_
+    - `蟒营提纲 &lt;PythonicCamp&gt;`_ // `Pythonic Camp &lt;PythonicCampEn&gt;`_     
+    - `蟒营简介 &lt;PythoniCampIntro&gt;`_ //  `PythoniCamp Intro. &lt;PythoniCampIntroEn&gt;`_
+    - `蟒营实施 &lt;PythoniCampMonograph&gt;`_ // `PythoniCamp Paper &lt;PythoniCampMonographEn&gt;`_
+
+.. contents::
+  :depth: 3
+
+
+蟒营
+==============================================================================
+@others
+
+
+
+.. 链接定义区
+    建议在文章头部,统一定义各种链接/图片... 内容资源!
+
+.. _清华大学计算机科学与技术系:
+    http://zh.wikipedia.org/zh-cn/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%B3%BB
+.. _计算机科学与技术专业课程.doc:
+    http://jwcdata.hrbu.edu.cn:8080/word/kcjj/15.doc
+
+.. _MIT开放课程 电子工程及计算机科学:
+    http://www.core.org.cn/OcwWeb/Global/all-courses.htm#ElectricalEngineeringandComputerScience
+
+.. _Google's Python Class:
+    http://code.google.com/edu/languages/google-python-class/introduction.html
+
+.. _MIT6.189:
+    http://www.core.org.cn/OcwWeb/Electrical-Engineering-and-Computer-Science/6-189January--IAP--2008/CourseHome/index.htm
+
+.. _被就业:
+    http://www.21cn.com/weekly/jobs/index.shtml
+.. _毕业生就业率:
+    http://news.google.cn/news?hl=zh-CN&amp;newwindow=1&amp;q=%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%87&amp;oq=&amp;gs_rfai=&amp;um=1&amp;ie=UTF-8&amp;ei=RS6nS9ieM8uLkAWJnpjoCA&amp;sa=X&amp;oi=news_group&amp;ct=title&amp;resnum=4&amp;ved=0CBQQsQQwAw
+
+
+.. _蟒营:
+    http://groups-beta.google.com/group/kcpycamp
+.. _灵蟒集练营:
+    http://groups-beta.google.com/group/kcpycamp
+
+
+
+.. macro:: -- ZoomQuiet 2010-02-22T17:28:16+0800
+
+.. 图片定义区
+.. |biohazard| image:: biohazard.png
+
+
+.. 脚注定义区
+    建议在文章底部,统一定义各种 编号/自动/标签/引用 脚注
+
+.. [#] If that relative link doesn't work, try the master document:
+   http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html.
+
+.. [#是也乎] 有标签的脚注可以多次使用
+   在不同场合 是也乎_
+
+.. [this] here. </t>
+<t tx="zoomq.20100329224802.5549">概述 2pages
+------------------------------------------------------------------------------
+
+- 本文通过基于 CPyUG 社区的长期实践,积累而得的 蟒营快速Py开发人员培训方式为基础
+- 分享了当前中国IT行业程序员培养的经验
+- 分析了当前中国Python 需求和矛盾
+- 进一步提出了可复用/可推广的一般性 Python 开发人员培训方式
+
+</t>
+<t tx="zoomq.20100329224802.5550">作者 1pages
+------------------------------------------------------------------------------
+
+:Zoom.Quiet:
+
+    - 江苏石油化工学院(现 江苏工业大学 http://www.jpu.edu.cn/) 计算机应用与科学 本科
+    - 工作:
+
+        - 1999/06~2000/06:常州市利诚通讯工程有限公司 
+        - 2000/05~2004/10:上海讯博数码科技有限公司
+        - 2004/11~2007/09 新浪网
+        - 2007/05/18 金山软件股份有限公司        
+
+    - Python 经历:
+
+        - 2002 接触Python
+        - 2004 加入 pytohn.cn 并发布啄木鸟维基 MoinMoin
+        - 2005-07-30 成立CPyUG http://wiki.woodpecker.org.cn/moin/BPUG/2005-07-30
+        - 从此坚持不懈的开展 Python应用/推广/交流活动
+
+:清风:
+
+    - 教育
+    - 工作
+    - Python 经历
+</t>
+<t tx="zoomq.20100329224802.5551">鸣谢 1pages
+------------------------------------------------------------------------------
+
+- CPyUG 
+- 哲思
+- 金山
+- 北京城市学院
+- ...
+</t>
+<t tx="zoomq.20100329224802.5552">蟒营~快速培训实用型 Python 人才的尝试
+==============================================================================
+
+- Zoom.Quiet
+
+    - kingsoft.com
+    - Zoom.Quiet@gmail.com
+
+- 清风
+
+    - 豆瓣
+    - paradise.qingfeng@gmail.com
+
+
+简介
+------------------------------------------------------------------------------
+
+本文根据蟒营思想引发的两个教学实践出发,探讨了如何在中国这一特定环境中推广Python,
+主要涉及以下几个方面:
+
+    - 中国教育现实
+    - Python人才现状
+    - 蟒营实践方法
+    - 蟒营效果分析
+    - 蟒营未来拓展
+</t>
+<t tx="zoomq.20100329224802.5553">中国IT教育
+------------------------------------------------------------------------------
+- 中国的IT教育,以教授基础知识为主,这点无可厚非,但是在实践的课程太少,使得大部分学生不能理论联系实际,造成的结果就是,基础不扎实,动手能力又不强的尴尬局面.同时,企业也不能从学校选拔出太多的可以直接投入工作的学生,都要进入公司以后,再进行相应的培训.这里最主要的问题在于市场与高校是脱节的.企业想要的人才,学校没有,学校的学生也不知道企业想要什么样的人.
+
+- 蟒营的最大目标,就是把企业和高校联系起来,让企业中真正有实践经验的人,到高校中授课,让学生可以学习到有用的知识,并给学生找到相应的学习方向.
+
+
+课目
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`华大学计算机科学与技术系`_ 的 `计算机科学与技术专业课程.doc`_  对比 `MIT开放课程 电子工程及计算机科学`_ 的课程设计可以得出:
+
+- 教材:
+
+    - 中国高等院校的教材全部使用自行编制的
+    - 教材编篡人员并不是相关领域权威人士
+    - 教材内容是根据国家教学大纲规定而编辑的
+    - 国家教学大纲一般滞后社会需求至少5年
+    - 这导致整个专业学习目标和内容都无法和现实接轨
+
+- 范畴
+
+    - 2/5 是理科相关数学/电路
+    - 2/5 是各种计算机相关领域入门
+    - 1/5 是涉及开发实践,而且全部仅仅M$ 相关技术(VB/C++/SQL Server)
+
+- 内容
+
+    - 近一半是纯理论
+    - 其它大多是相关技术领域的特性介绍
+    - 有关计算机科学基础的,只有少数必修课,多是选修
+
+- 要求
+
+    - 对于学课内容,不论必修否,基本都是以考试大纲为核心进行要求, 不关心学生是否理解课目的真正目的和领域关联
+    - 比如说: "数据结构和算法"
+
+        - 仅仅要求知道什么是 数据结构和算法
+        - 记住几种 C/C++/JAVA 实现的 数据结构
+        - 可以默写出几种经典排序算法的伪代码
+        - 即可通过考试!
+
+
+:以上最终导致:
+
+    - 认真跟随课本学习的学生
+    - 基本不理解什么是软件,如何设计一个软件
+    - 没有体验过如何在团队中协同开发软件
+    - 除了 M$ 平台,基本不会其它平台的操作
+</t>
+<t tx="zoomq.20100329224802.5554">招聘现实
+------------------------------------------------------------------------------
+
+当前中国有1千多所院校开辟了相关专业,每年中国大学招收 400万以上本科学员,其中近 3% 进入计算机相关院系;
+毕业近30万相关本科生,其中近20%选择继续读研,其它进入社会尋求就业,但是就职形势很差:
+
+
+实际就业案例
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 以金山训练营为例:
+
+ - 2008-07 从2700份简历过滤出600人发出在线测试的邀请
+ - 通过46人
+ - 经过训练营的集训，合格16人
+ - 2008-08 交付各部门,最终入职 13人
+ - 入职比例 = 0.48%
+
+- 北京城市学院数字统计:
+
+ - 北京城市学院中以信息为方向的学院数量: 4个
+ - 毕业生数量6000人,其中计算机专业毕业生据不完全统计,在2000人左右.
+ - 就业情况: 毕业后从事软件开发的学生比例大约在1/80左右,而且有逐年递减的趋势.
+ - 毕业3年后,仍然从事软件开发的学生比例.无统计,但粗略估计,不到1/100.
+
+
+被就业
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+而且院校方面存在可悲的 `被就业`_ 现象:
+
+    - 学校通过各种手段制造学生已经就业的证明,以形成可观的每年 "`毕业生就业率`_"
+    - 因为每个学校的吸引力很大程度上取决于该校的 "`毕业生就业率`_" 
+    - 只有 "`毕业生就业率`_" 高的学校,才是好学校,学生和家长才愿意入校
+    - 只有入校学生数量足够的学校,才可能申请到教育经费,从而获得发展
+    - 所以,从近年开展,很多学生在自己不知道的情况下 `被就业`_
+    - `被就业`_ 现象的存在,说明学校基本没有能力改变学生在职位面前的竞争力
+
+
+为什么这样?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+教学形式:
+
+    - 照本宣科的教学形式,导致了学生:
+
+        - 只能使用 类似中学数学/物理/化学 的方式来学习计算科学
+        - 通过练习题的形式将孤立的概念强化记忆
+        - 基本没有相会独立完成可运行的软件
+        - 从而,在校时无法形成编程能力,习惯用死记硬背的方式来记忆程序代码,而不是真正的理解编程
+        - 大部分学生能不能正确理解,程序,数据结构
+
+
+开发经验:
+
+    - 绝大多数学生,以作业为主,参考上界学生的代码,直接复制完成
+    - 虽然现在学生多数有个人电脑,但是基本以游戏为主,很少用来进行程序开发尝试
+    - 即使有学生根据教材认真独立完成相关开发,也因为没有什么及时的互动交流,而只能获得片面的语言特性理解...
+
+
+意识态度:
+
+    - 大都停留在课堂教授的课程为主,很少私下会继续自学,因为大多数只是想得个文凭，以便找工作时享受本科待遇
+    - 从小学到大学,都在要求学生听话,从来没有任何课程和训练涉及职业素质/态度,面对问题/困难时,并不要求独立解决,一般都有前辈的作业可以参考
+    - 从小学到大学的应试教育,导致学生下意识的以为进入企業也是靠各种考试来获得晋升的,下意识的以为,进入社会后依然会有同学/学长/老师这种角色存在,可以帮助自个儿解决问题!
+    - 导致面对压力时,第一反应都是逃避或是可以补考,早已丧失了独立探索未知的好奇心和勇气
+</t>
+<t tx="zoomq.20100329224802.5555">蟒营的产生
+------------------------------------------------------------------------------
+
+笔者也是从这种标准的中国式大学出来工作的,在经历了多年准程序员挣扎后,才通过 PHP 进入了自由软件世界,知道了技术社区,开始了快乐的协作式自学;
+- 又通过Python 的自学和使用,体验到了 Pythonic,深深为这种优雅的问题解决态度所折服,并在实际工作中证实,这是种非常有效的工作技艺,
+是各种软件公司团队所必须的;
+- 进而在持续的 CPyUG 会课组织中,结识了各个行业/领域的从业人士,也证实了各种软件公司中的开发问题都是有共通性的,高效团队是有共性的,都是可以用 Pythonic 来定义的
+- 而且在和来自各种大学的学生沟通时,也发现了前述高校计算机教育的缺陷,和学生普遍存在的困惑,以及意识/能力缺失
+- 核心矛盾集中在:
+
+    - 学生相对比较坚实的基础知识点和企业要求的综合解决问题的整体能力间存在不可调合的矛盾
+    - 学生在完成课目作业时积累的简单个人开发体验和企业要求的基础团队协作开发意识能沟通能力间存在不可调合的矛盾
+    - 学生习惯被考試压力推动的学习活动和企业要求的自我职业发展为动力核心的自主钻研能力间存在不可调合的矛盾
+
+- 在校大学生自发的通过个人训练在毕业前弥补了以上矛盾的,一般都是通过原创或是参与自由软件,在至少一年的连续开发和在线沟通过程中,接触到了软件的真实设计/开发/测试/推广/改进等等完整的场景,形成了原始的程序员职业素质,这种学生万中无一,不用毕业都会被挖走,甚至自行创业的
+- 99% 的学生,基本是对计算机专业没有什么兴趣,只是想通过拿到相关专业毕业证,进入IT企业而已,这种学生基本不会真正成为开发人员,一毕业就转为市场/客服等角色
+- 但是,总是有部分学生,对计算机有兴趣,但是一直不知道怎么学习编程,认真的对待学校课目,却不知道自个儿根本没有形成足以上岗的基本程序员素质
+
+第三种学生,就是蟒营争取,快速改进的对象 ;-)
+
+- 具体怎么快速有效的改进,一直是笔者独立思考,默默实验的,从 2004年开始的各种内部培训,在线问题解答,线下会课交流中,一直在积累各种可操作的培训方法
+- 从 2007-10 开始,自己也在相应公司着手组建团队,亲自主持了招聘和成员培训,进一步实践了蟒营涉及的各个方面活动,明确了具体的实施;
+- 到 2008-7 借用金山训练营的机会,完成了首次完整的实践:
+
+</t>
+<t tx="zoomq.20100329224802.5556">蟒营之金山
+------------------------------------------------------------------------------
+- 什么是 蟒营? ~ PythoniCamp
+
+    - 全称为 `灵蟒集练营`_
+    - 具有 Pythonic 体验和形式的魔鬼训练营!
+
+        - 通过免费的实际项目实践,使学生在最短时间之内建立起团队意识和良好的“靠谱”的编程习惯
+        - 从没有什么责任的学生,转变为要承担责任的员工
+        - 同时为相关企业识别出有潜质学生资料,以便进行针对式追踪和培养,在第一时间获得合适的员工。                
+
+    - 很多软件企业都希望可以招聘到有经验且能更快融入到团队中的人,这对刚毕业的大学生来是非常致命的,他们需要的是一种“触媒”,通过这种“触媒”,将学生积累的知识重新激发组合为现实工作场景中可用的素质,使其更加理解软件工程实际操作的过程。在蟒营中,我们将营造真实的软件工程氛围,通过集中式的互动,带领学生自己领悟,自我激发出真实可用的创造力。
+
+- 什么是金山软件?
+
+    - 自1989年将发行的第一款办公软件产品WPS 1.0以来，目前已经成长为中国最知名的软件企业之一，业务涉及通用办公软件,网络游戏,软件安全,在线英文学习等领域
+
+- 什么是金山训练营?
+
+    - 是金山软件开办的,面向大三学生的全日制假期训练营,通过为期两至三个月的训练，在程序基础知识、独立程序开发、团队程序开发等方面对学生综合培养，力争从在校学生选拔出符合职位需求、具备实战能力的软件研发人才。
+    - 从 2007年开始,由于 Python 本身好学易用,维护效率高等优势,在公司各个方面都有实际应用,一些大型项目也开始全部使用Python 进行开发,但是很难从社会中招聘到有经验的开发人员;
+    - 特此由用人部门提议,金山训练营承办,由笔者主持,进行了首期蟒营实践
+
+
+实践
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 学员
+
+    - 来源,通过金山训练营初试的学员
+    - 背景,来自全国14所大学的应届生,都是计算机相关专业
+
+- 组织
+
+    - 导师,由笔者所在部门出3人,作为日常指导,负责回答问题,引导开发,笔者主持日常例行的各种站立会议
+    - 助教,由金山训练营出一名,负责日常训练营秩序,监察学员活动,根据规约进行评分
+    - 用户代表,从实际需要出发,从4个部门收集到7个系统的需求,对应4名接口成员,负责实际需求的咨询和最终作品验收
+
+- 过程
+
+    - 提供精短必要的知识导入讲演，立即进入工程环境进行开发！
+
+        - 一次:Python 宣传 50'左右; 目标:从训练营招募志愿学员;
+        - 一次:Python 职位培训, 30'左右; 目标:介绍蟒营在金山的实际职位和发展,树立学员信心;
+        - 两次:Python 基础培训, 每次100'左右; 目标:划定实用Python 知识范畴,引导进入 Pythonic 思想空间,指明Python 学习方向;
+        - 两次:Python 蟒营活动指导 每次100'左右; 目标:说明基础团队協同开发思想,介绍基础支持系统,通告环境使用规范;确立敏捷开发的周迭代模式推进方法,和实操细节; 
+
+    - 然后,立即要求学员根据兴趣自发组成团队,认领项目,进入迭代开发,直至蟒营结束
+
+- 形式
+
+    - 全真项目组!
+    - 提供完善的配置管理平台:
+
+        - 使用 SVN 进行版本管理
+        - 使用 Trac 进行任务/问题追踪
+        - 使用 维基 进行知识分享
+        - 使用 邮件列表 进行公开讨论
+        - 使用 IRC 进行在线交流
+
+    - 在引导下推行迭代开发:
+
+        - 团队内部自行推举迭代经理,和对外接口人,分别进行开发协调,和需求管理
+        - 实战开发,通过例会推进:
+            - 每周两次答疑:
+
+                - 周1/4 17:00 前将问题通过各种渠道整理提交到助教处,17:30 前邮件给讲师们
+                - 周2/5 11:00~11:30 各一次 
+
+           - 每周一个里程碑:
+                - 每周5 11:30~12:00 进行周例会,演示本周开发成果
+                - 每天两次站立会议协调当日开发
+
+                    - 09:00~09:15 各自宣告当日任务
+                    - 16:45~17:00 各自总结当日进度,主要困难 
+
+    - 导师尽量保持正常的同事心态,开放的尽可能的回答学员问题,但是从来不主动给予帮助,如果学员不问,就只能在站立会议中通过设问的方式,引导进行自我钻研/尝试; 反复重复灌输各种实际工作中必须具备的意识:
+
+        - "导师可以给予一切帮助,但是前提是你得明确你想要什么"
+        - "任何问题,当明确定义问题的含义时,问题已经解决了一半"
+        - "开发过程中遇到的任何困难,99.9%的情况下,他人必然遇到过,而且解决了,而且发布出过解决方案,你只找到那段代码就行了"
+        - "一个问题,只有全组人都知道,并充分考虑后的方案,才可能是最靠谱的方案"
+        - ...
+
+
+- 考核
+
+    - 以识别潜质,选拔心理/意识有效转化者为中心,不关注代码质量,更加关注代码形成的过程和团队效率
+    - 以行为导向为基础,尽可能的量化所有指标,尝试提供客观评定学员的转化效果!
+    - 由助理 每日进行得分记录,每周公布结果,排名,不公布详细的评定标准
+    - 共设计20项44个考核点!
+
+        - 潜力方面,关注自学习惯和领导潜能
+        - 協作方面,关注团队自觉和沟通能力
+        - 技能方面,关注开发能力/效率/习惯
+
+
+
+效果
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- 在 2008-09 这期 蟒营
+- 35名 主动参加了22名
+- 中途退出2名
+- 组成5个开发团队
+- 最终完成并交付3个系统
+- 通过考核学员5名
+- 最终进入公司工作3名
+- 成功率 14% ,是训练营一般培训成功率的30倍!
+
+</t>
+<t tx="zoomq.20100329224802.5557">蟒营之北京
+------------------------------------------------------------------------------
+
+实践
+
+- 学校课程:每周8个课时,2个班,大约60-80名学生
+- 1v1班,每周1-5授课,每天4个小时课程,持续半年左右
+
+效果
+
+- 学校课程:大约是每个班有1-2人会从事软件开发工作
+- 目前教的学生数量在5人,全部就业,而且均在正规的软件公司工作
+
+</t>
+<t tx="zoomq.20100329224802.5558">结论 和 设想
+------------------------------------------------------------------------------
+
+:四赢之势:
+
+    - 学校不用组织专门的有企业管理经验的教师来引导学习,但是获得了良好的就业率
+    - 学生不用花费额外的培训费用,在最短的时间里从学校式被动学习,转化到主动的面向问题的学习和行为模式来,提高应聘成功率
+    - 企业不用向招聘服务机构支付额外的费用,就可以从社区中获得有潜力的学生名单,并预先进行相关岗位的技能灌输,提高招聘成功率
+    - 社区不用额外的努力,就可以在有明确目标和各种支持的项目中,发挥各自的愛好和能力,反馈社区,提高技术社区的影响力
+
+
+:联合推广计划:
+
+    - 联合哲思社区,广州技术沙龙,中文 Python/C++ 用户组,成立“蟒营”讲师团;在知名学生社区中开展过往教案宣传。
+    - 联合珠海一所高校,在假期开展一期“蟒营”,在知名学生社区全程追踪报道进展和学员体验。
+    - 联合哲思社区,提供针对体验式教学团队的在线活动支持功能,开展一期虚拟的在线“蟒营”。
+    - 结合所有教案,形成完善的“蟒营”规范,培训讲师,同时在不同城市的不同高校开展。
+    - 控制每年的“蟒营”规模,确保关系企业稳定的入选率,开始精品格局的推广活动。
+    - 积累所有媒体资源,制作教学电影,先在网络媒体中传播,获得反馈,进一步修订,尝试向边远高校推广,自发组织不同规模的"蟒营"。
+
+</t>
+<t tx="zoomq.20100329224802.5559">参考
+------------------------------------------------------------------------------
+
+(大量的在线资料/环境/代码)
+
+
+机构
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 金山
+- 金山训练营 http://www.kingsoft.com/zt/2008/kscollege/index.html
+
+    - 金山训练营是培养金山软件研发人才的“黄埔军校”，面向所有热爱软件开发的初学者以及有志于向软件行业发展的潜力人才。我们通过为期两至三个月的训练，在程序基础知识、独立程序开发、团队程序开发等方面对学生综合培养，力争打造符合职位需求、具备实战能力的软件研发人才。
+    - 训练营通过技术培训结合半军事化管理、金山企业文化传承等方式，培养金山软件精英。严格的作息时间，早上半小时早操，帮助学生们养成早睡早起的好习惯，清醒头脑、强身健体；平时紧张的训练、每周的考核、定期的技术交流、奖惩制度的设置使学生们的编程水平得到提高；团队训练分组项目、结对测试、培养学生团队协作能力；严格遵守公司的软件开发代码规范和工程规范、正规的项目文档记录、每天的工作日志回顾，使同学们达到从在校生到正规软件开发程序员的转变。经过训练营考核合格者，直接签约金山，加盟WPS办公软件、金山毒霸、网络游戏等开发团队。
+    - 金山训练营自2007年3月开营以来，为公司各事业部培养输送了大量软件研发人才。通过竞争淘汰机制为学生们形成了良好的学习氛围，典型练习牢固基础知识，更有多年程序经验的资深研发人员来为同学们解析代码。帮助同学们练就扎实可靠的C/C++基础，熟练掌握编程工具、代码规范、工程规范，学习高效和谐的团队合作。整个训练期间不练算法，不参与做公司的软件，最关键的是初步养成一个良好的编程习惯。训练营还不定期组织一些户外活动、爬山烧烤、晚会联欢使从全国各地到珠海实习的同学们成了生活中的好朋友，工作上的好伙伴。
+
+
+- 北京城市学院 http://www.bcu.edu.cn
+
+   - 北京城市学院创始于1984年，是教育部批准成立的全国首所民办普通高等学校，现为本科院校。北京城市学院现已形成较为完善的多学科、多层次、多形式培养应用型人才的专业体系与办学格局，是全国民办高等学校的先进单位。2008年被教育部考试中心确定为自考主考院校。由北京城市学院主办的高等自考学部创立于1990年，致力于高等自学考试助学教育、职业能力培训和国际合作教育，是北京市高等自学考试教育先进单位。学生毕业由主考院校和北京市高等教育自学考试委员会颁发国家承认学历的大专或本科毕业证书，符合规定的授予学士学位。国际上有40多个国家承认高自考学历证书，社会认可度和权威性较高。
+
+   - 蟒营授课情况:
+       - 每周8个课时,2个班,大约60-80名学生
+       - 就业情况:基本与学校情况相符,大约是每个班有1-2人会从事软件开发工作
+   - 蟒营1v1授课情况
+       - 1v1班情况,采取1v1教学,目前教的学生数量在5人,全部在正规软件公司就业
+
+社区
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- CPyUG
+- 哲思
+
+
+蟒营
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 仓库控制:
+- 项目管理:
+- 讨论列表:
+
+
+参考
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 国家中长期教育改革和发展规划纲要（２０１０－２０２０年）（公开征求意见稿）http://news.xinhuanet.com/politics/2010-02/28/content_13069032.htm
+</t>
+<t tx="zoomq.20100402224720.10728">列表和M$ 系的对抗:
+    - 居然是那种显示的
+    - HTML 格式:
+        - 病毒
+        - 妄图控制他人的显示
+        - 格式比层次重要？！
+        </t>
+<t tx="zoomq.20100402224720.9032"></t>
+<t tx="zoomq.20100402224720.9033">张春雨    电子工业出版社の博文视点
+	电话：(010)51260888-818        手机：13910394102
+	Gtalk：zsprain@gmail.com         Twitter：@zsprain
+
+&gt;&gt; - 自个儿到现在不是成功人士
+&gt;&gt; 【这是种错觉，原创者有些是成功人士，但并非成功人士才可以，更主要的是没有标准。以我来看，zsp、你，很有品味和趣味，个性鲜明，性情中人，挡不住的个人魅力，这就足够成功了。比起那些无趣之人，人们显然更乐闻你们的心声。】】】
+
+明白了,有独立思考能力的人,必定可接受真实的个人体验;-}
+
+&gt;&gt; - 自个儿到现在是个有技术信仰的明白人  【稀缺品质，如果推崇，可以普及一下你的信仰：）】】】
+哲思成员－社区－哲思自由软件社区
+http://www.zeuux.org/community/zeuux-activist.cn.html
+这一直是公开的...
+
+
+&gt;&gt; 自个儿到现在可以说出来的东西很多，但是，同时可以打动的了自个儿的还真不多:【这是很多有想法的人的障碍，总是在推翻自己和刷新自己。换个思路吧，出版物主要是留下一些对很多人有价值和可回味的东西，有时可以稍微抽离一下自我；写作是个过程而不是瞬间，很多打动是发生在写作的过程中，它本身就是一种不同的人生体验，而不是回忆。】
+
+- 是也乎?失败的深刻记忆,对于整个社会也是重要的历史?
+那这方面俺有很多小故事哪...
+
+&gt;&gt;  +
+&gt;&gt; 70年代生人，社会责任感很强，写出的东西对人没用，就图一乐那是绝对不干【同样稀缺，我们也不全是商人，有责任感，我们是商人的部分，同样需要对人有用来兑现；重要的是也是70年代生人：）】
+&gt;&gt;  +
+&gt;&gt; 愿意说出来,感觉可能有趣的:
+好长的一段,层次化理解一下::
+
+   【1和2是我的初衷，以经历为核心，娓娓道来。
+   3是目前比较热的话题。都值得尝试。
+   但由于列出的细节太少，无法通过判断内容作出选择。因为最终结论更大程度上取决于选题的内容和写法，而不只是选题方向，什么方向都有可能很精彩或很糟糕。
+   一个理想的境界就是，三位一体，将这三块纳入一个选题中，这是因为其各自本身都有些局限性，
+   PKM还不是一个普及的概念，以此为主题会遭到不公正的质疑，当然我正在做一本pkm的书，因为目的是推广这个概念，内容很通用，没有这个个性化和个人体验化；
+   Python在国内处境有些微妙，热衷的人很彪悍，响应的人很漠然，因此传教的历程很有价值，但以此为题则也容易产生错觉；
+   sns很热，但涉及范围很广，覆盖技术、互联网、营销、传播等很多话题，从个人出发很难有一个完整的全貌，容易引发指摘。
+   但如果把这三件对你个人来说，影响最大，最有意义，依然在延续的话题，放大到 程序人生
+的话题里，似乎很有代表性，貌似很多IT人，尤其是开发人员，工作、生活的重心不出于此。
+       任举一例，如“程序员的三味人生”等。当然，有利必有弊:
+        + 这些内容放在wiki或blog里，看得很过瘾，
+        + 但作为图书，还是需要内容关联和演进再逻辑化一些，这就需要稍微构思和组织一下内容，让主线很紧凑和精巧，这也是这里有挑战性的一环。从我个人来看，这似乎已经是个不错的选点了。当然，我们才刚刚开始，还有很大空间考虑到更好的方案。听听你的意见……】】】
+
+
+"让主线很紧凑和精巧" 嗯嗯嗯,简单点好,有个俺喜欢的结构:
+导向自由的律令
+http://www.douban.com/group/topic/1050895/
+
+俺想表达的: 向靠谱的行者ing...
+- 什么是靠谱,怎么意识到的,怎么向?
+- 什么是行者,何时自觉的,涉及到的思考/行为/知识/态度/精神...
+
+具体的,就是以时间为线索,未尽的回忆录主线,
+写给自个儿看的...
+</t>
+<t tx="zoomq.20100405215514.5579">TLH项目 – 学校并非学习之地 | 益学会 
+http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
+
+“假学习”和“真学习” - 左岸读书
+http://www.zreading.cn/archives/1629.html
+
+职场攻略:最受前辈宠爱的10种职场新人 - 查皮博客@blogbus
+http://chapi.blogbus.com/logs/61535574.html
+
+提问的智慧
+http://wiki.woodpecker.org.cn/moin/AskForHelp
+
+邮件列表的规范和礼节
+http://www.woodpecker.org.cn/share/classes/050730-CPUG/usMaillist/
+
+Wiki 导览 +从入门到享用MoinMoin 
+http://www.woodpecker.org.cn/share/doc/SKSIG/DriveIntoMoinPub/
+
+WYTIWYG
+http://wiki.woodpecker.org.cn/moin/WyTiWyG</t>
+<t tx="zoomq.20100407094145.5664">@language html
+@tabwidth -4
+
+&lt;&lt;DOCTYPE&gt;&gt;
+&lt;title&gt;Pythonic观点:什么是合格的IT民工?(powered by S5)&lt;/title&gt;
+
+&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+&lt;div class="presentation"&gt;
+
+@others
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100407094145.5665">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="editor" content="Leo 4.6.3 final"/&gt;
+&lt;!-- metadata --&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.1" /&gt;
+&lt;meta name="presdate" content="20100405" /&gt;
+&lt;meta name="author" content="Eric A. Meyer" /&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;!-- configuration parameters --&gt;
+&lt;meta name="defaultView" content="slideshow" /&gt;
+&lt;meta name="controlVis" content="hidden" /&gt;
+&lt;!-- style sheet links --&gt;
+&lt;link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" /&gt;
+&lt;link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+&lt;!-- S5 JS --&gt;
+&lt;script src="ui/default/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div class="layout"&gt;
+&lt;div id="controls"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="currentSlide"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5666">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+img {border:0px;}    
+td { font-size: 80%; }
+H1 div#sup{
+    position :  absolute; top:0;right:3%;
+    margin-top: -20px;
+    font-size: 12px; font-style : italic ;
+    color: #385775;
+}
+li sup{display :  inline;
+    font-size: 80%; font-style : italic ;}
+li sub{display :  inline;
+    font-size: 80%; font-style : italic ;
+    color: #eeeeee; }
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for esp.*/
+b.alert{
+    color:#F5003D;
+}
+b{
+    font-size: 115%;
+}
+
+
+/*Zoomq::090401 ziped
+snap#takahashi {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+*/
+</t>
+<t tx="zoomq.20100407094145.5667">.said {text-decoration :  line-through; color: #dddddd; }
+.next { color: #F8B73E; }
+.wait { color: #385775; font-style : italic ;}
+
+.incremental, .incremental *, .incremental *:after {color: #385775; visibility: visible;}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for slide*/
+.slide .current {color: #F8B73E;}
+.slide H1{color:#B7B7DC;}
+DIV#slide0 h3{
+    font-size: 300%;
+}
+</t>
+<t tx="zoomq.20100407094145.5668">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+takahashi ~ 高桥流 大字演示
+*/
+#takahashi0 {
+    font-size: 120%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi1 {
+    font-size: 150%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi2 {
+    font-size: 200%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi3 {
+    font-size: 300%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 10px 0 0 0;
+    padding: 0;
+    }
+#takahashi4 {
+    font-size: 400%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 20px 0 0 0;
+    padding: 0;
+    }
+#takahashi5 {
+    font-size: 500%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 30px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi {
+    font-size: 600%;font-weight :  bolder;
+    text-align: center; 
+    word-spacing: 0px;letter-spacing: -4px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi7 {
+    font-size: 700%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi8 {
+    font-size: 800%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi9 {
+    font-size: 1000%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for UL*/
+ul#takahashi{
+    font-size: 180%;
+    letter-spacing:-2px;
+}
+ul.tinylist{
+    font-size: 80%;
+    letter-spacing:-2px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for PRE */
+PRE.takahashi{
+    font-size: 150%;
+}
+
+</t>
+<t tx="zoomq.20100407094145.5669">
+&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a target="_blank"  href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+Zoom.Quiet&lt;/a&gt;
+&lt;br/&gt;
+v10.4.4
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+    &lt;div id="controls"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100407094145.5670">&lt;div class="slide" id="slide0"&gt;
+
+&lt;h1&gt;
+Pythonic 
+&lt;/h1&gt;
+&lt;h3&gt;
+~学生和职员的距离
+&lt;/h3&gt;
+
+&lt;br/&gt;
+&lt;h4&gt;资深大妈::&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;br/&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100407094145.5671">&lt;div class="slide"&gt;
+&lt;h1&gt; 免责聲明
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;参考所有同好行为总结而得
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+&lt;center&gt;&lt;img src="icon/zeuux-logov2red_90h.png"/&gt;&lt;/center&gt;
+&lt;/center&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100407094145.5672">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+概述::
+&lt;div id="sup"&gt;
+现状/体验/建议
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;sup&gt;+15'&lt;/sup&gt; 聊点儿RP&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+15'&lt;/sup&gt; 聊点儿KM&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+15'&lt;/sup&gt; 现场交流&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5741">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+是也乎::
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://zoomquiet.org"&gt;
+&lt;img src="icon/50ren-ZoomQuiet-s5-v800.png"/&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5742">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="pix/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+    &lt;span style="float:right;"&gt;&lt;img src="pix/2010-01-18-230729_605x421_leo.png" /&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="pix/LeoProse.gif" /&gt;Leo&lt;/a&gt; : 
+
+
+    &lt;br/&gt;文学编程环境
+    &lt;li&gt; 纯Python 编写的通用编辑环境
+
+
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5743">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2  id="takahashi8"&gt;
+Q&amp;A
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5745">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+ 文档版本 &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;版本历史::
+    &lt;ul&gt;
+        &lt;li&gt;100408 追加劝宅...&lt;/li&gt;
+        &lt;li&gt;100406 增補寓言故事&lt;/li&gt;
+        &lt;li&gt;100404 重整思路，增补细节&lt;/li&gt;
+        &lt;li&gt;100331 为珠三角技术沙龙创建&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5746">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/kupp-ms-ktrac-s5_h60.png"/&gt;
+&lt;/a&gt;
+KTRAC::
+&lt;div id="sup"&gt;
+珠三角技术沙龙 历届分享
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul id="takahashi2"&gt;
+&lt;li&gt;&lt;sub&gt;100123&lt;/sub&gt;
+    &lt;a href="http://py.kingsoft.net/ktrac/wiki/100123TechSalon"&gt;珠三角技术沙龙第5次.广州站&lt;/a&gt;
+    &lt;sup&gt;KTRAC 简介&lt;/sup&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;sub&gt;100314&lt;/sub&gt;
+    &lt;a href="http://py.kingsoft.net/ktrac/wiki/100314TechParty"&gt;珠三角技术沙龙第6次.珠海站&lt;/a&gt;
+    &lt;sup&gt;KTRAC 插件开发&lt;/sup&gt;
+    &lt;/li&gt;
+&lt;li&gt;...
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5747">Pythonic ~ 什么是合格的IT民工?
+
++ 本质差异 不靠谱
+    - 本质对比
+
++ 什么是靠谱?
+
++ 怎么改善?
+
+- 向靠谱！
+    - 反脑残！
+当你累了，准备放弃时，看看这个吧！ - 我烧网
+http://woshao.com/article/613a39e0319711dfa592000c295b2b8d/
+
+    - 读代码吧！
+读代码:
+    斯坦尼斯拉夫斯基在《演员的自我修养》里说过：感情应该是由外而内，再由内而外的
+    
+    - 写blog 吧！
+某个著名软件公司里，开发组的桌上会放着一只小熊，大家互相问问题之前，先对着小熊把问题说一遍，看能不能把问题描述的清晰，基本上说的比较有条理以后，答案也就随之而来了，大家可以试试这个办法
+
+沟通的33制，以及其通用化！ ~= GTD!
+    什么是软件工程！？
+        － 沟通！ 和电脑
+        － 沟通！！ 和他人
+        － 沟通！！！ 和自个儿
+会议33制 - XMind - Social Brainstorming and Mind Mapping
+http://www.xmind.net/share/zoomquiet/33-session/
+
+    - 作项目吧！
+        一窃不通，怎么通？
+        Pythonic 科学的精神？！
+    
+
+- 江湖经验
+(专业 vs 靠谱)
+
+&lt;a href="http://hi.baidu.com/mczone/blog/item/c915b83e015607f3838b135e.html"&gt;zhuangbility&lt;/a&gt;
+
+
+悲惨工作3征兆 以及对策
+
+不想当会计的程序员不是好CEO！
+    
+正如俺一直认为的工作的5种层级:
+- 做了
+- 做完
+- 做对
+- 做好
+- 帮助他人做好
+永远的最高境界是可以贡献工具/系统/文档...帮助他人在同样的情景中将工作做到好!
+
+</t>
+<t tx="zoomq.20100407094145.5749">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+</t>
+<t tx="zoomq.20100407094145.5754">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+学生不是没知识，只是...
+&lt;div id="sup"&gt;
+一切向靠谱，并坚持下来！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+不靠谱
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+&lt;h2 id="takahashi3"&gt;
+Kaopulity
+&lt;/h2&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5755">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+靠谱::定义
+&lt;div id="sup"&gt;
+E文定义是ZQ的个人体验的总结
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+Kaopulity
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5756">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+靠谱::解析
+&lt;div id="sup"&gt;
+令一个组织内所有过程都可用！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;br/&gt;
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;b class="alert"&gt;K&lt;/b&gt;eep
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;a&lt;/b&gt;ll
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;o&lt;/b&gt;f
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;p&lt;/b&gt;rocesses
+    &lt;/li&gt;
+&lt;li&gt;&lt;b class="alert"&gt;u&lt;/b&gt;sab&lt;b class="alert"&gt;lity&lt;/b&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+# ~ 令一切过程可用的 ...
+
+    * 一切过程!包含各个层面的行动序列:
+         1. 思考问题的过程
+         2. 解决问题的过程
+         3. 个体学习的过程
+         4. 团队学习的过程
+         5. 组织学习的过程
+         6. 项目管理的过程
+         7. 发布上线的过程
+         8. 测试修订的过程
+         9. 沟通交流的过程
+        10. 应对变化的过程
+        11. 需求管理的过程
+        12. ...的过程 
+    * 而可用(usablity)则至少是:
+         1. 所有人知道过程是怎么样的
+         2. 所有人知道过程节点的标准是怎么样的
+         3. 所有人知道自个儿在过程中哪个环节
+         4. 所有人认同当前过程
+         5. 所有人根据过程约定在协同
+         6. 所有过程是有记录的
+         7. 所有过程是可追踪的
+         8. 所有过程是可复用的
+         9. 所有过程是能优化的!
+        10. ...     
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100407094145.5757">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+
+靠谱::什么是可用?
+&lt;div id="sup"&gt;
+全知/全认/全用/可善！ AKA~= All Know All!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+AKA
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5758">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+知识之轮
+
+&lt;div id="sup"&gt;
+知识只有流动才有价值...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/kmtranfer2.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5760">&lt;div class="slide"&gt;
+&lt;h1&gt; KM持续改进
+&lt;div id="sup"&gt;
+最终目标是:基于知识的企业文化！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;pre class="takahashi"&gt;
+知识管理乃是
+    培育
+        可摧生自学习型组织的
+    文化氛围
+&lt;/pre&gt;
+&lt;ul id="takahashi" class="incremental"&gt;
+&lt;li&gt;自学习型&lt;sup&gt;  主动改进自身行为的&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;氛围&lt;sup&gt;  即所有成员的共通心理&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5762">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+总之,期望可以记住的::
+&lt;div id="sup"&gt;
+...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ol class="incremental" id="takahashi2"&gt;
+&lt;li&gt;学生多不靠谱 ;-{
+    &lt;/li&gt;
+&lt;li&gt;什么是靠谱?!
+    &lt;/li&gt;
+&lt;li&gt;作项目吧!
+    &lt;/li&gt;
+&lt;li&gt;写博客吧!
+    &lt;/li&gt;
+&lt;li&gt;读代码吧!
+    &lt;/li&gt;
+&lt;li&gt;开始GTD吧!
+    &lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5766">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::0
+
+&lt;div id="sup"&gt;
+人生在世,不得不走...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-00.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5769">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::1
+
+&lt;div id="sup"&gt;
+其中有位...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-01.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5771">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::2
+
+&lt;div id="sup"&gt;
+忽然很聪明的顿悟...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-02.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5773">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::3
+
+&lt;div id="sup"&gt;
+立即着手...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-03.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5775">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::4
+
+&lt;div id="sup"&gt;
+轻装上阵...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-04.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5777">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::5
+
+&lt;div id="sup"&gt;
+果然轻松...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-05.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5779">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::6
+
+&lt;div id="sup"&gt;
+有一自然就有再二...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-06.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5781">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::7
+
+&lt;div id="sup"&gt;
+轻车熟路...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-07.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5783">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::8
+&lt;div id="sup"&gt;
+更加轻松...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-08.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5785">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::9
+&lt;div id="sup"&gt;
+更加轻松...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-09.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5787">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::10
+&lt;div id="sup"&gt;
+直到某天...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-10.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5789">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::11
+&lt;div id="sup"&gt;
+其它人...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-11.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5791">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::12
+&lt;div id="sup"&gt;
+只有你...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-12.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5793">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+寓言::13
+&lt;div id="sup"&gt;
+杯具就是这样诞生的...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/18460_allegory-13.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5795">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+面对复杂
+&lt;div id="sup"&gt;
+要形成靠谱的反射性的应对...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+&lt;a href="http://www.gtdstudy.com/?p=828"&gt;
+GTD
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5797">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+GTD总流程
+&lt;div id="sup"&gt;
+get things done 是种生活态度...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/GTD_v2CN.JPG"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5800">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+SNS学习原理:1
+&lt;div id="sup"&gt;
+小时的我...
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/_know-me.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5803">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+SNS学习原理:2
+&lt;div id="sup"&gt;
+成长的我...
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/_know-me1.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5805">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+SNS学习原理:3
+&lt;div id="sup"&gt;
+成为一体的大家...
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/_know-we.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5807">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/0Days"&gt;
+学习的层级&lt;/a&gt;
+&lt;div id="sup"&gt;
+也是个人总结
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;ol class="incremental" id="takahashi3"&gt;
+&lt;li&gt;不知己不知
+    &lt;/li&gt;
+&lt;li&gt;不知己知何
+    &lt;/li&gt;
+&lt;li&gt;知己何已知
+    &lt;/li&gt;
+&lt;li&gt;知己何不知
+    &lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5808">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+悲惨工作三征兆!
+&lt;sup&gt;&lt;a href="http://www.amazon.cn/dp/enbk612613"&gt;The Three Signs of a Miserable Job&lt;/a&gt;&lt;/sup&gt;
+&lt;div id="sup"&gt;
+...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ol class="incremental" id="takahashi4"&gt;
+&lt;li&gt;无闻性
+    &lt;/li&gt;
+&lt;li&gt;不可测
+    &lt;/li&gt;
+&lt;li&gt;无关性
+    &lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5809">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队,不背黑锅,就得！
+&lt;div id="sup"&gt;
+必须明确的工程元素!在第一时间!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+&lt;b class="alert"&gt;5W1H&lt;/b&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5819">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知0
+&lt;div id="sup"&gt;
+问题集...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+有嘛事儿
+&lt;br/&gt;
+What
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5820">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知1
+&lt;div id="sup"&gt;
+人力资源
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+有嘛人
+&lt;br/&gt;
+Who
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5821">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知2
+&lt;div id="sup"&gt;
+任务限期
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+何时交?
+&lt;br/&gt;
+When
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5822">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知3
+&lt;div id="sup"&gt;
+甲方...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+交付给谁
+&lt;br/&gt;
+Where
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5823">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知4
+&lt;div id="sup"&gt;
+指标!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+咋算作好
+&lt;br/&gt;
+Why
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5824">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
+&lt;img src="icon/trac-log-s5-h70.png"/&gt;
+&lt;/a&gt;
+任意团队:日常须知5
+&lt;div id="sup"&gt;
+过程
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+具体咋做
+&lt;br/&gt;
+How
+
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5826">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+否则!
+&lt;div id="sup"&gt;
+你的宿命必须是...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+&lt;b class="alert"&gt;烈士&lt;/b&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5828">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+学生本质
+&lt;div id="sup"&gt;
+在学校...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+消费者
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5830">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+职员本质::
+&lt;div id="sup"&gt;
+在企業,一切以赢利为目标导向，一切都成本化了...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+销售者
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5832">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+核心落差::
+&lt;div id="sup"&gt;
+在心理/行为/素质/知识管理...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+意识!
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5834">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+向靠谱!
+&lt;div id="sup"&gt;
+靠谱 的个性/行为/思路； 比专业 的技艺/团队/流程/认证，要实在的多
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi7"&gt;
+反脑残
+&lt;/h2&gt;
+&lt;h2 id="takahashi3"&gt;
+&lt;a href="http://hi.baidu.com/mczone/blog/item/c915b83e015607f3838b135e.html"&gt;zhuangbility&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+TLH项目 – 学校并非学习之地 | 益学会 
+http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
+
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100407094145.5836">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+怎么向?
+&lt;div id="sup"&gt;
+学校只是在灌输,靠谱的学习环境要自个儿创造!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi5"&gt;
+&lt;a href="http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html"&gt;
+学校并非
+&lt;br/&gt;
+学习之地
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+TLH项目 – 学校并非学习之地 | 益学会 
+http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
+
+
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100407094145.5992">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+个人知识管理!
+&lt;div id="sup"&gt;
+从尊重自个儿掌握的知识开始!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi7"&gt;
+&lt;a href="http://blog.sina.com.cn/s/blog_493a84550100c4ug.html"&gt;
+PKM
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+TLH项目 – 学校并非学习之地 | 益学会 
+http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
+
+
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100407094145.5994">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+工作的层级
+&lt;div id="sup"&gt;
+出自:&lt;a href="http://vip.book.sina.com.cn/book/index_72252.html"&gt;从员工到总经理的成长笔记：自慢&lt;/a&gt;
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;ol class="incremental" id="takahashi2"&gt;
+&lt;li&gt;做了
+    &lt;/li&gt;
+&lt;li&gt;做完
+    &lt;/li&gt;
+&lt;li&gt;做对
+    &lt;/li&gt;
+&lt;li&gt;做好
+    &lt;/li&gt;
+&lt;li&gt;能帮他人做好!
+    &lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100407094145.5996">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+概述::
+&lt;div id="sup"&gt;
+现状/体验/建议
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul id="takahashi2"&gt;
+&lt;li class="said"&gt;&lt;sup&gt;+15'&lt;/sup&gt; 聊点儿RP&lt;/li&gt;
+&lt;li class="next"&gt;&lt;sup&gt;+15'&lt;/sup&gt; 聊点儿KM&lt;/li&gt;
+&lt;li class="wait"&gt;&lt;sup&gt;+15'&lt;/sup&gt; 分享点儿经验&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.5998">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+概述::
+&lt;div id="sup"&gt;
+现状/体验/建议
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul id="takahashi2"&gt;
+&lt;li class="said"&gt;&lt;sup&gt;+15'&lt;/sup&gt; 聊点儿RP&lt;/li&gt;
+&lt;li class="said"&gt;&lt;sup&gt;+15'&lt;/sup&gt; 聊点儿KM&lt;/li&gt;
+&lt;li class="next"&gt;&lt;sup&gt;+15'&lt;/sup&gt; 现场交流&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.6002">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+做项目吧
+&lt;div id="sup"&gt;
+&lt;a href="http://blog.donews.com/limodou/archive/2004/12/10/199174.aspx"&gt;[编程杂谈]做个项目吧 - limodou的学习记录 &lt;/a&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+下海
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.6004">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+写博客吧
+&lt;div id="sup"&gt;
+&lt;a href="http://blog.donews.com/limodou/archive/2004/12/14/202590.aspx"&gt;[编程杂谈]写写Blog吧 - limodou的学习记录 &lt;/a&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+入圏
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+某个著名软件公司里，开发组的桌上会放着一只小熊，大家互相问问题之前，先对着小熊把问题说一遍，看能不能把问题描述的清晰，基本上说的比较有条理以后，答案也就随之而来了，大家可以试试这个办法
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.6006">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+读代码吧
+&lt;div id="sup"&gt;
+&lt;a href="http://blog.donews.com/limodou/archive/2005/04/26/352565.aspx"&gt;[编程杂谈]开始读源码吧 - limodou的学习记录&lt;/a&gt;
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+反刍
+&lt;/h2&gt;
+正如,斯坦尼斯拉夫斯基在《演员的自我修养》里说过：
+&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;"感情应该是由外而内，再由内而外的"...
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.6012">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+&lt;a href="http://www.xmind.net/share/zoomquiet/33-session/"&gt;会议33制&lt;/a&gt;
+&lt;div id="sup"&gt;
+也是通用的软件工程核心行为模式...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;img src="img/zoomq-2010-04-07-230927_33steps_scrot.png"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    什么是软件工程！？
+        － 沟通！ 和电脑
+        － 沟通！！ 和他人
+        － 沟通！！！ 和自个儿
+会议33制 - XMind - Social Brainstorming and Mind Mapping
+http://www.xmind.net/share/zoomquiet/33-session/
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100407094145.6014">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+推荐阅读...
+&lt;div id="sup"&gt;
+典章常读
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/AskForHelp"&gt;
+    提问的智慧&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.woodpecker.org.cn/share/classes/050730-CPUG/usMaillist/"&gt;
+    邮件列表的规范和礼节&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/WyTiWyG"&gt;
+    WYTIWYG&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.woodpecker.org.cn/share/doc/SKSIG/DriveIntoMoinPub/"&gt;
+    Wiki导览&lt;/a&gt; &lt;sup&gt;+从入门到享用MoinMoin&lt;/sup&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.zreading.cn/archives/1629.html"&gt;
+    “假学习”和“真学习” - 左岸读书&lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mifengtd.cn/about"&gt;褪墨&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100408130454.5718">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+专注点程序之外的东西吧
+&lt;div id="sup"&gt;
+功夫在诗外！拓展有益的社会关系，有利于...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+宅
+&lt;/h2&gt;
+&lt;h2 id="takahashi4"&gt;
+&lt;a href="http://zh.wikipedia.org/wiki/%E5%BE%A1%E5%AE%85%E6%97%8F"&gt;OTAKU&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100408130454.5720">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+专注点程序之外的东西吧
+&lt;div id="sup"&gt;
+经济是一切社会活动的基本法则，作为社会个体，应该有所觉悟...
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi4"&gt;
+&lt;li&gt;不想当会计
+    &lt;/li&gt;
+&lt;li&gt;的程序员
+    &lt;/li&gt;
+&lt;li&gt;不是好CEO;-}
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
 </tnodes>
 </leo_file>

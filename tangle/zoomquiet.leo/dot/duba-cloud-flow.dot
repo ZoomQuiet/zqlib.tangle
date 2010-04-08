@@ -1,0 +1,155 @@
+digraph G {
+    /*全局设定*/
+    graph [label="DUBA云查杀核心工作图谱 {by Zoom.Quiet}",
+        labeljust="l",labelloc="t",center=1,
+        ranksep=0.2,center=1,ratio=compress,
+        rankdir=TB,
+        ];
+
+    node[fontsize=10.0,height=0.1,
+        style=filled,fillcolor=snow,
+        color=darkolivegreen,fontcolor=darkolivegreen,
+        shape=plaintext,
+        ];
+
+    edge [fontsize=9.0,fontcolor=yellowgreen,
+        fontcolor=gray25,
+        color=gray30,
+		arrowsize=0.5,arrowhead=vee,arrowtail=none,
+        ];
+
+    /*图元声明
+    start       [label="流程开始/结束",shape=point];
+    end         [label="",shape=doublecircle,fillcolor=red];
+
+    box         [label="实体/对象",shape=box];
+    ellipse     [label="行动/节点",shape=ellipse];
+    egg         [label="用户/人物",shape=egg];
+    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
+    diamond     [label="判别",shape=diamond];
+    note        [label="注释",shape=note];
+    tab         [label="目录/模块",shape=tab];
+    db          [label="数据库",shape=box3d];
+    component   [label="主机/组件",shape=component];
+    h4 [label="第4小时"];
+    */
+    ttag [label="用户\n时间感\n参考轴"];
+    ran [label="随机时刻",fillcolor=none];
+    s1 [label="第1秒",fillcolor=none];
+    s5 [label="第5秒",fillcolor=none];
+    s10 [label="第10秒",fillcolor=none];
+    s30 [label="第30秒",fillcolor=none];
+    s31 [label="第31秒",fillcolor=none];
+    s35 [label="第35秒",fillcolor=none];
+    s60 [label="第60秒",fillcolor=none];
+    s600 [label="第600秒",fillcolor=none];
+    h4 [label="第4小时",fillcolor=none];
+    ran->s1->s5->s10->s30->s31->s35->s60->s600->h4 [color=gray,style="setlinewidth(3)"];
+
+    user [label="用户",shape=egg];
+/*
+    subgraph clusterClient {
+    label="DUBA用户端"; color=blue;fontcolor=dimgrey;labeljust="l";labelloc="t";fontsize=11.0;
+*/
+    clientHost [label="DUBA用户端",shape=tab];
+        file [label="文件",shape=note];
+        locwlist [label="本地白库",shape=ellipse];
+        locblist [label="本地黑库",shape=ellipse];
+        askcloud [label="查询云端",shape=ellipse];
+        goon [label="处置",shape=diamond];
+            wfile [label="白文件",shape=note];
+            bfile [label="黑文件",shape=note];
+        sentcloud [label="上报+二次云查",shape=ellipse];
+/*
+    }   
+*/
+
+    isborw [label="是否黑/白"];
+    isup [label="是否上报"];
+/*
+    subgraph clusterCloud {
+    label="DUBA云端:核心业务"; color=blue;fontcolor=dimgrey;labeljust="l";labelloc="t";fontsize=11.0;
+
+
+            
+
+*/
+    cloudSrv [label="DUBA云端:核心业务",shape=tab];
+        colleter [label="精确收集",shape=tab];
+            hawkeye [label="鹰眼系统",shape=component];
+            upbox [label="上报收集",shape=component];
+            byman [label="人工收集",shape=tab];
+                exchange [label="厂商交换",shape=component];
+                bbscol [label="论坛收集",shape=component];
+                handcol [label="专人监察",shape=component];
+            blinkrep [label="产业链分析报告",shape=note];
+
+        mixjudge [label="统合鉴定(KCheckupSys.)",shape=tab];
+            kvmatrix [label="杀软自评",shape=component];
+                kvgc [label="杀软总评",shape=component];
+            jmatrix [label="鉴定器牧场",shape=component,fontcolor=white,fillcolor=darkolivegreen];
+                gcmatrix [label="实时总评",shape=component];
+            extgc [label="扩充总评",shape=component];
+
+            actjudge [label="行为分析",shape=component];
+            manjudge [label="人工分析",shape=component];
+        exprocess [label="后续处理",shape=component];
+/*
+    }    
+        askcloud->cloudSrv;
+*/
+    /*图例关系 ,style="setlinewidth(2)"*/
+    clientHost->user [color=blue,style="setlinewidth(2)"];
+    user->file->locwlist->locblist->askcloud->goon [color=blue,style="setlinewidth(2)"];
+        goon->wfile[color=blue,style="setlinewidth(2)"];
+        goon->bfile[color=blue,style="setlinewidth(2)"];
+        goon->sentcloud [color=blue,style="setlinewidth(2)"];
+            sentcloud->mixjudge [color=blue,style=dashed];
+            sentcloud->upbox [color=blue,style=dashed];
+    askcloud->mixjudge [color=blue,style=dashed];
+    
+    { rank=same; ttag    clientHost cloudSrv; }
+    { rank=same; ran user mixjudge colleter; }
+    { rank=same; s1     file kvmatrix jmatrix hawkeye upbox byman; }
+    { rank=same; s5     locwlist kvgc gcmatrix exchange; }
+    { rank=same; s10    locblist  extgc handcol; }
+    { rank=same; s30    askcloud bbscol; }
+    { rank=same; s31    actjudge  isborw isup blinkrep; }
+    { rank=same; s35    goon  ; }
+    { rank=same; s60    wfile bfile sentcloud ; }
+    { rank=same; s600   exprocess; }
+    { rank=same; h4     manjudge ; }
+
+    cloudSrv->mixjudge;
+        mixjudge->kvmatrix->kvgc;
+        mixjudge->jmatrix->gcmatrix;
+            kvgc->extgc
+            gcmatrix->extgc;
+        extgc->isborw;
+        extgc->isup;
+            isborw->goon;
+            isup->goon;
+        gcmatrix->actjudge->manjudge;
+            actjudge->exprocess;
+
+    cloudSrv->colleter->hawkeye;
+        colleter->upbox;
+        colleter->byman;
+            byman->exchange;
+            byman->bbscol;
+            byman->handcol;
+        upbox->blinkrep;
+        byman->blinkrep;
+        exchange->blinkrep;
+        bbscol->blinkrep;
+        handcol->blinkrep;
+        blinkrep->hawkeye;
+        hawkeye->hawkeye;
+
+edge [style=invis];
+    ttag->ran;
+    ttag->clientHost->cloudSrv;
+    ran->user->mixjudge->colleter;
+
+}
+

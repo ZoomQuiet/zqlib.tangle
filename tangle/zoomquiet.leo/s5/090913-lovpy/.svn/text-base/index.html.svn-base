@@ -1,0 +1,602 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>白话过程改进~程序员版(powered by S5)</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+
+<meta name="editor" content="Leo 4.5 final"/>
+<!-- metadata -->
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20050728" />
+<meta name="author" content="Eric A. Meyer" />
+<meta name="company" content="Complex Spiral Consulting" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+
+<!-- embedded styles -->
+<style type="text/css" media="all">
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+img {border:0px;}    
+td { font-size: 80%; }
+H1 div#sup{
+    position :  absolute; top:0;right:3%;
+    margin-top: -20px;
+    font-size: 10px; font-style : italic ;
+    color: #385775;
+}
+li sup{display :  inline;
+    font-size: 80%; font-style : italic ;}
+li sub{display :  inline;
+    font-size: 80%; font-style : italic ;
+    color: #eeeeee; }
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for esp.*/
+b.alert{
+    color:#F5003D;
+}
+b{
+    font-size: 115%;
+}
+
+
+/*Zoomq::090401 ziped
+snap#takahashi {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+*/
+.incremental, .incremental *, .incremental *:after {color: #385775; visibility: visible;}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for slide*/
+.slide .current {color: #F8B73E;}
+.slide H1{color:#B7B7DC;}
+DIV#slide0 h3{
+    font-size: 300%;
+}
+/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+takahashi ~ 高桥流 大字演示
+*/
+#takahashi1 {
+    font-size: 150%;font-weight :  bolder;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi2 {
+    font-size: 200%;font-weight :  bolder;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi3 {
+    font-size: 300%;font-weight :  bolder;
+    margin: 10px 0 0 0;
+    padding: 0;
+    }
+#takahashi4 {
+    font-size: 400%;font-weight :  bolder;
+    margin: 20px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi {
+    font-size: 600%;font-weight :  bolder;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi7 {
+    font-size: 700%;font-weight :  bolder;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi8 {
+    font-size: 800%;font-weight :  bolder;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi9 {
+    font-size: 1000%;font-weight :  bolder;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for UL*/
+ul#takahashi{
+    font-size: 180%;
+    letter-spacing:-2px;
+}
+ul.tinylist{
+    font-size: 80%;
+    letter-spacing:-2px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for PRE */
+PRE.takahashi{
+    font-size: 150%;
+}
+</style>
+
+<!-- S5 JS -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+
+<div id="footer">
+<table>
+<tr>
+<td ><a target="_blank"  href="http://wiki.s.kingsoft.net/moin/ZoomQuiet">
+Zoom.Quiet</a>
+<br/>
+090820
+</td><td>
+<a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh">
+<img src="ui/freedom/cc-byncnd-88x31.png"/>
+</a>
+</td><td>
+推荐使用<a  target="_blank"
+href="http://www.mozilla.org.cn">FireFox</a>
+<br/>
+兼容浏览器获得最佳体验;-)
+</td>
+</tr>
+</table>
+
+</div><!--id="footer"-->
+
+</div><!-- class="layout"-->
+
+
+<div class="presentation">
+
+<div class="slide" id="slide0">
+<br/>
+<h2 id="takahashi">
+白话<img src="icon/kspeg-logo-s5-72.png"/>
+</h2>
+<br/>
+<h4> ~ 程序员版</h4>
+<h4><a href="mailto:zhouqi@kingsoft.com">Zoom.Quiet</a></h4>
+
+</div>
+
+
+<div class="slide">
+<h1> 免责 
+<div id="sup">
+山寨的，非业界公认的，个人体验为基础!
+</div>
+</h1>
+
+<center>
+<a href="http://wiki.s.kingsoft.net/moin/ZoomQuiet">
+        <img src="id/zoomquiet_1-1_outline.png">
+    </a>参考所有同行行为总结而得
+        ......
+    <br/><br/>
+    <ul>
+        <li> 一切资料来自网络互动挖掘
+        <li> 一切想法来自日常学习工作
+        <li> 一切体悟来自各种沟通交流
+        <li> 一切知识来自社区分享印证
+        <li> 一切经验来自个人失败体验
+        <br/> ......
+    </ul>
+</center>
+
+    <div class="handout">
+<center><img src="icon/080428-zeuux-logo-gb-h90.png"/></center>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="slide">
+<h1>
+原则::
+<div id="sup">
+KSPEG的使命/最终目标/公司角色...
+</div>
+</h1>
+<h2 id="takahashi9">
+浅说 
+</h2>
+<center>
+see::<a href="http://wiki.s.kingsoft.net/moin/EasyIntoPEG">
+白话过程改进</a>
+</center>
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+范畴::
+<div id="sup">
+KSPEG 是KIS 研发改进中心 下属一个虚拟团队!
+</div>
+</h1>
+<h2 id="takahashi">
+KIS.DEC
+<br/>
+~ kspeg
+</h2>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+部门性质和目标~ 2008 版
+<div id="sup">
+对内服务
+</div>
+</h1>
+
+<center>
+<h4><img src="icon/kspeg-logo-s5-72.png"/>针对软件开发过程:</h4>
+
+    <br/>提供过程改进的<b class="alert">咨询</b>服务
+    <br/><b class="alert">开发</b>软件过程的支持平台
+    <br/><b class="alert">运维</b>内部过程的支持平台
+    <br/>促进开发活动的<b class="alert">知识管理</b>
+    <br/>...
+</center>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+abt. PE, NOT SEPG!
+<div class="slide">
+<h1>
+PE::什么是过程?
+<div id="sup">
+任何一个有目标／限制／条件的行动组合都是过程!
+</div>
+</h1>
+<h2 id="takahashi">
+行动的
+<br/>
+顺序组合
+</h2>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+PE::什么是过程改进?
+<div id="sup">
+任何过程没有可定义／可记录／可追踪／可复用前都是无法改进的！
+</div>
+</h1>
+<h2 id="takahashi">
+令过程
+<br/>
+<b class="alert">靠谱！</b>
+
+</h2>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+PE::Kaopulity 解析
+<div id="sup">
+令一个组织内所有过程都可用！
+</div>
+</h1>
+<br/>
+<ul class="incremental" id="takahashi2">
+<li><b class="alert">K</b>eep
+    </li>
+<li><b class="alert">a</b>ll
+    </li>
+<li><b class="alert">o</b>f
+    </li>
+<li><b class="alert">p</b>rocesses
+    </li>
+<li><b class="alert">u</b>sab<b class="alert">lity</b>
+    </li>
+</ul>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+定义!过程改进:
+<div id="sup">
+只有组织具有令内内部成员向靠谱的特质时，所有过程才可用！
+</div>
+
+</h1>
+<center>
+<h2 id="takahashi1">
+过程改进乃是
+<br/>催生可促生靠谱的人的组织!
+</h2>
+<br/>
+<br/>
+<h2>
+<b class="alert">P</b>rocess <b class="alert">E</b>nhancement 
+keep evolving organizations 
+<br/>
+which promoting people be good!
+</h2>
+</center>
+    <div class="handout">
+    ... 
+    </div>
+</div>
+<div class="slide">
+<h1>
+PE::本质目标->改善组织级
+<div id="sup">
+一个学习型组织才可能长久的自动自我完善来应对所有挑战!
+<br/>制度化的方法
+</div>
+</h1>
+<h2 id="takahashi7">
+反应<br/>机制!
+</h2>
+
+    <div class="handout">
+    旋转寿司模式?
+    </div>
+</div>
+how to do for PE?
+<div class="slide">
+<h1>
+<img src="icon/kspeg-logo-s5-72.png"/>::职责0
+<div id="sup">
+首先要力争将自身改进成学习型组织!
+</div>
+</h1>
+<h2 id="takahashi">
+改造自身
+<br/>
+向靠谱!
+</h2>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+<img src="icon/kspeg-logo-s5-72.png"/>::职责1
+<div id="sup">
+其次将自身对学习型组织的理解和改进经验融合到平台服务中去,来影响其它部门!
+</div>
+</h1>
+<h2 id="takahashi">
+提供过程
+<br/>
+支撑平台
+</h2>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+<img src="icon/kspeg-logo-s5-72.png"/>依托社区:
+<div id="sup">
+部门的战斗力基础是国内外各种技术社区！其中，最亲密的:
+</div>
+</h1>
+<center>
+<ul>
+<li>
+<img src="icon/zeuux-logo-bw_h90.png"/>
+    </li>
+<li>
+<img src="icon/CPUGlogo-100.png"/>
+<br/>
+<img src="icon/wp-www_banner.png"/>
+    </li>
+
+<li>
+<img src="icon/2008-06-19-erl.china_scrot.png"/>
+<br/>
+<a href="http://groups.google.com/group/ecug">ECUG</a>
+    </li>
+
+<li>
+...
+    </li>
+</ul>
+</center>
+</h2>
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+<img src="icon/kspeg-logo-s5-72.png"/>作品集==KUP++
+<div id="sup">
+KUP++是个支持体系
+</div>
+</h1>
+<h2 id="takahashi9">
+<img src="pic/kupp-s5-note_500.png"/>
+</h2>
+
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1>
+<img src="icon/kspeg-logo-s5-72.png"/>的KUP++ 目标是KUP
+<div id="sup">
+KUP是个方法论以及流程定义
+</div>
+</h1>
+<h2 id="takahashi9">
+<img src="pic/kup-s5-note_500.png"/>
+</h2>
+
+    <div class="handout">
+    kup-formula.png
+    </div>
+</div>
+<div class="slide">
+<h1>
+<img src="icon/kspeg-logo-s5-72.png"/>角度KUP公式
+<div id="sup">
+KUP不是RUP;获得认同::从高层,从底层,从自身!
+</div>
+</h1>
+<h2 id="takahashi9">
+<img src="pic/kup-formula.png"/>
+</h2>
+
+    <div class="handout">
+
+    </div>
+</div>
+<div class="slide">
+<h1> 
+<img src="pic/kup-icon-64x64.png"/>
+小结 
+<div id="sup">
+</div>
+</h1>
+
+<ul class="incremental" id="takahashi2">
+<li>Kaopulity</li>
+<li>改进本质是改善了应对<b>机制</b>!</li>
+<li>kspeg 的任务:
+    <ul>
+        <li>通过自身表率改进</li>
+        <li>提供含PE思想的平台</li>
+    </ul>
+    </li>
+</ul>
+</div>
+
+<div class="slide">
+<h1>
+<img src="pic/kup-icon-64x64.png"/>
+<div id="sup">
+KSPEG的使命/最终目标/公司角色...?
+</div>
+
+</h1>
+<h2 id="takahashi">
+Q&A
+</h2>
+    <div class="handout">
+    ...
+    </div>
+</div>
+<div class="slide">
+<h1> 
+<img src="pic/kup-icon-64x64.png"/>
+文档版本 
+<div id="sup">
+</div>
+</h1>
+<ul>
+<li>修订历史::
+    <ul>
+        <li>090831 调整页面次序</li>
+        <li>090828 增补小结</li>
+        <li>090821 增补KUP 公式</li>
+        <li>090820 增补kaopulity 详解</li>
+        <li>090817 创建</li>
+    </ul>
+</li>
+</ul>
+<h4>KIS.研发改进中心:: <a href="mailto:zhouqi@kingsoft.com">周琦</a></h4>
+
+</div>
+
+<div class="slide">
+<h1> 关于... 
+<div id="sup">
+编辑环境特意选择了基于HTML的幻灯系统,来表达知识传播的媒介态度..
+</div>
+</h1>
+
+<ul>
+<li>幻灯展示: 
+    <ul>
+    <li><a href="http://www.meyerweb.com/eric/tools/s5/">
+    <img src="ui/freedom/S5icon.GIF" />
+    S<sup>5</sup></a> : A Simple Standards-Based Slide Show System
+    <li> 纯HTML 幻灯效果工具 <a href="s5.html">本地介绍页面</a>
+    </ul>
+    </li>
+<li>编写环境: 
+<table border="0"><tr>
+<td>
+<a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment">
+    <img src="ui/freedom/LeoProse.gif" />Leo</a>  
+<br/>文学编程环境
+<br/>纯Py实现的通用编辑环境
+
+</td><td>
+<img src="ui/freedom/2008-snap-leoWrite_scrot.png" />
+</td>
+</tr></table>
+    </li>
+
+</ul>
+</div>
+
+
+
+
+</div><!--class="presentation"-->
+
+</body>
+</html>
