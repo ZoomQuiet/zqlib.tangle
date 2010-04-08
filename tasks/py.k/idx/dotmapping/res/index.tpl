@@ -16,6 +16,8 @@
 </style>
 
 </head>
+<body>
+
 <div id="wrap">
 
 <div id="main" class="clearfix">
@@ -61,8 +63,11 @@ powered by:
 </div><!-- class="container"-->
 </div><!-- id="footer"-->
 
+<!--
+<iframe scrolling="no" width="" height="50" frameborder="0" 
+    src="iframe-footer.html"></iframe>
+-->
 
-<body>
 
 </body>
 </html>

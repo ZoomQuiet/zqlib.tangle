@@ -27,15 +27,13 @@ $ dot py-k-idx.dot -Tpng -o py-k-idx.png -Tcmapx -o py-k-idx.map
         ];
 
     /*服务元素
-    is      [label="是",URL="http://wiki.rdev.kingsoft.net/moin/KUP"];
-    TB       [label="Astinus",URL="demo/ast/"];
-    AMB      [label="Amoebar",URL="demo/amb/"];
-    */
-    pyk      [label="py.kingsoft.net 金山Python爱好者协会",shape=note,];
     kspeg    [label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0">  
             <TR><TD><IMG src="res/kspeg-logo-s5-72.png"/></TD></TR>
             </TABLE>>,URL="http://www.zoomquiet.org/share/s5/080524-easy-spe/"
             ,shape=box3d,fillcolor=white];
+                pytut25  [label="Py手册中文版\nv2.5",fillcolor=gray80,URL="/obp/pytut/25/"];
+    */
+    pyk      [label="py.kingsoft.net\n金山Pythonic分享站",shape=box3d,];
 
     author   [label="有",shape=plaintext];
     include  [label="含",shape=plaintext];
@@ -49,25 +47,23 @@ $ dot py-k-idx.dot -Tpng -o py-k-idx.png -Tcmapx -o py-k-idx.map
             zqfloss   [label="FLOSS",shape=tab,URL="/zq/scrap/floss/"];
             zqskm    [label="SKM",shape=tab,URL="/zq/scrap/skm/"];
     blog     [label="Blogging",shape=tab,URL="#"];
-    WPWIKI   [label="Wiki\nWoodpecker.org.cn",fillcolor=gray80,URL="/wiki"];
+    WPWIKI   [label="啄木鸟维基\n只读镜像",fillcolor=gray80,URL="/wiki"];
     
     DEMO     [label="作品集锦",shape=tab,URL="#"];
         ktrac    [label="KTRAC",URL="http://trac-hacks.org/wiki/KTRAC"];
         TEPs     [label="TEPs\n~Trac改进集",color=tomato,
             URL="/ktrac/"];
-        MSG      [label="MSG\n消息服务精灵",fillcolor=gray80,URL="/msg/"];
+        MSG      [label="MSG\n消息服务精灵",fillcolor=gray80,URL="#"];
 
-    KM      [label="知识分享",shape=tab,URL="#"];
+    KM      [label="资料分享",shape=tab,URL="#"];
     OBP      [label="O.B.P",shape=tab,URL="http://code.google.com/p/openbookproject/"];
-    pydoc    [label="Python官方文档",shape=tab,URL="#"];
-        pydocs   [label="Python Document\nPy文档",shape=tab,URL="/obp/pydocs/"];
-            pydocs26 [label="Py文档\nv2.6",fillcolor=gray80,URL="/obp/pydocs/26/"];
-            pydocs3k [label="Py文档\nv3.0",fillcolor=gray80,URL="/obp/pydocs/3000/"];
-            pytut    [label="Python Tutorial\nPy手册中文版",shape=tab,URL="/obp/pytut/"];
-                pytut25  [label="Py手册中文版\nv2.5",fillcolor=gray80,URL="/obp/pytut/25/"];
-                pytut26  [label="Py手册中文版\nv2.6",fillcolor=gray80,URL="/obp/pytut/26/"];
-                pytut3k  [label="Py手册中文版\nv3.0",fillcolor=gray80,URL="/obp/pytut/3000/"];
-    pybook   [label="Py技术图书",shape=tab,URL="#"];
+    pydocs   [label="Python官方文档",shape=tab,URL="/obp/pydocs/"];
+        pydocs26 [label="Py文档v2.6\n中文版",fillcolor=gray80,URL="/obp/pydocs/26/"];
+        pydocs3k [label="Py文档v3.x\n中文版",fillcolor=gray80,URL="/obp/pydocs/3000/"];
+        pytut    [label="Python Tutorial\nPy教程",shape=tab,URL="#"];
+            pytut26  [label="Py教程v2.6\n中文版",fillcolor=gray80,URL="/obp/pydocs/26/tutorial/"];
+            pytut3k  [label="Py教程v3.x\n中文版",fillcolor=gray80,URL="/obp/pydocs/3000/tutorial/"];
+    tbook   [label="技术图书",shape=tab,URL="#"];
         web2py   [label="web2py手册中文版",URL="/obp/web2py/"];
         tpip     [label="TPiP中文版",fillcolor=gray80,URL="/obp/tpip/"];
         leodoc   [label="Leo手册中文版",fillcolor=gray80,URL="/obp/tpip/"];
@@ -83,21 +79,22 @@ $ dot py-k-idx.dot -Tpng -o py-k-idx.png -Tcmapx -o py-k-idx.map
         DEMO->ktrac->TEPs;
         DEMO->MSG   [label="准备ing...",];
     include->KM;
-        KM->blog->zqblog;
-        KM->WPWIKI [label="只读镜像",];
         KM->OBP    [label="night build",];
-            OBP->pydoc  [label="筹备ing...",];
-                pydoc->pytut->pytut25; pytut->pytut26; pytut->pytut3k;
-                pydoc->pydocs->pydocs26; pydocs->pydocs3k;
-            OBP->pybook [label="筹备ing...",];
-                pybook->web2py;
-                pybook->tpip;
-                pybook->leodoc;
+            OBP->pydocs  [label="筹备ing...",];
+                pydocs->pydocs26; pydocs->pydocs3k;
+                pytut->pytut26; pytut->pytut3k;
+                    pydocs26->pytut26; pydocs3k->pytut3k;
+            OBP->tbook [label="筹备ing...",];
+                tbook->web2py;
+                tbook->tpip;
+                tbook->leodoc;
+        KM->blog->zqblog;
+        KM->WPWIKI [label="筹备ing...",];
 
-    pyk->kspeg      [label="运维",];
-    kspeg->author->ZQ;
+    pyk->author      [label="运维",];
+    author->LJ;
+    author->ZQ;
         ZQ->zqblog  [label="分享",];
         ZQ->zqscrap->zqfloss; zqscrap->zqskm;
-        author->LJ;
  }
 
