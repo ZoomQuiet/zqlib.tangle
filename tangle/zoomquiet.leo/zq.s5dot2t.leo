@@ -10,6 +10,19 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
+<v t="zoomq.20100408222312.5717" a="E"><vh>.dot</vh>
+<v t="zoomq.20100408222312.5718" a="E"><vh>@nosent zqbook-map-think.dot</vh>
+<v t="zoomq.20100411141119.6916"><vh>时间轴</vh></v>
+<v t="zoomq.20100408222312.5719"><vh>图元</vh></v>
+<v t="zoomq.20100408222312.5725" a="E"><vh>关系网</vh>
+<v t="zoomq.20100408222312.5720"><vh>关系liv</vh></v>
+<v t="zoomq.20100408222312.5724"><vh>关系tech</vh></v>
+<v t="zoomq.20100408222312.5722"><vh>关系pkm</vh></v>
+</v>
+<v t="zoomq.20100411141119.6917"><vh>时间关系</vh></v>
+<v t="zoomq.20100411141119.6918"><vh>次序隐调</vh></v>
+</v>
+</v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
 <v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
 <v t="zoomq.20100322235812.5543" a="E"><vh>100419-Pythonic</vh>
@@ -17,7 +30,7 @@
 <v t="zoomq.20100405215514.5579"><vh>教育</vh></v>
 <v t="zoomq.20100327110414.5545"><vh>Chat</vh></v>
 </v>
-<v t="zoomq.20100407094145.5664" a="E"><vh>@nosent index.html</vh>
+<v t="zoomq.20100407094145.5664"><vh>@nosent index.html</vh>
 <v t="zoomq.20100407094145.5749"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
 <v t="zoomq.20100407094145.5665"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20100407094145.5666"><vh>embedded styles</vh></v>
@@ -30,7 +43,7 @@
 </v>
 <v t="zoomq.20100407094145.5672"><vh>brief</vh></v>
 <v t="zoomq.20100407094145.5754"><vh>学生</vh>
-<v t="zoomq.20100407094145.5828" a="E"><vh>为什么?</vh>
+<v t="zoomq.20100407094145.5828"><vh>为什么?</vh>
 <v t="zoomq.20100407094145.5830"><vh>在公司!</vh></v>
 <v t="zoomq.20100407094145.5832"><vh>核心差异</vh></v>
 </v>
@@ -43,12 +56,12 @@
 </v>
 <v t="zoomq.20100407094145.5808"><vh>悲惨工作</vh>
 <v t="zoomq.20100407094145.5809"><vh>对策</vh>
-<v t="zoomq.20100407094145.5819"><vh>need0</vh></v>
-<v t="zoomq.20100407094145.5820"><vh>need1</vh></v>
-<v t="zoomq.20100407094145.5821"><vh>need2</vh></v>
-<v t="zoomq.20100407094145.5822"><vh>need3</vh></v>
-<v t="zoomq.20100407094145.5823"><vh>need4</vh></v>
-<v t="zoomq.20100407094145.5824"><vh>need5</vh></v>
+<v t="zoomq.20100407094145.5820"><vh>Who</vh></v>
+<v t="zoomq.20100407094145.5821"><vh>When</vh></v>
+<v t="zoomq.20100407094145.5819"><vh>What</vh></v>
+<v t="zoomq.20100407094145.5822"><vh>Where</vh></v>
+<v t="zoomq.20100407094145.5823"><vh>Why</vh></v>
+<v t="zoomq.20100407094145.5824"><vh>How</vh></v>
 <v t="zoomq.20100407094145.5826"><vh>烈士</vh></v>
 </v>
 <v t="zoomq.20100407094145.5994"><vh>工作的层级</vh></v>
@@ -92,7 +105,7 @@
 <v t="zoomq.20100407094145.6014"><vh>典章常推</vh></v>
 </v>
 <v t="zoomq.20100407094145.5998"><vh>brief</vh></v>
-<v t="zoomq.20100407094145.5741" a="E"><vh>Z.Q</vh>
+<v t="zoomq.20100407094145.5741"><vh>Z.Q</vh>
 <v t="zoomq.20100407094145.5742"><vh>S5</vh></v>
 <v t="zoomq.20100407094145.5745"><vh>version</vh></v>
 <v t="zoomq.20100407094145.5746"><vh>KTRAC广告</vh></v>
@@ -35134,6 +35147,8 @@ Q&amp;A
 &lt;ul&gt;
 &lt;li&gt;版本历史::
     &lt;ul&gt;
+        &lt;li&gt;100411 增补最新好文&lt;/li&gt;
+        &lt;li&gt;100409 修订5W1H 分析&lt;/li&gt;
         &lt;li&gt;100408 追加劝宅...&lt;/li&gt;
         &lt;li&gt;100406 增補寓言故事&lt;/li&gt;
         &lt;li&gt;100404 重整思路，增补细节&lt;/li&gt;
@@ -35849,7 +35864,7 @@ SNS学习原理:3
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队,不背黑锅,就得！
+任意时刻,不背黑锅,就得！
 &lt;div id="sup"&gt;
 必须明确的工程元素!在第一时间!
 &lt;/div&gt;
@@ -35869,16 +35884,14 @@ SNS学习原理:3
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队:日常须知0
+任意任务须知:
 &lt;div id="sup"&gt;
-问题集...
+What 问题集...
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi"&gt;
-有嘛事儿
-&lt;br/&gt;
-What
+&lt;h2 id="takahashi8"&gt;
+要什么
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -35892,16 +35905,14 @@ What
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队:日常须知1
+任意任务须知:
 &lt;div id="sup"&gt;
-人力资源
+Who ...
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi"&gt;
-有嘛人
-&lt;br/&gt;
-Who
+&lt;h2 id="takahashi9"&gt;
+谁
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -35915,17 +35926,14 @@ Who
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队:日常须知2
+任意任务须知:
 &lt;div id="sup"&gt;
-任务限期
+When 任务限期
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi"&gt;
-何时交?
-&lt;br/&gt;
-When
-
+&lt;h2 id="takahashi8"&gt;
+何时
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -35939,17 +35947,14 @@ When
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队:日常须知3
+任意任务须知:
 &lt;div id="sup"&gt;
-甲方...
+环境/背景...
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi"&gt;
-交付给谁
-&lt;br/&gt;
-Where
-
+&lt;h2 id="takahashi8"&gt;
+运行在哪
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -35963,17 +35968,14 @@ Where
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队:日常须知4
+任意任务须知:
 &lt;div id="sup"&gt;
-指标!
+Why ...
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi"&gt;
+&lt;h2 id="takahashi8"&gt;
 咋算作好
-&lt;br/&gt;
-Why
-
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -35987,17 +35989,14 @@ Why
 &lt;a href="http://trac-hacks.org/wiki/KTRAC"&gt;
 &lt;img src="icon/trac-log-s5-h70.png"/&gt;
 &lt;/a&gt;
-任意团队:日常须知5
+任意任务须知:
 &lt;div id="sup"&gt;
 过程
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi"&gt;
+&lt;h2 id="takahashi8"&gt;
 具体咋做
-&lt;br/&gt;
-How
-
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -36017,7 +36016,7 @@ How
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi8"&gt;
+&lt;h2 id="takahashi9"&gt;
 &lt;b class="alert"&gt;烈士&lt;/b&gt;
 &lt;/h2&gt;
 
@@ -36147,7 +36146,7 @@ http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi7"&gt;
+&lt;h2 id="takahashi9"&gt;
 &lt;a href="http://blog.sina.com.cn/s/blog_493a84550100c4ug.html"&gt;
 PKM
 &lt;/a&gt;
@@ -36347,7 +36346,11 @@ http://www.xmind.net/share/zoomquiet/33-session/
     “假学习”和“真学习” - 左岸读书&lt;/a&gt;
     &lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.mifengtd.cn/about"&gt;褪墨&lt;/a&gt;
+&lt;sup&gt;专注GTD&lt;/sup&gt;
     &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hi.baidu.com/wikicc/blog/item/388012f398f2efca0a46e0ac.html"&gt;如何进行人脉管理&lt;/a&gt;
+    &lt;/li&gt;
+
 &lt;/ul&gt;
 
 
@@ -36394,7 +36397,7 @@ http://www.xmind.net/share/zoomquiet/33-session/
     &lt;/li&gt;
 &lt;li&gt;的程序员
     &lt;/li&gt;
-&lt;li&gt;不是好CEO;-}
+&lt;li&gt;不是好CTO;-}
     &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -36402,6 +36405,234 @@ http://www.xmind.net/share/zoomquiet/33-session/
 
     &lt;/div&gt;
 &lt;/div&gt;
+</t>
+<t tx="zoomq.20100408222312.5717">@path dot</t>
+<t tx="zoomq.20100408222312.5718">@language javascript
+@tabwidth -4
+digraph ZqBookG {
+    /*生成命令:
+$ dot -Tpng zqbook-map-think.dot -o zqbook-map-think.png -Tcmapx -o zqbook-map-think.map
+    全局设定
+    */
+    graph [label="&lt;大妈书&gt;选题分析图谱\n {by Zoom.Quiet}",
+        fontsize=12.0,
+        labeljust="r",labelloc="b",center=1,
+        ranksep=0.2,center=1,ratio=compress,
+        rankdir=TB,
+        ];
+
+    node[fontsize=10.0,height=0.1,
+        style=filled,fillcolor=snow,
+        color=darkolivegreen,fontcolor=darkolivegreen,
+        shape=tab,
+        ];
+
+    edge [fontsize=9.0,fontcolor=yellowgreen,
+        fontcolor=gray25,
+        color=gray30,
+		arrowsize=0.5,arrowhead=vee,arrowtail=none,
+        ];
+    /*图元声明
+        start       [label="流程开始/结束",shape=point];
+    end         [label="",shape=doublecircle,fillcolor=red];
+
+    box         [label="实体/对象",shape=box];
+    ellipse     [label="行动/节点",shape=ellipse];
+    egg         [label="用户/人物",shape=egg];
+    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
+    diamond     [label="判别",shape=diamond];
+    note        [label="注释",shape=note];
+    tab         [label="目录/模块",shape=tab];
+    db          [label="数据库",shape=box3d];
+    component   [label="主机/组件",shape=component];
+    */
+    @others
+}
+</t>
+<t tx="zoomq.20100408222312.5719">core [label="核心主题\n依从追求的决择",shape=egg,fontcolor=navy,fillcolor=skyblue,color=skyblue];
+life [label="个人生存住事"];
+    step0 [label="幼年环境"];
+    step1 [label="少年心智"];
+    step2 [label="沉默大学"];
+    step3 [label="职场初哥"];
+    step4 [label="社会态度"];
+
+    sf [label="SiFi"];
+        sfw [label="科幻世界"];
+    maga [label="maga"];
+    lomo [label="lomo"];
+    job [label="工作机会"];
+        lz [label="兰州"];
+        cz [label="常州"];
+        sh [label="上海"];
+        bj [label="北京"];
+        zh [label="珠海"];
+tech [label="技术信仰发展"];
+    asp [label="asp"];
+    floss [label="FLOSS"];
+        php [label="php",fontcolor=snow,fillcolor=darkgreen];
+            mysql [label="mysql"];
+            cms [label="CMS"];
+                nu [label="Nucleus"];
+                xo [label="Xoops"];
+                dr [label="Drupal"];
+                pyb[label="PyBlosxom"];
+        py [label="python"];
+            zope [label="zope"];
+            plone [label="plone"];
+            cherry [label="CherryPy"];
+            karrigell [label="karrigell"];
+            web2py [label="web2py"];
+        erl [label="Erlang"];
+    os [label="OS"];
+    ms [label="M$"];
+        ms95 [label="M$95"];
+        ms98 [label="M$98"];
+        msnt [label="M$NT"];
+        ms2000 [label="M$2000"];
+        ms2003 [label="M$2003"];
+    unix [label="unix"];
+        rh [label="RedHat"];
+        bsd [label="FreeBSD"];
+        ub [label="Ubuntu"];
+            ubdd [label="6.06 LTS Dapper Drake"];
+            ubhh [label="8.04 LTS Hardy Heron"];
+            ubkk [label="9.10 Karmic Koala"];
+pkm [label="知识管理"];
+    paper [label="纸"];
+    page [label="HTML/PDF"];
+    scrap [label="ScrapBook"];
+    leo [label="Leo"];
+    wiki [label="维基"];
+        tw [label="TiddlyWiki"];
+        zim [label="zim"];
+        mm [label="MoinMoin"];
+    spe [label="过程改进",fontcolor=snow,fillcolor=darkgreen];
+    sns [label="SNS"];
+        wp [label="啄木鸟",fontcolor=snow,fillcolor=darkgreen];
+            obp [label="OpenBookProject"];
+        czug [label="CZUG"];
+        cpug [label="CPyUG"];
+        ecug [label="ECUG"];
+            erlo [label="Erloung"];
+        cbc [label="网志年会"];
+        sll [label="SLL.org"];
+        zeuux [label="哲思"];
+        pts [label="珠三角技术沙龙"];
+    gtd [label="GTD"];
+
+
+</t>
+<t tx="zoomq.20100408222312.5720">/*图例关系    
+ksso2-&gt;ksso [arrowtail=none,arrowhead=none,style=dashed]    
+proxy-&gt;staff-&gt;pg    [arrowtail=normal];
+s904-&gt;staff        [arrowhead=dot];
+*/
+life-&gt;lz-&gt;cz;
+life-&gt;step0-&gt;step1-&gt;step2-&gt;step3-&gt;step4 [color=green,style="setlinewidth(3)"];
+    step0-&gt;lz;
+    step1-&gt;sf-&gt;sfw;
+        step1-&gt;maga;
+        step1-&gt;lomo;
+    step2-&gt;cz;
+    lz-&gt;cz-&gt;job-&gt;sh-&gt;bj-&gt;zh [color=blue,style="setlinewidth(3)"];
+        bj-&gt;spe-&gt;zh;
+    lomo-&gt;sh;
+</t>
+<t tx="zoomq.20100408222312.5722">pkm-&gt;paper-&gt;page-&gt;scrap-&gt;leo-&gt;wiki;
+    wiki-&gt;mm-&gt;tw-&gt;zim;
+wiki-&gt;sns;
+    sns-&gt;czug-&gt;wp-&gt;cpug-&gt;sll-&gt;zeuux-&gt;ecug-&gt;pts;
+        wp-&gt;obp;
+        erl-&gt;erlo-&gt;ecug;
+pkm-&gt;gtd-&gt;paper;
+
+
+</t>
+<t tx="zoomq.20100408222312.5724">tech-&gt;asp-&gt;php-&gt;floss;
+floss-&gt;py-&gt;zope-&gt;plone;
+    py-&gt;cherry-&gt;karrigell-&gt;pyb-&gt;web2py;
+
+    php-&gt;mysql-&gt;cms-&gt;nu-&gt;xo-&gt;dr;
+        cms-&gt;plone;
+        nu-&gt;pyb;
+tech-&gt;os-&gt;ms-&gt;ms95-&gt;ms98-&gt;msnt-&gt;ms2000-&gt;ms2003;
+    os-&gt;unix-&gt;rh-&gt;bsd-&gt;ub;
+        ub-&gt;ubdd-&gt;ubhh-&gt;ubkk;
+</t>
+<t tx="zoomq.20100408222312.5725">@others
+core-&gt;tech;
+core-&gt;life;
+/*时间/地域关联关系*/
+cz-&gt;rh;
+bj-&gt;bsd;
+zh-&gt;erl;
+/*FLOSS引发关系*/
+step4-&gt;floss;
+czug-&gt;plone;
+/*PKM引发关系*/
+step4-&gt;pkm;
+    nu-&gt;cbc;
+spe-&gt;sll;
+</t>
+<t tx="zoomq.20100411141119.6916">ttag [label="时间轴",shape=box,];
+ctag [label="",shape=plaintext,];
+1974 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1978 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1981 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1986 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1987 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1990 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1993 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1994 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1996 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1998 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1999 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2000 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2001 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2003 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2004 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2005 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2006 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2007 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2008 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2009 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+
+1974-&gt;1978-&gt;1981-&gt;1986-&gt;1987-&gt;1990-&gt;1993-&gt;1994-&gt;1996-&gt;1998-&gt;1999-&gt;2000-&gt;2001-&gt;2003-&gt;2004-&gt;2005-&gt;2006-&gt;2007-&gt;2008-&gt;2009 [color=gray,style="setlinewidth(4)"];
+
+@others
+
+</t>
+<t tx="zoomq.20100411141119.6917">{ rank=same; ttag   core; }
+{ rank=same; ctag       life tech; }
+{ rank=same; 1974   lz; }
+{ rank=same; 1978       ; }
+{ rank=same; 1981   step0 ; }
+{ rank=same; 1986       sf; }
+{ rank=same; 1987       sfw; }
+{ rank=same; 1990       ; }
+{ rank=same; 1993   step1 ; }
+{ rank=same; 1994   step2 cz; }
+{ rank=same; 1996       ms95 unix; }
+{ rank=same; 1998   step3 job msnt asp; }
+{ rank=same; 1999       rh floss php; }
+{ rank=same; 2000       sh; }
+{ rank=same; 2001       ms2000 py wiki; }
+{ rank=same; 2003   step4 ; }
+{ rank=same; 2004       bj ms2003 wp cpug; }
+{ rank=same; 2005       cbc; }
+{ rank=same; 2006       ubdd pyb ; }
+{ rank=same; 2007       zh erl erlo; }
+{ rank=same; 2008       ecug pts; }
+{ rank=same; 2009       ubkk; }
+
+</t>
+<t tx="zoomq.20100411141119.6918">edge [style=invis];
+    ttag-&gt;ctag-&gt;1974;
+    ctag-&gt;life-&gt;tech;
+    1998-&gt;step3-&gt;job-&gt;ms98-&gt;msnt-&gt;asp;
+
+
 </t>
 </tnodes>
 </leo_file>
