@@ -11,10 +11,10 @@
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
 <v t="zoomq.20100408222312.5717" a="E"><vh>.dot</vh>
-<v t="zoomq.20100408222312.5718" a="E"><vh>@nosent zqbook-map-think.dot</vh>
+<v t="zoomq.20100408222312.5718"><vh>@nosent zqbook-map-think.dot</vh>
 <v t="zoomq.20100411141119.6916"><vh>时间轴</vh></v>
 <v t="zoomq.20100408222312.5719"><vh>图元</vh></v>
-<v t="zoomq.20100408222312.5725" a="E"><vh>关系网</vh>
+<v t="zoomq.20100408222312.5725"><vh>关系网</vh>
 <v t="zoomq.20100408222312.5720"><vh>关系liv</vh></v>
 <v t="zoomq.20100408222312.5724"><vh>关系tech</vh></v>
 <v t="zoomq.20100408222312.5722"><vh>关系pkm</vh></v>
@@ -30,9 +30,9 @@
 <v t="zoomq.20100405215514.5579"><vh>教育</vh></v>
 <v t="zoomq.20100327110414.5545"><vh>Chat</vh></v>
 </v>
-<v t="zoomq.20100407094145.5664"><vh>@nosent index.html</vh>
+<v t="zoomq.20100407094145.5664" a="E"><vh>@nosent index.html</vh>
 <v t="zoomq.20100407094145.5749"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20100407094145.5665"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100407094145.5665" a="E"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20100407094145.5666"><vh>embedded styles</vh></v>
 <v t="zoomq.20100407094145.5667"><vh>.slide+.incremental</vh></v>
 <v t="zoomq.20100407094145.5668"><vh>takahashi</vh></v>
@@ -55,7 +55,7 @@
 </v>
 </v>
 <v t="zoomq.20100407094145.5808"><vh>悲惨工作</vh>
-<v t="zoomq.20100407094145.5809"><vh>对策</vh>
+<v t="zoomq.20100407094145.5809" a="E"><vh>对策</vh>
 <v t="zoomq.20100407094145.5820"><vh>Who</vh></v>
 <v t="zoomq.20100407094145.5821"><vh>When</vh></v>
 <v t="zoomq.20100407094145.5819"><vh>What</vh></v>
@@ -67,7 +67,7 @@
 <v t="zoomq.20100407094145.5994"><vh>工作的层级</vh></v>
 </v>
 <v t="zoomq.20100407094145.5996"><vh>brief</vh></v>
-<v t="zoomq.20100407094145.5992"><vh>PKM</vh>
+<v t="zoomq.20100407094145.5992" a="E"><vh>PKM</vh>
 <v t="zoomq.20100407094145.5758"><vh>KM</vh>
 <v t="zoomq.20100407094145.5800"><vh>WeKnow:1</vh>
 <v t="zoomq.20100407094145.5803"><vh>WeKnow:2</vh></v>
@@ -75,7 +75,7 @@
 </v>
 </v>
 <v t="zoomq.20100407094145.5807"><vh>学习的层级</vh></v>
-<v t="zoomq.20100407094145.5760"><vh>KM:持续改进</vh>
+<v t="zoomq.20100407094145.5760" a="E"><vh>KM:持续改进</vh>
 <v t="zoomq.20100407094145.5766"><vh>坚持:寓言</vh>
 <v t="zoomq.20100407094145.5769"><vh>寓言</vh></v>
 <v t="zoomq.20100407094145.5771"><vh>寓言</vh></v>
@@ -96,7 +96,7 @@
 <v t="zoomq.20100407094145.5795"><vh>期望</vh>
 <v t="zoomq.20100407094145.5797"><vh>GTD</vh></v>
 <v t="zoomq.20100407094145.6002"><vh>做项目吧</vh></v>
-<v t="zoomq.20100407094145.6004"><vh>写博客吧</vh>
+<v t="zoomq.20100407094145.6004" a="E"><vh>写博客吧</vh>
 <v t="zoomq.20100407094145.6012"><vh>沟通法则</vh></v>
 </v>
 <v t="zoomq.20100407094145.6006"><vh>读代码吧</vh></v>
@@ -105,13 +105,14 @@
 <v t="zoomq.20100407094145.6014"><vh>典章常推</vh></v>
 </v>
 <v t="zoomq.20100407094145.5998"><vh>brief</vh></v>
-<v t="zoomq.20100407094145.5741"><vh>Z.Q</vh>
+<v t="zoomq.20100407094145.5741" a="E"><vh>Z.Q</vh>
 <v t="zoomq.20100407094145.5742"><vh>S5</vh></v>
 <v t="zoomq.20100407094145.5745"><vh>version</vh></v>
 <v t="zoomq.20100407094145.5746"><vh>KTRAC广告</vh></v>
 </v>
 <v t="zoomq.20100407094145.5762"><vh>总结7+-2</vh></v>
 <v t="zoomq.20100407094145.5743"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100417183617.5738"><vh>小小鸟</vh></v>
 </v>
 </v>
 <v t="zoomq.20100108150042.4768"><vh>100123-KTRACintro</vh>
@@ -34845,7 +34846,6 @@ b{
     font-size: 115%;
 }
 
-
 /*Zoomq::090401 ziped
 snap#takahashi {
     font-size: 500%;
@@ -35147,6 +35147,7 @@ Q&amp;A
 &lt;ul&gt;
 &lt;li&gt;版本历史::
     &lt;ul&gt;
+        &lt;li&gt;100417 增补小小鸟&lt;/li&gt;
         &lt;li&gt;100411 增补最新好文&lt;/li&gt;
         &lt;li&gt;100409 修订5W1H 分析&lt;/li&gt;
         &lt;li&gt;100408 追加劝宅...&lt;/li&gt;
@@ -35704,7 +35705,7 @@ AKA
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
-    ...
+it-birds.jpg
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
@@ -35954,7 +35955,7 @@ When 任务限期
 &lt;/h1&gt;
 
 &lt;h2 id="takahashi8"&gt;
-运行在哪
+在哪
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -35974,7 +35975,7 @@ Why ...
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi8"&gt;
+&lt;h2 id="takahashi7"&gt;
 咋算作好
 &lt;/h2&gt;
 
@@ -35995,7 +35996,7 @@ Why ...
 &lt;/div&gt;
 &lt;/h1&gt;
 
-&lt;h2 id="takahashi8"&gt;
+&lt;h2 id="takahashi7"&gt;
 具体咋做
 &lt;/h2&gt;
 
@@ -36256,7 +36257,7 @@ http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
 &lt;/a&gt;
 写博客吧
 &lt;div id="sup"&gt;
-&lt;a href="http://blog.donews.com/limodou/archive/2004/12/14/202590.aspx"&gt;[编程杂谈]写写Blog吧 - limodou的学习记录 &lt;/a&gt;
+A:练习表述;B:进入知识圈&lt;a href="http://blog.donews.com/limodou/archive/2004/12/14/202590.aspx"&gt;[编程杂谈]写写Blog吧 - limodou的学习记录 &lt;/a&gt;
 &lt;/div&gt;
 &lt;/h1&gt;
 
@@ -36298,12 +36299,12 @@ http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
 &lt;/a&gt;
 &lt;a href="http://www.xmind.net/share/zoomquiet/33-session/"&gt;会议33制&lt;/a&gt;
 &lt;div id="sup"&gt;
-也是通用的软件工程核心行为模式...
+一切有关沟通！也是通用的软件工程核心行为模式...
 &lt;/div&gt;
 &lt;/h1&gt;
 
 &lt;h2 id="takahashi9"&gt;
-&lt;img src="img/zoomq-2010-04-07-230927_33steps_scrot.png"/&gt;
+&lt;img src="img/zoomq-2010-04-17-201715_3x3steps_scrot.png"/&gt;
 &lt;/h2&gt;
 
     &lt;div class="handout"&gt;
@@ -36633,6 +36634,25 @@ ctag [label="",shape=plaintext,];
     1998-&gt;step3-&gt;job-&gt;ms98-&gt;msnt-&gt;asp;
 
 
+</t>
+<t tx="zoomq.20100417183617.5738">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+最后的最后
+&lt;div id="sup"&gt;
+好书再推荐
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/it-birds.jpg"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
 </t>
 </tnodes>
 </leo_file>

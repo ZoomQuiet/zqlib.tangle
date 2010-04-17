@@ -2,33 +2,39 @@
 <?xml-stylesheet ekr_stylesheet?>
 <leo_file>
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5">
-	<global_window_position top="70" left="1282" height="746" width="1278"/>
+<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
+	<global_window_position top="50" left="50" height="500" width="700"/>
 	<global_log_window_position top="0" left="0" height="0" width="0"/>
 </globals>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="zoomq.20091008173724.1" str_leo_pos="2,0,0,2"><vh>@chapters</vh></v>
+<v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
+<v t="zoomq.20100412163057.2814" a="E"><vh>Misc任务</vh>
+<v t="zoomq.20100412163057.2815" a="E"><vh>病毒样本对比</vh>
+<v t="zoomq.20100412163057.2827" a="E"
+expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
+</v>
+</v>
 <v t="zoomq.20091008173724.2" a="E"><vh>kspeg SA 配置收集</vh>
 <v t="zoomq.20091008174006.28"><vh>_chaos</vh>
 <v t="zoomq.20091008174006.29"><vh>/wpsonline</vh></v>
 <v t="zoomq.20091215180924.3867"><vh>fnmatch</vh></v>
 </v>
-<v t="zoomq.20091215180924.2720"><vh>通用</vh>
-<v t="zoomq.20091215180924.2721"><vh>sa.scripts</vh>
-<v t="zoomq.20091215180924.2723"><vh>turnover</vh>
+<v t="zoomq.20091215180924.2720" a="E"><vh>通用</vh>
+<v t="zoomq.20091215180924.2721" a="E"><vh>sa.scripts</vh>
+<v t="zoomq.20091215180924.2723" a="E"><vh>turnover</vh>
 <v t="zoomq.20091215180924.3300"><vh>@shadow readme.txt</vh></v>
 <v t="zoomq.20091215180924.3292"><vh>@shadow dubabin-ashman.py</vh></v>
 <v t="zoomq.20100114185924.2779"><vh>cfg</vh>
-<v t="zoomq.20091224115947.3329" tnodeList="zoomq.20091224115947.3329"><vh>@nosent dubabin-KIS.cfg</vh></v>
-<v t="zoomq.20100105164748.2775" tnodeList="zoomq.20100105164748.2775"><vh>@nosent dubabin-matters.cfg</vh></v>
-<v t="zoomq.20091224115947.3345" tnodeList="zoomq.20091224115947.3345"><vh>@nosent kupp-turnover.cfg</vh></v>
-<v t="zoomq.20100114185924.2778" tnodeList="zoomq.20100114185924.2778"><vh>@nosent ftp-TestEngine.cfg</vh></v>
+<v t="zoomq.20091224115947.3329"><vh>@nosent dubabin-KIS.cfg</vh></v>
+<v t="zoomq.20100105164748.2775"><vh>@nosent dubabin-matters.cfg</vh></v>
+<v t="zoomq.20091224115947.3345"><vh>@nosent kupp-turnover.cfg</vh></v>
+<v t="zoomq.20100114185924.2778"><vh>@nosent ftp-TestEngine.cfg</vh></v>
 </v>
 <v t="zoomq.20091224115947.3337"><vh>@shadow croncaller.py</vh></v>
-<v t="zoomq.20091224115947.2761"
-expanded="zoomq.20091224115947.2764,zoomq.20091224115947.2766,"><vh>@shadow turnover.py</vh></v>
+<v t="zoomq.20091224115947.2761" a="E"
+expanded="zoomq.20091224115947.2769,"><vh>@shadow turnover.py</vh></v>
 <v t="zoomq.20091215180924.4435"><vh>_tpls</vh>
 <v t="zoomq.20091215180924.4434"><vh>@shadow cronclean.sh</vh></v>
 <v t="zoomq.20091215180924.4437"><vh>@shadow cleanfile.sh</vh></v>
@@ -325,9 +331,9 @@ expanded="zoomq.20091224115947.2764,zoomq.20091224115947.2766,"><vh>@shadow turn
 </v>
 </v>
 </v>
-<v t="zoomq.20100122092723.2783" a="E"><vh>GrasPic</vh>
-<v t="zoomq.20100122092723.2784" a="E"><vh>ellytran.com</vh>
-<v t="zoomq.20100122092723.2797" a="E"><vh>@shadow pic-ellytran.py</vh></v>
+<v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
+<v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
+<v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1314,5 +1320,8 @@ matters:TestEngineCases
 <t tx="zoomq.20100114185924.2779"></t>
 <t tx="zoomq.20100122092723.2783"></t>
 <t tx="zoomq.20100122092723.2784">@path /home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
+<t tx="zoomq.20100412163057.2814"></t>
+<t tx="zoomq.20100412163057.2815">@path /home/zoomq/data/0day-vbox/zoom.quiet/100412-virus-sample-selector
+</t>
 </tnodes>
 </leo_file>
