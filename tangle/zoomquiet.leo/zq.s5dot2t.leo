@@ -38,26 +38,29 @@
 </v>
 </v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
-<v t="zoomq.20100527142434.6470" a="E"><vh>100423-QCon2010-T&amp;D</vh>
-<v t="zoomq.20100527142434.6474" a="E"><vh>@nosent index.html</vh>
-<v t="zoomq.20100527142434.6475"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20100527142434.6476"><vh>&lt;&lt;s5head&gt;&gt;</vh>
-<v t="zoomq.20100527142434.6477"><vh>embedded styles</vh></v>
-<v t="zoomq.20100527142434.6478"><vh>.slide+.incremental</vh></v>
-<v t="zoomq.20100527142434.6479"><vh>takahashi</vh></v>
+<v t="zoomq.20100527142434.6470" a="E"><vh>100610-pycon-pythonicamp</vh>
+<v t="zoomq.20100527142434.6474" a="E"><vh>@shadow index.html</vh></v>
 </v>
-<v t="zoomq.20100527142434.6480"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
-<v t="zoomq.20100527142434.6481"><vh>page0</vh>
-<v t="zoomq.20100527142434.6482"><vh>免责</vh></v>
+<v t="zoomq.20100602201453.5832"><vh>100423-QCon2010-T&amp;D</vh>
+<v t="zoomq.20100602201453.5833"><vh>@nosent index.html</vh>
+<v t="zoomq.20100602201453.5834"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20100602201453.5835"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100602201453.5836"><vh>embedded styles</vh></v>
+<v t="zoomq.20100602201453.5837"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100602201453.5838"><vh>takahashi</vh></v>
 </v>
-<v t="zoomq.20100527142434.6483"><vh>brief</vh></v>
-<v t="zoomq.20100527142434.6484"><vh>TOT</vh></v>
-<v t="zoomq.20100527142434.6543"><vh>DOP</vh></v>
-<v t="zoomq.20100527142434.6536"><vh>S5</vh></v>
-<v t="zoomq.20100527142434.6540"><vh>Q&amp;A</vh></v>
-<v t="zoomq.20100527142434.6541"><vh>小小鸟</vh></v>
-<v t="zoomq.20100527142434.6535"><vh>Z.Q</vh></v>
-<v t="zoomq.20100527142434.6537"><vh>version</vh></v>
+<v t="zoomq.20100602201453.5839"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100602201453.5840"><vh>page0</vh>
+<v t="zoomq.20100602201453.5841"><vh>免责</vh></v>
+</v>
+<v t="zoomq.20100602201453.5842"><vh>brief</vh></v>
+<v t="zoomq.20100602201453.5843"><vh>TOT</vh></v>
+<v t="zoomq.20100602201453.5844"><vh>DOP</vh></v>
+<v t="zoomq.20100602201453.5845"><vh>S5</vh></v>
+<v t="zoomq.20100602201453.5846"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100602201453.5847"><vh>小小鸟</vh></v>
+<v t="zoomq.20100602201453.5848"><vh>Z.Q</vh></v>
+<v t="zoomq.20100602201453.5849"><vh>version</vh></v>
 </v>
 </v>
 <v t="zoomq.20080807095120.28"><vh>ZEUUX:ZPyUG</vh>
@@ -36901,9 +36904,13 @@ ctag [label="",shape=plaintext,];
 
 
 </t>
-<t tx="zoomq.20100527142434.6470">@path 100528-qcon-t-d
+<t tx="zoomq.20100527142434.6470">@path 100610-pycon-pythonicamp
+
 </t>
-<t tx="zoomq.20100527142434.6474">@language html
+<t tx="zoomq.20100602201453.5832">@path 100528-qcon-t-d
+
+</t>
+<t tx="zoomq.20100602201453.5833">@language html
 @tabwidth -4
 
 &lt;&lt;DOCTYPE&gt;&gt;
@@ -36920,14 +36927,14 @@ ctag [label="",shape=plaintext,];
 &lt;/body&gt;
 &lt;/html&gt;
 </t>
-<t tx="zoomq.20100527142434.6475">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+<t tx="zoomq.20100602201453.5834">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
 
 &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
 
 &lt;head&gt;
 </t>
-<t tx="zoomq.20100527142434.6476">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+<t tx="zoomq.20100602201453.5835">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
 
 &lt;meta name="editor" content="Leo 4.6.3 final"/&gt;
 &lt;!-- metadata --&gt;
@@ -36961,7 +36968,7 @@ ctag [label="",shape=plaintext,];
 &lt;div id="header"&gt;&lt;/div&gt;
 
 </t>
-<t tx="zoomq.20100527142434.6477">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+<t tx="zoomq.20100602201453.5836">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
 img {border:0px;}    
 td { font-size: 80%; }
 H1 div#sup{
@@ -37000,7 +37007,7 @@ div#float_logo{
 }
 */
 </t>
-<t tx="zoomq.20100527142434.6478">.said {text-decoration :  line-through; color: #dddddd; }
+<t tx="zoomq.20100602201453.5837">.said {text-decoration :  line-through; color: #dddddd; }
 .next { color: #F8B73E; }
 .wait { color: #385775; font-style : italic ;}
 
@@ -37012,7 +37019,7 @@ DIV#slide0 h3{
     font-size: 300%;
 }
 </t>
-<t tx="zoomq.20100527142434.6479">/* The esp. Effect support 
+<t tx="zoomq.20100602201453.5838">/* The esp. Effect support 
     letter-spacing:-20px;
     width:100%;
     border : 1px dotter #fff;
@@ -37108,7 +37115,7 @@ PRE.takahashi{
 }
 
 </t>
-<t tx="zoomq.20100527142434.6480">
+<t tx="zoomq.20100602201453.5839">
 &lt;div id="footer"&gt;
 &lt;table&gt;
 &lt;tr&gt;
@@ -37132,7 +37139,7 @@ href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳
 
 
 </t>
-<t tx="zoomq.20100527142434.6481">&lt;div class="slide" id="slide0"&gt;
+<t tx="zoomq.20100602201453.5840">&lt;div class="slide" id="slide0"&gt;
 
 &lt;h1&gt;
 QCon 2010
@@ -37150,7 +37157,7 @@ QCon 2010
 
 
 </t>
-<t tx="zoomq.20100527142434.6482">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5841">&lt;div class="slide"&gt;
 &lt;h1&gt; 免责聲明
 &lt;div id="sup"&gt;
 山寨的，非业界公认的，个人体验为基础!
@@ -37187,7 +37194,7 @@ QCon 2010
 
 
 </t>
-<t tx="zoomq.20100527142434.6483">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5842">&lt;div class="slide"&gt;
 &lt;h1&gt;
 &lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
 &lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
@@ -37208,7 +37215,7 @@ QCon 2010
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100527142434.6484">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5843">&lt;div class="slide"&gt;
 &lt;h1&gt;
 &lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
 &lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
@@ -37229,28 +37236,30 @@ TOT
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100527142434.6535">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5844">&lt;div class="slide"&gt;
 &lt;h1&gt;
 &lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
 &lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
 &lt;/a&gt;
-是也乎::
+有关架构/编程
 &lt;div id="sup"&gt;
-任何8g都可以...
+只有面向数据才能长久
 &lt;/div&gt;
-
 &lt;/h1&gt;
-&lt;h2 id="takahashi"&gt;
-&lt;a href="http://zoomquiet.org"&gt;
-&lt;img src="icon/50ren-ZoomQuiet-s5-v800.png"/&gt;
-&lt;/a&gt;
+&lt;h2 id="takahashi7"&gt;
+DOP
+&lt;/h2&gt;
+&lt;h2 id="takahashi3"&gt;
+&lt;b class="alert"&gt;D&lt;/b&gt;ata
+&lt;b class="alert"&gt;O&lt;/b&gt;riented 
+&lt;b class="alert"&gt;P&lt;/b&gt;rogramming
 &lt;/h2&gt;
     &lt;div class="handout"&gt;
-
+    ...
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100527142434.6536">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5845">&lt;div class="slide"&gt;
 &lt;h1&gt; 关于... &lt;/h1&gt;
 
 &lt;ul&gt;
@@ -37281,24 +37290,7 @@ TOT
 &lt;/div&gt;
 
 </t>
-<t tx="zoomq.20100527142434.6537">&lt;div class="slide"&gt;
-&lt;h1&gt;
-&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
-&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
-&lt;/a&gt;
- 文档版本 &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;版本历史::
-    &lt;ul&gt;
-        &lt;li&gt;100527 定案&lt;/li&gt;
-        &lt;li&gt;100426 草案&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-</t>
-<t tx="zoomq.20100527142434.6540">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5846">&lt;div class="slide"&gt;
 &lt;h1&gt;
 &lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
 &lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
@@ -37315,7 +37307,7 @@ Q&amp;A
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100527142434.6541">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5847">&lt;div class="slide"&gt;
 &lt;h1&gt;
 &lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
 &lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
@@ -37336,28 +37328,43 @@ Q&amp;A
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20100527142434.6543">&lt;div class="slide"&gt;
+<t tx="zoomq.20100602201453.5848">&lt;div class="slide"&gt;
 &lt;h1&gt;
 &lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
 &lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
 &lt;/a&gt;
-有关架构/编程
+是也乎::
 &lt;div id="sup"&gt;
-只有面向数据才能长久
+任何8g都可以...
 &lt;/div&gt;
+
 &lt;/h1&gt;
-&lt;h2 id="takahashi7"&gt;
-DOP
-&lt;/h2&gt;
-&lt;h2 id="takahashi3"&gt;
-&lt;b class="alert"&gt;D&lt;/b&gt;ata
-&lt;b class="alert"&gt;O&lt;/b&gt;riented 
-&lt;b class="alert"&gt;P&lt;/b&gt;rogramming
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://zoomquiet.org"&gt;
+&lt;img src="icon/50ren-ZoomQuiet-s5-v800.png"/&gt;
+&lt;/a&gt;
 &lt;/h2&gt;
     &lt;div class="handout"&gt;
-    ...
+
     &lt;/div&gt;
 &lt;/div&gt;
+</t>
+<t tx="zoomq.20100602201453.5849">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+ 文档版本 &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;版本历史::
+    &lt;ul&gt;
+        &lt;li&gt;100527 定案&lt;/li&gt;
+        &lt;li&gt;100426 草案&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
 </t>
 </tnodes>
 </leo_file>
