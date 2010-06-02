@@ -26,8 +26,8 @@ py = {}
 
 import os
 
-blogdir = '/home/zoomq/3hg/pyk.pyblosoxm/zoomquiet'
-#'/home/zoomq/3hg/pyk.pyblosoxm/zoomquiet/cgi/'
+blogdir = '/home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet'
+#'/home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/cgi/'
 #"/home/zoomq/workspace/py-virtualenv/home/blog/"
 
 # Blog configuration
@@ -220,7 +220,7 @@ py["category_item"] = r'<li><a href="%(base_url)s/%(fullcategory)s">%(category)s
 py["entry_extension"] = "xhtml"
 
 #   for foto garllry
-py['imagedata'] = '/home/zoomq/3hg/pyk.pyblosoxm/zoomquiet/_images' #is required by imagefile, and also here.
+py['imagedata'] = '/home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_images' #is required by imagefile, and also here.
 py['gallerytrigger'] = 'gallerytrigger' #is required.
 #py['gallery_use_story_template'] = True/False is optional, defaulting to True.
 

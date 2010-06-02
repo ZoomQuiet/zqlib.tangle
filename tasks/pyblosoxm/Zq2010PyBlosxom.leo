@@ -10,8 +10,8 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20100310084837.5905"><vh>@chapters</vh></v>
-<v t="ZoomQuiet.20060116172141"><vh>运维记要</vh>
-<v t="zoomq.20100319214837.4218"><vh>2010@py.k</vh>
+<v t="ZoomQuiet.20060116172141" a="E"><vh>运维记要</vh>
+<v t="zoomq.20100319214837.4218" a="E"><vh>2010@py.k</vh>
 <v t="zoomq.20100413102905.5772"><vh>静态化发布</vh>
 <v t="zoomq.20100413102905.5776"><vh>批量重整</vh>
 <v t="zoomq.20100413102905.5773"><vh>ask@ZSP</vh></v>
@@ -44,7 +44,7 @@
 <v t="ZoomQuiet.20060113151620"><vh>Hoxide</vh></v>
 <v t="ZoomQuiet.20060117234315"><vh>列表问</vh></v>
 </v>
-<v t="ZoomQuiet.20060113092539" a="E"><vh>PyBlosxom</vh>
+<v t="ZoomQuiet.20060113092539"><vh>PyBlosxom</vh>
 <v t="ZoomQuiet.20060121172947"><vh>通用项</vh>
 <v t="ZoomQuiet.20060128095939"><vh>&lt;&lt;CopyLeft&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060122170916"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
@@ -52,9 +52,9 @@
 <v t="ZoomQuiet.20060122153701.1"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060121172947.1"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
-<v t="ZoomQuiet.20060113092644" a="E"><vh>Blogging</vh>
+<v t="ZoomQuiet.20060113092644"><vh>Blogging</vh>
 <v t="ZoomQuiet.20060306165940"><vh>~stuff</vh></v>
-<v t="ZoomQuiet.20060116170040" a="E"><vh>Zen</vh>
+<v t="ZoomQuiet.20060116170040"><vh>Zen</vh>
 <v t="ZoomQuiet.20060116170040.1"><vh>Chinese</vh>
 <v t="zoomq.20060916180156"><vh>@nosent CCSalon-2006-06-11-14-00.t2t</vh>
 <v t="zoomq.20060916180156.1"><vh>记要</vh></v>
@@ -146,7 +146,7 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20100517221505.4512" a="E"><vh>IOP</vh>
+<v t="zoomq.20100517221505.4512"><vh>IOP</vh>
 <v t="zoomq.20100517221505.4526"><vh>@nosent iop-how2-tenfold-speed-py-script-2010-05-13-19-19.t2t</vh>
 <v t="zoomq.20100517221505.4539"><vh>背景</vh></v>
 <v t="zoomq.20100517221505.4540"><vh>redis-&gt;pickel</vh>
@@ -543,7 +543,7 @@
 </v>
 </v>
 <v t="ZoomQuiet.20060113151604"><vh>hacking</vh>
-<v t="ZoomQuiet.20060123104045"><vh>plugins</vh>
+<v t="ZoomQuiet.20060123104045" a="E"><vh>plugins</vh>
 <v t="zoomq.20100414115206.4559"><vh>@shadow cleant2t.py</vh></v>
 <v t="zoomq.20100414115206.4579"><vh>archives</vh>
 <v t="zoomq.20100414115206.4622"><vh>@shadow pycategories.py</vh></v>
@@ -685,7 +685,7 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060127153926"><vh>core</vh>
+<v t="ZoomQuiet.20060127153926" a="E"><vh>core</vh>
 <v t="zoomq.20100419111908.4968"><vh>@shadow commandline.py</vh></v>
 <v t="zoomq.20100419194136.6232"><vh>@shadow pyblosxom.py</vh></v>
 <v t="zoomq.20100419194136.6284"><vh>@shadow tools.py</vh></v>
