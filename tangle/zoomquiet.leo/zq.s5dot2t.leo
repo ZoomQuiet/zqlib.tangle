@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
-<v t="zoomq.20100408222312.5717" a="E"><vh>.dot</vh>
+<v t="zoomq.20100408222312.5717"><vh>.dot</vh>
 <v t="zoomq.20100408222312.5718"><vh>@nosent zqbook-map-think.dot</vh>
 <v t="zoomq.20100411141119.6916"><vh>时间轴</vh></v>
 <v t="zoomq.20100408222312.5719"><vh>图元</vh></v>
@@ -22,17 +22,53 @@
 <v t="zoomq.20100411141119.6917"><vh>时间关系</vh></v>
 <v t="zoomq.20100411141119.6918"><vh>次序隐调</vh></v>
 </v>
+<v t="zoomq.20100428114251.7240"><vh>@nosent zqtools-mapping.dot</vh>
+<v t="zoomq.20100428114251.7241"><vh>时间轴</vh></v>
+<v t="zoomq.20100428114251.7242"><vh>图元</vh></v>
+<v t="zoomq.20100428114251.7243"><vh>关系网</vh></v>
+<v t="zoomq.20100428114251.7247"><vh>时间关系</vh></v>
+<v t="zoomq.20100428114251.7248"><vh>次序隐调</vh></v>
+</v>
+<v t="zoomq.20100428114251.7255"><vh>@nosent zqtools-mapping-bytime.dot</vh>
+<v t="zoomq.20100428114251.7256"><vh>时间轴</vh></v>
+<v t="zoomq.20100428114251.7257"><vh>图元</vh></v>
+<v t="zoomq.20100428114251.7258"><vh>关系网</vh></v>
+<v t="zoomq.20100428114251.7259"><vh>时间关系</vh></v>
+<v t="zoomq.20100428114251.7260"><vh>次序隐调</vh></v>
+</v>
 </v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
-<v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
-<v t="zoomq.20100322235812.5543" a="E"><vh>100419-Pythonic</vh>
+<v t="zoomq.20100527142434.6470" a="E"><vh>100423-QCon2010-T&amp;D</vh>
+<v t="zoomq.20100527142434.6474" a="E"><vh>@nosent index.html</vh>
+<v t="zoomq.20100527142434.6475"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
+<v t="zoomq.20100527142434.6476"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100527142434.6477"><vh>embedded styles</vh></v>
+<v t="zoomq.20100527142434.6478"><vh>.slide+.incremental</vh></v>
+<v t="zoomq.20100527142434.6479"><vh>takahashi</vh></v>
+</v>
+<v t="zoomq.20100527142434.6480"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100527142434.6481"><vh>page0</vh>
+<v t="zoomq.20100527142434.6482"><vh>免责</vh></v>
+</v>
+<v t="zoomq.20100527142434.6483"><vh>brief</vh></v>
+<v t="zoomq.20100527142434.6484"><vh>TOT</vh></v>
+<v t="zoomq.20100527142434.6543"><vh>DOP</vh></v>
+<v t="zoomq.20100527142434.6536"><vh>S5</vh></v>
+<v t="zoomq.20100527142434.6540"><vh>Q&amp;A</vh></v>
+<v t="zoomq.20100527142434.6541"><vh>小小鸟</vh></v>
+<v t="zoomq.20100527142434.6535"><vh>Z.Q</vh></v>
+<v t="zoomq.20100527142434.6537"><vh>version</vh></v>
+</v>
+</v>
+<v t="zoomq.20080807095120.28"><vh>ZEUUX:ZPyUG</vh>
+<v t="zoomq.20100322235812.5543"><vh>100419-Pythonic</vh>
 <v t="zoomq.20100407094145.5747"><vh>_chaos</vh>
 <v t="zoomq.20100405215514.5579"><vh>教育</vh></v>
 <v t="zoomq.20100327110414.5545"><vh>Chat</vh></v>
 </v>
-<v t="zoomq.20100407094145.5664" a="E"><vh>@nosent index.html</vh>
+<v t="zoomq.20100407094145.5664"><vh>@nosent index.html</vh>
 <v t="zoomq.20100407094145.5749"><vh>&lt;&lt;DOCTYPE&gt;&gt;</vh></v>
-<v t="zoomq.20100407094145.5665" a="E"><vh>&lt;&lt;s5head&gt;&gt;</vh>
+<v t="zoomq.20100407094145.5665"><vh>&lt;&lt;s5head&gt;&gt;</vh>
 <v t="zoomq.20100407094145.5666"><vh>embedded styles</vh></v>
 <v t="zoomq.20100407094145.5667"><vh>.slide+.incremental</vh></v>
 <v t="zoomq.20100407094145.5668"><vh>takahashi</vh></v>
@@ -55,7 +91,7 @@
 </v>
 </v>
 <v t="zoomq.20100407094145.5808"><vh>悲惨工作</vh>
-<v t="zoomq.20100407094145.5809" a="E"><vh>对策</vh>
+<v t="zoomq.20100407094145.5809"><vh>对策</vh>
 <v t="zoomq.20100407094145.5820"><vh>Who</vh></v>
 <v t="zoomq.20100407094145.5821"><vh>When</vh></v>
 <v t="zoomq.20100407094145.5819"><vh>What</vh></v>
@@ -67,7 +103,7 @@
 <v t="zoomq.20100407094145.5994"><vh>工作的层级</vh></v>
 </v>
 <v t="zoomq.20100407094145.5996"><vh>brief</vh></v>
-<v t="zoomq.20100407094145.5992" a="E"><vh>PKM</vh>
+<v t="zoomq.20100407094145.5992"><vh>PKM</vh>
 <v t="zoomq.20100407094145.5758"><vh>KM</vh>
 <v t="zoomq.20100407094145.5800"><vh>WeKnow:1</vh>
 <v t="zoomq.20100407094145.5803"><vh>WeKnow:2</vh></v>
@@ -75,7 +111,7 @@
 </v>
 </v>
 <v t="zoomq.20100407094145.5807"><vh>学习的层级</vh></v>
-<v t="zoomq.20100407094145.5760" a="E"><vh>KM:持续改进</vh>
+<v t="zoomq.20100407094145.5760"><vh>KM:持续改进</vh>
 <v t="zoomq.20100407094145.5766"><vh>坚持:寓言</vh>
 <v t="zoomq.20100407094145.5769"><vh>寓言</vh></v>
 <v t="zoomq.20100407094145.5771"><vh>寓言</vh></v>
@@ -96,7 +132,7 @@
 <v t="zoomq.20100407094145.5795"><vh>期望</vh>
 <v t="zoomq.20100407094145.5797"><vh>GTD</vh></v>
 <v t="zoomq.20100407094145.6002"><vh>做项目吧</vh></v>
-<v t="zoomq.20100407094145.6004" a="E"><vh>写博客吧</vh>
+<v t="zoomq.20100407094145.6004"><vh>写博客吧</vh>
 <v t="zoomq.20100407094145.6012"><vh>沟通法则</vh></v>
 </v>
 <v t="zoomq.20100407094145.6006"><vh>读代码吧</vh></v>
@@ -105,7 +141,7 @@
 <v t="zoomq.20100407094145.6014"><vh>典章常推</vh></v>
 </v>
 <v t="zoomq.20100407094145.5998"><vh>brief</vh></v>
-<v t="zoomq.20100407094145.5741" a="E"><vh>Z.Q</vh>
+<v t="zoomq.20100407094145.5741"><vh>Z.Q</vh>
 <v t="zoomq.20100407094145.5742"><vh>S5</vh></v>
 <v t="zoomq.20100407094145.5745"><vh>version</vh></v>
 <v t="zoomq.20100407094145.5746"><vh>KTRAC广告</vh></v>
@@ -1942,7 +1978,7 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="zoomq.20080523161605"></t>
+<t tx="zoomq.20080523161605">@path s5/</t>
 <t tx="zoomq.20080523161605.1">@language html
 @tabwidth -4
 &lt;&lt;s5head&gt;&gt;
@@ -3654,7 +3690,7 @@ svn merge -r 250:HEAD foo.py
 &lt;/html&gt;
 </t>
 <t tx="zoomq.20080621102004.2">所有 s5,t2t,dot 综合演示资料备案</t>
-<t tx="zoomq.20080807095120.28">@path s5/</t>
+<t tx="zoomq.20080807095120.28"></t>
 <t tx="zoomq.20080919230246.10">&lt;div class="slide"&gt;
 &lt;h1&gt; 文档版本 &lt;/h1&gt;
 &lt;ul&gt;
@@ -35309,7 +35345,7 @@ Kaopulity
     &lt;/li&gt;
 &lt;li&gt;&lt;b class="alert"&gt;p&lt;/b&gt;rocesses
     &lt;/li&gt;
-&lt;li&gt;&lt;b class="alert"&gt;u&lt;/b&gt;sab&lt;b class="alert"&gt;lity&lt;/b&gt;
+&lt;li&gt;&lt;b class="alert"&gt;u&lt;/b&gt;sabi&lt;b class="alert"&gt;lity&lt;/b&gt;
     &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -36651,6 +36687,675 @@ ctag [label="",shape=plaintext,];
 
     &lt;div class="handout"&gt;
 
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100428114251.7240">@language javascript
+@tabwidth -4
+digraph ZqBookG {
+    /*生成命令:
+$ dot -Tpng zqtools-mapping.dot -o zqtools-mapping.png -Tcmapx -o zqtools-mapping.map
+    全局设定
+    color:dimgrey white whitesmoke snow azure yellowgreen darkolivegreen skyblue navy orange indigo khaki
+    */
+    graph [label="大妈工具箱 用途分析图谱\n {by Zoom.Quiet}",
+        labeljust="r",labelloc="t",center=1,
+        ranksep=0.2,ratio=compress,
+        rankdir=TB,
+        ];
+
+    node[fontsize=10.5,
+        height=0.1,
+        style=filled,fillcolor=snow,
+        color=gray70,fontcolor=darkolivegreen,
+        shape=plaintext,
+        ];
+
+    edge [fontsize=9.0,fontcolor=dimgrey,
+        color=dimgrey,arrowsize=0.5,arrowhead=vee,arrowtail=none,
+        ];
+
+
+    /*图元声明
+        start       [label="流程开始/结束",shape=point];
+    end         [label="",shape=doublecircle,fillcolor=red];
+
+    box         [label="实体/对象",shape=box];
+    ellipse     [label="行动/节点",shape=ellipse];
+    egg         [label="用户/人物",shape=egg];
+    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
+    diamond     [label="判别",shape=diamond];
+    note        [label="注释",shape=note];
+    tab         [label="目录/模块",shape=tab];
+    db          [label="数据库",shape=box3d];
+    component   [label="主机/组件",shape=component];
+    */
+    @others
+}
+</t>
+<t tx="zoomq.20100428114251.7241">ttag [label="时间轴",shape=box,];
+ctag [label="",shape=plaintext,];
+1974 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1978 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1981 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1986 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1987 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1990 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1993 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1994 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1996 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1998 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1999 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2000 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2001 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2003 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2004 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2005 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2006 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2007 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2008 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2009 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+
+1974-&gt;1978-&gt;1981-&gt;1986-&gt;1987-&gt;1990-&gt;1993-&gt;1994-&gt;1996-&gt;1998-&gt;1999-&gt;2000-&gt;2001-&gt;2003-&gt;2004-&gt;2005-&gt;2006-&gt;2007-&gt;2008-&gt;2009 [color=gray,style="setlinewidth(4)"];
+
+@others
+
+</t>
+<t tx="zoomq.20100428114251.7242">in [label="Import",shape=tab];
+out [label="Export",shape=tab];
+in [label="Import",shape=tab];
+</t>
+<t tx="zoomq.20100428114251.7243">@others
+
+</t>
+<t tx="zoomq.20100428114251.7247">{ rank=same; ttag   ; }
+{ rank=same; ctag   ; }
+{ rank=same; 1974   ; }
+{ rank=same; 1978       ; }
+{ rank=same; 1981   ; }
+{ rank=same; 1986   ; }
+{ rank=same; 1987   ; }
+{ rank=same; 1990       ; }
+{ rank=same; 1993   ; }
+{ rank=same; 1994   ; }
+{ rank=same; 1996   ; }
+{ rank=same; 1998   ; }
+{ rank=same; 1999   ; }
+{ rank=same; 2000   ; }
+{ rank=same; 2001   ; }
+{ rank=same; 2003   ; }
+{ rank=same; 2004   ; }
+{ rank=same; 2005   ; }
+{ rank=same; 2006   ; }
+{ rank=same; 2007   ; }
+{ rank=same; 2008   ; }
+{ rank=same; 2009   ; }
+
+</t>
+<t tx="zoomq.20100428114251.7248">edge [style=invis];
+    ttag-&gt;ctag-&gt;1974;
+
+
+</t>
+<t tx="zoomq.20100428114251.7255">@language javascript
+@tabwidth -4
+digraph ZqBookG {
+    /*生成命令:
+$ dot -Tpng zqtools-mapping.dot -o zqtools-mapping.png -Tcmapx -o zqtools-mapping.map
+    全局设定
+    color:dimgrey white whitesmoke snow azure yellowgreen darkolivegreen skyblue navy orange indigo khaki
+    */
+    graph [label="大妈工具箱 用途分析图谱\n {by Zoom.Quiet}",
+        labeljust="r",labelloc="t",center=1,
+        ranksep=0.2,ratio=compress,
+        rankdir=TB,
+        ];
+
+    node[fontsize=10.5,
+        height=0.1,
+        style=filled,fillcolor=snow,
+        color=gray70,fontcolor=darkolivegreen,
+        shape=plaintext,
+        ];
+
+    edge [fontsize=9.0,fontcolor=dimgrey,
+        color=dimgrey,arrowsize=0.5,arrowhead=vee,arrowtail=none,
+        ];
+
+
+    /*图元声明
+        start       [label="流程开始/结束",shape=point];
+    end         [label="",shape=doublecircle,fillcolor=red];
+
+    box         [label="实体/对象",shape=box];
+    ellipse     [label="行动/节点",shape=ellipse];
+    egg         [label="用户/人物",shape=egg];
+    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
+    diamond     [label="判别",shape=diamond];
+    note        [label="注释",shape=note];
+    tab         [label="目录/模块",shape=tab];
+    db          [label="数据库",shape=box3d];
+    component   [label="主机/组件",shape=component];
+    */
+    @others
+}
+</t>
+<t tx="zoomq.20100428114251.7256">ttag [label="时间轴",shape=box,];
+ctag [label="",shape=plaintext,];
+1974 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1978 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1981 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1986 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1987 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1990 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1993 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1994 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1996 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1998 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1999 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2000 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2001 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2003 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2004 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2005 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2006 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2007 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2008 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2009 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+
+1974-&gt;1978-&gt;1981-&gt;1986-&gt;1987-&gt;1990-&gt;1993-&gt;1994-&gt;1996-&gt;1998-&gt;1999-&gt;2000-&gt;2001-&gt;2003-&gt;2004-&gt;2005-&gt;2006-&gt;2007-&gt;2008-&gt;2009 [color=gray,style="setlinewidth(4)"];
+
+@others
+
+</t>
+<t tx="zoomq.20100428114251.7257"></t>
+<t tx="zoomq.20100428114251.7258">@others
+
+</t>
+<t tx="zoomq.20100428114251.7259">{ rank=same; ttag   ; }
+{ rank=same; ctag   ; }
+{ rank=same; 1974   ; }
+{ rank=same; 1978       ; }
+{ rank=same; 1981   ; }
+{ rank=same; 1986   ; }
+{ rank=same; 1987   ; }
+{ rank=same; 1990       ; }
+{ rank=same; 1993   ; }
+{ rank=same; 1994   ; }
+{ rank=same; 1996   ; }
+{ rank=same; 1998   ; }
+{ rank=same; 1999   ; }
+{ rank=same; 2000   ; }
+{ rank=same; 2001   ; }
+{ rank=same; 2003   ; }
+{ rank=same; 2004   ; }
+{ rank=same; 2005   ; }
+{ rank=same; 2006   ; }
+{ rank=same; 2007   ; }
+{ rank=same; 2008   ; }
+{ rank=same; 2009   ; }
+
+</t>
+<t tx="zoomq.20100428114251.7260">edge [style=invis];
+    ttag-&gt;ctag-&gt;1974;
+
+
+</t>
+<t tx="zoomq.20100527142434.6470">@path 100528-qcon-t-d
+</t>
+<t tx="zoomq.20100527142434.6474">@language html
+@tabwidth -4
+
+&lt;&lt;DOCTYPE&gt;&gt;
+&lt;title&gt;QCon2010:T&amp;D(powered by S5)&lt;/title&gt;
+
+&lt;&lt;s5head&gt;&gt;
+&lt;&lt;footer&gt;&gt;
+&lt;/div&gt;&lt;!-- class="layout"--&gt;
+&lt;div class="presentation"&gt;
+
+@others
+
+&lt;/div&gt;&lt;!--class="presentation"--&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</t>
+<t tx="zoomq.20100527142434.6475">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;head&gt;
+</t>
+<t tx="zoomq.20100527142434.6476">&lt;META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"&gt;
+
+&lt;meta name="editor" content="Leo 4.6.3 final"/&gt;
+&lt;!-- metadata --&gt;
+&lt;meta name="generator" content="S5" /&gt;
+&lt;meta name="version" content="S5 1.1" /&gt;
+&lt;meta name="presdate" content="20100405" /&gt;
+&lt;meta name="author" content="Eric A. Meyer" /&gt;
+&lt;meta name="company" content="Complex Spiral Consulting" /&gt;
+&lt;!-- configuration parameters --&gt;
+&lt;meta name="defaultView" content="slideshow" /&gt;
+&lt;meta name="controlVis" content="hidden" /&gt;
+&lt;!-- style sheet links --&gt;
+&lt;link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" /&gt;
+&lt;link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" /&gt;
+&lt;link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" /&gt;
+&lt;link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" /&gt;
+
+&lt;!-- embedded styles --&gt;
+&lt;style type="text/css" media="all"&gt;
+@others
+&lt;/style&gt;
+
+&lt;!-- S5 JS --&gt;
+&lt;script src="ui/default/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div class="layout"&gt;
+&lt;div id="controls"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="currentSlide"&gt;&lt;!-- DO NOT EDIT --&gt;&lt;/div&gt;
+&lt;div id="header"&gt;&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100527142434.6477">/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for default*/
+img {border:0px;}    
+td { font-size: 80%; }
+H1 div#sup{
+    position :  absolute; top:0;right:3%;
+    margin-top: -20px;
+    font-size: 12px; font-style : italic ;
+    color: #385775;
+}
+li sup{display :  inline;
+    font-size: 80%; font-style : italic ;}
+li sub{display :  inline;
+    font-size: 80%; font-style : italic ;
+    color: #eeeeee; }
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for esp.*/
+b.alert{
+    color:#F5003D;
+}
+b{
+    font-size: 115%;
+}
+
+/*Zoomq::090401 ziped
+snap#takahashi {
+    font-size: 500%;
+    letter-spacing:20px;
+    color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 .5em 0;
+    }
+div#float_logo{
+    position : absolute;
+    top:0px;
+    left:0px;
+}
+*/
+</t>
+<t tx="zoomq.20100527142434.6478">.said {text-decoration :  line-through; color: #dddddd; }
+.next { color: #F8B73E; }
+.wait { color: #385775; font-style : italic ;}
+
+.incremental, .incremental *, .incremental *:after {color: #385775; visibility: visible;}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for slide*/
+.slide .current {color: #F8B73E;}
+.slide H1{color:#B7B7DC;}
+DIV#slide0 h3{
+    font-size: 300%;
+}
+</t>
+<t tx="zoomq.20100527142434.6479">/* The esp. Effect support 
+    letter-spacing:-20px;
+    width:100%;
+    border : 1px dotter #fff;
+takahashi ~ 高桥流 大字演示
+*/
+#takahashi0 {
+    font-size: 120%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi1 {
+    font-size: 150%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi2 {
+    font-size: 200%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    margin: 5px 0 0 0;
+    padding: 0 0 0 2em;
+    }
+#takahashi3 {
+    font-size: 300%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 10px 0 0 0;
+    padding: 0;
+    }
+#takahashi4 {
+    font-size: 400%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 20px 0 0 0;
+    padding: 0;
+    }
+#takahashi5 {
+    font-size: 500%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center; 
+    margin: 30px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi {
+    font-size: 600%;font-weight :  bolder;
+    text-align: center; 
+    word-spacing: 0px;letter-spacing: -4px;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+#takahashi7 {
+    font-size: 700%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi8 {
+    font-size: 800%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+#takahashi9 {
+    font-size: 1000%;font-weight :  bolder;
+    word-spacing: 0px;letter-spacing: -4px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0 0 0;
+    padding: 0;
+    }
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for UL*/
+ul#takahashi{
+    font-size: 180%;
+    letter-spacing:-2px;
+}
+ul.tinylist{
+    font-size: 80%;
+    letter-spacing:-2px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ for PRE */
+PRE.takahashi{
+    font-size: 150%;
+}
+
+</t>
+<t tx="zoomq.20100527142434.6480">
+&lt;div id="footer"&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a target="_blank"  href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+Zoom.Quiet&lt;/a&gt;
+&lt;br/&gt;
+v10.5.17
+&lt;/td&gt;
+&lt;td rowspan="2"&gt;
+&lt;a  target="_blank" style="background-color:;" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh"&gt;
+&lt;img src="icon/cc-byncnd-88x31.png"/&gt;
+&lt;/a&gt;
+推荐使用&lt;a  target="_blank"
+href="http://www.mozilla.org.cn"&gt;FireFox&lt;/a&gt;兼容浏览器获得最佳体验!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+    &lt;div id="controls"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100527142434.6481">&lt;div class="slide" id="slide0"&gt;
+
+&lt;h1&gt;
+QCon 2010
+&lt;/h1&gt;
+&lt;h3&gt;
+~亲历体验
+&lt;/h3&gt;
+
+&lt;br/&gt;
+&lt;h4&gt;资深大妈::&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;br/&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100527142434.6482">&lt;div class="slide"&gt;
+&lt;h1&gt; 免责聲明
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+        &lt;img src="id/zoomquiet_1-1_outline.png"&gt;
+    &lt;/a&gt;参考所有同好行为总结而得
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;ul&gt;
+        &lt;li&gt; 一切资料来自网络互动挖掘
+        &lt;li&gt; 一切想法来自日常学习工作
+        &lt;li&gt; 一切体悟来自各种沟通交流
+        &lt;li&gt; 一切知识来自社区分享印证
+        &lt;li&gt; 一切经验来自个人失败体验
+        &lt;br/&gt; ......
+    &lt;/ul&gt;
+
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/zeuux-logov2red_90h.png"/&gt;&lt;/center&gt;
+&lt;/center&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100527142434.6483">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+概述::
+&lt;div id="sup"&gt;
+现状/体验/建议
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;sup&gt;+10'&lt;/sup&gt; TOT&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+10'&lt;/sup&gt; DOP&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;+10'&lt;/sup&gt; 现场交流&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100527142434.6484">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+有关讲演
+&lt;div id="sup"&gt;
+只有真诚才能打动人
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi9"&gt;
+TOT
+&lt;/h2&gt;
+&lt;h2 id="takahashi3"&gt;
+&lt;b class="alert"&gt;T&lt;/b&gt;ruly &lt;b class="alert"&gt;O&lt;/b&gt;riented &lt;b class="alert"&gt;T&lt;/b&gt;alking
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100527142434.6535">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+是也乎::
+&lt;div id="sup"&gt;
+任何8g都可以...
+&lt;/div&gt;
+
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://zoomquiet.org"&gt;
+&lt;img src="icon/50ren-ZoomQuiet-s5-v800.png"/&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100527142434.6536">&lt;div class="slide"&gt;
+&lt;h1&gt; 关于... &lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幻灯展示: 
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.meyerweb.com/eric/tools/s5/"&gt;
+    &lt;img src="pix/S5icon.GIF" /&gt;
+    S&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; : A Simple Standards-Based Slide Show System
+    &lt;li&gt; 纯HTML 幻灯效果工具 &lt;a href="s5.html"&gt;本地介绍页面&lt;/a&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;li&gt;编写环境: 
+    &lt;span style="float:right;"&gt;&lt;img src="pix/2010-01-18-230729_605x421_leo.png" /&gt;
+    &lt;/span&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://wiki.woodpecker.org.cn/moin/LeoEnvironment"&gt;
+    &lt;img src="pix/LeoProse.gif" /&gt;Leo&lt;/a&gt; : 
+
+
+    &lt;br/&gt;文学编程环境
+    &lt;li&gt; 纯Python 编写的通用编辑环境
+
+
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100527142434.6537">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+ 文档版本 &lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;版本历史::
+    &lt;ul&gt;
+        &lt;li&gt;100527 定案&lt;/li&gt;
+        &lt;li&gt;100426 草案&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100527142434.6540">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+&lt;div id="sup"&gt;
+山寨的，非业界公认的，个人体验为基础!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2  id="takahashi8"&gt;
+Q&amp;A
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100527142434.6541">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+最后的最后
+&lt;div id="sup"&gt;
+好书推荐
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;a href="http://book.douban.com/subject/4760725/"&gt;
+&lt;img src="img/s4279952.jpg"/&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100527142434.6543">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+有关架构/编程
+&lt;div id="sup"&gt;
+只有面向数据才能长久
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi7"&gt;
+DOP
+&lt;/h2&gt;
+&lt;h2 id="takahashi3"&gt;
+&lt;b class="alert"&gt;D&lt;/b&gt;ata
+&lt;b class="alert"&gt;O&lt;/b&gt;riented 
+&lt;b class="alert"&gt;P&lt;/b&gt;rogramming
+&lt;/h2&gt;
+    &lt;div class="handout"&gt;
+    ...
     &lt;/div&gt;
 &lt;/div&gt;
 </t>

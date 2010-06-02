@@ -42,12 +42,12 @@ $ dot py-k-idx.dot -Tpng -o py-k-idx.png -Tcmapx -o py-k-idx.map
         URL="http://trac-hacks.org/wiki/richard"];
     ZQ       [label="Zoom.Quiet",shape=egg,fillcolor=none,
         URL="http://zoomquiet.org"];
-        zqblog   [label="pythonic livin\nby PyBlosxom",URL="/zq/pyb/"];
+        zqblog   [label="pythonic livin\nby PyBlosxom",URL="http://blog.zoomquiet.org/"];
         zqscrap  [label="ScrapBook\n网页收集分享",shape=tab,URL="#"];
             zqfloss   [label="FLOSS",shape=tab,URL="/zq/scrap/floss/"];
             zqskm    [label="SKM",shape=tab,URL="/zq/scrap/skm/"];
     blog     [label="Blogging",shape=tab,URL="#"];
-    WPWIKI   [label="啄木鸟维基\n只读镜像",fillcolor=gray80,URL="/wiki"];
+    WPWIKI   [label="啄木鸟维基\n只读镜像",fillcolor=gray80,URL="#"];
     
     DEMO     [label="作品集锦",shape=tab,URL="#"];
         ktrac    [label="KTRAC",URL="http://trac-hacks.org/wiki/KTRAC"];
@@ -65,8 +65,8 @@ $ dot py-k-idx.dot -Tpng -o py-k-idx.png -Tcmapx -o py-k-idx.map
             pytut3k  [label="Py教程v3.x\n中文版",fillcolor=gray80,URL="/obp/pydocs/3000/tutorial/"];
     tbook   [label="技术图书",shape=tab,URL="#"];
         web2py   [label="web2py手册中文版",URL="/obp/web2py/"];
-        tpip     [label="TPiP中文版",fillcolor=gray80,URL="/obp/tpip/"];
-        leodoc   [label="Leo手册中文版",fillcolor=gray80,URL="/obp/tpip/"];
+        tpip     [label="TPiP中文版",fillcolor=gray80,URL="/obp/tpip_zh/"];
+        leodoc   [label="Leo手册中文版",fillcolor=gray80,URL="http://obp.stdyun.com/leo_doc_zh/"];
 
     /*服务关系
     DEMO->TB;

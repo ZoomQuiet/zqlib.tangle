@@ -16,14 +16,14 @@
 expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
 </v>
 </v>
-<v t="zoomq.20091008173724.2" a="E"><vh>kspeg SA 配置收集</vh>
+<v t="zoomq.20091008173724.2"><vh>kspeg SA 配置收集</vh>
 <v t="zoomq.20091008174006.28"><vh>_chaos</vh>
 <v t="zoomq.20091008174006.29"><vh>/wpsonline</vh></v>
 <v t="zoomq.20091215180924.3867"><vh>fnmatch</vh></v>
 </v>
-<v t="zoomq.20091215180924.2720" a="E"><vh>通用</vh>
-<v t="zoomq.20091215180924.2721" a="E"><vh>sa.scripts</vh>
-<v t="zoomq.20091215180924.2723" a="E"><vh>turnover</vh>
+<v t="zoomq.20091215180924.2720"><vh>通用</vh>
+<v t="zoomq.20091215180924.2721"><vh>sa.scripts</vh>
+<v t="zoomq.20091215180924.2723"><vh>turnover</vh>
 <v t="zoomq.20091215180924.3300"><vh>@shadow readme.txt</vh></v>
 <v t="zoomq.20091215180924.3292"><vh>@shadow dubabin-ashman.py</vh></v>
 <v t="zoomq.20100114185924.2779"><vh>cfg</vh>
@@ -33,8 +33,7 @@ expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
 <v t="zoomq.20100114185924.2778"><vh>@nosent ftp-TestEngine.cfg</vh></v>
 </v>
 <v t="zoomq.20091224115947.3337"><vh>@shadow croncaller.py</vh></v>
-<v t="zoomq.20091224115947.2761" a="E"
-expanded="zoomq.20091224115947.2769,"><vh>@shadow turnover.py</vh></v>
+<v t="zoomq.20091224115947.2761"><vh>@shadow turnover.py</vh></v>
 <v t="zoomq.20091215180924.4435"><vh>_tpls</vh>
 <v t="zoomq.20091215180924.4434"><vh>@shadow cronclean.sh</vh></v>
 <v t="zoomq.20091215180924.4437"><vh>@shadow cleanfile.sh</vh></v>
