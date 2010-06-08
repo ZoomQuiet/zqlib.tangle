@@ -37,9 +37,17 @@
 <v t="zoomq.20100428114251.7260"><vh>次序隐调</vh></v>
 </v>
 </v>
+<v t="zoomq.20100608162108.5859"><vh>takahashi.xul</vh>
+<v t="zoomq.20100608162108.5862"><vh>100610-pycon-pythonicamp@ZqLib</vh>
+<v t="zoomq.20100608162108.5860"><vh>@shadow takahashi.xul</vh></v>
+</v>
+</v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
-<v t="zoomq.20100527142434.6470" a="E"><vh>100610-pycon-pythonicamp</vh>
+<v t="zoomq.20100527142434.6470" a="E"><vh>100610-pycon-pythonicamp@ZqLib</vh>
 <v t="zoomq.20100527142434.6474" a="E"><vh>@shadow index.html</vh></v>
+</v>
+<v t="zoomq.20100603095331.5850"><vh>100610-pycon-pythonicamp@OBP</vh>
+<v t="zoomq.20100527142434.6474" a="E"></v>
 </v>
 <v t="zoomq.20100602201453.5832"><vh>100423-QCon2010-T&amp;D</vh>
 <v t="zoomq.20100602201453.5833"><vh>@nosent index.html</vh>
@@ -37366,5 +37374,10 @@ Q&amp;A
 &lt;/div&gt;
 
 </t>
+<t tx="zoomq.20100603095331.5850">@path /home/zoomq/workspace/0penproj.s/googlecode.com/OBP/tasks/PyCon2010asia/100610-pycon-pythonicamp
+
+</t>
+<t tx="zoomq.20100608162108.5859">@path xul</t>
+<t tx="zoomq.20100608162108.5862">@path 100610-pycon-pythonicamp</t>
 </tnodes>
 </leo_file>
