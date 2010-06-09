@@ -43,10 +43,10 @@
 </v>
 </v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
-<v t="zoomq.20100527142434.6470" a="E"><vh>100610-pycon-pythonicamp@ZqLib</vh>
+<v t="zoomq.20100527142434.6470"><vh>100610-pycon-pythonicamp@ZqLib</vh>
 <v t="zoomq.20100527142434.6474" a="E"><vh>@shadow index.html</vh></v>
 </v>
-<v t="zoomq.20100603095331.5850"><vh>100610-pycon-pythonicamp@OBP</vh>
+<v t="zoomq.20100603095331.5850" a="E"><vh>100610-pycon-pythonicamp@OBP</vh>
 <v t="zoomq.20100527142434.6474" a="E"></v>
 </v>
 <v t="zoomq.20100602201453.5832"><vh>100423-QCon2010-T&amp;D</vh>
