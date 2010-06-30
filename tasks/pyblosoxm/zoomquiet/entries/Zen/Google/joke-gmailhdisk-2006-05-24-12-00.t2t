@@ -1,6 +1,6 @@
 Gmail的硬盘
 --IT笑话
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8

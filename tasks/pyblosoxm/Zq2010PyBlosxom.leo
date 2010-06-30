@@ -11,7 +11,7 @@
 <vnodes>
 <v t="zoomq.20100310084837.5905"><vh>@chapters</vh></v>
 <v t="ZoomQuiet.20060116172141" a="E"><vh>运维记要</vh>
-<v t="zoomq.20100319214837.4218" a="E"><vh>2010@py.k</vh>
+<v t="zoomq.20100319214837.4218"><vh>2010@py.k</vh>
 <v t="zoomq.20100413102905.5772"><vh>静态化发布</vh>
 <v t="zoomq.20100413102905.5776"><vh>批量重整</vh>
 <v t="zoomq.20100413102905.5773"><vh>ask@ZSP</vh></v>
@@ -44,7 +44,7 @@
 <v t="ZoomQuiet.20060113151620"><vh>Hoxide</vh></v>
 <v t="ZoomQuiet.20060117234315"><vh>列表问</vh></v>
 </v>
-<v t="ZoomQuiet.20060113092539"><vh>PyBlosxom</vh>
+<v t="ZoomQuiet.20060113092539" a="E"><vh>PyBlosxom</vh>
 <v t="ZoomQuiet.20060121172947"><vh>通用项</vh>
 <v t="ZoomQuiet.20060128095939"><vh>&lt;&lt;CopyLeft&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060122170916"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
@@ -69,7 +69,7 @@
 </v>
 <v t="zoomq.20060916180156.9"><vh>结论</vh></v>
 <v t="zoomq.20060916180156.10"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
-<v t="zoomq.20060916180156.11"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
 <v t="zoomq.20060916180156.12"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
 <v t="ZoomQuiet.20060515104812"><vh>@nosent winbx-IMEstory-2006-05-15-12-00.t2t</vh>
@@ -95,13 +95,20 @@
 </v>
 </v>
 <v t="ZoomQuiet.20060125172237"><vh>Google</vh>
-<v t="zoomq.20100414115206.4546"><vh>@nosent joke-gmailhdisk-2006-05-24-12-00.t2t</vh></v>
-<v t="zoomq.20100414115206.4547"><vh>@nosent ssbsGAE-zqlib-web2py-2008-05-08-19-00.t2t</vh></v>
+<v t="zoomq.20100414115206.4546" a="E"><vh>@nosent joke-gmailhdisk-2006-05-24-12-00.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
+<v t="zoomq.20100414115206.4547" a="E"><vh>@nosent ssbsGAE-zqlib-web2py-2008-05-08-19-00.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
 </v>
 <v t="ZoomQuiet.20060116170108.1"><vh>pythonic</vh>
-<v t="ZoomQuiet.20060125103000"><vh>示例</vh>
+<v t="zoomq.20100630152750.4000"><vh>@nosent leo-py25-bad-chinese-2007-04-27-18-00.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
+<v t="ZoomQuiet.20060125103000" a="E"><vh>示例</vh>
 <v t="ZoomQuiet.20060113160325"><vh>@nosent py-code-rule-2005-06-01-23-23.t2t</vh>
-<v t="ZoomQuiet.20060113160524"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060113160524.1"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060113160325.1"><vh>&lt;&lt;介绍&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060113160325.2"><vh>&lt;&lt;Foolish&gt;&gt;</vh></v>
@@ -185,7 +192,9 @@
 <v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060125173931.4"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100414115206.4549"><vh>@nosent solaris-fs-choice-2008-04-23-21-43.t2t</vh></v>
+<v t="zoomq.20100414115206.4549" a="E"><vh>@nosent solaris-fs-choice-2008-04-23-21-43.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
 <v t="ZoomQuiet.20060116170150"><vh>CPyUG</vh></v>
 <v t="ZoomQuiet.20060410130427"><vh>FreeBSD</vh>
 <v t="ZoomQuiet.20060410185041"><vh>@nosent gnn-beijing-2006-04-09-15-00.t2t</vh>
@@ -200,28 +209,29 @@
 <v t="ZoomQuiet.20060125175729"><vh>@nosent FFoxSearchplugins-2006-01-04-23-23.t2t</vh>
 <v t="ZoomQuiet.20060125175729.1"><vh>定制tips</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060125175729.6"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100414115206.4548"><vh>@nosent ff3pre-upgrade-ko-2008-04-21-12-33.t2t</vh></v>
+<v t="zoomq.20100414115206.4548"><vh>@nosent ff3pre-upgrade-ko-2008-04-21-12-33.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
 </v>
 <v t="ZoomQuiet.20060125172634"><vh>Thunderbird</vh></v>
 </v>
 <v t="zoomq.20100414115206.4541"><vh>Ubuntu</vh>
-<v t="zoomq.20100414115206.4550"><vh>@nosent ff-to-gg-2007-10-22-23-43.t2t</vh>
+<v t="zoomq.20100414115206.4550" a="E"><vh>@nosent ff-to-gg-2007-10-22-23-43.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
-<v t="zoomq.20100414115206.4551"><vh>@nosent hardy-heron-9day-2008-04-15-10-15.t2t</vh>
+<v t="zoomq.20100414115206.4551" a="E"><vh>@nosent hardy-heron-9day-2008-04-15-10-15.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
-<v t="zoomq.20100414115206.4552"><vh>@nosent terror-fs-luckly-reiserfs-2007-06-15-23-43.t2t</vh>
+<v t="zoomq.20100414115206.4552" a="E"><vh>@nosent terror-fs-luckly-reiserfs-2007-06-15-23-43.t2t</vh>
 <v t="zoomq.20100414115206.4730"><vh>正文</vh></v>
 <v t="zoomq.20100414115206.4729"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
 </v>
-<v t="zoomq.20100414115206.4553"><vh>@nosent ubuntu-release-party-bj-2006-11-02-17-30.t2t</vh>
+<v t="zoomq.20100414115206.4553" a="E"><vh>@nosent ubuntu-release-party-bj-2006-11-02-17-30.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
 <v t="zoomq.20100414115206.4554"><vh>@nosent upgrade-into-feisty-2007-05-11-13-43.t2t</vh>
@@ -244,7 +254,7 @@
 </v>
 <v t="ZoomQuiet.20060116170040.4"><vh>Quiet</vh>
 <v t="ZoomQuiet.20060118005001"><vh>foto</vh></v>
-<v t="ZoomQuiet.20060116170330"><vh>living</vh>
+<v t="ZoomQuiet.20060116170330" a="E"><vh>living</vh>
 <v t="ZoomQuiet.20060308100814"><vh>@nosent dahua-dialect-2006-05-10-17-00.t2t</vh>
 <v t="ZoomQuiet.20060308100814.1"><vh>log</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
@@ -253,7 +263,7 @@
 </v>
 <v t="ZoomQuiet.20060510172623"><vh>@nosent womanday-2006-03-08-10-00.t2t</vh>
 <v t="ZoomQuiet.20060510172623.1"><vh>log</vh></v>
-<v t="ZoomQuiet.20060510172623.2"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060510172623.3"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060510172623.4"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
@@ -262,7 +272,9 @@
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
 </v>
-<v t="zoomq.20100414115206.4555"><vh>@nosent lone-vs-love-2008-04-07-24-21.t2t</vh></v>
+<v t="zoomq.20100414115206.4555"><vh>@nosent lone-vs-love-2008-04-07-24-21.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
 </v>
 <v t="ZoomQuiet.20060116170330.1"><vh>nomeans</vh>
 <v t="ZoomQuiet.20060604164954"><vh>@nosent liling-father-2006-06-04-16-00.t2t</vh>
@@ -303,18 +315,18 @@
 <v t="ZoomQuiet.20060116170643"><vh>py4str</vh>
 <v t="zoomq.20100414115206.4235"><vh>StructuredText</vh>
 <v t="zoomq.20100414115206.4236"><vh>@nosent t2tdemo-2005-04-01-23-23.t2t</vh>
-<v t="zoomq.20100414115206.4237"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
 <v t="zoomq.20100414115206.4238"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170643.4"><vh>py4sys</vh></v>
-<v t="ZoomQuiet.20060116170643.1"><vh>py4web</vh>
+<v t="ZoomQuiet.20060116170643.1" a="E"><vh>py4web</vh>
 <v t="zoomq.20100414115206.4271"><vh>Django</vh>
 <v t="zoomq.20100414115206.4272"><vh>@nosent django-stepbystep-2006-01-27-23-23.txt</vh></v>
 </v>
 <v t="zoomq.20100414115206.4256"><vh>Karrigell</vh></v>
-<v t="zoomq.20100414115206.4257"><vh>MoinMoin</vh>
+<v t="zoomq.20100414115206.4257" a="E"><vh>MoinMoin</vh>
 <v t="zoomq.20100414115206.4258"><vh>@nosent moinerror-2006-01-31-16-00.t2t</vh>
 <v t="zoomq.20100414115206.4259"><vh>report</vh></v>
 <v t="zoomq.20100414115206.4260"><vh>fixed</vh></v>
@@ -367,7 +379,9 @@
 <v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060125145500.4"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100414115206.4556"><vh>@nosent ra_dev-svn-2007-10-15-11-33.t2t</vh></v>
+<v t="zoomq.20100414115206.4556"><vh>@nosent ra_dev-svn-2007-10-15-11-33.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
 </v>
 <v t="ZoomQuiet.20060116170256.2"><vh>ZqLib</vh>
 <v t="ZoomQuiet.20060124152735"><vh>@nosent MD5-2006-01-24-23-23.t2t</vh>
@@ -423,26 +437,30 @@
 <v t="ZoomQuiet.20060118005121"><vh>douban</vh></v>
 <v t="ZoomQuiet.20060118005058"><vh>lomo</vh></v>
 <v t="ZoomQuiet.20060118005222"><vh>manga</vh></v>
-<v t="ZoomQuiet.20060118005058.1"><vh>movie</vh>
+<v t="ZoomQuiet.20060118005058.1" a="E"><vh>movie</vh>
 <v t="ZoomQuiet.20060117100151"><vh>@nosent zenpoem-2006-01-16-23-23.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060118005022"><vh>music</vh>
-<v t="zoomq.20100414115206.4557"><vh>@nosent ZARD-leaved-2007-05-28-16-00.t2t</vh></v>
+<v t="zoomq.20100414115206.4557"><vh>@nosent ZARD-leaved-2007-05-28-16-00.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+</v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170040.5"><vh>techic</vh>
-<v t="zoomq.20100414115206.4542"><vh>Emacs</vh>
-<v t="zoomq.20100414115206.4558"><vh>@nosent fw_learning_emacs_notes-2007-03-08-18-00.t2t</vh></v>
+<v t="zoomq.20100414115206.4542" a="E"><vh>Emacs</vh>
+<v t="zoomq.20100414115206.4558" a="E"><vh>@nosent fw_learning_emacs_notes-2007-03-08-18-00.t2t</vh>
+<v t="zoomq.20100414115206.4534"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100414115206.4391"><vh>PyBlosxom</vh>
-<v t="zoomq.20100414115206.4530"><vh>运维日志</vh>
+</v>
+<v t="zoomq.20100414115206.4391" a="E"><vh>PyBlosxom</vh>
+<v t="zoomq.20100414115206.4530" a="E"><vh>运维日志</vh>
 <v t="zoomq.20100414115206.4531"><vh>@nosent operacss2-2006-01-28-10-00.t2t</vh>
 <v t="zoomq.20100414115206.4532"><vh>what?</vh></v>
 <v t="zoomq.20100414115206.4533"><vh>fixed</vh></v>
-<v t="zoomq.20100414115206.4534"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="zoomq.20100414115206.4534"></v>
 <v t="zoomq.20100414115206.4535"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 <v t="zoomq.20100414115206.4536"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
@@ -453,7 +471,7 @@
 <v t="zoomq.20100414115206.4535"></v>
 </v>
 </v>
-<v t="zoomq.20100414115206.4472"><vh>ZqPb+</vh>
+<v t="zoomq.20100414115206.4472" a="E"><vh>ZqPb+</vh>
 <v t="zoomq.20100414115206.4473"><vh>@nosent zqcategory-2006-01-28-17-00.t2t</vh>
 <v t="zoomq.20100414115206.4474"><vh>why?</vh></v>
 <v t="zoomq.20100414115206.4475"><vh>log</vh></v>
@@ -542,7 +560,7 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060113151604"><vh>hacking</vh>
+<v t="ZoomQuiet.20060113151604" a="E"><vh>hacking</vh>
 <v t="ZoomQuiet.20060123104045" a="E"><vh>plugins</vh>
 <v t="zoomq.20100414115206.4559"><vh>@shadow cleant2t.py</vh></v>
 <v t="zoomq.20100414115206.4579"><vh>archives</vh>
@@ -586,8 +604,8 @@
 <v t="ZoomQuiet.20060128161946" a="M"><vh>@shadow zqcrecent.py</vh></v>
 </v>
 <v t="ZoomQuiet.20060113155741"><vh>preformatters</vh>
-<v t="ZoomQuiet.20060122144657"><vh>为t2t</vh>
-<v t="ZoomQuiet.20060121163046"><vh>@shadow xhtml.py</vh></v>
+<v t="ZoomQuiet.20060122144657" a="E"><vh>为t2t</vh>
+<v t="ZoomQuiet.20060121163046" a="E"><vh>@shadow xhtml.py</vh></v>
 <v t="ZoomQuiet.20060113175338"><vh>@nosent t2t.py</vh>
 <v t="ZoomQuiet.20060113175338.1"><vh>&lt;&lt; t2t declarations &gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060113175338.2"><vh>cb_entryparser</vh></v>
@@ -685,7 +703,7 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060127153926" a="E"><vh>core</vh>
+<v t="ZoomQuiet.20060127153926"><vh>core</vh>
 <v t="zoomq.20100419111908.4968"><vh>@shadow commandline.py</vh></v>
 <v t="zoomq.20100419194136.6232"><vh>@shadow pyblosxom.py</vh></v>
 <v t="zoomq.20100419194136.6284"><vh>@shadow tools.py</vh></v>
@@ -1141,7 +1159,6 @@ http://www.c-area.ch/code/pyblosxom/plugins/
 <t tx="ZoomQuiet.20060113160325">@language Moin
 Python开发编码规范
 &lt;&lt;t2t head&gt;&gt;
-
 
 
 = Python开发编码规范 =
@@ -1796,13 +1813,6 @@ time(...)
       在此情况下,单个后置下划线比前置或混乱的拼写要好,
       例如:class_优于klass.
       最后一点有些争议; 如果相比class_你更喜欢klass,那么这只是一致性问题.
-
-</t>
-<t tx="ZoomQuiet.20060113160524">%%mtime(%Y-%m-%d)
-
-%!encoding: UTF-8
-%! Target  : html
-
 
 </t>
 <t tx="ZoomQuiet.20060113160524.1">------------------------------
@@ -4934,6 +4944,7 @@ http://my.donews.com/qianlaohu/2006/01/22/
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 </t>
 <t tx="ZoomQuiet.20060122170916">
 [/pybimage/technorati-over.gif]
@@ -6806,7 +6817,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     return "Comment submitted.  Thanks!"
 </t>
-<t tx="ZoomQuiet.20060124152735">MD5使用快记
+<t tx="ZoomQuiet.20060124152735">@language Moin
+MD5使用快记
 ZoomQuiet
 &lt;&lt;t2t head&gt;&gt;
 
@@ -7015,7 +7027,8 @@ file:///data1/www/svn.woodpecker/repos/matter/python/site-packages
 %! Options : --toc --css-sugar --enum-title --no-headers</t>
 <t tx="ZoomQuiet.20060125144556">@path Subversion
 </t>
-<t tx="ZoomQuiet.20060125145500">Subversion
+<t tx="ZoomQuiet.20060125145500">@language Moin
+Subversion
 为了颠覆CVS的版本管理系统！
 &lt;&lt;t2t head&gt;&gt;
 
@@ -8625,12 +8638,6 @@ GNN北京之行
 
 今天也快乐！
 </t>
-<t tx="ZoomQuiet.20060510172623.2">%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-</t>
 <t tx="ZoomQuiet.20060510172623.3">------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
 
@@ -8831,7 +8838,8 @@ GNN北京之行
 没有人关注汉字编码,都是商业和法律的事儿好象!赢
 
 </t>
-<t tx="ZoomQuiet.20060528121615">升级SVN
+<t tx="ZoomQuiet.20060528121615">@language Moin
+升级SVN
 --体验如何管理多SVN仓库
 &lt;&lt;t2t head&gt;&gt;
 
@@ -9708,6 +9716,7 @@ google group:[CC China 沙龙第一次 http://groups.google.com/group/ccchina/br
 &lt;&lt;SNSlink&gt;&gt;
 
 
+
 </t>
 <t tx="zoomq.20060916180156.1">
 = 动机 =
@@ -9722,12 +9731,6 @@ google group:[CC China 沙龙第一次 http://groups.google.com/group/ccchina/br
 [/pybimage/technorati-over.gif]
     ,[Zen http://www.technorati.com/tags/Zen]
     ,[Chinese http://www.technorati.com/tags/Chinese]
-</t>
-<t tx="zoomq.20060916180156.11">%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
 </t>
 <t tx="zoomq.20060916180156.12">------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
@@ -10028,6 +10031,9 @@ Science Commons刚刚开始的学者版权项目
     - 发布 接收邮件！
 </t>
 <t tx="zoomq.20100413102905.5772">本地尝试:
+~/workspace/3hg/pyk.pyblosoxm/zoomquiet/entries&gt;
+find -name "*.t2t" -exec ../plugins/preformatters/txt2tags.py  {}  \;
+
 ~/3hg/pyk.pyblosoxm/zoomquiet&gt; 
 pyblosxom-cmd staticrender --config /home/zoomq/3hg/pyk.pyblosoxm/zoomquiet/cgi/config.py
 批量生成 xhtml:
@@ -10205,7 +10211,7 @@ yr -&gt; 2010
 </t>
 <t tx="zoomq.20100414115206.4236">@language Moin
 TXT2TAGS 示例
-ZoomQuiet
+~ by ZoomQuiet
 &lt;&lt;t2t head&gt;&gt;
 
 =  介绍 Intro.  =
@@ -10399,12 +10405,6 @@ Translated to Chinese by Zoom.Quiet([Zoom Quiet http://wiki.woodpecker.org.cn/mo
 
 % #tags OpenSource,Stxt
 &lt;&lt;t2t foot&gt;&gt;</t>
-<t tx="zoomq.20100414115206.4237">%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-</t>
 <t tx="zoomq.20100414115206.4238">------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
 
@@ -10423,8 +10423,7 @@ MoinMoin问题
 @others
 
 &lt;&lt;t2t foot&gt;&gt;
-&lt;&lt;SNSlink&gt;&gt;
-</t>
+&lt;&lt;SNSlink&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4259">[/pybimage/snap060130-moinerror.png]</t>
 <t tx="zoomq.20100414115206.4260">
 = fixed =
@@ -10466,6 +10465,7 @@ Python Traceback
 
 &lt;&lt;t2t foot&gt;&gt;
 &lt;&lt;SNSlink&gt;&gt;
+
 </t>
 <t tx="zoomq.20100414115206.4266">
 : 查询报怨:
@@ -11597,12 +11597,7 @@ $cmt_link
 <t tx="zoomq.20100414115206.4546">@language Moin
 Gmail的硬盘
 --IT笑话
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-
+&lt;&lt;t2t head&gt;&gt;
 
 :[/pybimage/wheregmailharddisk.jpg]!
 
@@ -11624,12 +11619,7 @@ Gmail的硬盘
 <t tx="zoomq.20100414115206.4547">@language Moin
 [ssbsGAE]running web2py
 ~在GoogleAppEngine 中跑web2py
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-
+&lt;&lt;t2t head&gt;&gt;
 
 = ssbsGAE =
 
@@ -11708,12 +11698,7 @@ Gmail的硬盘
 <t tx="zoomq.20100414115206.4548">@language Moin
 FF3
 --Ubuntu7.10 中使用 3.0pre
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-
+&lt;&lt;t2t head&gt;&gt;
 
 = FF3 =
 看周围M$ 用户都主动升迁到 FF2.0.0.14 超级稳定版本了，
@@ -11841,12 +11826,7 @@ swiftfox -safe-mode
 <t tx="zoomq.20100414115206.4549">@language Moin
 文件系统选择
 -- 译文 Solaris Filesystem Choices
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-
+&lt;&lt;t2t head&gt;&gt;
 
 = Solaris 的FS决择 =
 节译:[Solaris Filesystem Choices http://www.osnews.com/story/19665/Solaris_Filesystem_Choices] 50%
@@ -12404,11 +12384,7 @@ deb-src http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe
 <t tx="zoomq.20100414115206.4555">@language Moin
 [LvL]对错录
 ...via life
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
+&lt;&lt;t2t head&gt;&gt;
 
 = 冇好错 =
 真的哪,放开心灵去想和感受的话的确的哪...
@@ -12536,16 +12512,10 @@ deb-src http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe
     ,[living http://www.technorati.com/tags/living]
     ,[Quiet http://www.technorati.com/tags/Quiet]
 </t>
-<t tx="zoomq.20100414115206.4556">@ignore
-@language unknown_language
+<t tx="zoomq.20100414115206.4556">@language Moin
 SVN 无法识别的url方案 
 -- 解决...记要
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
-
+&lt;&lt;t2t head&gt;&gt;
 
 = 现象 =
 
@@ -12652,11 +12622,7 @@ $ sudo ln -s /usr/local/bin/svn /usr/bin/svn
 <t tx="zoomq.20100414115206.4557">@language Moin
 ZARD消逝了
 -- 坂井泉水(Izumi Sakai)！世上又少了名认真歌唱的人...
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
+&lt;&lt;t2t head&gt;&gt;
 
 
 = ZARD! =
@@ -12720,11 +12686,7 @@ ZARD消逝了
 <t tx="zoomq.20100414115206.4558">@language Moin
 [FW]学习笔记
 参考O'reilly的&lt; &lt;学习 GNU Emacs&gt; &gt;
-%%date(%Y-%m-%d %H:%M:%S)
-
-%! Target  : xhtml
-%! Encoding: UTF-8
-%! Options : --toc --css-sugar --enum-title
+&lt;&lt;t2t head&gt;&gt;
 
 
 : FW:
@@ -12733,8 +12695,6 @@ ZARD消逝了
 最近学习了一下Emacs，把重点的概念和操作简单做了笔记如下，有兴趣的同学一
 起学习探讨啊
 ```
-
-
 
 = Chapter 1 基本文件操作 =
 
@@ -14389,6 +14349,121 @@ mysql -h xx.xx.xx -u User --password=*** &lt; _tpl/total_black.sql |\
  - 1000W 值对导出 &gt;1100秒,导入&gt;480秒;
   - m2d.log &gt; 490M
 - 哗! 而且加载完后,字典对象所点内存体积也同样减少了 30% !
+
+</t>
+<t tx="zoomq.20100630152750.4000">@language Moin
+leo在Py2.5中的失败尝试
+-- 中文应用问题是国人永远的心痛哪
+&lt;&lt;t2t head&gt;&gt;
+
+= 背景 =
+- 折腾了两天将Python2.5 编译了5回也没有搞定,询问大家是否有经验了!
+- 一直知道 LEO 在Linux 下面的中文支持问题是Tk 造的孽
+ - http://linux.ccidnet.com/art/738/20060430/545737_1.html
+
+
+- 但是这两日怎么搞都不成！
+- 详细记录在[啄木鸟维基-ZoomQuiet/2007-04-27 http://wiki.woodpecker.org.cn/moin/ZoomQuiet/2007-04-27]
+ - **请大家给点建议吧**
+ - [leo sf.net 讨论 http://sourceforge.net/forum/forum.php?thread_id=1724164&amp;forum_id=10227]
+
+
+
+== 思路 ==
+我的步骤和思路:
+
++ 不能影响现存的Py2.4 环境
++ 使用Py2.5 进行尝试
+
+: 因为: 
+  LEO 仅仅需要Python with Tk+Pwm
+  - (不过要求Tcl 不能使用线程支持参数)
+: 所以:
+  只要安装好Py2.5 就可以:
+
+
+
+== 安装步骤 ==
+
++ 安装最新 Tcl/Tk 
+```
+download cvs snapshots from ftp://ftp.tcl.tk/pub/tcl/nightly-cvs/
+tcl/unix$ ./configure --enable-shared --enable-gcc
+$ make clean &amp;&amp; make 
+$ sudo make install
+...
+/tk/unix$ ./configure --enable-xft
+$ make clean &amp;&amp; make 
+$ sudo make install
+...
+```
+
+: 安装Python2.5 并绑定Tk8.5
+  根据[前人Py2.5安装经验 http://blog.csdn.net/fyzhao/archive/2006/12/27/1464614.aspx]
+
+```
+$ sudo cp path/to/libtcl8.5.so /usr/lib/
+$ sudo cp path/to/libtk8.5.so /usr/lib/
+...
+/python2.5-2.5.1.orig$ ./configure --enable-unicode=ucs4 \
+  --with-tk   --with-tk-library=/usr/local/lib --with-tk-include=/usr/local/include/tcl8.5 \
+  --with-tcl-library=/usr/local/lib --with-tcl-include=/usr/local/include/tcl8.5 
+$  make clean &amp;&amp; make
+$  make test
+```
+
+: 安装 LEO
+```
+cp -r Pmw /usr/local/lib/python2.5/site-packages/
+cp -r leo-4-4-3-alpha-2 /opt/bin/
+```
+
+
+
+== 失败的结果 ==
+
+- OK,结果 在 ``/opt/bin/leo-4-4-3-alpha-2/src`` 中直接调用leo.py 可以运行;
+- 但是LEO 不能正當影响 Ctrl+c|v|s 等等各种操作;直接就死了...
+```
+/opt/bin/leo-4.4.3a2/src$ python2.5 leo.py
+reading settings in /opt/bin/leo-4.4.3a2/config/leoSettings.leo
+reading /home/zoomq/.leoRecentFiles.txt
+rst3 plugin: SilverCity not loaded
+rst3 plugin not loaded: can not load docutils
+Traceback (most recent call last):
+
+  File ''/opt/bin/leo-4.4.3a2/src/leoEditCommands.py'', line 7903, in getAspellWithCtypes
+    self.aspell = aspell = ctypes.CDLL(g.os_path_join(self.aspell_bin_dir, ''aspell-15.dll''))
+
+  File ''/usr/local/lib/python2.5/ctypes/__init__.py'', line 340, in __init__
+    self._handle = _dlopen(self._name, mode)
+
+OSError: /opt/bin/leo-4.4.3a2/src/c:\aspell\bin/aspell-15.dll: cannot open shared object file: No such file or directory
+
+Traceback (most recent call last):
+  File ''leo.py'', line 353, in &lt;module&gt;
+    run()
+  File ''leo.py'', line 138, in run
+    g.app.gui.runMainLoop()
+  File ''/opt/bin/leo-4.4.3a2/src/leoTkinterGui.py'', line 186, in runMainLoop
+    self.root.mainloop()
+  File ''/usr/local/lib/python2.5/lib-tk/Tkinter.py'', line 1023, in mainloop
+    self.tk.mainloop(n)
+  File ''/usr/local/lib/python2.5/site-packages/Pmw/Pmw_1_2/lib/PmwBase.py'', line 1751, in __call__
+    _reporterror(self.func, args)
+  File ''/usr/local/lib/python2.5/site-packages/Pmw/Pmw_1_2/lib/PmwBase.py'', line 1777, in _reporterror
+    msg = exc_type + ' Exception in Tk callback\n'
+TypeError: unsupported operand type(s) for +: 'type' and 'str'
+```
+
+**到底咋回事儿泥？！**
+
+
+------------------------------
+动力源自::**[txt2tags http://txt2tags.sf.net]**
+
+% leo: 编辑
+
 
 </t>
 </tnodes>

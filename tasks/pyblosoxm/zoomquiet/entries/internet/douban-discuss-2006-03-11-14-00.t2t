@@ -6,6 +6,7 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
 
+
 豆瓣迁到北京了，以前阿北来参加[CPUG会课 http://wiki.woodpecker.org.cn/moin/BPUG/2005-08-28]时见过，可惜没有时间交流。
 
 这次专门约了讨论怎么样让豆瓣也参与到推进中国Python 应用的大潮中来……

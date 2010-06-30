@@ -1,10 +1,11 @@
 [节日]向所有女蟒们致敬！
 …………未来的
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 
 ...[我对女性做工程师的一点看法 http://googlechinablog.com/2006/03/blog-post_08.html]
 

@@ -1,10 +1,11 @@
 [LvL]对错录
 ...via life
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 
 = 冇好错 =
 真的哪,放开心灵去想和感受的话的确的哪...

@@ -1,5 +1,4 @@
 《Django一步接一步》中文学习教程发表！
-#tags utility,py4web,Django
 
 <a href="http://www.djangoproject.com/">
 Djano

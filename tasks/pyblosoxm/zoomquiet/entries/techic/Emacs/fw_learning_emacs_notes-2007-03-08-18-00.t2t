@@ -1,6 +1,6 @@
 [FW]学习笔记
 参考O'reilly的< <学习 GNU Emacs> >
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:%%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
@@ -13,8 +13,6 @@
 最近学习了一下Emacs，把重点的概念和操作简单做了笔记如下，有兴趣的同学一
 起学习探讨啊
 ```
-
-
 
 = Chapter 1 基本文件操作 =
 

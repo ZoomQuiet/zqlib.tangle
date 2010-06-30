@@ -1,10 +1,11 @@
 TXT2TAGS 示例
-ZoomQuiet
-%%date(%Y-%m-%d %H:%M:%S)
+~ by ZoomQuiet
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 
 =  介绍 Intro.  =
 

@@ -6,6 +6,7 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
 
+
 : [MD5 http://a-010.cyut.edu.tw/~vote/md5.php]
   ( Message-Digest algorithm 5) 
   MD5作为一个单向混淆算法，即不易以逆向运算得到原始资料

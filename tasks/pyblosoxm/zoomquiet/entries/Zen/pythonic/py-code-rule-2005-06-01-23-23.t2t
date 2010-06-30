@@ -1,10 +1,9 @@
 Python开发编码规范
-%%mtime(%Y-%m-%d)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
-%!encoding: UTF-8
-%! Target  : html
-
-
+%! Target  : xhtml
+%! Encoding: UTF-8
+%! Options : --toc --css-sugar --enum-title
 
 
 

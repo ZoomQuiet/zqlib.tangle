@@ -44,10 +44,10 @@
 </v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
 <v t="zoomq.20100527142434.6470"><vh>100610-pycon-pythonicamp@ZqLib</vh>
-<v t="zoomq.20100527142434.6474" a="E"><vh>@shadow index.html</vh></v>
+<v t="zoomq.20100527142434.6474"><vh>@shadow index.html</vh></v>
 </v>
 <v t="zoomq.20100603095331.5850" a="E"><vh>100610-pycon-pythonicamp@OBP</vh>
-<v t="zoomq.20100527142434.6474" a="E"></v>
+<v t="zoomq.20100527142434.6474"></v>
 </v>
 <v t="zoomq.20100602201453.5832"><vh>100423-QCon2010-T&amp;D</vh>
 <v t="zoomq.20100602201453.5833"><vh>@nosent index.html</vh>
@@ -37375,6 +37375,11 @@ Q&amp;A
 
 </t>
 <t tx="zoomq.20100603095331.5850">@path /home/zoomq/workspace/0penproj.s/googlecode.com/OBP/tasks/PyCon2010asia/100610-pycon-pythonicamp
+
+TBL SMU 老师，对于团队学习的体验:
+#pyconsg cboesch@smu.edu.sg @cboesch 嗯嗯嗯，同道中人，得请教一下...
+
+an Lewis (IanMLewis): RT @whosaysni: A lot fun of building interactive display with pyglet+WiiMote! #pyconsg *Tw*
 
 </t>
 <t tx="zoomq.20100608162108.5859">@path xul</t>

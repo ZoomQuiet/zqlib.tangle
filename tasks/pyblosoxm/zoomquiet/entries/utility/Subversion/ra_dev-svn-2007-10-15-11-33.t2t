@@ -1,6 +1,6 @@
 SVN 无法识别的url方案 
 -- 解决...记要
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
@@ -106,7 +106,6 @@ $ sudo ln -s /usr/local/bin/svn /usr/bin/svn
 
 % leo: 编辑
 
-[/styles/technorati-over.gif]
+[/pybimage/technorati-over.gif]
     [OpenSource http://www.technorati.com/tags/FLOSS]
     ,[Subversion http://www.technorati.com/tags/Subversion]
-

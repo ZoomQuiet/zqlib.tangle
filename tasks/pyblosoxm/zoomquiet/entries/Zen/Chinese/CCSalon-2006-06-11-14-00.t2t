@@ -1,10 +1,11 @@
 CC Salon BJ
 --无责任报道CC中国沙龙第一次
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 
 
 060611 10:30~13:10 
@@ -306,5 +307,6 @@ Science Commons刚刚开始的学者版权项目
 [/pybimage/technorati-over.gif]
     ,[Zen http://www.technorati.com/tags/Zen]
     ,[Chinese http://www.technorati.com/tags/Chinese]
+
 
 

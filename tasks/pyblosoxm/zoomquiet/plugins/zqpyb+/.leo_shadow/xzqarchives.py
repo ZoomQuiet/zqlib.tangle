@@ -134,7 +134,7 @@ class PyblArchives:
         for year in mon_keys:
             #print "%s<sup>%s<sup>"%(year,yearmonth[year][0])
             monode = yearmonth[year][1]
-            result.append("<li class='yearchives'><a href='%s'>%s</a><sup>(%d)</sup></li>"%(fulldict["base_url"],year,yearmonth[year][0]))
+            result.append("<li class='yearchives'><a href='%s/%s'>%s</a><sup>(%d)</sup></li>"%(fulldict["base_url"],year,year,yearmonth[year][0]))
             if 1==len(monode):
                 #print "%s<sup>%s<sup>"%(monode[0][0],monode[0][1])
                 result.append("<li>%s<sup>(%d)</sup><li>"%(monode[0][0],monode[0][1]))

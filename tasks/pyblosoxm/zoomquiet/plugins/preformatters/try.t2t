@@ -1,7 +1,7 @@
 [定制3]定制entry格式
 ..
 
-%! Target  : xhtml
+%! Target  : html
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
 

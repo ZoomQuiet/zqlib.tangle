@@ -1,6 +1,6 @@
 leo在Py2.5中的失败尝试
 -- 中文应用问题是国人永远的心痛哪
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8

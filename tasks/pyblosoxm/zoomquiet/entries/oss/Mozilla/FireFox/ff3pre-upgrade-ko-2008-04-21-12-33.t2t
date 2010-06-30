@@ -1,6 +1,6 @@
 FF3
 --Ubuntu7.10 中使用 3.0pre
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8

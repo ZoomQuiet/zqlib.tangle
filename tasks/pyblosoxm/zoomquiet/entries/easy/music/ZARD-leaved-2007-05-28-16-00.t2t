@@ -1,10 +1,11 @@
 ZARD消逝了
 -- 坂井泉水(Izumi Sakai)！世上又少了名认真歌唱的人...
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 
 
 = ZARD! =

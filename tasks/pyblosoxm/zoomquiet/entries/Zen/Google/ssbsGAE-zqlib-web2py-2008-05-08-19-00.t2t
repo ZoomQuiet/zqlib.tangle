@@ -1,6 +1,6 @@
 [ssbsGAE]running web2py
 ~在GoogleAppEngine 中跑web2py
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
