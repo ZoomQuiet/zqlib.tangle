@@ -12,8 +12,7 @@
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
 <v t="zoomq.20100412163057.2814" a="E"><vh>Misc任务</vh>
 <v t="zoomq.20100412163057.2815" a="E"><vh>病毒样本对比</vh>
-<v t="zoomq.20100412163057.2827" a="E"
-expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
+<v t="zoomq.20100412163057.2827"><vh>@shadow virusampls-ratio.py</vh></v>
 </v>
 </v>
 <v t="zoomq.20091008173724.2"><vh>kspeg SA 配置收集</vh>
@@ -48,7 +47,7 @@ expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
 <v t="zoomq.20091207160418.2464"><vh>ml</vh>
 <v t="zoomq.20091207162144.2996"><vh>_cron</vh></v>
 </v>
-<v t="zoomq.20091207145139.2558"><vh>4SVN</vh>
+<v t="zoomq.20091207145139.2558" a="E"><vh>4SVN</vh>
 <v t="zoomq.20091207162144.2467"><vh>svnsub</vh>
 <v t="zoomq.20091207162144.2766"><vh>@shadow svnrepos.leo.conf</vh></v>
 <v t="zoomq.20091207162144.2627"><vh>svnrepos.conf</vh>
@@ -330,7 +329,7 @@ expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
 </v>
 </v>
 </v>
-<v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
+<v t="zoomq.20100122092723.2783" a="E"><vh>GrasPic</vh>
 <v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
 <v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
 </v>
@@ -359,8 +358,11 @@ expanded="zoomq.20100412163057.2841,"><vh>@shadow virusampls-ratio.py</vh></v>
 &lt;/Location&gt;
 </t>
 <t tx="zoomq.20091207145139.2558"></t>
-<t tx="zoomq.20091207160418.2464">@path /home/zoomq/2matter4peg/trunk/kupp/ml</t>
-<t tx="zoomq.20091207162144.2467">@path /home/zoomq/2matter4peg/trunk/kupp/svnsub/root.etc/apache2/conf.d</t>
+<t tx="zoomq.20091207160418.2464">@path /home/zoomq/workspace/2matter4speg/trunk/kupp/ml
+#/home/zoomq/2matter4peg/trunk/kupp/ml</t>
+<t tx="zoomq.20091207162144.2467">@path /home/zoomq/workspace/2matter4speg
+/trunk/kupp/svnsub/root.etc/apache2/conf.d
+#/home/zoomq/2matter4peg/trunk/kupp/svnsub/root.etc/apache2/conf.d</t>
 <t tx="zoomq.20091207162144.2627"># SVN repo. publishingS
 # cfg log
 #091008:zoomq:: 重构发布配置,根据 SVN 配置规范整理
@@ -1109,7 +1111,8 @@ Satisfy all
 @tabwidth -4
 </t>
 <t tx="zoomq.20091215180924.2720">SA 通用脚本收集</t>
-<t tx="zoomq.20091215180924.2721">@path /home/zoomq/2matter4peg/trunk/sa.scripts</t>
+<t tx="zoomq.20091215180924.2721">@path /home/zoomq/workspace/2matter4speg/trunk/sa.scripts
+#/home/zoomq/2matter4peg/trunk/sa.scripts</t>
 <t tx="zoomq.20091215180924.2722"></t>
 <t tx="zoomq.20091215180924.2723">@path turnover
 #/home/zoomq/mnt/dubabin/opt/turnover
@@ -1318,9 +1321,11 @@ matters:TestEngineCases
 </t>
 <t tx="zoomq.20100114185924.2779"></t>
 <t tx="zoomq.20100122092723.2783"></t>
-<t tx="zoomq.20100122092723.2784">@path /home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
+<t tx="zoomq.20100122092723.2784">@path /home/zoomq/media/manga/2graspic/ellytran.com/wp-content/gallery
+#/home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
 <t tx="zoomq.20100412163057.2814"></t>
-<t tx="zoomq.20100412163057.2815">@path /home/zoomq/data/0day-vbox/zoom.quiet/100412-virus-sample-selector
+<t tx="zoomq.20100412163057.2815">@path /home/zoomq/vbox2win/0day/zoom.quiet/100412-virus-sample-selector
+#/home/zoomq/data/0day-vbox/zoom.quiet/100412-virus-sample-selector
 </t>
 </tnodes>
 </leo_file>

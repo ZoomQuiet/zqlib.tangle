@@ -47,7 +47,7 @@ t2t渲染:%%date(%Y-%m-%d %I:%M:%S)
 : 导览:
     - 对静态页面网站提供搜索  
     - 前后关联文章的快速链接
-    - --分页式的导航链接-- //杯具的插件,在静态发布状态中//    
+    - __分页式的导航链接__ //杯具的插件,在静态发布状态中//    
     - 按照文章首字母的总索引
     - 支持多种语言的语法高亮
     - 
@@ -81,11 +81,18 @@ py["plugin_dirs"] = [os.path.join(blogdir, "plugins")
 
 
 == TODO ==
+``不断维护的完美之途紀...``
 
-+ 样式的微调:
+: PyBlosxom 静态化发布体系:
++ 升級到 1.5.1b
++ 摸索静态化发布
+ + 升迁旧样式
+ + 兼容插件
+ + 微调样式:
     - 头部的标题索引入口文字,怎么也消除不了下划綇
-    - [SyntaxHighlighter http://alexgorbatchev.com/wiki/SyntaxHighlighter:Usage] 的行号后有意外空白
-    - 
+    - //[SyntaxHighlighter http://alexgorbatchev.com/wiki/SyntaxHighlighter:Usage] 的行号后有意外空白 //
+        - __伪问题__ fixed!
+    - 归档插件的输出页面中,日期链接失常,应该清除
 + Hg的 hooks 部署
 + dot 的自动包含图片热区定义的 t2t 处理
 + Leo 中的自动化发布脚本按钮

@@ -266,8 +266,8 @@ py["static_dir"] = os.path.join(blogdir, "_static")
 
 # What flavours should get generated?
 py["static_flavours"] = ["html"
-#    ,"atom"
-#    ,"rdf"
+    ,"atom"
+    ,"rdf"
     ]
 #py["static_flavours"] = ["atom"]
 #py["static_flavours"] = ["rdf"]

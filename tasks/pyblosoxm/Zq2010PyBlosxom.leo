@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20100310084837.5905"><vh>@chapters</vh></v>
-<v t="ZoomQuiet.20060116172141" a="E"><vh>运维记要</vh>
+<v t="ZoomQuiet.20060116172141"><vh>运维记要</vh>
 <v t="zoomq.20100319214837.4218"><vh>2010@py.k</vh>
 <v t="zoomq.20100413102905.5772"><vh>静态化发布</vh>
 <v t="zoomq.20100413102905.5776"><vh>批量重整</vh>
@@ -52,8 +52,15 @@
 <v t="ZoomQuiet.20060122153701.1"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060121172947.1"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
-<v t="ZoomQuiet.20060113092644"><vh>Blogging</vh>
-<v t="ZoomQuiet.20060306165940"><vh>~stuff</vh></v>
+<v t="ZoomQuiet.20060113092644" a="E"><vh>Blogging</vh>
+<v t="ZoomQuiet.20060306165940"><vh>~stuff</vh>
+<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
+<v t="zoomq.20100714100009.4008"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
+<v t="zoomq.20100714100009.4009"><vh>noDOC</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="ZoomQuiet.20060121172947.1"></v>
+</v>
+</v>
 <v t="ZoomQuiet.20060116170040"><vh>Zen</vh>
 <v t="ZoomQuiet.20060116170040.1"><vh>Chinese</vh>
 <v t="zoomq.20060916180156"><vh>@nosent CCSalon-2006-06-11-14-00.t2t</vh>
@@ -95,10 +102,10 @@
 </v>
 </v>
 <v t="ZoomQuiet.20060125172237"><vh>Google</vh>
-<v t="zoomq.20100414115206.4546" a="E"><vh>@nosent joke-gmailhdisk-2006-05-24-12-00.t2t</vh>
+<v t="zoomq.20100414115206.4546"><vh>@nosent joke-gmailhdisk-2006-05-24-12-00.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
-<v t="zoomq.20100414115206.4547" a="E"><vh>@nosent ssbsGAE-zqlib-web2py-2008-05-08-19-00.t2t</vh>
+<v t="zoomq.20100414115206.4547"><vh>@nosent ssbsGAE-zqlib-web2py-2008-05-08-19-00.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
 </v>
@@ -106,7 +113,7 @@
 <v t="zoomq.20100630152750.4000"><vh>@nosent leo-py25-bad-chinese-2007-04-27-18-00.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
-<v t="ZoomQuiet.20060125103000" a="E"><vh>示例</vh>
+<v t="ZoomQuiet.20060125103000"><vh>示例</vh>
 <v t="ZoomQuiet.20060113160325"><vh>@nosent py-code-rule-2005-06-01-23-23.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060113160524.1"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
@@ -192,7 +199,7 @@
 <v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060125173931.4"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100414115206.4549" a="E"><vh>@nosent solaris-fs-choice-2008-04-23-21-43.t2t</vh>
+<v t="zoomq.20100414115206.4549"><vh>@nosent solaris-fs-choice-2008-04-23-21-43.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
 <v t="ZoomQuiet.20060116170150"><vh>CPyUG</vh></v>
@@ -219,19 +226,19 @@
 <v t="ZoomQuiet.20060125172634"><vh>Thunderbird</vh></v>
 </v>
 <v t="zoomq.20100414115206.4541"><vh>Ubuntu</vh>
-<v t="zoomq.20100414115206.4550" a="E"><vh>@nosent ff-to-gg-2007-10-22-23-43.t2t</vh>
+<v t="zoomq.20100414115206.4550"><vh>@nosent ff-to-gg-2007-10-22-23-43.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
-<v t="zoomq.20100414115206.4551" a="E"><vh>@nosent hardy-heron-9day-2008-04-15-10-15.t2t</vh>
+<v t="zoomq.20100414115206.4551"><vh>@nosent hardy-heron-9day-2008-04-15-10-15.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
-<v t="zoomq.20100414115206.4552" a="E"><vh>@nosent terror-fs-luckly-reiserfs-2007-06-15-23-43.t2t</vh>
+<v t="zoomq.20100414115206.4552"><vh>@nosent terror-fs-luckly-reiserfs-2007-06-15-23-43.t2t</vh>
 <v t="zoomq.20100414115206.4730"><vh>正文</vh></v>
 <v t="zoomq.20100414115206.4729"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
 </v>
-<v t="zoomq.20100414115206.4553" a="E"><vh>@nosent ubuntu-release-party-bj-2006-11-02-17-30.t2t</vh>
+<v t="zoomq.20100414115206.4553"><vh>@nosent ubuntu-release-party-bj-2006-11-02-17-30.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
 <v t="zoomq.20100414115206.4554"><vh>@nosent upgrade-into-feisty-2007-05-11-13-43.t2t</vh>
@@ -240,7 +247,13 @@
 </v>
 </v>
 <v t="zoomq.20100414115206.4537"><vh>opening</vh>
-<v t="ZoomQuiet.20060116170227.1"><vh>OpenBookProj</vh></v>
+<v t="ZoomQuiet.20060116170227.1"><vh>OpenBookProj</vh>
+<v t="zoomq.20100714100009.3999"><vh>@nosent open-book-project-2010-01-01-23-23.t2t</vh>
+<v t="zoomq.20100714100009.4000"><vh>intro</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="ZoomQuiet.20060121172947.1"></v>
+</v>
+</v>
 <v t="ZoomQuiet.20060116170227.2"><vh>openpeople</vh></v>
 <v t="ZoomQuiet.20060116170256.1"><vh>WeKnow</vh></v>
 </v>
@@ -254,7 +267,7 @@
 </v>
 <v t="ZoomQuiet.20060116170040.4"><vh>Quiet</vh>
 <v t="ZoomQuiet.20060118005001"><vh>foto</vh></v>
-<v t="ZoomQuiet.20060116170330" a="E"><vh>living</vh>
+<v t="ZoomQuiet.20060116170330"><vh>living</vh>
 <v t="ZoomQuiet.20060308100814"><vh>@nosent dahua-dialect-2006-05-10-17-00.t2t</vh>
 <v t="ZoomQuiet.20060308100814.1"><vh>log</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
@@ -320,18 +333,35 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060116170643.4"><vh>py4sys</vh></v>
-<v t="ZoomQuiet.20060116170643.1" a="E"><vh>py4web</vh>
+<v t="ZoomQuiet.20060116170643.4"><vh>py4sys</vh>
+<v t="zoomq.20100714100833.4007"><vh>@nosent py4sa-rename-mp3s-2010-07-13-22-02.t2t</vh>
+<v t="zoomq.20100714100833.4008"><vh>问题</vh></v>
+<v t="zoomq.20100714140857.4015"><vh>嘗試</vh></v>
+<v t="zoomq.20100714140857.4016"><vh>Py之</vh></v>
+<v t="zoomq.20100714140857.4014"><vh>Py4SA</vh></v>
+<v t="zoomq.20100414115206.4268"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="zoomq.20100414115206.4269"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100714100833.4015" a="E"><vh>@nosent py4sa-off-wacom-touch-2010-07-14-10-22.t2t</vh>
+<v t="zoomq.20100714100833.4016"><vh>问题</vh></v>
+<v t="zoomq.20100714140857.4012"><vh>尝试</vh></v>
+<v t="zoomq.20100714140857.4013"><vh>Py之</vh></v>
+<v t="zoomq.20100714140857.4014"></v>
+<v t="zoomq.20100414115206.4268"></v>
+<v t="zoomq.20100414115206.4269"></v>
+</v>
+</v>
+<v t="ZoomQuiet.20060116170643.1"><vh>py4web</vh>
 <v t="zoomq.20100414115206.4271"><vh>Django</vh>
 <v t="zoomq.20100414115206.4272"><vh>@nosent django-stepbystep-2006-01-27-23-23.txt</vh></v>
 </v>
 <v t="zoomq.20100414115206.4256"><vh>Karrigell</vh></v>
-<v t="zoomq.20100414115206.4257" a="E"><vh>MoinMoin</vh>
+<v t="zoomq.20100414115206.4257"><vh>MoinMoin</vh>
 <v t="zoomq.20100414115206.4258"><vh>@nosent moinerror-2006-01-31-16-00.t2t</vh>
 <v t="zoomq.20100414115206.4259"><vh>report</vh></v>
 <v t="zoomq.20100414115206.4260"><vh>fixed</vh></v>
-<v t="zoomq.20100414115206.4268"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
-<v t="zoomq.20100414115206.4269"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
+<v t="zoomq.20100414115206.4268"></v>
+<v t="zoomq.20100414115206.4269"></v>
 <v t="zoomq.20100414115206.4263"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
 </v>
@@ -437,7 +467,7 @@
 <v t="ZoomQuiet.20060118005121"><vh>douban</vh></v>
 <v t="ZoomQuiet.20060118005058"><vh>lomo</vh></v>
 <v t="ZoomQuiet.20060118005222"><vh>manga</vh></v>
-<v t="ZoomQuiet.20060118005058.1" a="E"><vh>movie</vh>
+<v t="ZoomQuiet.20060118005058.1"><vh>movie</vh>
 <v t="ZoomQuiet.20060117100151"><vh>@nosent zenpoem-2006-01-16-23-23.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
@@ -449,9 +479,9 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060116170040.5"><vh>techic</vh>
-<v t="zoomq.20100414115206.4542" a="E"><vh>Emacs</vh>
-<v t="zoomq.20100414115206.4558" a="E"><vh>@nosent fw_learning_emacs_notes-2007-03-08-18-00.t2t</vh>
+<v t="ZoomQuiet.20060116170040.5" a="E"><vh>techic</vh>
+<v t="zoomq.20100414115206.4542"><vh>Emacs</vh>
+<v t="zoomq.20100414115206.4558"><vh>@nosent fw_learning_emacs_notes-2007-03-08-18-00.t2t</vh>
 <v t="zoomq.20100414115206.4534"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 </v>
 </v>
@@ -464,14 +494,15 @@
 <v t="zoomq.20100414115206.4535"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 <v t="zoomq.20100414115206.4536"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100420100426.5527"><vh>@nosent relivin-pyblosxom-2010-04-18-23-23.t2t</vh>
+<v t="zoomq.20100420100426.5527" a="E"><vh>@nosent relivin-pyblosxom-2010-04-18-23-23.t2t</vh>
 <v t="zoomq.20100420100426.5528"><vh>what?</vh></v>
 <v t="zoomq.20100420100426.5529"><vh>plan</vh></v>
+<v t="zoomq.20100714140857.5218"><vh>TODO</vh></v>
 <v t="zoomq.20100414115206.4534"></v>
 <v t="zoomq.20100414115206.4535"></v>
 </v>
 </v>
-<v t="zoomq.20100414115206.4472" a="E"><vh>ZqPb+</vh>
+<v t="zoomq.20100414115206.4472"><vh>ZqPb+</vh>
 <v t="zoomq.20100414115206.4473"><vh>@nosent zqcategory-2006-01-28-17-00.t2t</vh>
 <v t="zoomq.20100414115206.4474"><vh>why?</vh></v>
 <v t="zoomq.20100414115206.4475"><vh>log</vh></v>
@@ -560,7 +591,7 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060113151604" a="E"><vh>hacking</vh>
+<v t="ZoomQuiet.20060113151604"><vh>hacking</vh>
 <v t="ZoomQuiet.20060123104045" a="E"><vh>plugins</vh>
 <v t="zoomq.20100414115206.4559"><vh>@shadow cleant2t.py</vh></v>
 <v t="zoomq.20100414115206.4579"><vh>archives</vh>
@@ -603,9 +634,9 @@
 <v t="ZoomQuiet.20060128153405"><vh>@shadow zqcategory.py</vh></v>
 <v t="ZoomQuiet.20060128161946" a="M"><vh>@shadow zqcrecent.py</vh></v>
 </v>
-<v t="ZoomQuiet.20060113155741"><vh>preformatters</vh>
+<v t="ZoomQuiet.20060113155741" a="E"><vh>preformatters</vh>
 <v t="ZoomQuiet.20060122144657" a="E"><vh>为t2t</vh>
-<v t="ZoomQuiet.20060121163046" a="E"><vh>@shadow xhtml.py</vh></v>
+<v t="ZoomQuiet.20060121163046"><vh>@shadow xhtml.py</vh></v>
 <v t="ZoomQuiet.20060113175338"><vh>@nosent t2t.py</vh>
 <v t="ZoomQuiet.20060113175338.1"><vh>&lt;&lt; t2t declarations &gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060113175338.2"><vh>cb_entryparser</vh></v>
@@ -8227,41 +8258,28 @@ sprint
    color: #444;
 }
 </t>
-<t tx="ZoomQuiet.20060306165940">我的”怪癖” (作业)
-2005-08-26　01:09:00
-大　中　小
-爆发性Blog游戏 -- 列举自个儿的 5个”怪癖” 并向另5名友人布置此作业!
-
-从 "怪癖专题之引火烧身"
-http://wwy.iseetimes.com/blog/?q=node/view/662
-
-嗬嗬!点名了在下,那未:
-
-1. 一直坚定的用"表形码"中文输入,从win98第一版中扒出来的,一直使用到现在!非常直觉性的笔形输入法!
-比如说"印"是键入"epz"--因为,左边象大写的E吧?右边则是P,z 已经是笔划了"折"是也乎!
-2. "是也乎"这个语气词,也不知道怎么形成习惯的,是从窐之内英策的漫画《外星福星》中看到的
-fufu 实在是通用哪！任何场所都可以是也乎一下子！
-3. 喜欢老玉米，现在什么粘/甜玉米，都反感！
-当然还是烤的最爱！
-4. 衣服只买是深色的,特别是深兰…………耐脏哪！一年都不用洗的！是也乎是也乎！
-立志单身的同学一定会养成的习惯吧？
-5. 见到美女的第一反应是：
-“唉呀呀！好可怜，现在没有办法避免花瓶的第一感观，刚刚习惯美丽带来的便利，马上就要老去了，所以一定有怨念的，不能接近！…………”
-
-嗯嗯！想了解 ”怪癖” 的友人(除去已经被人点名的):
-i: 潘居士 哪！ http://members.czug.org/blog/panjunyong/
-就是 CZUG 的站长！一直没有直面过，但是其它任何电子联系方式都频率的在交流的说
-ii: 清风 http://blog.donews.com/changzheng/
-CPUG/CJUG 双料开源爱好者，刚刚成为同事的新鲜好好家庭夫男是也乎！哈哈哈！
-iii: Blog on 27th Floor http://blog.cathayan.org/
-NucleusCMS 的同学，嗬嗬，以前常常交流的 因为 http://zqlib.sourceforge.net/nublog/
-后来空间过期也就备份了下来再没有写
-iv: 庄秀丽老师 http://blog.online-edu.org/zxl/
-极勤奋的Blogger 热情的e-learning专家，同我们啄木鸟社区进行过交流
-http://wiki.woodpecker.org.cn/moin/WoodpeckerClass/2005-02-26
-平时也常常讨教
-v: HD http://blog.sina.com.cn/blog/1435882772
-嗬嗬！啄木鸟的创立者，现在俺的领导人，从新疆流窜出来的牛人哪！
+<t tx="ZoomQuiet.20060306165940">publishing dirs::
+	location /pyblosxom {
+        alias /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_static;
+        index  index.html index.htm;
+		autoindex on;
+	}
+	location /pybshare {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/pybshare;
+		autoindex on;
+	}
+	location /pybimage {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_images;
+		autoindex on;
+	}
+	location /pybnodes {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/entries;
+		autoindex on;
+	}
+	location /pybstyle {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/flavours;
+		autoindex on;
+	}
 
 </t>
 <t tx="ZoomQuiet.20060308100814">@language Moin
@@ -13756,7 +13774,7 @@ for entry in entrise:
 : 导览:
     - 对静态页面网站提供搜索  
     - 前后关联文章的快速链接
-    - --分页式的导航链接-- //杯具的插件,在静态发布状态中//    
+    - __分页式的导航链接__ //杯具的插件,在静态发布状态中//    
     - 按照文章首字母的总索引
     - 支持多种语言的语法高亮
     - 
@@ -13789,15 +13807,6 @@ py["plugin_dirs"] = [os.path.join(blogdir, "plugins")
 
 
 
-== TODO ==
-
-+ 样式的微调:
-    - 头部的标题索引入口文字,怎么也消除不了下划綇
-    - [SyntaxHighlighter http://alexgorbatchev.com/wiki/SyntaxHighlighter:Usage] 的行号后有意外空白
-    - 
-+ Hg的 hooks 部署
-+ dot 的自动包含图片热区定义的 t2t 处理
-+ Leo 中的自动化发布脚本按钮
 </t>
 <t tx="zoomq.20100517221505.4512">@path IOP</t>
 <t tx="zoomq.20100517221505.4526">@language Moin
@@ -14465,6 +14474,316 @@ TypeError: unsupported operand type(s) for +: 'type' and 'str'
 % leo: 编辑
 
 
+</t>
+<t tx="zoomq.20100714100009.3999">@language Moin
+OpenBookProject
+--开放图书计划
+&lt;&lt;t2t head&gt;&gt;
+
+@others
+
+
+&lt;&lt;t2t foot&gt;&gt;
+</t>
+<t tx="zoomq.20100714100009.4000">
+[/pybimage/2010/OpenBookProject-h90.png]
+
+: 历史小记:
++ 2005-12-10 07:34:19 [梁如军，Osmond http://wiki.woodpecker.org.cn/moin/OsmondLiang]创建维基入口
+ - http://wiki.woodpecker.org.cn/moin/OpenBookProject
++ 2007-07-26 22:07:06 +0800 Zoom.Quiet 创建工程环境 [openbookproject - Project Hosting on Google Code http://code.google.com/p/openbookproject/]
++ 在OBP组织下2007-12-07 [《Python核心编程》(中文第二版) (豆瓣) http://book.douban.com/subject/3112503/] 完成翻译，也引发了[书评__China-Pub 《Python 核心编程》应属于社区翻译 http://www.china-pub.com/member/bookpinglun/viewpinglun.asp?bookname=&amp;reader=0&amp;gid=0&amp;id=39969&amp;Curpage=9&amp;sale=0&amp;plgrade=1] 吉广事件！
++ 在OBP组织下2008-04-01  [Python源码剖析——深度探索动态语言核心技术 (豆瓣) http://book.douban.com/subject/3117898/] 完成校对
++ 在OBP组织下2009-09-01 [可爱的Python (豆瓣) http://book.douban.com/subject/3884108/] 方式发售
++ http://obp.zoomquiet.org/ 开始使用Sphinx 持续日编译发布最新 OBP 成果...
+
+</t>
+<t tx="zoomq.20100714100009.4008">@language Moin
+NOT WORD!
+--不仅仅关乎版权
+&lt;&lt;t2t head&gt;&gt;
+
+@others
+
+
+&lt;&lt;t2t foot&gt;&gt;
+</t>
+<t tx="zoomq.20100714100009.4009">
+: [几行字也发个doc?? http://blog.delphij.net/archives/001487.html]:
+    经常在邮件中看到朋友们将些小故事塞到 word 中分享,
+    和delphij 同样的感慨…………
+
+: 有诗曰:
+```
+文本文件好 
+工具遍地跑
+程序两三行
+全部改好了
+```
+    [文本好了歌 http://blog.cathayan.org/item/920] - Blog on 27th Floor
+    cathayan 的感慨
+
+: 文可文，非常文。本可文，非常本。文本,数据之始,字符,万思之母...
+    [结构化文本 http://wiki.woodpecker.org.cn/moin/AllAboutText]才是王道！
+    呜乎矣哉!是也乎是也乎!!
+    为了我们的写作快感，抵制一切富格式化编辑器!
+    有结构化文本想怎么漂亮都成的!不用在界面中辛苦的使用mouse 永远的点击…………
+
+: 可恨/可叹:
+    M$的市场策略，成功的将
+    ``正式文档===word文档``
+    的概念填入了人们的头脑中，特别是在中国！
+
+: 觉醒:
+    从我作起！[/pybimage/nodoc4cn.png] 至少从OOo 开始！
+
+
+[抵制.doc运动 http://www.cyut.edu.tw/~ckhung/i/nd/fydoc.png]</t>
+<t tx="zoomq.20100714100833.4002">
+我的”怪癖” (作业)
+2005-08-26　01:09:00
+大　中　小
+爆发性Blog游戏 -- 列举自个儿的 5个”怪癖” 并向另5名友人布置此作业!
+
+从 "怪癖专题之引火烧身"
+http://wwy.iseetimes.com/blog/?q=node/view/662
+
+嗬嗬!点名了在下,那未:
+
+1. 一直坚定的用"表形码"中文输入,从win98第一版中扒出来的,一直使用到现在!非常直觉性的笔形输入法!
+比如说"印"是键入"epz"--因为,左边象大写的E吧?右边则是P,z 已经是笔划了"折"是也乎!
+2. "是也乎"这个语气词,也不知道怎么形成习惯的,是从窐之内英策的漫画《外星福星》中看到的
+fufu 实在是通用哪！任何场所都可以是也乎一下子！
+3. 喜欢老玉米，现在什么粘/甜玉米，都反感！
+当然还是烤的最爱！
+4. 衣服只买是深色的,特别是深兰…………耐脏哪！一年都不用洗的！是也乎是也乎！
+立志单身的同学一定会养成的习惯吧？
+5. 见到美女的第一反应是：
+“唉呀呀！好可怜，现在没有办法避免花瓶的第一感观，刚刚习惯美丽带来的便利，马上就要老去了，所以一定有怨念的，不能接近！…………”
+
+嗯嗯！想了解 ”怪癖” 的友人(除去已经被人点名的):
+i: 潘居士 哪！ http://members.czug.org/blog/panjunyong/
+就是 CZUG 的站长！一直没有直面过，但是其它任何电子联系方式都频率的在交流的说
+ii: 清风 http://blog.donews.com/changzheng/
+CPUG/CJUG 双料开源爱好者，刚刚成为同事的新鲜好好家庭夫男是也乎！哈哈哈！
+iii: Blog on 27th Floor http://blog.cathayan.org/
+NucleusCMS 的同学，嗬嗬，以前常常交流的 因为 http://zqlib.sourceforge.net/nublog/
+后来空间过期也就备份了下来再没有写
+iv: 庄秀丽老师 http://blog.online-edu.org/zxl/
+极勤奋的Blogger 热情的e-learning专家，同我们啄木鸟社区进行过交流
+http://wiki.woodpecker.org.cn/moin/WoodpeckerClass/2005-02-26
+平时也常常讨教
+v: HD http://blog.sina.com.cn/blog/1435882772
+嗬嗬！啄木鸟的创立者，现在俺的领导人，从新疆流窜出来的牛人哪！
+
+</t>
+<t tx="zoomq.20100714100833.4007">@language Moin
+[Py4SA]批量文件重命名
+--远离Shell 的试探
+&lt;&lt;t2t head&gt;&gt;
+
+@others
+
+
+&lt;&lt;t2t foot&gt;&gt;
+</t>
+<t tx="zoomq.20100714100833.4008">
+= 问题 =
+嗯嗯嗯,最近从 六哥的 DUKU 重新激发了评书的记忆,下载了全本 袁阔成(40回)红岩魂的mp3 ;-)
+
+可是解开都是乱码文件名:
+- :[/pybimage/2010/zoomq-2010-07-14-105626_446x300_scrot.png];
+- 可恶的中文编码! 一定是在XP 中使用CP936 压出来的
+- 怎么整呢?
+
+
+
+
+
+
+
+: Python在Unix和Linux系统管理中的应用(影印版):
+[[/pybimage/2010/s3876423-py4unix-linux-sa.jpg] http://book.douban.com/subject/3767034/]
+- 绝对好书! 值得慢慢看,E文的也非常简洁,Py 清明的代码,直接看,尝试就可以体会到本意了...
+
+
+</t>
+<t tx="zoomq.20100714100833.4015">@language Moin
+[Py4SA]智能关闭触摸板
+--WACOM BAMBOO事务
+&lt;&lt;t2t head&gt;&gt;
+
+@others
+
+
+&lt;&lt;t2t foot&gt;&gt;
+</t>
+<t tx="zoomq.20100714100833.4016">
+= 问题 =
+嗯嗯嗯,俺一直使用 WACOM 的数字绘图板替代鼠标的 ；－）
+- 去年生日，老婆升级了俺的 [FAVO CTE-430 http://www.wacom.com.cn/products_before_detail.php?productsid=30]
+到 [BAMBOO CTH-461 http://www.wacom.com.cn/bamboo/case4-1.php]
+- 随着 Ubuntu 10.04系统，一同升级了驱动，非常好用:
+    + 小横板 248.2 x 176.1，和屏幕 1:1 对应，不用拖动，有空间感觉了直接就可以移动到对应区域!
+    + 无线压感笔，直接点击就是左击鼠标
+    + 笔有侧键，配置默认就是原先最舒服的:
+     - 上键是右击
+     - 下键是中击
+- **触摸板的手指点击就不必要了**
+ - 如何令系统不启动触摸板的 ``Touch`` 响应?
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100714140857.4012">= 尝试 =
+- [Command Line Configuration Interface (xsetwacom) http://linuxwacom.sourceforge.net/index.php/howto/xsetwacom]
+    - 官方是有命令行级别的配置工具的
+    - 但是！真TMD难以看明白哈
+    - 广泛的搜索后，大致明白,xsetwacom 提供两种配置输出:
+        + 命令行用的执行字串
+        + 配置文件中使用的配置文本
+    - 整个使用流程是:
+        + 使用其它系统监察命令，确认 WACOM 设备USB接入后的设备号
+        + 使用 xsetwacom 进行模拟配置，选择输出合适的配置命令
+        + 然后将输出的配置内容,部署到合适的系统启动脚本或是配置文件中
+
+- 俺习惯使用命令行配置,这样可以直接测试是否靠谱,但是发现:
+```
+#! shell
+~&gt; xinput --list 
+⎡ Virtual core pointer                    	id=2	[master pointer  (3)]
+⎜   ↳ Virtual core XTEST pointer              	id=4	[slave  pointer  (2)]
+⎜   ↳ Wacom Bamboo Craft Pen eraser           	id=11	[slave  pointer  (2)]
+⎜   ↳ Wacom Bamboo Craft Pen                  	id=12	[slave  pointer  (2)]
+⎜   ↳ Wacom Bamboo Craft Finger pad           	id=13	[slave  pointer  (2)]
+⎜   ↳ Wacom Bamboo Craft Finger               	id=14	[slave  pointer  (2)]
+⎜   ↳ TPPS/2 IBM TrackPoint                   	id=16	[slave  pointer  (2)]
+⎜   ↳ Macintosh mouse button emulation        	id=18	[slave  pointer  (2)]
+⎣ Virtual core keyboard                   	id=3	[master keyboard (2)]
+    ↳ Virtual core XTEST keyboard             	id=5	[slave  keyboard (3)]
+...
+```
+    - 使用 xinput 探察出来的 **Wacom Bamboo Craft Finger** 触摸板设备号,每次重启系统时不一定一样!
+    - FT! 那就得编程让系统重启时,自个儿探察一下设备号,然后使用固定的配置命令关闭 BAMBOO 对应设备
+
+
+: 如何在Shell 中获取另外系统命令的输出并截获对应数码组合成新的命令?:
+    嗯嗯嗯,,,
+    嗯嗯嗯,,,,直接囧掉!
+    俺没有这种功力!
+
+
+</t>
+<t tx="zoomq.20100714140857.4013">= Py之 =
+
+- 直接使用模板记录要执行的命令,预留可能变动的设备号:
+```
+#! shell
+#!/bin/sh
+### xinput4bamboo.tpl
+sleep 3 &amp;&amp; xsetwacom set %s Touch "off"
+
+```
+
+- 配合xinput4bamboo.py 
+```
+#! py
+import sys,os
+if __name__ == '__main__':      # this way the module can be
+    """usage:
+    $ xinput --list | grep "Wacom Bamboo Craft Finger" | python ./xinput4bamboo.py
+    """
+    if sys.stdin:
+        for l in sys.stdin.readlines():
+            if "pad" not in l:
+                bambooid= l.split()[6].split("=")[1]
+                open("xinput4bamboo.sh","w").write(open("xinput4bamboo.tpl").read()%bambooid)
+                os.chmod("xinput4bamboo.sh",0755)
+
+```
+
+- 组合成启动脚本
+```
+#! shell
+#!/bin/sh
+VER="main-rcloc.sh v10.7.14"
+DATE=`date "+%y%m%d"`
+MYRC="/home/zoomq/.zoomq/rc.local"
+#=========================================================== path defines
+LOGF="/var/log/0day/$DATE-myrcloc.log"
+#=========================================================== action defines
+cd $MYRC
+xinput --list | grep "Wacom Bamboo Craft Finger" | python ./xinput4bamboo.py  &gt;&gt; $LOGF 2&gt;&amp;1 
+./xinput4bamboo.sh  &gt;&gt; $LOGF 2&gt;&amp;1 
+```
+
+- 部属成启动应用:
+ - [/pybimage/2010/zoomq-2010-07-14-123737_530x267_scrot.png]
+
+**齐活！** 没有疑惑，随手写成！ 5分钟！
+
+
+
+</t>
+<t tx="zoomq.20100714140857.4014">: Python在Unix和Linux系统管理中的应用(影印版):
+[[/pybimage/2010/s3876423-py4unix-linux-sa.jpg] http://book.douban.com/subject/3767034/]
+- 绝对好书! 值得慢慢看,E文非常简洁,Py清明的代码,直接看/尝试就可以体会到本意了...
+
+</t>
+<t tx="zoomq.20100714140857.4015">= 尝试 =
+``已知有很多途径...``参考:[linux下批量修改文件名_乌哥的家常菜_百度空间 http://hi.baidu.com/sdusoul/blog/item/16f81a9508a1d640d0135ede.html]
+
++ 使用find、awk/grep/sed、mv等命令组合来实现
+    - 俺都不熟练,而且要串很多步操作，忒不直爽了..
+
++ 编写Shell脚本运行~ 不就是命令组合嘛,,.,
++ rename ... NGU/Linux 中的标准化重命名工具,但是,怎么可以将批量文件中指定前几个字符替换成指定字符?
+```
+#! shell
+~/media/4talking/袁阔诚/try&gt; rename -n 's/^.{6}/红岩魂/' *.mp3
+...
+���һ�38.mp3 renamed as 红岩魂38.mp3
+���һ�39.mp3 renamed as 红岩魂39.mp3
+���һ�40.mp3 renamed as 红岩魂40.mp3
+```
+    - 反复尝试半小时才获得满意的...
+
+</t>
+<t tx="zoomq.20100714140857.4016">= Py之 =
+想嘗試Py 的思路...
+```
+#! py
+import sys,shutil
+if __name__ == '__main__':      # this way the module can be
+    '''usage:
+        $ ls *.mp3 | python rename-zh.py
+    '''
+    if sys.stdin:
+        for l in sys.stdin.readlines():
+            shutil.copyfile(l[:-1], "redStoneSoul-%s"%l[6:-1])
+```
+- 好的,没有尝试,随手写来,3分钟搞掂
+
+</t>
+<t tx="zoomq.20100714140857.5218">== TODO ==
+``不断维护的完美之途紀...``
+
+: PyBlosxom 静态化发布体系:
++ 升級到 1.5.1b
++ 摸索静态化发布
+ + 升迁旧样式
+ + 兼容插件
+ + 微调样式:
+    - 头部的标题索引入口文字,怎么也消除不了下划綇
+    - //[SyntaxHighlighter http://alexgorbatchev.com/wiki/SyntaxHighlighter:Usage] 的行号后有意外空白 //
+        - __伪问题__ fixed!
+    - 归档插件的输出页面中,日期链接失常,应该清除
++ Hg的 hooks 部署
++ dot 的自动包含图片热区定义的 t2t 处理
++ Leo 中的自动化发布脚本按钮
 </t>
 </tnodes>
 </leo_file>

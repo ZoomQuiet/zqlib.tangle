@@ -473,6 +473,7 @@ h2.permanentURL{
     text-align : center;
     margin-bottom : 0px;
     padding : 0;
+
 }
 h2.permanentURL a:hover{
     text-decoration :  overline ;
@@ -535,7 +536,7 @@ You can use this pattern to set different styles to all cats/tags.
 }
 */
 
-.blosxomStory h1{
+.blosxomStory .header h1{
     display:none;
 }
 
@@ -960,4 +961,10 @@ padding-left : 10px;
 
 
 /* ================== PyBlosxom styles =============== */
+/* ================== jQuert styles =============== 
+border : 2px dotted #930;display:none;*/
+.jQhide {
+    color:#fff;
+    border : 0px dotted #930;
+}
 

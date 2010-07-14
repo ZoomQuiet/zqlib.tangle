@@ -202,10 +202,31 @@ theme base on <a href="http://www.bestwpthemes.com/doc/">"Doc"</a>
 
 </div> <!--end for class="container"-->
 
+<!-- for syntaxhighlighter_2.1.364_zh Include required JS files -->
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shCore.js"></script>
+<!-- At least one brush, here we choose JS. You need to include a brush for every language you want to highlight -->
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushJScript.js"></script>
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushCss.js"></script>
+
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushPhp.js"></script>
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushPython.js"></script>
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushErlang.js"></script>
+
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushXml.js"></script>
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushPlain.js"></script>
+
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushSql.js"></script>
+
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushBash.js"></script>
+<script type="text/javascript" src="/pybshare/syntaxhighlighter_2.1.364_zh/scripts/shBrushDiff.js"></script>
+
 <!-- Finally, to actually run the highlighter, you need to include this JS on your page -->
 <script type="text/javascript">
      SyntaxHighlighter.all()
 </script>
 
+<!-- Finally, to loading jQuery Ajax Lib. -->
+<script type="text/javascript" src="/pybshare/jquery-1.4.2.min.js"></script>
+<script src="/pybshare/jquery-pybactions.js" type="text/javascript"></script>
 </body>
 </html>
