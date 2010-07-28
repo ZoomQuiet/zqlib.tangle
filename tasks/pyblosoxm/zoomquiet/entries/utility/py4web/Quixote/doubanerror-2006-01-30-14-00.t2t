@@ -1,6 +1,6 @@
 [snap]豆瓣出错
 Python Traceback
-%%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %H:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8

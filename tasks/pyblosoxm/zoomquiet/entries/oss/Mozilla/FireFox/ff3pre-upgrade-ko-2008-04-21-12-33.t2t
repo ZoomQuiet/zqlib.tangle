@@ -7,6 +7,8 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 %! Options : --toc --css-sugar --enum-title
 
 
+
+
 = FF3 =
 看周围M$ 用户都主动升迁到 FF2.0.0.14 超级稳定版本了，
 
@@ -119,14 +121,10 @@ swiftfox -safe-mode
 
 
 
+
 ------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
 
 % leo: 编辑
 
 
-
-[/pybimage/technorati-over.gif]
-    [OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Mozilla http://www.technorati.com/tags/Mozilla]
-    ,[FireFox http://www.technorati.com/tags/FireFox]

@@ -7,6 +7,7 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 %! Options : --toc --css-sugar --enum-title
 
 
+
 = Solaris 的FS决择 =
 节译:[Solaris Filesystem Choices http://www.osnews.com/story/19665/Solaris_Filesystem_Choices] 50%
 
@@ -111,8 +112,6 @@ John Finigan is a Computer Science graduate student and IT professional speciali
 ------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
 
-% gedit: 编辑
+% leo: 编辑
 
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Solaris]
+

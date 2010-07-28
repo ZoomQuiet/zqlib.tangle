@@ -8,6 +8,8 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 
 
+
+
 = 为什么要升级 =
 升级!需要理由嘛?
  - 不需要嘛?
@@ -143,12 +145,11 @@ deb-src http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe
 
 
 
+
+
 ------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
 
 % leo: 编辑
 
 
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Ubuntu]

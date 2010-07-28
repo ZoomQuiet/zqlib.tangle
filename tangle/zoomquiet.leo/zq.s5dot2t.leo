@@ -43,10 +43,27 @@
 </v>
 </v>
 <v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
+<v t="zoomq.20100726095759.6175"><vh>_stuff</vh>
+<v t="zoomq.20100726095759.6174"><vh>brief0</vh></v>
+<v t="zoomq.20100726130819.5995"><vh>PKM</vh>
+<v t="zoomq.20100726130819.5996"><vh>KM</vh>
+<v t="zoomq.20100726130819.5997"><vh>WeKnow:1</vh>
+<v t="zoomq.20100726130819.5998"><vh>WeKnow:2</vh></v>
+<v t="zoomq.20100726130819.5999"><vh>WeKnow:3</vh></v>
+</v>
+</v>
+<v t="zoomq.20100726130819.6000"><vh>学习的层级</vh></v>
+<v t="zoomq.20100726130819.6001"><vh>KM:持续改进</vh></v>
+</v>
+</v>
+<v t="zoomq.20100726094342.5994" a="E"><vh>100729-TimeMana</vh>
+<v t="zoomq.20100726094342.5995" a="E"
+expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,zoomq.20100728103610.8336,zoomq.20100726095759.6152,"><vh>@shadow index.html</vh></v>
+</v>
 <v t="zoomq.20100527142434.6470"><vh>100610-pycon-pythonicamp@ZqLib</vh>
 <v t="zoomq.20100527142434.6474"><vh>@shadow index.html</vh></v>
 </v>
-<v t="zoomq.20100603095331.5850" a="E"><vh>100610-pycon-pythonicamp@OBP</vh>
+<v t="zoomq.20100603095331.5850"><vh>100610-pycon-pythonicamp@OBP</vh>
 <v t="zoomq.20100527142434.6474"></v>
 </v>
 <v t="zoomq.20100602201453.5832"><vh>100423-QCon2010-T&amp;D</vh>
@@ -71,8 +88,8 @@
 <v t="zoomq.20100602201453.5849"><vh>version</vh></v>
 </v>
 </v>
-<v t="zoomq.20080807095120.28"><vh>ZEUUX:ZPyUG</vh>
-<v t="zoomq.20100322235812.5543"><vh>100419-Pythonic</vh>
+<v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
+<v t="zoomq.20100322235812.5543" a="E"><vh>100419-Pythonic</vh>
 <v t="zoomq.20100407094145.5747"><vh>_chaos</vh>
 <v t="zoomq.20100405215514.5579"><vh>教育</vh></v>
 <v t="zoomq.20100327110414.5545"><vh>Chat</vh></v>
@@ -1236,6 +1253,9 @@
 </v>
 <v t="zoomq.20091204150544.4881"><vh>s5:KIS</vh>
 <v t="zoomq.20100312132537.9039"><vh>SPE必须有后路</vh></v>
+<v t="zoomq.20100726094342.5915"><vh>4KiT</vh>
+<v t="zoomq.20100726094342.5994" a="E"></v>
+</v>
 <v t="zoomq.20091204150544.9625"><vh>4KsPEG</vh>
 <v t="zoomq.20091204150544.9867"><vh>goal4kspeg</vh>
 <v t="zoomq.20091204150544.9868"><vh>_stuff</vh>
@@ -37384,5 +37404,182 @@ an Lewis (IanMLewis): RT @whosaysni: A lot fun of building interactive display w
 </t>
 <t tx="zoomq.20100608162108.5859">@path xul</t>
 <t tx="zoomq.20100608162108.5862">@path 100610-pycon-pythonicamp</t>
+<t tx="zoomq.20100726094342.5915"></t>
+<t tx="zoomq.20100726094342.5994">@path 100729-ks-timemana
+
+</t>
+<t tx="zoomq.20100726095759.6174">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+提纲...
+&lt;div id="sup"&gt;
+mov-&gt;时间-&gt;效能工具
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;ul class="incremental" id="takahashi2"&gt;
+&lt;li&gt;&lt;sup&gt;90'&lt;/sup&gt; Randy Pausch 演讲录像&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;45'&lt;/sup&gt; 时间管理心态 &lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;45'&lt;/sup&gt; 效能工具箱 &lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;30'&lt;/sup&gt; 自由沟通 &lt;/li&gt;
+&lt;/ul&gt;
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+</t>
+<t tx="zoomq.20100726095759.6175"></t>
+<t tx="zoomq.20100726130819.5995">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+个人知识管理!
+&lt;div id="sup"&gt;
+从尊重自个儿掌握的知识开始!
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+&lt;a href="http://blog.sina.com.cn/s/blog_493a84550100c4ug.html"&gt;
+PKM
+&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+TLH项目 – 学校并非学习之地 | 益学会 
+http://fanyi.edu2do.org/2010/04/05/tlh-school-is-not-for-learning.html
+
+
+    &lt;/div&gt;
+&lt;/div&gt;</t>
+<t tx="zoomq.20100726130819.5996">&lt;div class="slide"&gt;
+&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+知识之轮
+
+&lt;div id="sup"&gt;
+知识只有流动才有价值...
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/kmtranfer2.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100726130819.5997">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+SNS学习原理:1
+&lt;div id="sup"&gt;
+小时的我...
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/_know-me.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100726130819.5998">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+SNS学习原理:2
+&lt;div id="sup"&gt;
+成长的我...
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/_know-me1.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100726130819.5999">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+SNS学习原理:3
+&lt;div id="sup"&gt;
+成为一体的大家...
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;h2 id="takahashi"&gt;
+&lt;img src="img/_know-we.gif"/&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100726130819.6000">&lt;div class="slide"&gt;&lt;h1&gt;
+&lt;a href="http://code.google.com/p/openbookproject/wiki/ZoomQuiet"&gt;
+&lt;img src="id/zoomquiet_1-1_outline.png"/&gt;
+&lt;/a&gt;
+&lt;a href="http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/0Days"&gt;
+学习的层级&lt;/a&gt;
+&lt;div id="sup"&gt;
+也是个人总结
+&lt;/div&gt;&lt;/h1&gt;
+
+&lt;ol class="incremental" id="takahashi3"&gt;
+&lt;li&gt;不知己不知
+    &lt;/li&gt;
+&lt;li&gt;不知己知何
+    &lt;/li&gt;
+&lt;li&gt;知己何已知
+    &lt;/li&gt;
+&lt;li&gt;知己何不知
+    &lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;div class="handout"&gt;
+    ...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100726130819.6001">&lt;div class="slide"&gt;
+&lt;h1&gt; KM持续改进
+&lt;div id="sup"&gt;
+最终目标是:基于知识的企业文化！
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;pre class="takahashi"&gt;
+知识管理乃是
+    培育
+        可摧生自学习型组织的
+    文化氛围
+&lt;/pre&gt;
+&lt;ul id="takahashi" class="incremental"&gt;
+&lt;li&gt;自学习型&lt;sup&gt;  主动改进自身行为的&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;氛围&lt;sup&gt;  即所有成员的共通心理&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+</t>
 </tnodes>
 </leo_file>

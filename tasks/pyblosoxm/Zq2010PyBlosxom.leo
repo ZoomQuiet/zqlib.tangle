@@ -52,18 +52,22 @@
 <v t="ZoomQuiet.20060122153701.1"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060121172947.1"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
-<v t="ZoomQuiet.20060113092644" a="E"><vh>Blogging</vh>
 <v t="ZoomQuiet.20060306165940"><vh>~stuff</vh>
-<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
+<v t="zoomq.20060916180156.12"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
+<v t="zoomq.20100728103610.7583"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 <v t="zoomq.20100714100009.4008"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
 <v t="zoomq.20100714100009.4009"><vh>noDOC</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
 </v>
+<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
 </v>
+<v t="ZoomQuiet.20060113092644" a="E"><vh>Blogging</vh>
 <v t="ZoomQuiet.20060116170040"><vh>Zen</vh>
 <v t="ZoomQuiet.20060116170040.1"><vh>Chinese</vh>
 <v t="zoomq.20060916180156"><vh>@nosent CCSalon-2006-06-11-14-00.t2t</vh>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 <v t="zoomq.20060916180156.1"><vh>记要</vh></v>
 <v t="zoomq.20060916180156.2"><vh>流水</vh>
 <v t="zoomq.20060916180156.3"><vh>人物</vh></v>
@@ -76,42 +80,45 @@
 </v>
 <v t="zoomq.20060916180156.9"><vh>结论</vh></v>
 <v t="zoomq.20060916180156.10"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="zoomq.20060916180156.12"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
 <v t="ZoomQuiet.20060515104812"><vh>@nosent winbx-IMEstory-2006-05-15-12-00.t2t</vh>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 <v t="ZoomQuiet.20060512113519"><vh>表形码</vh></v>
 <v t="ZoomQuiet.20060515112012"><vh>历史</vh></v>
 <v t="ZoomQuiet.20060515182456"><vh>文化</vh></v>
 <v t="ZoomQuiet.20060515115145"><vh>现在</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060515104812.3"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
 <v t="ZoomQuiet.20060515120631"><vh>万用型</vh></v>
 <v t="zoomq.20100414115206.4543"><vh>@nosent OFSFD06-2006-09-16-13-30.t2t</vh>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 <v t="zoomq.20100414115206.4727"><vh>正文</vh></v>
 <v t="zoomq.20100414115206.4726"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
 </v>
 <v t="zoomq.20100414115206.4544"><vh>@nosent 918-2006-09-18-10-30.t2t</vh>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 <v t="zoomq.20100414115206.4728"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060125172237"><vh>Google</vh>
 <v t="zoomq.20100414115206.4546"><vh>@nosent joke-gmailhdisk-2006-05-24-12-00.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 <v t="zoomq.20100414115206.4547"><vh>@nosent ssbsGAE-zqlib-web2py-2008-05-08-19-00.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7584"><vh>正文</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170108.1"><vh>pythonic</vh>
 <v t="zoomq.20100630152750.4000"><vh>@nosent leo-py25-bad-chinese-2007-04-27-18-00.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7585"><vh>main</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 <v t="ZoomQuiet.20060125103000"><vh>示例</vh>
 <v t="ZoomQuiet.20060113160325"><vh>@nosent py-code-rule-2005-06-01-23-23.t2t</vh>
@@ -185,64 +192,75 @@
 <v t="zoomq.20100520090310.4609"><vh>加速</vh></v>
 </v>
 <v t="zoomq.20100520090310.4598"><vh>提高100倍</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170040.2"><vh>oss</vh>
 <v t="ZoomQuiet.20060125173931"><vh>@nosent OSSdocDemoJPS-2006-01-17-23-23.t2t</vh>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 <v t="ZoomQuiet.20060125173931.1"><vh>由来</vh></v>
 <v t="ZoomQuiet.20060125173931.2"><vh>结构</vh></v>
 <v t="ZoomQuiet.20060125173931.3"><vh>TODO</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
-<v t="ZoomQuiet.20060125173931.4"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
 <v t="zoomq.20100414115206.4549"><vh>@nosent solaris-fs-choice-2008-04-23-21-43.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7586"><vh>main</vh></v>
 </v>
 <v t="ZoomQuiet.20060116170150"><vh>CPyUG</vh></v>
-<v t="ZoomQuiet.20060410130427"><vh>FreeBSD</vh>
+<v t="ZoomQuiet.20060410130427" a="E"><vh>FreeBSD</vh>
 <v t="ZoomQuiet.20060410185041"><vh>@nosent gnn-beijing-2006-04-09-15-00.t2t</vh>
 <v t="ZoomQuiet.20060410185041.1"><vh>report</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060410185041.2"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 </v>
 </v>
-<v t="ZoomQuiet.20060125172335"><vh>Mozilla</vh>
+<v t="ZoomQuiet.20060125172335" a="E"><vh>Mozilla</vh>
 <v t="ZoomQuiet.20060125172623"><vh>FireFox</vh>
 <v t="ZoomQuiet.20060125175729"><vh>@nosent FFoxSearchplugins-2006-01-04-23-23.t2t</vh>
 <v t="ZoomQuiet.20060125175729.1"><vh>定制tips</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060125175729.6"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 <v t="zoomq.20100414115206.4548"><vh>@nosent ff3pre-upgrade-ko-2008-04-21-12-33.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7587"><vh>main</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060125172634"><vh>Thunderbird</vh></v>
 </v>
 <v t="zoomq.20100414115206.4541"><vh>Ubuntu</vh>
 <v t="zoomq.20100414115206.4550"><vh>@nosent ff-to-gg-2007-10-22-23-43.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7588"><vh>main</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 <v t="zoomq.20100414115206.4551"><vh>@nosent hardy-heron-9day-2008-04-15-10-15.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7589"><vh>main</vh></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 </v>
 <v t="zoomq.20100414115206.4552"><vh>@nosent terror-fs-luckly-reiserfs-2007-06-15-23-43.t2t</vh>
 <v t="zoomq.20100414115206.4730"><vh>正文</vh></v>
 <v t="zoomq.20100414115206.4729"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 </v>
 <v t="zoomq.20100414115206.4553"><vh>@nosent ubuntu-release-party-bj-2006-11-02-17-30.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7590"><vh>main</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 <v t="zoomq.20100414115206.4554"><vh>@nosent upgrade-into-feisty-2007-05-11-13-43.t2t</vh>
-<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="zoomq.20100728103610.7591"><vh>main</vh></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 </v>
 </v>
 </v>
@@ -250,8 +268,8 @@
 <v t="ZoomQuiet.20060116170227.1"><vh>OpenBookProj</vh>
 <v t="zoomq.20100714100009.3999"><vh>@nosent open-book-project-2010-01-01-23-23.t2t</vh>
 <v t="zoomq.20100714100009.4000"><vh>intro</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170227.2"><vh>openpeople</vh></v>
@@ -260,9 +278,9 @@
 <v t="zoomq.20100414115206.4540"><vh>mind</vh>
 <v t="ZoomQuiet.20060531114330"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
 <v t="ZoomQuiet.20060531114330.1"><vh>noDOC</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
 <v t="ZoomQuiet.20060531114849"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170040.4"><vh>Quiet</vh>
@@ -325,7 +343,7 @@
 </v>
 <v t="zoomq.20100414115206.4538"><vh>utility</vh>
 <v t="ZoomQuiet.20060116170508"><vh>py4gui</vh></v>
-<v t="ZoomQuiet.20060116170643"><vh>py4str</vh>
+<v t="ZoomQuiet.20060116170643" a="E"><vh>py4str</vh>
 <v t="zoomq.20100414115206.4235"><vh>StructuredText</vh>
 <v t="zoomq.20100414115206.4236"><vh>@nosent t2tdemo-2005-04-01-23-23.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
@@ -342,7 +360,7 @@
 <v t="zoomq.20100414115206.4268"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 <v t="zoomq.20100414115206.4269"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100714100833.4015" a="E"><vh>@nosent py4sa-off-wacom-touch-2010-07-14-10-22.t2t</vh>
+<v t="zoomq.20100714100833.4015"><vh>@nosent py4sa-off-wacom-touch-2010-07-14-10-22.t2t</vh>
 <v t="zoomq.20100714100833.4016"><vh>问题</vh></v>
 <v t="zoomq.20100714140857.4012"><vh>尝试</vh></v>
 <v t="zoomq.20100714140857.4013"><vh>Py之</vh></v>
@@ -479,14 +497,14 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060116170040.5" a="E"><vh>techic</vh>
+<v t="ZoomQuiet.20060116170040.5"><vh>techic</vh>
 <v t="zoomq.20100414115206.4542"><vh>Emacs</vh>
 <v t="zoomq.20100414115206.4558"><vh>@nosent fw_learning_emacs_notes-2007-03-08-18-00.t2t</vh>
 <v t="zoomq.20100414115206.4534"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 </v>
 </v>
-<v t="zoomq.20100414115206.4391" a="E"><vh>PyBlosxom</vh>
-<v t="zoomq.20100414115206.4530" a="E"><vh>运维日志</vh>
+<v t="zoomq.20100414115206.4391"><vh>PyBlosxom</vh>
+<v t="zoomq.20100414115206.4530"><vh>运维日志</vh>
 <v t="zoomq.20100414115206.4531"><vh>@nosent operacss2-2006-01-28-10-00.t2t</vh>
 <v t="zoomq.20100414115206.4532"><vh>what?</vh></v>
 <v t="zoomq.20100414115206.4533"><vh>fixed</vh></v>
@@ -494,7 +512,7 @@
 <v t="zoomq.20100414115206.4535"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 <v t="zoomq.20100414115206.4536"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
-<v t="zoomq.20100420100426.5527" a="E"><vh>@nosent relivin-pyblosxom-2010-04-18-23-23.t2t</vh>
+<v t="zoomq.20100420100426.5527"><vh>@nosent relivin-pyblosxom-2010-04-18-23-23.t2t</vh>
 <v t="zoomq.20100420100426.5528"><vh>what?</vh></v>
 <v t="zoomq.20100420100426.5529"><vh>plan</vh></v>
 <v t="zoomq.20100714140857.5218"><vh>TODO</vh></v>
@@ -592,7 +610,7 @@
 </v>
 </v>
 <v t="ZoomQuiet.20060113151604"><vh>hacking</vh>
-<v t="ZoomQuiet.20060123104045" a="E"><vh>plugins</vh>
+<v t="ZoomQuiet.20060123104045"><vh>plugins</vh>
 <v t="zoomq.20100414115206.4559"><vh>@shadow cleant2t.py</vh></v>
 <v t="zoomq.20100414115206.4579"><vh>archives</vh>
 <v t="zoomq.20100414115206.4622"><vh>@shadow pycategories.py</vh></v>
@@ -634,8 +652,8 @@
 <v t="ZoomQuiet.20060128153405"><vh>@shadow zqcategory.py</vh></v>
 <v t="ZoomQuiet.20060128161946" a="M"><vh>@shadow zqcrecent.py</vh></v>
 </v>
-<v t="ZoomQuiet.20060113155741" a="E"><vh>preformatters</vh>
-<v t="ZoomQuiet.20060122144657" a="E"><vh>为t2t</vh>
+<v t="ZoomQuiet.20060113155741"><vh>preformatters</vh>
+<v t="ZoomQuiet.20060122144657"><vh>为t2t</vh>
 <v t="ZoomQuiet.20060121163046"><vh>@shadow xhtml.py</vh></v>
 <v t="ZoomQuiet.20060113175338"><vh>@nosent t2t.py</vh>
 <v t="ZoomQuiet.20060113175338.1"><vh>&lt;&lt; t2t declarations &gt;&gt;</vh></v>
@@ -7340,7 +7358,7 @@ def usage():
 @others
 
 &lt;&lt;t2t foot&gt;&gt;
-&lt;&lt;SNSlink&gt;&gt;
+
 </t>
 <t tx="ZoomQuiet.20060125173931.1">
 : 发现:
@@ -7419,11 +7437,6 @@ def usage():
 我们呢…………?
 
 </t>
-<t tx="ZoomQuiet.20060125173931.4">
-[/pybimage/technorati-over.gif]
-    [OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[document http://www.technorati.com/tags/document]
-    ,[project http://www.technorati.com/tags/project]</t>
 <t tx="ZoomQuiet.20060125175729">@language Moin
 [FFox]searchplugins
 手工定制搜索引擎使用
@@ -10562,7 +10575,7 @@ SERVER_SOFTWARE lighttpd/1.4.8
 不过看豆瓣的服务架构是挻前卫的哪…………Lighttpd....
 
 </t>
-<t tx="zoomq.20100414115206.4268">%%date(%Y-%m-%d %H:%M:%S)
+<t tx="zoomq.20100414115206.4268">t2t渲染:: %%date(%Y-%m-%d %H:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
@@ -11623,338 +11636,37 @@ Gmail的硬盘
 
 
 
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% leo: 编辑
-
-
-
-[/pybimage/technorati-over.gif]
-    ,[Zen http://www.technorati.com/tags/Zen]
-    ,[Google http://www.technorati.com/tags/Google]</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4547">@language Moin
 [ssbsGAE]running web2py
 ~在GoogleAppEngine 中跑web2py
 &lt;&lt;t2t head&gt;&gt;
 
-= ssbsGAE =
 
- slow step by step GAE::
-  - 慢慢使用GAE
-  - 俺计划将基于GAE 的使用体验使用 `[ssbsGAE]` 的标签长期完整的记录分享下来 ;-)
+@others
 
 
-== web2py ==
-
-为什么先选择了 `web2py`?
- - 因为俺比较懒散
- - [web2py http://www.web2py.com/]
- - Python web app. framework 中最 Rails 样的新兴实现！
- - 将核心引擎打造的足够`K.I.S.S` 自然使用之！
-  - M ~ DB的ROM 足够快和全面
-  - C ~ 完全OO而且可以在线编辑的控制层
-  - V ~ 模板系统非常友好，可以直接嵌入 Py 脚本段！
-  - D ~ 设计界面内置在系统中！
- - 而且文档齐全！
-
-
-,[/pybimage/2008/web2py/gluon-web-framework.png];
-
-
-== zqlib ==
-
-[Zqlib. http://wiki.woodpecker.org.cn/moin/ZqLib] ~ 挖了N久的坑了！
- - 目标也一直在变化着
- - 现在就先成为自个儿的想法/代码/知识片段收集仓库吧
- - 算是比Blog 要自在,但是没有 wiki 开放的地儿,先
-
-
-== go! ==
-
-- 下载web2py:``svn co http://web2py.googlecode.com/svn/trunk/ web2py-read-only``
-- 直接就可以运行:
-
-,[/pybimage/2008/web2py/2008-05-08-145319_0-start_scrot.png];
-
- - 哗,还给了 GUI 的服务台控制器!
-
-- 直接对目录进行修减,在 GAE SDK 中试运行一下:
-
-,[/pybimage/2008/web2py/2008-05-08-165528_1-loctest_scrot.png];
-
- - 嗯嗯嗯,除了警告一切正常!
- - 参考:[web2py in GAE http://blog.donews.com/limodou/archive/2008/05/08/1287684.aspx] ~ limodou
-
-
-- 上传应用:``python appcfg.py update zqlib/``
-
-,[/pybimage/2008/web2py/2008-05-08-165659_2-GAE_scrot.png];
-
- - 成了!
-
-
-== TODO ==
-
-+ 使用gae.db
-+ 使用 GBase
-+ 使用 reST/t2t
-+ 发布 RESTful 接口
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% gedit: 编辑
-
-
-[/pybimage/technorati-over.gif]
-    ,[Zen http://www.technorati.com/tags/Zen]
-    ,[Google http://www.technorati.com/tags/Google]
-    ,[GAE http://www.technorati.com/tags/GAE]</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4548">@language Moin
 FF3
 --Ubuntu7.10 中使用 3.0pre
 &lt;&lt;t2t head&gt;&gt;
 
-= FF3 =
-看周围M$ 用户都主动升迁到 FF2.0.0.14 超级稳定版本了，
 
-但是Ubuntu7.10 的源中依然是 2.0.0.13+,有点郁rz..
+@others
 
 
-== SwiftFox 3.0pre ==
-不过 SwiftFox 已到了 3.0pre!
-通过 apt 立即可以使用:
-
-
-== 探查 ==
-但是插件不能使用``Nightly Tester Tools`` 轻易全开...
- 使用 安全模式::
-```
-swiftfox -safe-mode
-```
- - 关闭所有 扩展和插件后，逐一尝试，确认最小可用组合::
-
-
-=== 配置 ===
-
-启用扩展： [16]
-- Adblock Plus 0.7.5.4: http://adblockplus.org/
-- CHM Reader 0.2.1.1: http://sourceforge.net/projects/chmreader/
-- Copy Link Name 1.2.5: http://www.captaincaveman.nl
-- DownThemAll! 1.0.1: http://downthemall.net/
-- FEBE 5.3.1: http://customsoftwareconsult.com/extensions
-- Firefox Universal Uploader (fireuploader) 0.3.2: http://www.fireuploader.com
-- MLdonkey Protocol Handler 2.0: http://www.informatik.uni-oldenburg.de/~dyna/mldonkey/
-- Nightly Tester Tools 1.3: http://www.oxymoronical.com/web/firefox/nightly
-- NoScript 1.6: http://noscript.net
-- PDF Download 1.0.1.1: http://www.pdfdownload.org
-- Right Encoding 0.2.2: http://heygom.com/extensions/
-- ScrapBook 1.3.3.2: http://amb.vis.ne.jp/mozilla/scrapbook/
-- SwiftTabs 0.3.3.1: http://heygom.com/extensions/
-- Tab Mix Plus 0.3.6.1.080416: http://tmp.garyr.net
-- ubufox 0.4~beta1: http://www.google.com/search?q=Firefox%20ubufox
-
-禁用扩展： [35]
-- Access Flickr! 1.71: http://flickr.com/photos/hamed
-- Add to Search Bar 1.7: http://maltekraus.de/Firefox/search-tools
-- Autohide 1.1.5: http://www.krickelkrackel.de/autohide/
-- Brookstone 0.0.2: http://www.mobilebrook.com
-- Chinese Simplified (zh-CN) Language Pack 2.0.0.7: http://www.google.com/search?q=Firefox%20Chinese%20Simplified%20%28zh-CN%29%20Language%20Pack
-- Classic Compact 3.0.6: http://blog.environmentalchemistry.com/2008/03/firefox-theme-classic-compact.html
-- ColorZilla 1.9: http://www.colorzilla.com/
-- Compact Menu 2 2.0.3: https://addons.mozilla.org/firefox/108029/author/
-- Copy Plain Text 0.3.3: http://mozmonkey.com/
-- CSSViewer 1.0.2: http://www.google.com/search?q=Firefox%20CSSViewer
-- CustomizeGoogle 0.71: http://www.customizegoogle.com/
-- Fasterfox 2.0.0: http://fasterfox.mozdev.org/
-- Firebug 1.05: http://www.getfirebug.com/
-- FlickrFox 1.3.0: http://philmccluskey.com/projects/flickrfox/
-- FoxyTunes 2.9.5.31: http://www.foxytunes.com/
-- Gmail Skins 0.9.8: http://gmailskins.mozdev.org
-- Google Gears 0.3.14.0: http://gears.google.com/
-- Google Toolbar for Firefox 3.0.20070525L: http://www.google.com/
-- Google Web Comments 1.4.20070529.0: http://toolbar.google.com/firefox/extensions/webcomments/
-- Greasemonkey 0.7.20080121.0: http://www.greasespot.net/
-- Hide Menubar 1.0.20080310: http://forum.moztw.org/viewtopic.php?t=15303
-- It's All Text! 0.8.4: http://addons.mozilla.org/firefox/4125
-- Locale Switcher 2.1: http://benjamin.smedbergs.us/switch-locales/
-- MeasureIt 0.3.6: http://www.kevinfreitas.net/pro/extensions/
-- Modify Headers 0.6.4: http://www.garethhunt.com/
-- Mozilla XForms 0.8.5: http://www.mozilla.org/projects/xforms/
-- MR Tech Local Install 5.3.2.3: http://www.mrtech.com/extensions/local_install/
-- Ook? Video Ook! 0.6.6: http://ook.dedos.net/
-- Pearl Crescent Page Saver Basic 1.7: http://pearlcrescent.com/products/pagesaver/
-- Resizeable Textarea 0.1d: http://www.google.com/search?q=Firefox%20Resizeable%20Textarea
-- Screen grab! 0.93: http://andy.5263.org/screengrab/
-- ScribeFire 1.4.8: http://www.scribefire.com/
-- Split Browser 0.4.2007120601: http://piro.sakura.ne.jp/xul/_splitbrowser.html.en
-- TwittyTunes 0.5.3.1: http://www.foxytunes.com/twittytunes/
-- Web Developer 1.1.5: http://chrispederick.com/work/web-developer/
-- wmlbrowser 0.7.17: http://wmlbrowser.mozdev.org
-
-全部扩展： 51
-
-已安装主题： [8]
-- azureFox 0.96.1: http://www.radar.250x.com/
-- Firefox (default): http://www.mozilla.org/
-- Human Theme 0.5: http://www.ffnn.nl/
-- iFox 2.5.1: http://www.radar.250x.com
-- miniFox 0.8.2: http://membres.lycos.fr/sethnakht
-- Pinstripe 5.0: http://www.webether.com
-- Tangerine Theme 0.5: http://www.ffnn.nl/
-- Tango Theme 0.5: http://www.ffnn.nl/
-
-已安装插件： (12)
-- DivX Browser Plug-In
-- DivX® Web Player
-- Java(TM) Plug-in 1.6.0_03-b05
-- MozPlugger 1.8.0 handles QuickTime and Windows Media Player Plugin
-- mplayerplug-in 3.40
-- QuickTime Plug-in 6.0 / 7
-- QuickTime Plug-in 7.2.0
-- RealPlayer 9
-- Shockwave Flash
-- Totem Web Browser Plugin 2.20.0
-- Windows Media Player Plug-in 10 (compatible; Totem)
-- Windows Media Player Plugin
-
-
-== 成了！ ==
-开始快乐的使用！
-
-. [/pybimage/2008/2008-04-21-144725_685x652_scrot.png];  
-
-
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% leo: 编辑
-
-
-
-[/pybimage/technorati-over.gif]
-    [OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Mozilla http://www.technorati.com/tags/Mozilla]
-    ,[FireFox http://www.technorati.com/tags/FireFox]</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4549">@language Moin
 文件系统选择
 -- 译文 Solaris Filesystem Choices
 &lt;&lt;t2t head&gt;&gt;
 
-= Solaris 的FS决择 =
-节译:[Solaris Filesystem Choices http://www.osnews.com/story/19665/Solaris_Filesystem_Choices] 50%
 
-OpenSolaris 10 已经给用户提供了一大堆存储相关的支持，而且秉承UNIX的一贯习俗，
-都是经过严格测试了的,这里就四种通用文件系统进行分析，希望可以就部署方面给读者提供足够的信息以便最终选择:
-
-== UFS ==
-UFS 忒有历史凫，从80年代开始就是BSD等UNIX系統的默认FS；
-类似于 ext3 在 GNU/Linux 体系中的地位;
-Solaris 中的UFS来自 SunOS,而SunOS 中的UFS来自 BSD;
-
-不久前，UFS还是Solaris 中唯一的FS，不同于HP, IBM, SGI, 以及 DEC；
-SUN直到90年代也没有自主发展下一代的FS；
-原因有两:
- + 多数情况下开发者需要第三方代码来支持新FS，而这需要许可
- + 多数可以交易来的FS都是 Veritas 许可的(嘛意思?)
+@others
 
 
-Solaris10 只能从UFS启动,未来将允许从ZFS启动;在OpenSolaris 已经可以了;
-但是当前,所有Solaris 还是得至少有一个UFS分区;
-
-UFS虽然是个技术,但是贵在稳定和足够快;
-而且Sun 在其最后基础上进行了多方的优化；
-从Solaris 7 开始支持日志，进入本世纪，从Solaris 9 开始成为了默认特性；
-原先卷級日志是种效率不好的模型,但是有趣的是FreeBSD又重新加入了这种特性.
-
-UFS已经加入了对RAID支持良好的Solaris卷管理.
-
-2008UFSd准备进行什么修订?
-除作启动之外,UFS足够好用了,将来可由ZFS替代,
-当然看,UFS 对于数据库是个好选择(有普遍的基于文件系统权限控制的DB);
-同时对于保守的有固定工作且不想花时间太多时间配置的SA也是个好选择;
-
-
-== ZFS ==
-对ZFS 已经有N多报道了,同时也收到了从Linux 阵营习惯性的嘲笑.
-
-ZFS 不是魔法,但是足够COOL 了.
-我喜欢将 UFS/ext3 视作首代UNIX文件系统,
-而 VxFS和XFS 视作二代FS,
-那未 ZFS 就是第一个三代UNIX FS!
-
-ZFS已不仅仅是个文件系统了.
-实际算是混合文件系统+卷管理器.
-以上功能的集成赋予了ZFS极大的灵活性.
-同时也是著名的"rampant layering violation"来源.
-不过千万记住,这只是开发特性.我从来没有在打开文件时见过"layering violation"
-
-ZFS的混合意味着你可以管理不同传统方案中的存储.
-你能将文件系统映射到分区,同时可以将另一个映射成逻辑巻,每个逻辑巻又涉及一个或是多个硬盘.
-在ZFS 中所有硬盘分配在一个存储池中.
-每个ZFS文件系统从池中使用所有硬盘,且文件系统不分卷,可以使用全部空间.
-这样没有重定分区大小的烦恼，一切是自动调整的，
-不断增长/收缩的文件系统不是靠谱的管理方式。
-
-ZFS同时在文件系统级别提供了可靠性检验.
-所有数据读/写都可以使用认证(提供了最严厉的SHA256),
-失败时双备份是支持的(元数据是在单一硬盘,而数据是经典的RAID结构),
-
-ZFS provides the most robust error checking of any filesystem available. All data and metadata is checksummed (SHA256 is available for the paranoid), and the checksum is validated on every read and write. If it fails and a second copy is available (metadata blocks are replicated even on single disk pools, and data is typically replicated by RAID), the second block is fetched and the corrupted block is replaced. This protects against not just bad disks, but bad controllers and fibre paths. On-disk changes are committed transactionally, so although traditional journaling is not used, on-disk state is always valid. There is no ZFS fsck program. ZFS pools may be scrubbed for errors (logical and checksum) without unmounting them.
-
-The copy-on-write nature of ZFS provides for nearly free snapshot and clone functionality. Snapshotting a filesystem creates a point in time image of that filesystem, mounted on a dot directory in the filesystem's root. Any number of different snapshots may be mounted, and no separate logical volume is needed, as would be for LVM style snapshots. Unless disk space becomes tight, there is no reason not to keep your snapshots forever. A clone is essentially a writable snapshot and may be mounted anywhere. Thus, multiple filesystems may be created based on the same dataset and may then diverge from the base. This is useful for creating a dozen virtual machines in a second or two from an image. Each new VM will take up no space at all until it is changed.
-
-These are just a few interesting features of ZFS. ZFS is not a perfect replacement for traditional filesystems yet - it lacks per-user quota support and performs differently than the usual UFS profile. But for typical applications, I think it is now the best option. Its administrative features and self-healing capability (especially when its built in RAID is used) are hard to beat. 
-
-== SAM and QFS ==
-SAM and QFS are different things but are closely coupled. QFS is Sun's cluster filesystem, meaning that the same filesystem may be simultaneously mounted by multiple systems. SAM is a hierarchical storage manager; it allows a set of disks to be used as a cache for a tape library. SAM and QFS are designed to work together, but each may be used separately.
-
-QFS has some interesting features. A QFS filesystem may span multiple disks with no extra LVM needed to do striping or concatenation. When multiple disks are used, data may be striped or round-robined. Round-robin allocation means that each file is written to one or two disks in the set. This is useful since, unlike striping, participation by all disks is not needed to fetch a file - each disk may seek totally independently. QFS also allows metadata to be separated from data. In this way, a few disks may serve the random metadata workload while the rest serve a sequential data workload. Finally, as mentioned before, QFS is an asymmetric cluster filesystem.
-
-QFS cannot manage its own RAID, besides striping. For this, you need a hardware controller, a traditional volume manager, or a raw ZFS volume.
-
-SAM makes a much larger backing store (typically a tape library) look like a regular UNIX filesystem. This is accomplished by storing metadata and often-referenced data on disk, and migrating infrequently used data in and out of the disk cache as needed. SAM can be configured so that all data is staged out to tape, so that if the disk cache fails, the tapes may be used like a backup. Files staged off of the disk cache are stored in tar-like archives, so that potentially random access of small files can become sequential. This can make further backups much faster.
-
-QFS may be used as a local or cluster filesystem for large-file intensive workloads like Oracle. SAM and QFS are often used for huge data sets such as those encountered in supercomputing. SAM and QFS are optional products and are not cheap, but they have recently been released into OpenSolaris. 
-
-
-== VxFS ==
-The Veritas filesystem and volume manager have their roots in a fault-tolerant proprietary minicomputer built by Veritas in the 1980s. They have been available for Solaris since at least 1993 and have been ported to AIX and Linux. They are integrated into HP-UX and SCO UNIX, and Veritas Volume Manager code has been used (and extensively modified) in Tru64 UNIX and even in Windows. Over the years, Veritas has made a lot of money licensing their tech, and not because it is cheap, but because it works.
-
-VxFS has never been part of Solaris but, when UFS was the only option, it was a popular addition. VxVM and VxFS are tightly integrated. Through vxassist, one may shrink and grow filesystems and their underlying volumes with minimal trouble. VxVM provides online RAID relayout. If you have a RAID5 and want to turn it into a RAID10, no problem, no downtime. If you need more space, just convert it back to a RAID5. VxVM has a reputation for being cryptic, and to some extent it is, but it's not so bad and the flexibility is impressive.
-
-VxFS is a fast, extent based, journaled, clusterable filesystem. In fact, it essentially introduced these features to the world, along with direct IO. Newer versions of VxFS and VxVM have the ability to do cross-platform disk sharing. If you ever wanted to unmount a volume from your AIX box and mount it on Linux or Solaris, now you can.
-
-VxFS and VxVM are still closed source. A version is available from Symantec that is free on small servers, with limitations, but I imagine that most users still pay. Pricing starts around $2500 and can be shocking for larger machines. VxFS and VxVM are solid choices for critical infrastructure workloads, including databases.
-
-= 结论 =
-Conclusion
-
-These are the four major choices in the Solaris on-disk filesystem world. Other filesystems, such as ext2, have some degree of support in OpenSolaris, and FUSE is also being worked on. But if you are deploying a Solaris server, you are going to be using one or more of these four. I hope that you enjoyed this overview, and if you have any corrections or tales of UNIX filesystem history, please let me know.
-
-
-About the Author
-
-John Finigan is a Computer Science graduate student and IT professional specializing in backup and recovery technology. He is especially interested in the history of enterprise computing and in Cold War technology. 
-
-
-= TODO =
-
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% gedit: 编辑
-
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Solaris]
+&lt;&lt;t2t foot&gt;&gt;
 </t>
 <t tx="zoomq.20100414115206.4550">@language Moin
 FF2GG
@@ -11962,115 +11674,20 @@ FF2GG
 &lt;&lt;t2t head&gt;&gt;
 
 
-= 很好,很强大! =
-升级!需要理由嘛?
- - 不需要嘛?
-  - 需要嘛?! ...
-
-: 其实因为忍不住哪！
-    - 19号下载到CD版本的，
-    - 当天HP 520(GQ349AA)也配发到手里
-    - 为了20号的会课先忍了一下
-    - 21号回来就说不得要安装,将原先的 红旗Linux 洗掉~瞧着尽力伪装成M$ 的樣子就想吐
+@others
 
 
-== 流水 ==
-
-: 硬盘:
- - 原来以为是简单的先清后win2k3 再Ubuntu 的事儿,结果,没有那么简单!
- - 不删除 红旗,win2k3 不认硬盘,使用Ubuntu Alternate 分区重写后,依然!
- - 罢了,直接来!
- - Ubuntu 7.10 GG 的Alternate 好象不完整在安装到89%时报错退出!
- - 只有使用 Ubuntu 7.04 FF 的DVD 先安装成功,然后升级了 ;(
-
-: 分区,最终规划:
- - 其中前200Mb 有问题,无法格式化,只好让掉...
-. [/pybimage/2007/2007-10-23-202858_mtab_scrot.png];  
-
-
-: 升级:
- - 通过Alternate CD升级,1小时50分钟,也下载了将近100Mb的东西,平顺完成!
- - 很智能,将原先的一些定制源也都自动替换成了 GG 的!!
-
-
-== 惊喜 ==
-
-: SETI@home:
- - 直接包含在源中了! 
-```
-:~$ acs boinc
-boinc-app-seti - SETI@home application for the BOINC client
-boinc-client - core client for the BOINC distributed computing infrastructure
-boinc-dbg - debugging symbols for BOINC binaries
-boinc-dev - development files to build applications for BOINC projects
-boinc-manager - GUI to control and monitor the BOINC core client
-kboincspy - monitoring utility for the BOINC client
-kboincspy-dev - development files for KBoincSpy plugins
-.
-```
-
-: 3D特效:
- - 内置的非常足够 COOL 了!!
-
-
-
-= 结论 =
-**Ubuntu 越來越贴近用户的实际需求了,反应的快,强大的趋势明显**
- - 期待 [/pybimage/2007/gobuntu-med.jpg] 的快速成长!
- - http://www.ubuntu.com/products/whatisubuntu/gobuntu
-
-
-= TODO =
- + WiFi 怎么也不能连接到公司的AP中,研究中;家里的 6.06 也得整了...p2p下载已经停了些日子了...
- + VBox 带个能用网银的系统,也得整! 不想再多系统启动了,就Ubuntu!
- + [XFS 是个蒙事儿的主 http://www.ibm.com/developerworks/cn/linux/l-jfs/],还是得经典的FS才成哪! 周末准备回写成 ReiserFS
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% gedit: 编辑
-
-
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Ubuntu]
-</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4551">@language Moin
 Hardy Heron
 -- 8.04 强鹭还有9天
 &lt;&lt;t2t head&gt;&gt;
 
 
-= 期待，但不等待 =
-升级!需要理由嘛?
- - 不需要嘛?
-  - 需要嘛?! ...
-
-: 其实只是心理原因;-)
-    - 7.10 使用非常舒服
-    - 8.04 也没有ZFS哪
-    - 考虑FreeBSD ing..
-    - 不过，不跳票的 Ubuntu HH 还是非常想的，如果:
-     - 字体更加好了
-     - FF3支持所有主要插件了
-     - 输入法默认是 bridge-scim 了
-     - ...
-
-. [/pybimage/2008/804UbuntuCountdown_09days.jpg];  
+@others
 
 
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% gedit: 编辑
-
-
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Ubuntu]
-</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4552">@language Moin
 文件系统惊魂
 -- 幸运的Reiserfs选择！
@@ -12087,318 +11704,23 @@ Release Party 北京，Ubuntu 的！
 --人山人海来瞧富豪
 &lt;&lt;t2t head&gt;&gt;
 
-Ubuntu Edgy Eft Release Party In Beijing
- - http://www.ubuntu.com.cn/releaseparty
- - [中科院自动化所自由软件协会  http://fsa.ia.ac.cn/]以及CSDN 合作
+
+@others
 
 
-无责任报道 061102 19:30~21:00 如下
- - [/pybimage/edubuntu_logo2.png]
- - [/pybimage/xubuntu_logo2.png]
- - [/pybimage/kubuntu_logo2.png]
-
-
-= 动机 =
-
-俺是怀着以下目的:
- + 代朋友询问 6.10 的宽屏支持问题
-  - [Ericzhao http://blog.chinaunix.net/u/12701/showart_194451.html]还是自个儿解决了...
- + 混点奖品
- + 收藏一张 Ubuntu6.10 光盘
-
-
-= 流水账 =
-
-- 18:25出发,自行车
-- 18:45到中科院自动化所自动化大厦
-- 18:55挤入会场
-- 19:00～19:15　体会嘈杂，贡献体热
-- 19:20 主角入场
-- 19:35 Mark Shuttleworth 聊天，Amy 翻译:
- + 自由软件和Ubuntu:
-    - e.g. FF 变化非常慢，但是会突然变的流行
- + Ubuntu 发布工程:
-    - 基于工程师的需求和呼声的
- + 6.10 Edgy Eft 特性
-    - 35s reroot,tea fast for this version...
-    - thin clien support;直观的好处是节省企业成本
-    - //net pc?	retun Uninx age...//
-    - understand linux is beat begin with lts(Gentoo)
- + next week start 7.04 version;在美国开始
-    - 新功能: 
-     + SGL/3D  desktop suport
-     + windows game support!
-    - howto plugin u idea into Ubuntu:
-     + wiki page report;为什么重要的?如何实现?
-     + Forum/wiki 等等中找到代理人进行意见表达
-     + 获取corel dev. 的联系;电话,Skype..直接影响确认的人将意见带入版本意见会议
-       - 注意时区 ;) ...
-
-
-== 提问互动 ==
-```~20:30```
-+ QQ 加入请求:
- - 自由软件原则 soso..
-+ 如何快速部属:
- - 支持标准的网络安装控制..
-+ 定制安装:
- - liveCD 不如 Alternate(文字安装)光盘实用
-+ Ubuntu 到底提供了什么有别于Winodws 的!?
- - **Freedom!!!**
- - 透明的详进的软件包管理
- - 针对你的各种兴趣 自由软件环境可以给你更加多的选择
-+ 安全升级Ubuntu!?总是崩溃
- - GTK error?依赖问题??
- - a: 没有使用标准工具升級
- - b: 定制系统的升级可能有问题
- - c: 自由软件本身有风险,需要我们主动参与解决
-+ Debian包的兼并有计划?
- - 使用 twin 作类比
- - Ubuntu 和 Debian 将是完全不同的系统...!不论有多象....
-   - Ubuntu is GPL, so every change is publish to Debian;
-   - not equal to Debian'a goal
-+ Gentoo和Ubuntu?
- - Gentoo is better Ubuntu?
-  - Gentoo 是学习Linux 本身的好系统
-  - Gentoo 工程师没有在Ubuntu 团队中(曾经有)
- - 学习Ubuntu 从开始Gentoo 比较好?
-  - Ubuntu 致力于与其它Linux 厂商合作
-+ abt Mark space trip:
- - 无法形容,无以类比的体验
- - 8个月的训练-&gt;drink-&gt;训练-&gt;drink...发射前没有事儿可作...当地体验,民风..遇见加油成员..过程中有非常多的疯狂体验..物种的自觉...发射的报道..5秒飞过中国...15分从北美到北非..宇宙中看不到国家..一定也是中国未来宇航轨迹..有美国人员自习中文for work in China...
-+ GPL3
- - 是否合适不一定,但是探讨模式is good
-+ 如何融合不同开发团队的思想/目标?
- - Ubuntu 项目的策略:促进分享!在不同的 kbuntu .... 团队间..存在即真理,有人用,就可以存在于Ubuntu!
- - Ubuntu 的工作就是促成项目的发布
-+ 公司命名....
- - canonical.com 的公司名..象书名,直接彰现主张..canonical -- 最简单直接的解决方法
-+ start dict 问题:
- - 升级时期 Ubuntu/Debian 的发布错开了
- - 还有词典的版权问题
-+ suggest for Ubuntu
- - 自由软件不是任何抛出想法就有人作...
- - QQ
-```
-又是QQ,这可怜的软件折磨我们这么多年了,难道仅仅因为其中的一些爱情故事;
-中国人就认定了要永远受到一家公司的不断要胁而安装越來越肥的软件?!
-竟然连自由软件爱好者都不能免俗?!
-建议区分真伪自由软件爱好者的标准之一检验是否使用QQ...
-```
- - 中文支持
-+ 自由软件的商业生存:
- - not sale License just Servise...还有培训业务...政府支持
-+ .NET 框架可以在Ubuntu 中支持?
- - Ubuntu 没有怎么研究所以没有办法回答
-+ 如何成为Ubuntu开发人员 
- - 各种人士加入进来以后..沟通全球人的智慧..沟通技巧和欲望是加入Ubuntu 世界的主要技能
- - canonical.com 现在70 人开发团队,分布在18个国家
- - 在社区中表现和证实自个儿,然后提升为正式
-+ Mark 的人生下一步
- - 代替Windows....哈哈哈..人生目标也在寻求中
-+ 为什么投资Ubuntu:
- - Mark 生平..接触PC和Internet 很迟..大学时接触了 SlackwareLinux..windowx3.1 时有很差的体验...通过Linux 流畅的进入Internet..发现/把握机会..了解计算机..大学时成立咨询公司解答windows的网络问题来获利..mail server..南非的带宽非常有限..深入理解TCP/IP..使用自由软件..实现加密服务..美国的法令和现实不合(加密都是自由软件但是法令禁止出口)..甚至于IBM也不能和我竞争..1999年掌握了安全加密服务50%的世界份额, 卖出时获得6亿美元..**所以回馈自由软件世界**..
- - 有很多著名商业公司是基于自由软件的!
-
-
-
-== 尾声 ==
-
-- 20:40 Ubuntu 社区中国成员想介绍社区规范
- - 气氛控制不住,草就
- - IRC 中国使用人数不多
-- 21:10 基本over,聪明的冲前要签名了
-
-
-
-=== 个人观点 ===
-: 环境:
-  - 忒闷了!
-  - 顶层的小会议厅,RMS 也曾经来访过,传说个人长势太强下面的只能耹听,Mark 毕竟年轻,技术方面也没有什么名声,现场是火爆的
-: 翻译:
-  - 忒差了....
-  - Amy 作为Ubuntu 唯一驻中国代表,本身显然是纯商务人士,技术名词,经典隐喻不甚了了
-: Mark:
-  - 好年轻! 想来Ubuntu 有希望!
-  - 现在Ubuntu 社区人员虽然没有Debian 的多,但是更新速度却要快很多,而且易用为普通人所用的目标和思想更加可以吸引贡献
-  - 在其它自由软件掌旗者们老去后,只有Mark 可以凭一已之力,连续一贯的推进Ubuntu 吧...
-
-
-
-==== 相关资料 ====
-- [测试－－选择适用的linux发布版本 http://dormforce.net/Blog/netsnail/archive/2006/03/12/8380.aspx]  
- - http://www.zegeniestudios.net/ldc/
-- [LiveCD 下载排名 http://www.frozentech.com/content/livecd.php?pick=Linux_x86-64&amp;showonly=All&amp;sort=&amp;sm=1]
-- Bill :"I recommend Ubuntu!"
- - http://static.flickr.com/96/281193199_519775b141.jpg
-
-
-== 照片 ==
-
-- 凤凰205E拍摄，乐凯400黑白胶卷，需要冲印扫描，才可以发布，耐心准备ing...
-
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% leo: 编辑
-
-
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Ubuntu]</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4554">@language Moin
 从Dapper到Feisty 的征程
 -- 直接升级?那是谣传!但是...
 &lt;&lt;t2t head&gt;&gt;
 
 
-= 为什么要升级 =
-升级!需要理由嘛?
- - 不需要嘛?
-  - 需要嘛?! ...
 
-: 其实俺是被廹的...
-    - 原本Dapper 使用的非常的好,而且进行了巨量的配置,根本不想升级的
-    - 但是,人在江湖身不由已哪...
-```
-E: Problem with MergeList /var/lib/apt/lists/ \
-    ubuntu.cn99.com_ubuntu-cn_dists_dapper_main_binary-i386_Packages
-E: 无法解析或打开软件包的列表或是状态文件。
-```
-    - 这种软件包重新时的错误已经烦了快一个月了
-    - 为了稳定高效的考虑,还是要升级
-: 而且!
-    - [把你的 Ubuntu 打造为 OSX http://www.osxcn.com/ubuntu/linux-desktop-imitating-osx.html]
-    - 呜乎矣哉! 有人能够抵製这种诱惑嘛?!
-    -
-
-
-= 升级?! =
-: 但是!
-    - 经过[48小时的尝试 http://wiki.woodpecker.org.cn/moin/ZoomQuiet/2007-05-08]
-    - 以及[友人的马后炮 http://nicholasdsj.blogspot.com/2007/04/ubuntu-704-feisty-fawn.html]
-    - 死了逐步升级的心..
-    -
-
-
-= 重装升级! =
-幸好相关DVD早就准备好,而且对于分区也有万全的策略,重装非常顺畅
-
-
-== 流水 ==
-+ 重启,安装!值得注意的是将分区根据过往使用体验进一步合理化:
- - [/pybimage/070511_myUbuntu_partition_scrot.png]
- - 
-+ 50分钟快速从DVD 就安装完成了Gnome 环境,因为保存了``/home``以及``/opt``目录,90%的定制就继承了下来,笑;-)
-+ 重新进入桌面后进行后期定制,1小时以内恢复工作状态:
-    + 更新源
-```
-# beryl release
-### wget http://ubuntu.beryl-project.org/root@lupine.me.uk.gpg -O- | sudo apt-key add -
-deb http://ubuntu.beryl-project.org feisty main
-deb-src http://ubuntu.beryl-project.org feisty main
-
-### zoomq::070510 for ies4linux
-# wget -q http://wine.budgetdedicated.com/apt/387EE263.gpg -O- | sudo apt-key add -
-deb http://us.archive.ubuntu.com/ubuntu feisty universe
-deb http://wine.budgetdedicated.com/apt feisty main
-
-# 电信用户首选国内源--cn99!
-deb http://ubuntu.cn99.com/ubuntu/ feisty main restricted universe multiverse
-deb http://ubuntu.cn99.com/ubuntu/ feisty-security main restricted universe multiverse
-deb http://ubuntu.cn99.com/ubuntu/ feisty-updates main restricted universe multiverse
-deb http://ubuntu.cn99.com/ubuntu/ feisty-proposed main restricted universe multiverse
-deb http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe multiverse
-deb-src http://ubuntu.cn99.com/ubuntu/ feisty main restricted universe multiverse
-deb-src http://ubuntu.cn99.com/ubuntu/ feisty-security main restricted universe multiverse
-deb-src http://ubuntu.cn99.com/ubuntu/ feisty-updates main restricted universe multiverse
-deb-src http://ubuntu.cn99.com/ubuntu/ feisty-proposed main restricted universe multiverse
-deb-src http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe multiverse
-```
-    + sudo 化:
-```
-#修订/etc/sudoers 相关行为
-%admin ALL=(ALL) NOPASSWD:ALL
-```
-    + 显示及数字板支持:``WACOM,915resolution`` 都是源自有的,直接安装就好
-    + 字体美化!
-    + 
-
-. [/pybimage/070511_yuanti_cfg_scrot.png];
-    + SCIM 配置并加载最爱的[zqBXM2006 http://share.zoomquiet.org/tools/zqBXM2006.7z]
-    + 多媒体配置,安装最爱的 [mocp http://moc.daper.net/]^在命令行播放音乐^ + [mplayer http://www.mplayerhq.hu/design7/news.html]^全能媒体播放^ 立即就可以恢复音乐背景环境了!
-. [/pybimage/070511_mocp_zh_scrot.png];    
-
-
-**KO!其它的就可以随用随装了,已经可以投入到无限的为人民服务的日常生活中了,是也乎^__^**
-
-
-== 惊喜 ==
-+ Gnome 2.18.1 果然强悍的多,不用什么 Xfce4 ,本身就非常快速了...
-+ 默认是Python2.5了! 而且配合的Tk8.4 居然也可以支持中文输入了
-. [/pybimage/070511_ubuntu704_leoZhKO_scrot.png];
- - 单为这,也值得重装了哪!
-+ 另外 ``inkscape`` 也终于可以保存了 -- [crash in dapper when read file http://ubuntuforums.org/showthread.php?t=294093]
-+ 最大的惊喜是桌面特效的稳定丰富爽直的获取!
-+ 终于可以正常``挂起``了!
-    - 不过,默认配置,笔记本屏幕关上后过段时间就会关闭显示，而且无法重新激活！
-    - 基于前人的经验 [Thinkpad上安装Ubuntu笔记 http://www.linuxsky.net/html/200606/3560.html]配置后问题依然
-    - 最后使用``Ctrl+Alt+l`` 手工锁屏幕就好
-    - 另外电源配置时使用 ``挂起``
-    -
-
-
-=== 但是... ===
-
-: 键盘布局
-    - 根据[安装fesity 后的键盘问题 http://forum.ubuntu.org.cn/about51819.html&amp;sid=eb5fea294a839836417ebf76d62ee221]
-    - 快速配置就好,而且针对Dell Laptop 居然有专门的预设
-    - 
-- [/pybimage/070511_dell_keylayout_scrot.png]
-    - 但是,没有左边的``Alt,Ctrl`` 支持...
-    - 
-
-: 多媒体支持:
-    - 著名的``w32codes`` 最终还是从源里清除了...
-    - 有人贡献了经验:[ubuntu 7.04 下播放rm http://blog.chinaunix.net/u1/34834/showart.php?id=291548]
-    - 快速解决之!
-    -
-
-: 字体惊魂
-    - 原先以上的字体设定是为了追求象OSX环境，结果发现有中文标点被显示为类似阿位伯文字的现象
-    - 又受到友人蛊惑尝试[黑体解决方案 http://www.osxcn.com/ubuntu/edgy-stheiti.html#comment-15473]
-    - 结果X 都启动不起来了
-    - 寒了半天恢复后,发现被Session 过的程序菜单都出不来了,折腾半天才发现,不能使用字体配置中的``LCD`` 专用配置!! 最好的配置如下
-    -
-
-- [/pybimage/070514_Beryl-ZHfonts_510X295_scrot.png]
--
+@others
 
 
 
-
-= 结论 =
-**GNU/Linux 下面的重装和M$的重装云泥之差哪!**
- - 没有注册表,都是配置文件,只要配置文件在,一切都在
- - 没有分区,只有目录,只要系统是同一系列的,各种软件都在固定的地方,不用重新配置什么,重装后,原先的配置直接可用!
- - 但是!毕竟每个发行版本以及自个儿的定制差别是极其大的,每周积累的升级也是非常多的,不破不立,该重装时就重装!
- - 
-
-
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% leo: 编辑
-
-
-[/pybimage/technorati-over.gif]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[Ubuntu http://www.technorati.com/tags/Ubuntu]
-</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100414115206.4555">@language Moin
 [LvL]对错录
 ...via life
@@ -14365,116 +13687,12 @@ leo在Py2.5中的失败尝试
 -- 中文应用问题是国人永远的心痛哪
 &lt;&lt;t2t head&gt;&gt;
 
-= 背景 =
-- 折腾了两天将Python2.5 编译了5回也没有搞定,询问大家是否有经验了!
-- 一直知道 LEO 在Linux 下面的中文支持问题是Tk 造的孽
- - http://linux.ccidnet.com/art/738/20060430/545737_1.html
 
-
-- 但是这两日怎么搞都不成！
-- 详细记录在[啄木鸟维基-ZoomQuiet/2007-04-27 http://wiki.woodpecker.org.cn/moin/ZoomQuiet/2007-04-27]
- - **请大家给点建议吧**
- - [leo sf.net 讨论 http://sourceforge.net/forum/forum.php?thread_id=1724164&amp;forum_id=10227]
+@others
 
 
 
-== 思路 ==
-我的步骤和思路:
-
-+ 不能影响现存的Py2.4 环境
-+ 使用Py2.5 进行尝试
-
-: 因为: 
-  LEO 仅仅需要Python with Tk+Pwm
-  - (不过要求Tcl 不能使用线程支持参数)
-: 所以:
-  只要安装好Py2.5 就可以:
-
-
-
-== 安装步骤 ==
-
-+ 安装最新 Tcl/Tk 
-```
-download cvs snapshots from ftp://ftp.tcl.tk/pub/tcl/nightly-cvs/
-tcl/unix$ ./configure --enable-shared --enable-gcc
-$ make clean &amp;&amp; make 
-$ sudo make install
-...
-/tk/unix$ ./configure --enable-xft
-$ make clean &amp;&amp; make 
-$ sudo make install
-...
-```
-
-: 安装Python2.5 并绑定Tk8.5
-  根据[前人Py2.5安装经验 http://blog.csdn.net/fyzhao/archive/2006/12/27/1464614.aspx]
-
-```
-$ sudo cp path/to/libtcl8.5.so /usr/lib/
-$ sudo cp path/to/libtk8.5.so /usr/lib/
-...
-/python2.5-2.5.1.orig$ ./configure --enable-unicode=ucs4 \
-  --with-tk   --with-tk-library=/usr/local/lib --with-tk-include=/usr/local/include/tcl8.5 \
-  --with-tcl-library=/usr/local/lib --with-tcl-include=/usr/local/include/tcl8.5 
-$  make clean &amp;&amp; make
-$  make test
-```
-
-: 安装 LEO
-```
-cp -r Pmw /usr/local/lib/python2.5/site-packages/
-cp -r leo-4-4-3-alpha-2 /opt/bin/
-```
-
-
-
-== 失败的结果 ==
-
-- OK,结果 在 ``/opt/bin/leo-4-4-3-alpha-2/src`` 中直接调用leo.py 可以运行;
-- 但是LEO 不能正當影响 Ctrl+c|v|s 等等各种操作;直接就死了...
-```
-/opt/bin/leo-4.4.3a2/src$ python2.5 leo.py
-reading settings in /opt/bin/leo-4.4.3a2/config/leoSettings.leo
-reading /home/zoomq/.leoRecentFiles.txt
-rst3 plugin: SilverCity not loaded
-rst3 plugin not loaded: can not load docutils
-Traceback (most recent call last):
-
-  File ''/opt/bin/leo-4.4.3a2/src/leoEditCommands.py'', line 7903, in getAspellWithCtypes
-    self.aspell = aspell = ctypes.CDLL(g.os_path_join(self.aspell_bin_dir, ''aspell-15.dll''))
-
-  File ''/usr/local/lib/python2.5/ctypes/__init__.py'', line 340, in __init__
-    self._handle = _dlopen(self._name, mode)
-
-OSError: /opt/bin/leo-4.4.3a2/src/c:\aspell\bin/aspell-15.dll: cannot open shared object file: No such file or directory
-
-Traceback (most recent call last):
-  File ''leo.py'', line 353, in &lt;module&gt;
-    run()
-  File ''leo.py'', line 138, in run
-    g.app.gui.runMainLoop()
-  File ''/opt/bin/leo-4.4.3a2/src/leoTkinterGui.py'', line 186, in runMainLoop
-    self.root.mainloop()
-  File ''/usr/local/lib/python2.5/lib-tk/Tkinter.py'', line 1023, in mainloop
-    self.tk.mainloop(n)
-  File ''/usr/local/lib/python2.5/site-packages/Pmw/Pmw_1_2/lib/PmwBase.py'', line 1751, in __call__
-    _reporterror(self.func, args)
-  File ''/usr/local/lib/python2.5/site-packages/Pmw/Pmw_1_2/lib/PmwBase.py'', line 1777, in _reporterror
-    msg = exc_type + ' Exception in Tk callback\n'
-TypeError: unsupported operand type(s) for +: 'type' and 'str'
-```
-
-**到底咋回事儿泥？！**
-
-
-------------------------------
-动力源自::**[txt2tags http://txt2tags.sf.net]**
-
-% leo: 编辑
-
-
-</t>
+&lt;&lt;t2t foot&gt;&gt;</t>
 <t tx="zoomq.20100714100009.3999">@language Moin
 OpenBookProject
 --开放图书计划
@@ -14751,6 +13969,8 @@ xinput --list | grep "Wacom Bamboo Craft Finger" | python ./xinput4bamboo.py  &g
 ```
     - 反复尝试半小时才获得满意的...
 
+
+
 </t>
 <t tx="zoomq.20100714140857.4016">= Py之 =
 想嘗試Py 的思路...
@@ -14784,6 +14004,767 @@ if __name__ == '__main__':      # this way the module can be
 + Hg的 hooks 部署
 + dot 的自动包含图片热区定义的 t2t 处理
 + Leo 中的自动化发布脚本按钮
+</t>
+<t tx="zoomq.20100728103610.7583">t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
+
+%! Target  : xhtml
+%! Encoding: UTF-8
+%! Options : --toc --css-sugar --enum-title
+
+</t>
+<t tx="zoomq.20100728103610.7584">= ssbsGAE =
+
+ slow step by step GAE::
+  - 慢慢使用GAE
+  - 俺计划将基于GAE 的使用体验使用 `[ssbsGAE]` 的标签长期完整的记录分享下来 ;-)
+
+
+== web2py ==
+
+为什么先选择了 `web2py`?
+ - 因为俺比较懒散
+ - [web2py http://www.web2py.com/]
+ - Python web app. framework 中最 Rails 样的新兴实现！
+ - 将核心引擎打造的足够`K.I.S.S` 自然使用之！
+  - M ~ DB的ROM 足够快和全面
+  - C ~ 完全OO而且可以在线编辑的控制层
+  - V ~ 模板系统非常友好，可以直接嵌入 Py 脚本段！
+  - D ~ 设计界面内置在系统中！
+ - 而且文档齐全！
+
+
+,[/pybimage/2008/web2py/gluon-web-framework.png];
+
+
+== zqlib ==
+
+[Zqlib. http://wiki.woodpecker.org.cn/moin/ZqLib] ~ 挖了N久的坑了！
+ - 目标也一直在变化着
+ - 现在就先成为自个儿的想法/代码/知识片段收集仓库吧
+ - 算是比Blog 要自在,但是没有 wiki 开放的地儿,先
+
+
+== go! ==
+
+- 下载web2py:``svn co http://web2py.googlecode.com/svn/trunk/ web2py-read-only``
+- 直接就可以运行:
+
+,[/pybimage/2008/web2py/2008-05-08-145319_0-start_scrot.png];
+
+ - 哗,还给了 GUI 的服务台控制器!
+
+- 直接对目录进行修减,在 GAE SDK 中试运行一下:
+
+,[/pybimage/2008/web2py/2008-05-08-165528_1-loctest_scrot.png];
+
+ - 嗯嗯嗯,除了警告一切正常!
+ - 参考:[web2py in GAE http://blog.donews.com/limodou/archive/2008/05/08/1287684.aspx] ~ limodou
+
+
+- 上传应用:``python appcfg.py update zqlib/``
+
+,[/pybimage/2008/web2py/2008-05-08-165659_2-GAE_scrot.png];
+
+ - 成了!
+
+
+== TODO ==
+
++ 使用gae.db
++ 使用 GBase
++ 使用 reST/t2t
++ 发布 RESTful 接口
+</t>
+<t tx="zoomq.20100728103610.7585">= 背景 =
+- 折腾了两天将Python2.5 编译了5回也没有搞定,询问大家是否有经验了!
+- 一直知道 LEO 在Linux 下面的中文支持问题是Tk 造的孽
+ - http://linux.ccidnet.com/art/738/20060430/545737_1.html
+
+
+- 但是这两日怎么搞都不成！
+- 详细记录在[啄木鸟维基-ZoomQuiet/2007-04-27 http://wiki.woodpecker.org.cn/moin/ZoomQuiet/2007-04-27]
+ - **请大家给点建议吧**
+ - [leo sf.net 讨论 http://sourceforge.net/forum/forum.php?thread_id=1724164&amp;forum_id=10227]
+
+
+
+== 思路 ==
+我的步骤和思路:
+
++ 不能影响现存的Py2.4 环境
++ 使用Py2.5 进行尝试
+
+: 因为: 
+  LEO 仅仅需要Python with Tk+Pwm
+  - (不过要求Tcl 不能使用线程支持参数)
+: 所以:
+  只要安装好Py2.5 就可以:
+
+
+
+== 安装步骤 ==
+
++ 安装最新 Tcl/Tk 
+```
+download cvs snapshots from ftp://ftp.tcl.tk/pub/tcl/nightly-cvs/
+tcl/unix$ ./configure --enable-shared --enable-gcc
+$ make clean &amp;&amp; make 
+$ sudo make install
+...
+/tk/unix$ ./configure --enable-xft
+$ make clean &amp;&amp; make 
+$ sudo make install
+...
+```
+
+: 安装Python2.5 并绑定Tk8.5
+  根据[前人Py2.5安装经验 http://blog.csdn.net/fyzhao/archive/2006/12/27/1464614.aspx]
+
+```
+$ sudo cp path/to/libtcl8.5.so /usr/lib/
+$ sudo cp path/to/libtk8.5.so /usr/lib/
+...
+/python2.5-2.5.1.orig$ ./configure --enable-unicode=ucs4 \
+  --with-tk   --with-tk-library=/usr/local/lib --with-tk-include=/usr/local/include/tcl8.5 \
+  --with-tcl-library=/usr/local/lib --with-tcl-include=/usr/local/include/tcl8.5 
+$  make clean &amp;&amp; make
+$  make test
+```
+
+: 安装 LEO
+```
+cp -r Pmw /usr/local/lib/python2.5/site-packages/
+cp -r leo-4-4-3-alpha-2 /opt/bin/
+```
+
+
+
+== 失败的结果 ==
+
+- OK,结果 在 ``/opt/bin/leo-4-4-3-alpha-2/src`` 中直接调用leo.py 可以运行;
+- 但是LEO 不能正當影响 Ctrl+c|v|s 等等各种操作;直接就死了...
+```
+/opt/bin/leo-4.4.3a2/src$ python2.5 leo.py
+reading settings in /opt/bin/leo-4.4.3a2/config/leoSettings.leo
+reading /home/zoomq/.leoRecentFiles.txt
+rst3 plugin: SilverCity not loaded
+rst3 plugin not loaded: can not load docutils
+Traceback (most recent call last):
+
+  File ''/opt/bin/leo-4.4.3a2/src/leoEditCommands.py'', line 7903, in getAspellWithCtypes
+    self.aspell = aspell = ctypes.CDLL(g.os_path_join(self.aspell_bin_dir, ''aspell-15.dll''))
+
+  File ''/usr/local/lib/python2.5/ctypes/__init__.py'', line 340, in __init__
+    self._handle = _dlopen(self._name, mode)
+
+OSError: /opt/bin/leo-4.4.3a2/src/c:\aspell\bin/aspell-15.dll: cannot open shared object file: No such file or directory
+
+Traceback (most recent call last):
+  File ''leo.py'', line 353, in &lt;module&gt;
+    run()
+  File ''leo.py'', line 138, in run
+    g.app.gui.runMainLoop()
+  File ''/opt/bin/leo-4.4.3a2/src/leoTkinterGui.py'', line 186, in runMainLoop
+    self.root.mainloop()
+  File ''/usr/local/lib/python2.5/lib-tk/Tkinter.py'', line 1023, in mainloop
+    self.tk.mainloop(n)
+  File ''/usr/local/lib/python2.5/site-packages/Pmw/Pmw_1_2/lib/PmwBase.py'', line 1751, in __call__
+    _reporterror(self.func, args)
+  File ''/usr/local/lib/python2.5/site-packages/Pmw/Pmw_1_2/lib/PmwBase.py'', line 1777, in _reporterror
+    msg = exc_type + ' Exception in Tk callback\n'
+TypeError: unsupported operand type(s) for +: 'type' and 'str'
+```
+
+**到底咋回事儿泥？！**
+
+</t>
+<t tx="zoomq.20100728103610.7586">= Solaris 的FS决择 =
+节译:[Solaris Filesystem Choices http://www.osnews.com/story/19665/Solaris_Filesystem_Choices] 50%
+
+OpenSolaris 10 已经给用户提供了一大堆存储相关的支持，而且秉承UNIX的一贯习俗，
+都是经过严格测试了的,这里就四种通用文件系统进行分析，希望可以就部署方面给读者提供足够的信息以便最终选择:
+
+== UFS ==
+UFS 忒有历史凫，从80年代开始就是BSD等UNIX系統的默认FS；
+类似于 ext3 在 GNU/Linux 体系中的地位;
+Solaris 中的UFS来自 SunOS,而SunOS 中的UFS来自 BSD;
+
+不久前，UFS还是Solaris 中唯一的FS，不同于HP, IBM, SGI, 以及 DEC；
+SUN直到90年代也没有自主发展下一代的FS；
+原因有两:
+ + 多数情况下开发者需要第三方代码来支持新FS，而这需要许可
+ + 多数可以交易来的FS都是 Veritas 许可的(嘛意思?)
+
+
+Solaris10 只能从UFS启动,未来将允许从ZFS启动;在OpenSolaris 已经可以了;
+但是当前,所有Solaris 还是得至少有一个UFS分区;
+
+UFS虽然是个技术,但是贵在稳定和足够快;
+而且Sun 在其最后基础上进行了多方的优化；
+从Solaris 7 开始支持日志，进入本世纪，从Solaris 9 开始成为了默认特性；
+原先卷級日志是种效率不好的模型,但是有趣的是FreeBSD又重新加入了这种特性.
+
+UFS已经加入了对RAID支持良好的Solaris卷管理.
+
+2008UFSd准备进行什么修订?
+除作启动之外,UFS足够好用了,将来可由ZFS替代,
+当然看,UFS 对于数据库是个好选择(有普遍的基于文件系统权限控制的DB);
+同时对于保守的有固定工作且不想花时间太多时间配置的SA也是个好选择;
+
+
+== ZFS ==
+对ZFS 已经有N多报道了,同时也收到了从Linux 阵营习惯性的嘲笑.
+
+ZFS 不是魔法,但是足够COOL 了.
+我喜欢将 UFS/ext3 视作首代UNIX文件系统,
+而 VxFS和XFS 视作二代FS,
+那未 ZFS 就是第一个三代UNIX FS!
+
+ZFS已不仅仅是个文件系统了.
+实际算是混合文件系统+卷管理器.
+以上功能的集成赋予了ZFS极大的灵活性.
+同时也是著名的"rampant layering violation"来源.
+不过千万记住,这只是开发特性.我从来没有在打开文件时见过"layering violation"
+
+ZFS的混合意味着你可以管理不同传统方案中的存储.
+你能将文件系统映射到分区,同时可以将另一个映射成逻辑巻,每个逻辑巻又涉及一个或是多个硬盘.
+在ZFS 中所有硬盘分配在一个存储池中.
+每个ZFS文件系统从池中使用所有硬盘,且文件系统不分卷,可以使用全部空间.
+这样没有重定分区大小的烦恼，一切是自动调整的，
+不断增长/收缩的文件系统不是靠谱的管理方式。
+
+ZFS同时在文件系统级别提供了可靠性检验.
+所有数据读/写都可以使用认证(提供了最严厉的SHA256),
+失败时双备份是支持的(元数据是在单一硬盘,而数据是经典的RAID结构),
+
+ZFS provides the most robust error checking of any filesystem available. All data and metadata is checksummed (SHA256 is available for the paranoid), and the checksum is validated on every read and write. If it fails and a second copy is available (metadata blocks are replicated even on single disk pools, and data is typically replicated by RAID), the second block is fetched and the corrupted block is replaced. This protects against not just bad disks, but bad controllers and fibre paths. On-disk changes are committed transactionally, so although traditional journaling is not used, on-disk state is always valid. There is no ZFS fsck program. ZFS pools may be scrubbed for errors (logical and checksum) without unmounting them.
+
+The copy-on-write nature of ZFS provides for nearly free snapshot and clone functionality. Snapshotting a filesystem creates a point in time image of that filesystem, mounted on a dot directory in the filesystem's root. Any number of different snapshots may be mounted, and no separate logical volume is needed, as would be for LVM style snapshots. Unless disk space becomes tight, there is no reason not to keep your snapshots forever. A clone is essentially a writable snapshot and may be mounted anywhere. Thus, multiple filesystems may be created based on the same dataset and may then diverge from the base. This is useful for creating a dozen virtual machines in a second or two from an image. Each new VM will take up no space at all until it is changed.
+
+These are just a few interesting features of ZFS. ZFS is not a perfect replacement for traditional filesystems yet - it lacks per-user quota support and performs differently than the usual UFS profile. But for typical applications, I think it is now the best option. Its administrative features and self-healing capability (especially when its built in RAID is used) are hard to beat. 
+
+== SAM and QFS ==
+SAM and QFS are different things but are closely coupled. QFS is Sun's cluster filesystem, meaning that the same filesystem may be simultaneously mounted by multiple systems. SAM is a hierarchical storage manager; it allows a set of disks to be used as a cache for a tape library. SAM and QFS are designed to work together, but each may be used separately.
+
+QFS has some interesting features. A QFS filesystem may span multiple disks with no extra LVM needed to do striping or concatenation. When multiple disks are used, data may be striped or round-robined. Round-robin allocation means that each file is written to one or two disks in the set. This is useful since, unlike striping, participation by all disks is not needed to fetch a file - each disk may seek totally independently. QFS also allows metadata to be separated from data. In this way, a few disks may serve the random metadata workload while the rest serve a sequential data workload. Finally, as mentioned before, QFS is an asymmetric cluster filesystem.
+
+QFS cannot manage its own RAID, besides striping. For this, you need a hardware controller, a traditional volume manager, or a raw ZFS volume.
+
+SAM makes a much larger backing store (typically a tape library) look like a regular UNIX filesystem. This is accomplished by storing metadata and often-referenced data on disk, and migrating infrequently used data in and out of the disk cache as needed. SAM can be configured so that all data is staged out to tape, so that if the disk cache fails, the tapes may be used like a backup. Files staged off of the disk cache are stored in tar-like archives, so that potentially random access of small files can become sequential. This can make further backups much faster.
+
+QFS may be used as a local or cluster filesystem for large-file intensive workloads like Oracle. SAM and QFS are often used for huge data sets such as those encountered in supercomputing. SAM and QFS are optional products and are not cheap, but they have recently been released into OpenSolaris. 
+
+
+== VxFS ==
+The Veritas filesystem and volume manager have their roots in a fault-tolerant proprietary minicomputer built by Veritas in the 1980s. They have been available for Solaris since at least 1993 and have been ported to AIX and Linux. They are integrated into HP-UX and SCO UNIX, and Veritas Volume Manager code has been used (and extensively modified) in Tru64 UNIX and even in Windows. Over the years, Veritas has made a lot of money licensing their tech, and not because it is cheap, but because it works.
+
+VxFS has never been part of Solaris but, when UFS was the only option, it was a popular addition. VxVM and VxFS are tightly integrated. Through vxassist, one may shrink and grow filesystems and their underlying volumes with minimal trouble. VxVM provides online RAID relayout. If you have a RAID5 and want to turn it into a RAID10, no problem, no downtime. If you need more space, just convert it back to a RAID5. VxVM has a reputation for being cryptic, and to some extent it is, but it's not so bad and the flexibility is impressive.
+
+VxFS is a fast, extent based, journaled, clusterable filesystem. In fact, it essentially introduced these features to the world, along with direct IO. Newer versions of VxFS and VxVM have the ability to do cross-platform disk sharing. If you ever wanted to unmount a volume from your AIX box and mount it on Linux or Solaris, now you can.
+
+VxFS and VxVM are still closed source. A version is available from Symantec that is free on small servers, with limitations, but I imagine that most users still pay. Pricing starts around $2500 and can be shocking for larger machines. VxFS and VxVM are solid choices for critical infrastructure workloads, including databases.
+
+= 结论 =
+Conclusion
+
+These are the four major choices in the Solaris on-disk filesystem world. Other filesystems, such as ext2, have some degree of support in OpenSolaris, and FUSE is also being worked on. But if you are deploying a Solaris server, you are going to be using one or more of these four. I hope that you enjoyed this overview, and if you have any corrections or tales of UNIX filesystem history, please let me know.
+
+
+About the Author
+
+John Finigan is a Computer Science graduate student and IT professional specializing in backup and recovery technology. He is especially interested in the history of enterprise computing and in Cold War technology. 
+
+
+= TODO =
+
+</t>
+<t tx="zoomq.20100728103610.7587">
+= FF3 =
+看周围M$ 用户都主动升迁到 FF2.0.0.14 超级稳定版本了，
+
+但是Ubuntu7.10 的源中依然是 2.0.0.13+,有点郁rz..
+
+
+== SwiftFox 3.0pre ==
+不过 SwiftFox 已到了 3.0pre!
+通过 apt 立即可以使用:
+
+
+== 探查 ==
+但是插件不能使用``Nightly Tester Tools`` 轻易全开...
+ 使用 安全模式::
+```
+swiftfox -safe-mode
+```
+ - 关闭所有 扩展和插件后，逐一尝试，确认最小可用组合::
+
+
+=== 配置 ===
+
+启用扩展： [16]
+- Adblock Plus 0.7.5.4: http://adblockplus.org/
+- CHM Reader 0.2.1.1: http://sourceforge.net/projects/chmreader/
+- Copy Link Name 1.2.5: http://www.captaincaveman.nl
+- DownThemAll! 1.0.1: http://downthemall.net/
+- FEBE 5.3.1: http://customsoftwareconsult.com/extensions
+- Firefox Universal Uploader (fireuploader) 0.3.2: http://www.fireuploader.com
+- MLdonkey Protocol Handler 2.0: http://www.informatik.uni-oldenburg.de/~dyna/mldonkey/
+- Nightly Tester Tools 1.3: http://www.oxymoronical.com/web/firefox/nightly
+- NoScript 1.6: http://noscript.net
+- PDF Download 1.0.1.1: http://www.pdfdownload.org
+- Right Encoding 0.2.2: http://heygom.com/extensions/
+- ScrapBook 1.3.3.2: http://amb.vis.ne.jp/mozilla/scrapbook/
+- SwiftTabs 0.3.3.1: http://heygom.com/extensions/
+- Tab Mix Plus 0.3.6.1.080416: http://tmp.garyr.net
+- ubufox 0.4~beta1: http://www.google.com/search?q=Firefox%20ubufox
+
+禁用扩展： [35]
+- Access Flickr! 1.71: http://flickr.com/photos/hamed
+- Add to Search Bar 1.7: http://maltekraus.de/Firefox/search-tools
+- Autohide 1.1.5: http://www.krickelkrackel.de/autohide/
+- Brookstone 0.0.2: http://www.mobilebrook.com
+- Chinese Simplified (zh-CN) Language Pack 2.0.0.7: http://www.google.com/search?q=Firefox%20Chinese%20Simplified%20%28zh-CN%29%20Language%20Pack
+- Classic Compact 3.0.6: http://blog.environmentalchemistry.com/2008/03/firefox-theme-classic-compact.html
+- ColorZilla 1.9: http://www.colorzilla.com/
+- Compact Menu 2 2.0.3: https://addons.mozilla.org/firefox/108029/author/
+- Copy Plain Text 0.3.3: http://mozmonkey.com/
+- CSSViewer 1.0.2: http://www.google.com/search?q=Firefox%20CSSViewer
+- CustomizeGoogle 0.71: http://www.customizegoogle.com/
+- Fasterfox 2.0.0: http://fasterfox.mozdev.org/
+- Firebug 1.05: http://www.getfirebug.com/
+- FlickrFox 1.3.0: http://philmccluskey.com/projects/flickrfox/
+- FoxyTunes 2.9.5.31: http://www.foxytunes.com/
+- Gmail Skins 0.9.8: http://gmailskins.mozdev.org
+- Google Gears 0.3.14.0: http://gears.google.com/
+- Google Toolbar for Firefox 3.0.20070525L: http://www.google.com/
+- Google Web Comments 1.4.20070529.0: http://toolbar.google.com/firefox/extensions/webcomments/
+- Greasemonkey 0.7.20080121.0: http://www.greasespot.net/
+- Hide Menubar 1.0.20080310: http://forum.moztw.org/viewtopic.php?t=15303
+- It's All Text! 0.8.4: http://addons.mozilla.org/firefox/4125
+- Locale Switcher 2.1: http://benjamin.smedbergs.us/switch-locales/
+- MeasureIt 0.3.6: http://www.kevinfreitas.net/pro/extensions/
+- Modify Headers 0.6.4: http://www.garethhunt.com/
+- Mozilla XForms 0.8.5: http://www.mozilla.org/projects/xforms/
+- MR Tech Local Install 5.3.2.3: http://www.mrtech.com/extensions/local_install/
+- Ook? Video Ook! 0.6.6: http://ook.dedos.net/
+- Pearl Crescent Page Saver Basic 1.7: http://pearlcrescent.com/products/pagesaver/
+- Resizeable Textarea 0.1d: http://www.google.com/search?q=Firefox%20Resizeable%20Textarea
+- Screen grab! 0.93: http://andy.5263.org/screengrab/
+- ScribeFire 1.4.8: http://www.scribefire.com/
+- Split Browser 0.4.2007120601: http://piro.sakura.ne.jp/xul/_splitbrowser.html.en
+- TwittyTunes 0.5.3.1: http://www.foxytunes.com/twittytunes/
+- Web Developer 1.1.5: http://chrispederick.com/work/web-developer/
+- wmlbrowser 0.7.17: http://wmlbrowser.mozdev.org
+
+全部扩展： 51
+
+已安装主题： [8]
+- azureFox 0.96.1: http://www.radar.250x.com/
+- Firefox (default): http://www.mozilla.org/
+- Human Theme 0.5: http://www.ffnn.nl/
+- iFox 2.5.1: http://www.radar.250x.com
+- miniFox 0.8.2: http://membres.lycos.fr/sethnakht
+- Pinstripe 5.0: http://www.webether.com
+- Tangerine Theme 0.5: http://www.ffnn.nl/
+- Tango Theme 0.5: http://www.ffnn.nl/
+
+已安装插件： (12)
+- DivX Browser Plug-In
+- DivX® Web Player
+- Java(TM) Plug-in 1.6.0_03-b05
+- MozPlugger 1.8.0 handles QuickTime and Windows Media Player Plugin
+- mplayerplug-in 3.40
+- QuickTime Plug-in 6.0 / 7
+- QuickTime Plug-in 7.2.0
+- RealPlayer 9
+- Shockwave Flash
+- Totem Web Browser Plugin 2.20.0
+- Windows Media Player Plug-in 10 (compatible; Totem)
+- Windows Media Player Plugin
+
+
+== 成了！ ==
+开始快乐的使用！
+
+. [/pybimage/2008/2008-04-21-144725_685x652_scrot.png];  
+
+
+
+</t>
+<t tx="zoomq.20100728103610.7588">= 很好,很强大! =
+升级!需要理由嘛?
+ - 不需要嘛?
+  - 需要嘛?! ...
+
+: 其实因为忍不住哪！
+    - 19号下载到CD版本的，
+    - 当天HP 520(GQ349AA)也配发到手里
+    - 为了20号的会课先忍了一下
+    - 21号回来就说不得要安装,将原先的 红旗Linux 洗掉~瞧着尽力伪装成M$ 的樣子就想吐
+
+
+== 流水 ==
+
+: 硬盘:
+ - 原来以为是简单的先清后win2k3 再Ubuntu 的事儿,结果,没有那么简单!
+ - 不删除 红旗,win2k3 不认硬盘,使用Ubuntu Alternate 分区重写后,依然!
+ - 罢了,直接来!
+ - Ubuntu 7.10 GG 的Alternate 好象不完整在安装到89%时报错退出!
+ - 只有使用 Ubuntu 7.04 FF 的DVD 先安装成功,然后升级了 ;(
+
+: 分区,最终规划:
+ - 其中前200Mb 有问题,无法格式化,只好让掉...
+. [/pybimage/2007/2007-10-23-202858_mtab_scrot.png];  
+
+
+: 升级:
+ - 通过Alternate CD升级,1小时50分钟,也下载了将近100Mb的东西,平顺完成!
+ - 很智能,将原先的一些定制源也都自动替换成了 GG 的!!
+
+
+== 惊喜 ==
+
+: SETI@home:
+ - 直接包含在源中了! 
+```
+:~$ acs boinc
+boinc-app-seti - SETI@home application for the BOINC client
+boinc-client - core client for the BOINC distributed computing infrastructure
+boinc-dbg - debugging symbols for BOINC binaries
+boinc-dev - development files to build applications for BOINC projects
+boinc-manager - GUI to control and monitor the BOINC core client
+kboincspy - monitoring utility for the BOINC client
+kboincspy-dev - development files for KBoincSpy plugins
+.
+```
+
+: 3D特效:
+ - 内置的非常足够 COOL 了!!
+
+
+
+= 结论 =
+**Ubuntu 越來越贴近用户的实际需求了,反应的快,强大的趋势明显**
+ - 期待 [/pybimage/2007/gobuntu-med.jpg] 的快速成长!
+ - http://www.ubuntu.com/products/whatisubuntu/gobuntu
+
+
+= TODO =
+ + WiFi 怎么也不能连接到公司的AP中,研究中;家里的 6.06 也得整了...p2p下载已经停了些日子了...
+ + VBox 带个能用网银的系统,也得整! 不想再多系统启动了,就Ubuntu!
+ + [XFS 是个蒙事儿的主 http://www.ibm.com/developerworks/cn/linux/l-jfs/],还是得经典的FS才成哪! 周末准备回写成 ReiserFS
+
+
+
+</t>
+<t tx="zoomq.20100728103610.7589">= 期待，但不等待 =
+升级!需要理由嘛?
+ - 不需要嘛?
+  - 需要嘛?! ...
+
+: 其实只是心理原因;-)
+    - 7.10 使用非常舒服
+    - 8.04 也没有ZFS哪
+    - 考虑FreeBSD ing..
+    - 不过，不跳票的 Ubuntu HH 还是非常想的，如果:
+     - 字体更加好了
+     - FF3支持所有主要插件了
+     - 输入法默认是 bridge-scim 了
+     - ...
+
+. [/pybimage/2008/804UbuntuCountdown_09days.jpg];  
+
+
+
+</t>
+<t tx="zoomq.20100728103610.7590">Ubuntu Edgy Eft Release Party In Beijing
+ - http://www.ubuntu.com.cn/releaseparty
+ - [中科院自动化所自由软件协会  http://fsa.ia.ac.cn/]以及CSDN 合作
+
+
+无责任报道 061102 19:30~21:00 如下
+ - [/pybimage/edubuntu_logo2.png]
+ - [/pybimage/xubuntu_logo2.png]
+ - [/pybimage/kubuntu_logo2.png]
+
+
+= 动机 =
+
+俺是怀着以下目的:
+ + 代朋友询问 6.10 的宽屏支持问题
+  - [Ericzhao http://blog.chinaunix.net/u/12701/showart_194451.html]还是自个儿解决了...
+ + 混点奖品
+ + 收藏一张 Ubuntu6.10 光盘
+
+
+= 流水账 =
+
+- 18:25出发,自行车
+- 18:45到中科院自动化所自动化大厦
+- 18:55挤入会场
+- 19:00～19:15　体会嘈杂，贡献体热
+- 19:20 主角入场
+- 19:35 Mark Shuttleworth 聊天，Amy 翻译:
+ + 自由软件和Ubuntu:
+    - e.g. FF 变化非常慢，但是会突然变的流行
+ + Ubuntu 发布工程:
+    - 基于工程师的需求和呼声的
+ + 6.10 Edgy Eft 特性
+    - 35s reroot,tea fast for this version...
+    - thin clien support;直观的好处是节省企业成本
+    - //net pc?	retun Uninx age...//
+    - understand linux is beat begin with lts(Gentoo)
+ + next week start 7.04 version;在美国开始
+    - 新功能: 
+     + SGL/3D  desktop suport
+     + windows game support!
+    - howto plugin u idea into Ubuntu:
+     + wiki page report;为什么重要的?如何实现?
+     + Forum/wiki 等等中找到代理人进行意见表达
+     + 获取corel dev. 的联系;电话,Skype..直接影响确认的人将意见带入版本意见会议
+       - 注意时区 ;) ...
+
+
+== 提问互动 ==
+```~20:30```
++ QQ 加入请求:
+ - 自由软件原则 soso..
++ 如何快速部属:
+ - 支持标准的网络安装控制..
++ 定制安装:
+ - liveCD 不如 Alternate(文字安装)光盘实用
++ Ubuntu 到底提供了什么有别于Winodws 的!?
+ - **Freedom!!!**
+ - 透明的详进的软件包管理
+ - 针对你的各种兴趣 自由软件环境可以给你更加多的选择
++ 安全升级Ubuntu!?总是崩溃
+ - GTK error?依赖问题??
+ - a: 没有使用标准工具升級
+ - b: 定制系统的升级可能有问题
+ - c: 自由软件本身有风险,需要我们主动参与解决
++ Debian包的兼并有计划?
+ - 使用 twin 作类比
+ - Ubuntu 和 Debian 将是完全不同的系统...!不论有多象....
+   - Ubuntu is GPL, so every change is publish to Debian;
+   - not equal to Debian'a goal
++ Gentoo和Ubuntu?
+ - Gentoo is better Ubuntu?
+  - Gentoo 是学习Linux 本身的好系统
+  - Gentoo 工程师没有在Ubuntu 团队中(曾经有)
+ - 学习Ubuntu 从开始Gentoo 比较好?
+  - Ubuntu 致力于与其它Linux 厂商合作
++ abt Mark space trip:
+ - 无法形容,无以类比的体验
+ - 8个月的训练-&gt;drink-&gt;训练-&gt;drink...发射前没有事儿可作...当地体验,民风..遇见加油成员..过程中有非常多的疯狂体验..物种的自觉...发射的报道..5秒飞过中国...15分从北美到北非..宇宙中看不到国家..一定也是中国未来宇航轨迹..有美国人员自习中文for work in China...
++ GPL3
+ - 是否合适不一定,但是探讨模式is good
++ 如何融合不同开发团队的思想/目标?
+ - Ubuntu 项目的策略:促进分享!在不同的 kbuntu .... 团队间..存在即真理,有人用,就可以存在于Ubuntu!
+ - Ubuntu 的工作就是促成项目的发布
++ 公司命名....
+ - canonical.com 的公司名..象书名,直接彰现主张..canonical -- 最简单直接的解决方法
++ start dict 问题:
+ - 升级时期 Ubuntu/Debian 的发布错开了
+ - 还有词典的版权问题
++ suggest for Ubuntu
+ - 自由软件不是任何抛出想法就有人作...
+ - QQ
+```
+又是QQ,这可怜的软件折磨我们这么多年了,难道仅仅因为其中的一些爱情故事;
+中国人就认定了要永远受到一家公司的不断要胁而安装越來越肥的软件?!
+竟然连自由软件爱好者都不能免俗?!
+建议区分真伪自由软件爱好者的标准之一检验是否使用QQ...
+```
+ - 中文支持
++ 自由软件的商业生存:
+ - not sale License just Servise...还有培训业务...政府支持
++ .NET 框架可以在Ubuntu 中支持?
+ - Ubuntu 没有怎么研究所以没有办法回答
++ 如何成为Ubuntu开发人员 
+ - 各种人士加入进来以后..沟通全球人的智慧..沟通技巧和欲望是加入Ubuntu 世界的主要技能
+ - canonical.com 现在70 人开发团队,分布在18个国家
+ - 在社区中表现和证实自个儿,然后提升为正式
++ Mark 的人生下一步
+ - 代替Windows....哈哈哈..人生目标也在寻求中
++ 为什么投资Ubuntu:
+ - Mark 生平..接触PC和Internet 很迟..大学时接触了 SlackwareLinux..windowx3.1 时有很差的体验...通过Linux 流畅的进入Internet..发现/把握机会..了解计算机..大学时成立咨询公司解答windows的网络问题来获利..mail server..南非的带宽非常有限..深入理解TCP/IP..使用自由软件..实现加密服务..美国的法令和现实不合(加密都是自由软件但是法令禁止出口)..甚至于IBM也不能和我竞争..1999年掌握了安全加密服务50%的世界份额, 卖出时获得6亿美元..**所以回馈自由软件世界**..
+ - 有很多著名商业公司是基于自由软件的!
+
+
+
+== 尾声 ==
+
+- 20:40 Ubuntu 社区中国成员想介绍社区规范
+ - 气氛控制不住,草就
+ - IRC 中国使用人数不多
+- 21:10 基本over,聪明的冲前要签名了
+
+
+
+=== 个人观点 ===
+: 环境:
+  - 忒闷了!
+  - 顶层的小会议厅,RMS 也曾经来访过,传说个人长势太强下面的只能耹听,Mark 毕竟年轻,技术方面也没有什么名声,现场是火爆的
+: 翻译:
+  - 忒差了....
+  - Amy 作为Ubuntu 唯一驻中国代表,本身显然是纯商务人士,技术名词,经典隐喻不甚了了
+: Mark:
+  - 好年轻! 想来Ubuntu 有希望!
+  - 现在Ubuntu 社区人员虽然没有Debian 的多,但是更新速度却要快很多,而且易用为普通人所用的目标和思想更加可以吸引贡献
+  - 在其它自由软件掌旗者们老去后,只有Mark 可以凭一已之力,连续一贯的推进Ubuntu 吧...
+
+
+
+==== 相关资料 ====
+- [测试－－选择适用的linux发布版本 http://dormforce.net/Blog/netsnail/archive/2006/03/12/8380.aspx]  
+ - http://www.zegeniestudios.net/ldc/
+- [LiveCD 下载排名 http://www.frozentech.com/content/livecd.php?pick=Linux_x86-64&amp;showonly=All&amp;sort=&amp;sm=1]
+- Bill :"I recommend Ubuntu!"
+ - http://static.flickr.com/96/281193199_519775b141.jpg
+
+
+== 照片 ==
+
+- 凤凰205E拍摄，乐凯400黑白胶卷，需要冲印扫描，才可以发布，耐心准备ing...
+
+
+
+</t>
+<t tx="zoomq.20100728103610.7591">
+= 为什么要升级 =
+升级!需要理由嘛?
+ - 不需要嘛?
+  - 需要嘛?! ...
+
+: 其实俺是被廹的...
+    - 原本Dapper 使用的非常的好,而且进行了巨量的配置,根本不想升级的
+    - 但是,人在江湖身不由已哪...
+```
+E: Problem with MergeList /var/lib/apt/lists/ \
+    ubuntu.cn99.com_ubuntu-cn_dists_dapper_main_binary-i386_Packages
+E: 无法解析或打开软件包的列表或是状态文件。
+```
+    - 这种软件包重新时的错误已经烦了快一个月了
+    - 为了稳定高效的考虑,还是要升级
+: 而且!
+    - [把你的 Ubuntu 打造为 OSX http://www.osxcn.com/ubuntu/linux-desktop-imitating-osx.html]
+    - 呜乎矣哉! 有人能够抵製这种诱惑嘛?!
+    -
+
+
+= 升级?! =
+: 但是!
+    - 经过[48小时的尝试 http://wiki.woodpecker.org.cn/moin/ZoomQuiet/2007-05-08]
+    - 以及[友人的马后炮 http://nicholasdsj.blogspot.com/2007/04/ubuntu-704-feisty-fawn.html]
+    - 死了逐步升级的心..
+    -
+
+
+= 重装升级! =
+幸好相关DVD早就准备好,而且对于分区也有万全的策略,重装非常顺畅
+
+
+== 流水 ==
++ 重启,安装!值得注意的是将分区根据过往使用体验进一步合理化:
+ - [/pybimage/070511_myUbuntu_partition_scrot.png]
+ - 
++ 50分钟快速从DVD 就安装完成了Gnome 环境,因为保存了``/home``以及``/opt``目录,90%的定制就继承了下来,笑;-)
++ 重新进入桌面后进行后期定制,1小时以内恢复工作状态:
+    + 更新源
+```
+# beryl release
+### wget http://ubuntu.beryl-project.org/root@lupine.me.uk.gpg -O- | sudo apt-key add -
+deb http://ubuntu.beryl-project.org feisty main
+deb-src http://ubuntu.beryl-project.org feisty main
+
+### zoomq::070510 for ies4linux
+# wget -q http://wine.budgetdedicated.com/apt/387EE263.gpg -O- | sudo apt-key add -
+deb http://us.archive.ubuntu.com/ubuntu feisty universe
+deb http://wine.budgetdedicated.com/apt feisty main
+
+# 电信用户首选国内源--cn99!
+deb http://ubuntu.cn99.com/ubuntu/ feisty main restricted universe multiverse
+deb http://ubuntu.cn99.com/ubuntu/ feisty-security main restricted universe multiverse
+deb http://ubuntu.cn99.com/ubuntu/ feisty-updates main restricted universe multiverse
+deb http://ubuntu.cn99.com/ubuntu/ feisty-proposed main restricted universe multiverse
+deb http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe multiverse
+deb-src http://ubuntu.cn99.com/ubuntu/ feisty main restricted universe multiverse
+deb-src http://ubuntu.cn99.com/ubuntu/ feisty-security main restricted universe multiverse
+deb-src http://ubuntu.cn99.com/ubuntu/ feisty-updates main restricted universe multiverse
+deb-src http://ubuntu.cn99.com/ubuntu/ feisty-proposed main restricted universe multiverse
+deb-src http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe multiverse
+```
+    + sudo 化:
+```
+#修订/etc/sudoers 相关行为
+%admin ALL=(ALL) NOPASSWD:ALL
+```
+    + 显示及数字板支持:``WACOM,915resolution`` 都是源自有的,直接安装就好
+    + 字体美化!
+    + 
+
+. [/pybimage/070511_yuanti_cfg_scrot.png];
+    + SCIM 配置并加载最爱的[zqBXM2006 http://share.zoomquiet.org/tools/zqBXM2006.7z]
+    + 多媒体配置,安装最爱的 [mocp http://moc.daper.net/]^在命令行播放音乐^ + [mplayer http://www.mplayerhq.hu/design7/news.html]^全能媒体播放^ 立即就可以恢复音乐背景环境了!
+. [/pybimage/070511_mocp_zh_scrot.png];    
+
+
+**KO!其它的就可以随用随装了,已经可以投入到无限的为人民服务的日常生活中了,是也乎^__^**
+
+
+== 惊喜 ==
++ Gnome 2.18.1 果然强悍的多,不用什么 Xfce4 ,本身就非常快速了...
++ 默认是Python2.5了! 而且配合的Tk8.4 居然也可以支持中文输入了
+. [/pybimage/070511_ubuntu704_leoZhKO_scrot.png];
+ - 单为这,也值得重装了哪!
++ 另外 ``inkscape`` 也终于可以保存了 -- [crash in dapper when read file http://ubuntuforums.org/showthread.php?t=294093]
++ 最大的惊喜是桌面特效的稳定丰富爽直的获取!
++ 终于可以正常``挂起``了!
+    - 不过,默认配置,笔记本屏幕关上后过段时间就会关闭显示，而且无法重新激活！
+    - 基于前人的经验 [Thinkpad上安装Ubuntu笔记 http://www.linuxsky.net/html/200606/3560.html]配置后问题依然
+    - 最后使用``Ctrl+Alt+l`` 手工锁屏幕就好
+    - 另外电源配置时使用 ``挂起``
+    -
+
+
+=== 但是... ===
+
+: 键盘布局
+    - 根据[安装fesity 后的键盘问题 http://forum.ubuntu.org.cn/about51819.html&amp;sid=eb5fea294a839836417ebf76d62ee221]
+    - 快速配置就好,而且针对Dell Laptop 居然有专门的预设
+    - 
+- [/pybimage/070511_dell_keylayout_scrot.png]
+    - 但是,没有左边的``Alt,Ctrl`` 支持...
+    - 
+
+: 多媒体支持:
+    - 著名的``w32codes`` 最终还是从源里清除了...
+    - 有人贡献了经验:[ubuntu 7.04 下播放rm http://blog.chinaunix.net/u1/34834/showart.php?id=291548]
+    - 快速解决之!
+    -
+
+: 字体惊魂
+    - 原先以上的字体设定是为了追求象OSX环境，结果发现有中文标点被显示为类似阿位伯文字的现象
+    - 又受到友人蛊惑尝试[黑体解决方案 http://www.osxcn.com/ubuntu/edgy-stheiti.html#comment-15473]
+    - 结果X 都启动不起来了
+    - 寒了半天恢复后,发现被Session 过的程序菜单都出不来了,折腾半天才发现,不能使用字体配置中的``LCD`` 专用配置!! 最好的配置如下
+    -
+
+- [/pybimage/070514_Beryl-ZHfonts_510X295_scrot.png]
+-
+
+
+
+
+= 结论 =
+**GNU/Linux 下面的重装和M$的重装云泥之差哪!**
+ - 没有注册表,都是配置文件,只要配置文件在,一切都在
+ - 没有分区,只有目录,只要系统是同一系列的,各种软件都在固定的地方,不用重新配置什么,重装后,原先的配置直接可用!
+ - 但是!毕竟每个发行版本以及自个儿的定制差别是极其大的,每周积累的升级也是非常多的,不破不立,该重装时就重装!
+ - 
+
+
+
 </t>
 </tnodes>
 </leo_file>

@@ -7,6 +7,7 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 %! Options : --toc --css-sugar --enum-title
 
 
+
 = ssbsGAE =
 
  slow step by step GAE::
@@ -74,10 +75,6 @@ t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 ------------------------------
 动力源自::**[txt2tags http://txt2tags.sf.net]**
 
-% gedit: 编辑
+% leo: 编辑
 
 
-[/pybimage/technorati-over.gif]
-    ,[Zen http://www.technorati.com/tags/Zen]
-    ,[Google http://www.technorati.com/tags/Google]
-    ,[GAE http://www.technorati.com/tags/GAE]
