@@ -1,10 +1,11 @@
 MoinMoin问题
 还是中文惹的祸！
-t2t渲染:: %%date(%Y-%m-%d %H:%M:%S)
+t2t渲染:: %%date(%Y-%m-%d %I:%M:%S)
 
 %! Target  : xhtml
 %! Encoding: UTF-8
 %! Options : --toc --css-sugar --enum-title
+
 
 [/pybimage/snap060130-moinerror.png]
 
@@ -35,8 +36,3 @@ t2t渲染:: %%date(%Y-%m-%d %H:%M:%S)
 % leo: 编辑
 
 
-
-[/pybimage/technorati-over.gif]
-    [OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[error http://www.technorati.com/tags/error]
-    ,[MoinMoin http://www.technorati.com/tags/MoinMoin]

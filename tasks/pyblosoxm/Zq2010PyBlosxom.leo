@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet ekr_stylesheet?>
+<?xml-stylesheet ekr_test?>
 <leo_file>
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -10,9 +10,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20100310084837.5905"><vh>@chapters</vh></v>
-<v t="ZoomQuiet.20060116172141"><vh>运维记要</vh>
-<v t="zoomq.20100319214837.4218"><vh>2010@py.k</vh>
-<v t="zoomq.20100413102905.5772"><vh>静态化发布</vh>
+<v t="ZoomQuiet.20060116172141" a="E"><vh>运维记要</vh>
+<v t="zoomq.20100319214837.4218" a="E"><vh>2010@py.k</vh>
+<v t="zoomq.20100413102905.5772" a="E"><vh>静态化发布</vh>
 <v t="zoomq.20100413102905.5776"><vh>批量重整</vh>
 <v t="zoomq.20100413102905.5773"><vh>ask@ZSP</vh></v>
 </v>
@@ -52,22 +52,12 @@
 <v t="ZoomQuiet.20060122153701.1"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
 <v t="ZoomQuiet.20060121172947.1"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 </v>
-<v t="ZoomQuiet.20060306165940"><vh>~stuff</vh>
-<v t="zoomq.20060916180156.12"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
-<v t="zoomq.20100728103610.7583"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
-<v t="zoomq.20100714100009.4008"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
-<v t="zoomq.20100714100009.4009"><vh>noDOC</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
-</v>
-<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
-</v>
 <v t="ZoomQuiet.20060113092644" a="E"><vh>Blogging</vh>
 <v t="ZoomQuiet.20060116170040"><vh>Zen</vh>
 <v t="ZoomQuiet.20060116170040.1"><vh>Chinese</vh>
 <v t="zoomq.20060916180156"><vh>@nosent CCSalon-2006-06-11-14-00.t2t</vh>
-<v t="zoomq.20100728103610.7583"></v>
-<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"><vh>&lt;&lt;t2t head&gt;&gt;</vh></v>
+<v t="zoomq.20060916180156.12"><vh>&lt;&lt;t2t foot&gt;&gt;</vh></v>
 <v t="zoomq.20060916180156.1"><vh>记要</vh></v>
 <v t="zoomq.20060916180156.2"><vh>流水</vh>
 <v t="zoomq.20060916180156.3"><vh>人物</vh></v>
@@ -211,7 +201,7 @@
 <v t="zoomq.20100728103610.7586"><vh>main</vh></v>
 </v>
 <v t="ZoomQuiet.20060116170150"><vh>CPyUG</vh></v>
-<v t="ZoomQuiet.20060410130427" a="E"><vh>FreeBSD</vh>
+<v t="ZoomQuiet.20060410130427"><vh>FreeBSD</vh>
 <v t="ZoomQuiet.20060410185041"><vh>@nosent gnn-beijing-2006-04-09-15-00.t2t</vh>
 <v t="ZoomQuiet.20060410185041.1"><vh>report</vh></v>
 <v t="ZoomQuiet.20060410185041.2"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
@@ -219,7 +209,7 @@
 <v t="zoomq.20100728103610.7583"></v>
 </v>
 </v>
-<v t="ZoomQuiet.20060125172335" a="E"><vh>Mozilla</vh>
+<v t="ZoomQuiet.20060125172335"><vh>Mozilla</vh>
 <v t="ZoomQuiet.20060125172623"><vh>FireFox</vh>
 <v t="ZoomQuiet.20060125175729"><vh>@nosent FFoxSearchplugins-2006-01-04-23-23.t2t</vh>
 <v t="ZoomQuiet.20060125175729.1"><vh>定制tips</vh></v>
@@ -341,9 +331,9 @@
 </v>
 <v t="ZoomQuiet.20060116170435"><vh>SiFi</vh></v>
 </v>
-<v t="zoomq.20100414115206.4538"><vh>utility</vh>
+<v t="zoomq.20100414115206.4538" a="E"><vh>utility</vh>
 <v t="ZoomQuiet.20060116170508"><vh>py4gui</vh></v>
-<v t="ZoomQuiet.20060116170643" a="E"><vh>py4str</vh>
+<v t="ZoomQuiet.20060116170643"><vh>py4str</vh>
 <v t="zoomq.20100414115206.4235"><vh>StructuredText</vh>
 <v t="zoomq.20100414115206.4236"><vh>@nosent t2tdemo-2005-04-01-23-23.t2t</vh>
 <v t="ZoomQuiet.20060122153701.1"></v>
@@ -369,18 +359,52 @@
 <v t="zoomq.20100414115206.4269"></v>
 </v>
 </v>
-<v t="ZoomQuiet.20060116170643.1"><vh>py4web</vh>
+<v t="ZoomQuiet.20060116170643.1" a="E"><vh>py4web</vh>
 <v t="zoomq.20100414115206.4271"><vh>Django</vh>
 <v t="zoomq.20100414115206.4272"><vh>@nosent django-stepbystep-2006-01-27-23-23.txt</vh></v>
 </v>
 <v t="zoomq.20100414115206.4256"><vh>Karrigell</vh></v>
-<v t="zoomq.20100414115206.4257"><vh>MoinMoin</vh>
+<v t="zoomq.20100414115206.4257" a="E"><vh>MoinMoin</vh>
 <v t="zoomq.20100414115206.4258"><vh>@nosent moinerror-2006-01-31-16-00.t2t</vh>
 <v t="zoomq.20100414115206.4259"><vh>report</vh></v>
 <v t="zoomq.20100414115206.4260"><vh>fixed</vh></v>
-<v t="zoomq.20100414115206.4268"></v>
-<v t="zoomq.20100414115206.4269"></v>
-<v t="zoomq.20100414115206.4263"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
+</v>
+<v t="zoomq.20100728103610.8345"><vh>GraphvizMap</vh>
+<v t="zoomq.20100729092538.7643"><vh>IO error</vh></v>
+<v t="zoomq.20100730100904.4047"><vh>jQuery</vh></v>
+<v t="zoomq.20100730100904.4046"><vh>MoinGraphViz/main.py</vh></v>
+<v t="zoomq.20100729092538.7644"><vh>text_html.py</vh></v>
+</v>
+<v t="zoomq.20100730103931.6531" a="E"><vh>@nosent moin-graphviz-hack-2010-07-30-15-00.t2t</vh>
+<v t="zoomq.20100730103931.6532"><vh>aim</vh></v>
+<v t="zoomq.20100730104744.4052"><vh>core</vh>
+<v t="zoomq.20100730150200.4062"><vh>&lt;&lt;fixed text_html.py&gt;&gt;</vh></v>
+<v t="zoomq.20100730104744.4055"><vh>&lt;&lt;diff main.py&gt;&gt;</vh></v>
+<v t="zoomq.20100730104744.4056"><vh>&lt;&lt;html map&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100730104744.4053"><vh>jQuery</vh>
+<v t="zoomq.20100730150200.4064"><vh>&lt;&lt;diff atta&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100730150200.4063"><vh>error</vh>
+<v t="zoomq.20100730150200.4066"><vh>&lt;&lt;html map&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100730150200.4067"><vh>summary</vh>
+<v t="zoomq.20100730104744.4054"><vh>tlog</vh></v>
+</v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
+</v>
+<v t="ZoomQuiet.20060306165940"><vh>~~~stuff</vh>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20100714100009.4008"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
+<v t="zoomq.20100714100009.4009"><vh>noDOC</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="ZoomQuiet.20060121172947.1"></v>
+</v>
+<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
 </v>
 </v>
 <v t="zoomq.20100414115206.4264"><vh>Quixote</vh>
@@ -10454,7 +10478,7 @@ MoinMoin问题
 @others
 
 &lt;&lt;t2t foot&gt;&gt;
-&lt;&lt;SNSlink&gt;&gt;</t>
+</t>
 <t tx="zoomq.20100414115206.4259">[/pybimage/snap060130-moinerror.png]</t>
 <t tx="zoomq.20100414115206.4260">
 = fixed =
@@ -10478,11 +10502,6 @@ MoinMoin问题
 简单过滤就成，但是问题还在…………可怜的中文…………
 
 </t>
-<t tx="zoomq.20100414115206.4263">
-[/pybimage/technorati-over.gif]
-    [OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[error http://www.technorati.com/tags/error]
-    ,[MoinMoin http://www.technorati.com/tags/MoinMoin]</t>
 <t tx="zoomq.20100414115206.4264">@path Quixote
 
 
@@ -14762,6 +14781,373 @@ deb-src http://ubuntu.cn99.com/ubuntu/ feisty-backports main restricted universe
  - 没有分区,只有目录,只要系统是同一系列的,各种软件都在固定的地方,不用重新配置什么,重装后,原先的配置直接可用!
  - 但是!毕竟每个发行版本以及自个儿的定制差别是极其大的,每周积累的升级也是非常多的,不破不立,该重装时就重装!
  - 
+
+
+
+</t>
+<t tx="zoomq.20100728103610.8345">思路::
+    + hacking graphviz 插件追加 map 输出
+    + hacking 图片附件输出,包含 uasemap 属性
+        - Ajax 
+        - MoinMoin 核心
+</t>
+<t tx="zoomq.20100729092538.7643">只要有URL 嵌入,包含到其它页面时就出错!
+
+UnicodeDecodeError
+
+'ascii' codec can't decode byte 0xe6 in position 440: ordinal not in range(128)
+
+If you want to report a bug, please save this page and attach it to your bug report.
+
+定位为
+&lt;map id="hostLegendG" name="hostLegendG"&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="普配主机" alt="" coords="101,36,173,63"/&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="高配主机" alt="" coords="197,36,269,63"/&gt;
+&lt;/map&gt;
+其中的 title 属性无法正常包含时处置...</t>
+<t tx="zoomq.20100729092538.7644">fixed:
+    /usr/local/lib/python2.5/site-packages/MoinMoin/formatter/text_html.py
+    def attachment_image(self, url, **kw):
+        _ = self.request.getText
+        pagename, filename = AttachFile.absoluteName(url, self.page.page_name)
+        fname = wikiutil.taintfilename(filename)
+        exists = AttachFile.exists(self.request, pagename, fname)
+        if exists:
+            kw['css'] = 'attachment'
+            kw['src'] = AttachFile.getAttachUrl(pagename, filename, self.request, addts=1)
+            title = _('Inlined image: %(url)s') % {'url': self.text(url)}
+            if not 'title' in kw:
+                kw['title'] = title
+            # alt is required for images:
+            if not 'alt' in kw:
+                kw['alt'] = kw['title']
+            #   100729 Zoom.Quiet fixed for support imagemap fro Graphviz
+            kw['usemap'] = "#%s"%kw['alt']
+            return self.image(**kw)
+    
+    &lt;img alt="techparty" class="attachment" name="techparty" src="/moin/WikiSandBox?action=AttachFile&amp;amp;do=get&amp;amp;target=techparty-zoomq-2010-07-09-163848_457x465_scrot.png" title="techparty" /&gt;</t>
+<t tx="zoomq.20100730100904.4046">fixed:
+    ~/moin/data/plugin/parser/MoinGraphViz/main.py
+输出map...
+def renderGraphImage(tool, format, imagefilename, dotfilename):
+    #100728 Zoom.Quiet fixed for export URL hotarea map export
+    cmd = '%(tool)s -T%(format)s -o"%(imagefilename)s" -Tcmapx -o "%(imagefilename)s.map" "%(dotfilename)s"' % locals()
+    #cmd = '%(tool)s -T%(format)s -o"%(imagefilename)s" "%(dotfilename)s"' % locals()
+    print '[TRACE] executing:', cmd
+    os.system(cmd)
+
+嵌入map...
+class Parser:
+...
+    def format(self, formatter):
+        w = self.request.write
+        ##w('&lt;div style="border:3px ridge gray; padding:5px; width:95%; overflow:auto"&gt;')
+        s = self.renderer.render(self.raw)
+        imgname = os.path.basename(s)
+        #s = wiki2html(self.request, '{{attachment:%s}}' % os.path.basename(s))
+        s = wiki2html(self.request, '{{attachment:%s}}' % os.path.basename(s))
+        #   100728 Zoom.Quiet fixed for include URL hotarea map define
+        pfImgMap = "%s/%s.map"%(self.attapath,imgname)
+        s += fread(pfImgMap)
+        print '[TRACE] attachment URL:', s
+        w(s)
+        ##w('&lt;/div&gt;')
+
+
+&lt;img alt="graphviz-hostLegendG-2a5a8760fc8af107c7fa99585314feb5a14e6601.png" class="attachment" src="/moin/KupHostsMapping/MapLegend?action=AttachFile&amp;amp;do=get&amp;amp;target=graphviz-hostLegendG-2a5a8760fc8af107c7fa99585314feb5a14e6601.png" title="graphviz-hostLegendG-2a5a8760fc8af107c7fa99585314feb5a14e6601.png" /&gt; &lt;map id="hostLegendG" name="hostLegendG"&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="普配主机" alt="" coords="101,36,173,63"/&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="高配主机" alt="" coords="197,36,269,63"/&gt;
+&lt;/map&gt;
+
+
+
+</t>
+<t tx="zoomq.20100730100904.4047">graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png</t>
+<t tx="zoomq.20100730103931.6531">@language Moin
+MoinMoin插件hacking
+~Graphviz 图谱可点击!
+&lt;&lt;t2t head&gt;&gt;
+
+
+@others
+
+
+&lt;&lt;t2t foot&gt;&gt;
+</t>
+<t tx="zoomq.20100730103931.6532">= 需求 =
+[GraphVizForMoin http://moinmo.in/GraphVizForMoin] 插件部署到MoinMoin 中之后,很爽直!
+
+参考: [在维基中使用 Graphviz http://wiki.woodpecker.org.cn/moin/GraphVizForMoin]~ 啄木鸟中的效果
+
+可以说,解决了在维基中无法快速表达思维导图的问题:
+ - 以往都是使用 FreeMind 绘制后截屏附件上来
+ - 或是使用插件 [ParserMarket/FreeMind - MoinMoin http://moinmo.in/ParserMarket/FreeMind] 将文件使用Flash 控件就地发布出来~中文一直是个问题
+
+但是,使用 Graphviz 的dot 图形脚本在维基中书写图谱一直以来残念的问题是无法输出可点击的有热区的导图!
+- 有点希望的 [ParserMarket/ImageMap/ReleaseNotes - MoinMoin http://moinmo.in/ParserMarket/ImageMap/ReleaseNotes] 插件使用起来和 dot 命令输出的标准图片热区数据又实在相差太远...
+
+怎么整?! 自个儿来!
+
+
+
+
+</t>
+<t tx="zoomq.20100730104744.4052">== Hacking ==
+: 思路:
+    - hacked MoinGraphViz 令其使用``-Tcmapx -o **.mp``命令,输出热区定义
+    - hacked MoinMoin 相关脚本令输出到HTML 的图片认识可能的热区定义
+
+
+: fxied:
+    - ``path/2/moin运行实例/data/plugin/parser/MoinGraphViz/main.py`` 是插件的主体
+    - 很直白,快速就定位了具体代码进行了修订
+
+: diff:
+
+&lt;&lt;diff main.py&gt;&gt;
+
+: html 输出:
+
+&lt;&lt;html map&gt;&gt;
+
+**注意**: 发现,插件是直接使用``{{attachment:导图图片名}}`` 标准的图片附件形式来发布的!
+- 然而,HTML 中要想啓用热区图,至少要有专用属性的对应:
+```
+&lt;img usemap="#俺的ImgMap" src="..."/&gt;
+&lt;map id="俺的ImgMap" name="俺的ImgMap"&gt;
+&lt;area shape="rect" href="..." title="普配主机" alt="" coords="101,36,173,63"/&gt;
+...
+&lt;/map&gt;
+```
+ - 在dot 输出的map 数据中,id/name 就是``digraph G { `` 第一行的那个G,可以任意命名,当然最好是E文
+- 所以,就得找到方法来让 MoinMoin 对附件图片追加``usemap``属性
+
+找哈找,幸好有 [ack-grep http://manpages.ubuntu.com/manpages/jaunty/man1/ack-grep.1p.html] 快速从一堆脚本中定位到靠谱的代码段:
+
+
+&lt;&lt;fixed text_html.py&gt;&gt;
+
+追加一行就好...
+
+
+
+
+</t>
+<t tx="zoomq.20100730104744.4053">== jQuery ==
+虽然目标完成了,但是心里总感觉不好:
+- MoinMoin 本身的脚本被hacking 了,就等于,以后升級,迁移时,都要维护这一hacking
+- 很不 Pythonic 哪...
+
+怎么样脱离 MoinMoin 系统本身来给附件图片追加``usemap`` 属性?
+- 答案,自然是的 Ajax 哪
+- jQuery 就是为这类快速夹塞儿式行为诞生的哪...
+
+
+: 部署jQuery:
+    - 这是样式的事儿,所以:
+
+```
+path/2/moin实例/
++-- data
+    +-- plugin
+        +-- theme
+            +-- 你的样式定义脚本
+            +-- woodpecker.py ~ 俺用的
+        def footer(self, d, **keywords):
+            ... # 追加
+            u'&lt;!-- Finally, to loading jQuery Ajax Lib. --&gt;',
+            u'&lt;script src="/wiki/common/js/jquery-1.4.2.min.js" type="text/javascript"&gt;&lt;/script&gt;',
+            u'&lt;script src="/wiki/common/js/jquery-graphviz-map.js" type="text/javascript"&gt;&lt;/script&gt;',
+
++-- htdoc
+    +-- common
+        +-- js
+            +-- jquery-1.4.2.min.js ~ 官方运营用压缩版本
+            +-- jquery-graphviz-map.js  ~ 动态行为定义用
+```
+
+
+: 使用jQuery:
+    - 看看文档,就两行搞定..
+```
+#! js
+$(document).ready(function() {
+	$("img[class='attachment']").each(function(){
+	    $(this).attr("usemap","#"+$(this).attr("alt"));
+    });
+});
+```
+     - **特别的**:得考虑一页多个导图时的情况,所以是要进行 ``each()`` 循环处置
+    - 当然的,需要 ``MoinGraphViz/main.py``插件的配合,以便从附图的 alt 中获得正确的图片热区ID
+
+&lt;&lt;diff atta&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20100730104744.4054">== 时间清单 ==
++ 00:05 定目标
++ 00:15 准备环境
++ 01:30 探查运行环境,明确修订目标脚本
++ 01:45 插件修订完成
++ 00:15 图片应用map jQuery 嘗試
++ 00:35 图片插入系统修订完成
++ 01:00 正则表达式+jQuery 解决 Incldue() 时的编码问题
++ 00:45 整理代码,发布到Blog
++ 00:35 整理代码,反馈到MoinMoin.in
++ 00:40 8次中断,回到工作场景的心理浪费
+
+
+**总计:** ~ 6小时
+
+
+
+</t>
+<t tx="zoomq.20100730104744.4055">```
+#! diff
+Index: tasks/wiki.KUP/MoinMoin/parser/MoinGraphViz/main.py
+===================================================================
+--- tasks/wiki.KUP/MoinMoin/parser/MoinGraphViz/main.py (revision 16946)
++++ tasks/wiki.KUP/MoinMoin/parser/MoinGraphViz/main.py (revision 16975)
+@@ -56,4 +56,5 @@
+         p = request.formatter.page
+         self.renderer = Renderer(tool, targetdir=p.getPagePath('attachments'), encoding=config.charset)
++        self.attapath = p.getPagePath('attachments')
+
+     def format(self, formatter):
+@@ -61,5 +62,10 @@
+         ##w('&lt;div style="border:3px ridge gray; padding:5px; width:95%; overflow:auto"&gt;')
+         s = self.renderer.render(self.raw)
++        imgname = os.path.basename(s)
++        #s = wiki2html(self.request, '{{attachment:%s}}' % os.path.basename(s))
+         s = wiki2html(self.request, '{{attachment:%s}}' % os.path.basename(s))
++        #   100728 Zoom.Quiet fixed for include URL hotarea map define
++        pfImgMap = "%s/%s.map"%(self.attapath,imgname)
++        s += fread(pfImgMap)
+         print '[TRACE] attachment URL:', s
+         w(s)
+@@ -182,5 +193,7 @@
+
+ def renderGraphImage(tool, format, imagefilename, dotfilename):
+-    cmd = '%(tool)s -T%(format)s -o"%(imagefilename)s" "%(dotfilename)s"' % locals()
++    #100728 Zoom.Quiet fixed for export URL hotarea map export
++    cmd = '%(tool)s -T%(format)s -o"%(imagefilename)s" -Tcmapx -o "%(imagefilename)s.map" "%(dotfilename)s"' % locals()
++    #cmd = '%(tool)s -T%(format)s -o"%(imagefilename)s" "%(dotfilename)s"' % locals()
+     print '[TRACE] executing:', cmd
+     os.system(cmd
+
+```
+
+</t>
+<t tx="zoomq.20100730104744.4056">```
+#! html
+&lt;img alt="graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" 
+class="attachment" 
+src="/moin/KupHostsMapping/MapLegend?action=AttachFile&amp;amp;do=get&amp;amp;target=graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" 
+title="graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" /&gt; 
+&lt;map id="hostLegendG" name="hostLegendG"&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="普配主机" alt="" coords="101,36,173,63"/&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="高配主机" alt="" coords="197,36,269,63"/&gt;
+&lt;/map&gt;
+```
+</t>
+<t tx="zoomq.20100730150200.4062">```
+path/2/python2.5/site-packages/MoinMoin/formatter/text_html.py
+...
+    def attachment_image(self, url, **kw):
+        ...
+        if exists:
+            ...
+            if not 'alt' in kw:
+                kw['alt'] = kw['title']
+            #   100729 Zoom.Quiet fixed for support imagemap for Graphviz
+            kw['usemap'] = "#%s"%kw['alt']
+            return self.image(**kw)
+        ...
+```
+</t>
+<t tx="zoomq.20100730150200.4063">== 编码问题 ==
+一切表现良好,无意间发现凡是有URL包含的 dot 图谱,被其它页面包含时就出错!
+
+[/pybimage/2010/moin-graphviz-erro-2010-07-30-121804_780x382_scrot.png]
+
+: 囧rz...:
+- 尝试各种编码,未果
+- 嘗試各种&lt;map&gt;的包装形式:
+    + 使用  &lt;pre&gt;
+    + 使用  &lt;textarea&gt;
+- 都在  Include 时,可怜的出错了...
+- 实在是因为 MoinMoin 不想处理正常的 HTML 标签属性的其它编码内容
+- 好吧,俺就不给出无用的中文内容!
+- ``path/2/moin运行实例/data/plugin/parser/MoinGraphViz/main.py`` 追加一小段正则表达式替换
+
+
+```
+#! py
+    def format(self, formatter):
+        w = self.request.write
+        #...
+        #   100728 Zoom.Quiet appended &lt;map&gt; data
+        if os.path.exists(pfImgMap):
+            import re
+            p=re.compile( 'title=\".+?\"')
+            s += p.sub("title=\"\"",fread(pfImgMap))
+            #s += fread(pfImgMap)
+
+```
+
+
+: HTML 输出:
+
+&lt;&lt;html map&gt;&gt;
+
+
+一切安定了...
+
+
+
+</t>
+<t tx="zoomq.20100730150200.4064">```
+#! diff
+Index: tasks/wiki.KUP/MoinMoin/parser/MoinGraphViz/main.py
+===================================================================
+--- tasks/wiki.KUP/MoinMoin/parser/MoinGraphViz/main.py (revision 17010)
++++ tasks/wiki.KUP/MoinMoin/parser/MoinGraphViz/main.py (revision 17013)
+@@ -65,5 +65,8 @@
+         fImgName = os.path.basename(s)
+         pfImgMap = "%s/%s.map"%(self.attapath,fImgName)
+-        s = wiki2html(self.request, '{{attachment:%s}}' % os.path.basename(s))
++        #s = wiki2html(self.request, '{{attachment:%s}}' % os.path.basename(s))
++        s = wiki2html(self.request, '{{attachment:%s|%s}}' % (os.path.basename(s)
++                        ,fImgName.split("-")[1])
++                    )
+         #   100728 Zoom.Quiet appended &lt;map&gt; data
+         if os.path.exists(pfImgMap):
+```</t>
+<t tx="zoomq.20100730150200.4066">```
+#! html
+&lt;img alt="graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" 
+class="attachment" 
+src="/moin/KupHostsMapping/MapLegend?action=AttachFile&amp;amp;do=get&amp;amp;target=graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" 
+title="graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" /&gt; 
+&lt;map id="hostLegendG" name="hostLegendG"&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="" alt="" coords="101,36,173,63"/&gt;
+&lt;area shape="rect" href="http://wiki.s.kingsoft.net/moin/KupHosts" title="" alt="" coords="197,36,269,63"/&gt;
+&lt;/map&gt;
+```
+</t>
+<t tx="zoomq.20100730150200.4067">= 小结 =
+
+- 思路不乱的情况下,主要问题就是定位代码段!以及测试!
+    - 面对一运行中的MoinMoin 进行测试开发时
+    - 使用sshfs 可以快速挂接远程服务器的任意目录,非常方便!
+    - 使用沙箱页面进行修订插件的测试,可以避免正常文章页面的中间调试失常..
+    - 在调试中,直接输出预想数据到 HTML 里看,比看系统日志,使用print 要方便
+    - MoinMoin 有完备的缓冲机制,要及时看到修订效果,得重启HTTPD     
+- jQuery 真的很好用,也好学!
+
+
+: 下载:
+    diff: [MoinMoin_parser_MoinGraphViz_main.py-from-r16946-to-r17013.diff  /pybnodes/utility/py4web/MoinMoin/MoinMoin_parser_MoinGraphViz_main.py-from-r16946-to-r17013.diff]
 
 
 

@@ -58,7 +58,7 @@
 </v>
 <v t="zoomq.20100726094342.5994" a="E"><vh>100729-TimeMana</vh>
 <v t="zoomq.20100726094342.5995" a="E"
-expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,zoomq.20100728103610.8336,zoomq.20100726095759.6166,"><vh>@shadow index.html</vh></v>
+expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,"><vh>@shadow index.html</vh></v>
 </v>
 <v t="zoomq.20100527142434.6470"><vh>100610-pycon-pythonicamp@ZqLib</vh>
 <v t="zoomq.20100527142434.6474"><vh>@shadow index.html</vh></v>
@@ -88,8 +88,8 @@ expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,zoomq.201007281036
 <v t="zoomq.20100602201453.5849"><vh>version</vh></v>
 </v>
 </v>
-<v t="zoomq.20080807095120.28" a="E"><vh>ZEUUX:ZPyUG</vh>
-<v t="zoomq.20100322235812.5543" a="E"><vh>100419-Pythonic</vh>
+<v t="zoomq.20080807095120.28"><vh>ZEUUX:ZPyUG</vh>
+<v t="zoomq.20100322235812.5543"><vh>100419-Pythonic</vh>
 <v t="zoomq.20100407094145.5747"><vh>_chaos</vh>
 <v t="zoomq.20100405215514.5579"><vh>教育</vh></v>
 <v t="zoomq.20100327110414.5545"><vh>Chat</vh></v>
@@ -16378,7 +16378,7 @@ Wiki 模式&lt;/h1&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </t>
-<t tx="zoomq.20091204150544.8708">@path s5/KsKM/
+<t tx="zoomq.20091204150544.8708">@path /home/zoomq/workspace/4svn/@kingsoft/kdoc.root/trunk/3.过程改进/s5/KsKM/
 </t>
 <t tx="zoomq.20091204150544.8709"></t>
 <t tx="zoomq.20091204150544.8710">&lt;div class="slide"&gt;
