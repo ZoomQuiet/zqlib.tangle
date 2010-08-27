@@ -42,7 +42,7 @@
 <v t="zoomq.20100608162108.5860"><vh>@shadow takahashi.xul</vh></v>
 </v>
 </v>
-<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
+<v t="zoomq.20080523161605"><vh>s5:public</vh>
 <v t="zoomq.20100726095759.6175"><vh>_stuff</vh>
 <v t="zoomq.20100726095759.6174"><vh>brief0</vh></v>
 <v t="zoomq.20100726130819.5995"><vh>PKM</vh>
@@ -59,7 +59,7 @@
 <v t="zoomq.20100817123015.6207"><vh>100918-MyTools</vh>
 <v t="zoomq.20100817123015.6208"><vh>@shadow index.html</vh></v>
 </v>
-<v t="zoomq.20100818100255.10487" a="E"><vh>100826-PyTDD</vh>
+<v t="zoomq.20100818100255.10487"><vh>100826-PyTDD</vh>
 <v t="zoomq.20100819090507.8048"><vh>_stuff</vh>
 <v t="zoomq.20100825215032.8118"><vh>@shadow moinmaper.py</vh></v>
 <v t="zoomq.20100826101657.6528"><vh>Takahashi</vh>
@@ -75,7 +75,7 @@
 <v t="zoomq.20100825215032.8066"><vh>@shadow primenu.py</vh></v>
 <v t="zoomq.20100825215032.8150"><vh>@shadow __init__.py</vh></v>
 </v>
-<v t="zoomq.20100818100255.10587" a="E"><vh>@shadow index.html</vh></v>
+<v t="zoomq.20100818100255.10587"><vh>@shadow index.html</vh></v>
 </v>
 <v t="zoomq.20100819090507.7893"><vh>100820-introPy</vh>
 <v t="zoomq.20100819090507.7894"><vh>@shadow index.html</vh></v>
@@ -761,191 +761,6 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20091204150544.8309"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.8310"><vh>MoinMoin 导览</vh>
-<v t="zoomq.20091204150544.8311"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8312"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8313"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8314"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8315"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8316"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.8317"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.8318"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.8319"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.8320"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.8321"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.8322"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.8323"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.8324"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.8325"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.8326"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.8327"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.8328"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.8329"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.8330"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.8331"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.8332"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.8333"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.8334"><vh>Dept</vh></v>
-<v t="zoomq.20091204150544.8335"><vh>Dept2</vh></v>
-<v t="zoomq.20091204150544.8336"><vh>Dept3</vh></v>
-<v t="zoomq.20091204150544.8337"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.8338"><vh>Group</vh></v>
-<v t="zoomq.20091204150544.8339"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.8340"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.8341"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.8342"><vh>SUP</vh></v>
-<v t="zoomq.20091204150544.8343"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.8344"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.8345"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.8346"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.8347"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.8348"><vh>Moin杂技</vh></v>
-<v t="zoomq.20091204150544.8349"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.8350"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.8351"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.8352"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.8353"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.8354"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.8355"><vh>Moin Gantt</vh></v>
-<v t="zoomq.20091204150544.8356"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.8357"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8358"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8359"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8360"><vh>end</vh></v>
-<v t="zoomq.20091204150544.8361"><vh>S5end</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8362"><vh>从入门到精通 MoinMoin</vh>
-<v t="zoomq.20091204150544.8363"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8364"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8365"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8366"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8367"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8368"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.8369"><vh>DirveInto</vh>
-<v t="zoomq.20091204150544.8370"><vh>注册</vh></v>
-<v t="zoomq.20091204150544.8371"><vh>创建</vh></v>
-<v t="zoomq.20091204150544.8372"><vh>修改</vh></v>
-<v t="zoomq.20091204150544.8373"><vh>模板</vh></v>
-<v t="zoomq.20091204150544.8374"><vh>子页面</vh></v>
-<v t="zoomq.20091204150544.8375"><vh>包含</vh></v>
-<v t="zoomq.20091204150544.8376"><vh>月历</vh></v>
-<v t="zoomq.20091204150544.8377"><vh>还有</vh></v>
-<v t="zoomq.20091204150544.8378"><vh>但是！</vh></v>
-</v>
-<v t="zoomq.20091204150544.8379"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.8380"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.8381"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.8382"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.8383"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.8384"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.8385"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.8386"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.8387"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.8388"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.8389"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.8390"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.8391"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.8392"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.8393"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.8394"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.8395"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.8396"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.8397"><vh>Dept</vh></v>
-<v t="zoomq.20091204150544.8398"><vh>Dept2</vh></v>
-<v t="zoomq.20091204150544.8399"><vh>Dept3</vh></v>
-<v t="zoomq.20091204150544.8400"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.8401"><vh>Group</vh></v>
-<v t="zoomq.20091204150544.8402"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.8403"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.8404"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.8405"><vh>SUP</vh></v>
-<v t="zoomq.20091204150544.8406"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.8407"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.8408"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.8409"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.8410"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.8411"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.8412"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.8413"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.8414"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.8415"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.8416"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.8417"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.8418"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8419"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8420"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8421"><vh>end</vh></v>
-<v t="zoomq.20091204150544.8422"><vh>S5end</vh></v>
-</v>
-</v>
-<v t="zoomq.20091204150544.8423"><vh>p从入门到精通 MoinMoin</vh>
-<v t="zoomq.20091204150544.8424"><vh>@nosent index.html</vh>
-<v t="zoomq.20091204150544.8425"><vh>S5head</vh></v>
-<v t="zoomq.20091204150544.8426"><vh>S5foot</vh></v>
-<v t="zoomq.20091204150544.8427"><vh>slideTag</vh></v>
-<v t="zoomq.20091204150544.8428"><vh>P0</vh></v>
-<v t="zoomq.20091204150544.8429"><vh>P1</vh></v>
-<v t="zoomq.20091204150544.8430"><vh>DirveInto</vh>
-<v t="zoomq.20091204150544.8431"><vh>注册</vh></v>
-<v t="zoomq.20091204150544.8432"><vh>创建</vh></v>
-<v t="zoomq.20091204150544.8433"><vh>修改</vh></v>
-<v t="zoomq.20091204150544.8434"><vh>模板</vh></v>
-<v t="zoomq.20091204150544.8435"><vh>子页面</vh></v>
-<v t="zoomq.20091204150544.8436"><vh>包含</vh></v>
-<v t="zoomq.20091204150544.8437"><vh>月历</vh></v>
-<v t="zoomq.20091204150544.8438"><vh>还有</vh></v>
-<v t="zoomq.20091204150544.8439"><vh>但是！</vh></v>
-</v>
-<v t="zoomq.20091204150544.8440"><vh>Wiki</vh>
-<v t="zoomq.20091204150544.8441"><vh>Wiki?</vh></v>
-<v t="zoomq.20091204150544.8442"><vh>维基百科</vh></v>
-<v t="zoomq.20091204150544.8443"><vh>维基协作</vh></v>
-<v t="zoomq.20091204150544.8444"><vh>Wiki!</vh></v>
-<v t="zoomq.20091204150544.8445"><vh>Wiki!!</vh></v>
-<v t="zoomq.20091204150544.8446"><vh>Wiki特性</vh></v>
-<v t="zoomq.20091204150544.8447"><vh>Wiki精神</vh></v>
-<v t="zoomq.20091204150544.8448"><vh>Wiki技术</vh></v>
-<v t="zoomq.20091204150544.8449"><vh>WYTIWYG</vh></v>
-<v t="zoomq.20091204150544.8450"><vh>结构化文本</vh></v>
-</v>
-<v t="zoomq.20091204150544.8451"><vh>MoinMoin</vh>
-<v t="zoomq.20091204150544.8452"><vh>Wiki系统</vh></v>
-<v t="zoomq.20091204150544.8453"><vh>Wiki实现</vh></v>
-<v t="zoomq.20091204150544.8454"><vh>Moin</vh></v>
-<v t="zoomq.20091204150544.8455"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.8456"><vh>theme</vh></v>
-<v t="zoomq.20091204150544.8457"><vh>sinatheme</vh></v>
-<v t="zoomq.20091204150544.8458"><vh>事故日志</vh></v>
-<v t="zoomq.20091204150544.8459"><vh>Group2</vh></v>
-<v t="zoomq.20091204150544.8460"><vh>SKSIG</vh></v>
-<v t="zoomq.20091204150544.8461"><vh>NMS</vh></v>
-<v t="zoomq.20091204150544.8462"><vh>童剑</vh></v>
-<v t="zoomq.20091204150544.8463"><vh>FreeBSD</vh></v>
-<v t="zoomq.20091204150544.8464"><vh>图书馆</vh></v>
-<v t="zoomq.20091204150544.8465"><vh>Tshirt</vh></v>
-<v t="zoomq.20091204150544.8466"><vh>Discover</vh></v>
-<v t="zoomq.20091204150544.8467"><vh>Moin杂技1</vh></v>
-<v t="zoomq.20091204150544.8468"><vh>Moin杂技2</vh></v>
-<v t="zoomq.20091204150544.8469"><vh>Moin杂技3</vh></v>
-<v t="zoomq.20091204150544.8470"><vh>Moin dot</vh></v>
-<v t="zoomq.20091204150544.8471"><vh>Moin latex</vh></v>
-<v t="zoomq.20091204150544.8472"><vh>Moin sctable</vh></v>
-<v t="zoomq.20091204150544.8473"><vh>Moin GunPlot</vh></v>
-</v>
-<v t="zoomq.20091204150544.8474"><vh>Summary</vh></v>
-<v t="zoomq.20091204150544.8475"><vh>About</vh></v>
-<v t="zoomq.20091204150544.8476"><vh>Author</vh></v>
-<v t="zoomq.20091204150544.8477"><vh>end</vh></v>
-<v t="zoomq.20091204150544.8478"><vh>S5end</vh></v>
-</v>
-</v>
-</v>
 <v t="zoomq.20091204150544.7910"><vh>4BPyUG</vh>
 <v t="zoomq.20091204150544.11135"><vh>会课记录</vh>
 <v t="zoomq.20091204150544.11136"><vh>060528-talking</vh>
@@ -1234,8 +1049,193 @@
 </v>
 </v>
 </v>
+<v t="zoomq.20091204150544.8309"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.8310"><vh>MoinMoin 导览</vh>
+<v t="zoomq.20091204150544.8311"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8312"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8313"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8314"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8315"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8316"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.8317"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.8318"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.8319"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.8320"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.8321"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.8322"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.8323"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.8324"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.8325"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.8326"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.8327"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.8328"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.8329"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.8330"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.8331"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.8332"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.8333"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.8334"><vh>Dept</vh></v>
+<v t="zoomq.20091204150544.8335"><vh>Dept2</vh></v>
+<v t="zoomq.20091204150544.8336"><vh>Dept3</vh></v>
+<v t="zoomq.20091204150544.8337"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.8338"><vh>Group</vh></v>
+<v t="zoomq.20091204150544.8339"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.8340"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.8341"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.8342"><vh>SUP</vh></v>
+<v t="zoomq.20091204150544.8343"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.8344"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.8345"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.8346"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.8347"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.8348"><vh>Moin杂技</vh></v>
+<v t="zoomq.20091204150544.8349"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.8350"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.8351"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.8352"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.8353"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.8354"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.8355"><vh>Moin Gantt</vh></v>
+<v t="zoomq.20091204150544.8356"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.8357"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8358"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8359"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8360"><vh>end</vh></v>
+<v t="zoomq.20091204150544.8361"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8362"><vh>从入门到精通 MoinMoin</vh>
+<v t="zoomq.20091204150544.8363"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8364"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8365"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8366"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8367"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8368"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.8369"><vh>DirveInto</vh>
+<v t="zoomq.20091204150544.8370"><vh>注册</vh></v>
+<v t="zoomq.20091204150544.8371"><vh>创建</vh></v>
+<v t="zoomq.20091204150544.8372"><vh>修改</vh></v>
+<v t="zoomq.20091204150544.8373"><vh>模板</vh></v>
+<v t="zoomq.20091204150544.8374"><vh>子页面</vh></v>
+<v t="zoomq.20091204150544.8375"><vh>包含</vh></v>
+<v t="zoomq.20091204150544.8376"><vh>月历</vh></v>
+<v t="zoomq.20091204150544.8377"><vh>还有</vh></v>
+<v t="zoomq.20091204150544.8378"><vh>但是！</vh></v>
+</v>
+<v t="zoomq.20091204150544.8379"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.8380"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.8381"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.8382"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.8383"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.8384"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.8385"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.8386"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.8387"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.8388"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.8389"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.8390"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.8391"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.8392"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.8393"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.8394"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.8395"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.8396"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.8397"><vh>Dept</vh></v>
+<v t="zoomq.20091204150544.8398"><vh>Dept2</vh></v>
+<v t="zoomq.20091204150544.8399"><vh>Dept3</vh></v>
+<v t="zoomq.20091204150544.8400"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.8401"><vh>Group</vh></v>
+<v t="zoomq.20091204150544.8402"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.8403"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.8404"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.8405"><vh>SUP</vh></v>
+<v t="zoomq.20091204150544.8406"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.8407"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.8408"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.8409"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.8410"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.8411"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.8412"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.8413"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.8414"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.8415"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.8416"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.8417"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.8418"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8419"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8420"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8421"><vh>end</vh></v>
+<v t="zoomq.20091204150544.8422"><vh>S5end</vh></v>
+</v>
+</v>
+<v t="zoomq.20091204150544.8423"><vh>p从入门到精通 MoinMoin</vh>
+<v t="zoomq.20091204150544.8424"><vh>@nosent index.html</vh>
+<v t="zoomq.20091204150544.8425"><vh>S5head</vh></v>
+<v t="zoomq.20091204150544.8426"><vh>S5foot</vh></v>
+<v t="zoomq.20091204150544.8427"><vh>slideTag</vh></v>
+<v t="zoomq.20091204150544.8428"><vh>P0</vh></v>
+<v t="zoomq.20091204150544.8429"><vh>P1</vh></v>
+<v t="zoomq.20091204150544.8430"><vh>DirveInto</vh>
+<v t="zoomq.20091204150544.8431"><vh>注册</vh></v>
+<v t="zoomq.20091204150544.8432"><vh>创建</vh></v>
+<v t="zoomq.20091204150544.8433"><vh>修改</vh></v>
+<v t="zoomq.20091204150544.8434"><vh>模板</vh></v>
+<v t="zoomq.20091204150544.8435"><vh>子页面</vh></v>
+<v t="zoomq.20091204150544.8436"><vh>包含</vh></v>
+<v t="zoomq.20091204150544.8437"><vh>月历</vh></v>
+<v t="zoomq.20091204150544.8438"><vh>还有</vh></v>
+<v t="zoomq.20091204150544.8439"><vh>但是！</vh></v>
+</v>
+<v t="zoomq.20091204150544.8440"><vh>Wiki</vh>
+<v t="zoomq.20091204150544.8441"><vh>Wiki?</vh></v>
+<v t="zoomq.20091204150544.8442"><vh>维基百科</vh></v>
+<v t="zoomq.20091204150544.8443"><vh>维基协作</vh></v>
+<v t="zoomq.20091204150544.8444"><vh>Wiki!</vh></v>
+<v t="zoomq.20091204150544.8445"><vh>Wiki!!</vh></v>
+<v t="zoomq.20091204150544.8446"><vh>Wiki特性</vh></v>
+<v t="zoomq.20091204150544.8447"><vh>Wiki精神</vh></v>
+<v t="zoomq.20091204150544.8448"><vh>Wiki技术</vh></v>
+<v t="zoomq.20091204150544.8449"><vh>WYTIWYG</vh></v>
+<v t="zoomq.20091204150544.8450"><vh>结构化文本</vh></v>
+</v>
+<v t="zoomq.20091204150544.8451"><vh>MoinMoin</vh>
+<v t="zoomq.20091204150544.8452"><vh>Wiki系统</vh></v>
+<v t="zoomq.20091204150544.8453"><vh>Wiki实现</vh></v>
+<v t="zoomq.20091204150544.8454"><vh>Moin</vh></v>
+<v t="zoomq.20091204150544.8455"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.8456"><vh>theme</vh></v>
+<v t="zoomq.20091204150544.8457"><vh>sinatheme</vh></v>
+<v t="zoomq.20091204150544.8458"><vh>事故日志</vh></v>
+<v t="zoomq.20091204150544.8459"><vh>Group2</vh></v>
+<v t="zoomq.20091204150544.8460"><vh>SKSIG</vh></v>
+<v t="zoomq.20091204150544.8461"><vh>NMS</vh></v>
+<v t="zoomq.20091204150544.8462"><vh>童剑</vh></v>
+<v t="zoomq.20091204150544.8463"><vh>FreeBSD</vh></v>
+<v t="zoomq.20091204150544.8464"><vh>图书馆</vh></v>
+<v t="zoomq.20091204150544.8465"><vh>Tshirt</vh></v>
+<v t="zoomq.20091204150544.8466"><vh>Discover</vh></v>
+<v t="zoomq.20091204150544.8467"><vh>Moin杂技1</vh></v>
+<v t="zoomq.20091204150544.8468"><vh>Moin杂技2</vh></v>
+<v t="zoomq.20091204150544.8469"><vh>Moin杂技3</vh></v>
+<v t="zoomq.20091204150544.8470"><vh>Moin dot</vh></v>
+<v t="zoomq.20091204150544.8471"><vh>Moin latex</vh></v>
+<v t="zoomq.20091204150544.8472"><vh>Moin sctable</vh></v>
+<v t="zoomq.20091204150544.8473"><vh>Moin GunPlot</vh></v>
+</v>
+<v t="zoomq.20091204150544.8474"><vh>Summary</vh></v>
+<v t="zoomq.20091204150544.8475"><vh>About</vh></v>
+<v t="zoomq.20091204150544.8476"><vh>Author</vh></v>
+<v t="zoomq.20091204150544.8477"><vh>end</vh></v>
+<v t="zoomq.20091204150544.8478"><vh>S5end</vh></v>
+</v>
+</v>
+</v>
 <v t="zoomq.20091204150544.6940"><vh>SKSiG</vh>
-<v t="zoomq.20091204150544.7013"><vh>SNSintro</vh>
+<v t="zoomq.20091204150544.7013" a="E"><vh>SNSintro</vh>
 <v t="zoomq.20091204150544.6977"><vh>@nosent index.html</vh>
 <v t="zoomq.20091204150544.6978"><vh>S5head</vh></v>
 <v t="zoomq.20091204150544.6979"><vh>S5foot</vh></v>
@@ -8804,8 +8804,9 @@ GTalk bot:
 &lt;/body&gt;
 &lt;/html&gt;
 </t>
-<t tx="zoomq.20091204150544.4881">@path /home/zoomq/4svn/kdoc-trunk/3.过程改进/s5/</t>
-<t tx="zoomq.20091204150544.4981">@path s5/kupp-intro/</t>
+<t tx="zoomq.20091204150544.4881">@path /home/zoomq/workspace/4svn/@kingsoft/kdoc.root/trunk/3.过程改进/s5/
+#/home/zoomq/4svn/kdoc-trunk/3.过程改进/s5/</t>
+<t tx="zoomq.20091204150544.4981"></t>
 <t tx="zoomq.20091204150544.4982">&lt;&lt;DOCTYPE&gt;&gt;
 &lt;title&gt;KUP++ 服务推介(powered by S5)&lt;/title&gt;
 &lt;&lt;s5head&gt;&gt;
@@ -25190,7 +25191,7 @@ You can get the truely Freedom from software.
 
 
 </t>
-<t tx="zoomq.20091204150544.9867">@path s5/goal4kspeg/</t>
+<t tx="zoomq.20091204150544.9867">@path goal4kspeg/</t>
 <t tx="zoomq.20091204150544.9868"></t>
 <t tx="zoomq.20091204150544.9869"></t>
 <t tx="zoomq.20091204150544.9870">CPUGlogo-100.png</t>
@@ -26710,7 +26711,7 @@ KUP# 是个文化机制
     &lt;/div&gt;
 &lt;/div&gt;
 </t>
-<t tx="zoomq.20091213221717.4968"></t>
+<t tx="zoomq.20091213221717.4968">@path kupp-intro/</t>
 <t tx="zoomq.20091213221717.4969">有关Trac 使用心得:
 
 受LY要求，也是近期准备进行KTRAC的系统宣传，有必要对推广和使用Trac 这几年的体验进行总结;

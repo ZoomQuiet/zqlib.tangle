@@ -10,12 +10,12 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
-<v t="zoomq.20100412163057.2814" a="E"><vh>Misc任务</vh>
-<v t="zoomq.20100412163057.2815" a="E"><vh>病毒样本对比</vh>
+<v t="zoomq.20100412163057.2814"><vh>Misc任务</vh>
+<v t="zoomq.20100412163057.2815"><vh>病毒样本对比</vh>
 <v t="zoomq.20100412163057.2827"><vh>@shadow virusampls-ratio.py</vh></v>
 </v>
 </v>
-<v t="zoomq.20091008173724.2"><vh>kspeg SA 配置收集</vh>
+<v t="zoomq.20091008173724.2" a="E"><vh>kspeg SA 配置收集</vh>
 <v t="zoomq.20091008174006.28"><vh>_chaos</vh>
 <v t="zoomq.20091008174006.29"><vh>/wpsonline</vh></v>
 <v t="zoomq.20091215180924.3867"><vh>fnmatch</vh></v>
@@ -47,7 +47,7 @@
 <v t="zoomq.20091207160418.2464"><vh>ml</vh>
 <v t="zoomq.20091207162144.2996"><vh>_cron</vh></v>
 </v>
-<v t="zoomq.20091207145139.2558" a="E"><vh>4SVN</vh>
+<v t="zoomq.20091207145139.2558"><vh>4SVN</vh>
 <v t="zoomq.20091207162144.2467"><vh>svnsub</vh>
 <v t="zoomq.20091207162144.2766"><vh>@shadow svnrepos.leo.conf</vh></v>
 <v t="zoomq.20091207162144.2627"><vh>svnrepos.conf</vh>
@@ -337,7 +337,7 @@
 </vnodes>
 <tnodes>
 <t tx="zoomq.20091008173724.1"></t>
-<t tx="zoomq.20091008173724.2"></t>
+<t tx="zoomq.20091008173724.2">@path /home/zoomq/workspace/4svn/@kingsoft/matter4peg/trunk</t>
 <t tx="zoomq.20091008174006.28"></t>
 <t tx="zoomq.20091008174006.29">&lt;Location /wpsonline&gt;
   DAV svn
@@ -357,11 +357,10 @@
   Satisfy all
 &lt;/Location&gt;
 </t>
-<t tx="zoomq.20091207145139.2558"></t>
-<t tx="zoomq.20091207160418.2464">@path /home/zoomq/workspace/2matter4speg/trunk/kupp/ml
+<t tx="zoomq.20091207145139.2558">@path kupp/svnsub</t>
+<t tx="zoomq.20091207160418.2464">@path kupp/ml
 #/home/zoomq/2matter4peg/trunk/kupp/ml</t>
-<t tx="zoomq.20091207162144.2467">@path /home/zoomq/workspace/2matter4speg
-/trunk/kupp/svnsub/root.etc/apache2/conf.d
+<t tx="zoomq.20091207162144.2467">@path root.etc/apache2/conf.d
 #/home/zoomq/2matter4peg/trunk/kupp/svnsub/root.etc/apache2/conf.d</t>
 <t tx="zoomq.20091207162144.2627"># SVN repo. publishingS
 # cfg log
@@ -1111,9 +1110,9 @@ Satisfy all
 @tabwidth -4
 </t>
 <t tx="zoomq.20091215180924.2720">SA 通用脚本收集</t>
-<t tx="zoomq.20091215180924.2721">@path /home/zoomq/workspace/2matter4speg/trunk/sa.scripts
+<t tx="zoomq.20091215180924.2721">@path sa.scripts
 #/home/zoomq/2matter4peg/trunk/sa.scripts</t>
-<t tx="zoomq.20091215180924.2722"></t>
+<t tx="zoomq.20091215180924.2722">@path unique</t>
 <t tx="zoomq.20091215180924.2723">@path turnover
 #/home/zoomq/mnt/dubabin/opt/turnover
 #turnover
