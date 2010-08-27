@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet ekr_test?>
+<?xml-stylesheet ekr_stylesheet?>
 <leo_file>
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -56,9 +56,36 @@
 <v t="zoomq.20100726130819.6001"><vh>KM:持续改进</vh></v>
 </v>
 </v>
-<v t="zoomq.20100726094342.5994" a="E"><vh>100729-TimeMana</vh>
-<v t="zoomq.20100726094342.5995" a="E"
-expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,"><vh>@shadow index.html</vh></v>
+<v t="zoomq.20100817123015.6207"><vh>100918-MyTools</vh>
+<v t="zoomq.20100817123015.6208"><vh>@shadow index.html</vh></v>
+</v>
+<v t="zoomq.20100818100255.10487" a="E"><vh>100826-PyTDD</vh>
+<v t="zoomq.20100819090507.8048"><vh>_stuff</vh>
+<v t="zoomq.20100825215032.8118"><vh>@shadow moinmaper.py</vh></v>
+<v t="zoomq.20100826101657.6528"><vh>Takahashi</vh>
+<v t="zoomq.20100826101657.6529"><vh>Takahashi0</vh></v>
+<v t="zoomq.20100826101657.6530"><vh>Takahashi1</vh></v>
+<v t="zoomq.20100826101657.6531"><vh>Takahashi2</vh></v>
+<v t="zoomq.20100826101657.6532"><vh>Takahashi3</vh></v>
+<v t="zoomq.20100826101657.6533"><vh>Takahashi4</vh></v>
+<v t="zoomq.20100826101657.6534"><vh>Takahashi!</vh></v>
+</v>
+</v>
+<v t="zoomq.20100825215032.7271"><vh>Py脚本</vh>
+<v t="zoomq.20100825215032.8066"><vh>@shadow primenu.py</vh></v>
+<v t="zoomq.20100825215032.8150"><vh>@shadow __init__.py</vh></v>
+</v>
+<v t="zoomq.20100818100255.10587" a="E"><vh>@shadow index.html</vh></v>
+</v>
+<v t="zoomq.20100819090507.7893"><vh>100820-introPy</vh>
+<v t="zoomq.20100819090507.7894"><vh>@shadow index.html</vh></v>
+</v>
+<v t="zoomq.20100819090507.6357"><vh>100819-pythonicamp-intro</vh>
+<v t="zoomq.20100819090507.6359"><vh>@shadow index.html</vh></v>
+<v t="zoomq.20100819090507.6366"><vh>summary</vh></v>
+</v>
+<v t="zoomq.20100726094342.5994"><vh>100729-TimeMana</vh>
+<v t="zoomq.20100726094342.5995"><vh>@shadow index.html</vh></v>
 </v>
 <v t="zoomq.20100527142434.6470"><vh>100610-pycon-pythonicamp@ZqLib</vh>
 <v t="zoomq.20100527142434.6474"><vh>@shadow index.html</vh></v>
@@ -1254,7 +1281,7 @@ expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,"><vh>@shadow inde
 <v t="zoomq.20091204150544.4881"><vh>s5:KIS</vh>
 <v t="zoomq.20100312132537.9039"><vh>SPE必须有后路</vh></v>
 <v t="zoomq.20100726094342.5915"><vh>4KiT</vh>
-<v t="zoomq.20100726094342.5994" a="E"></v>
+<v t="zoomq.20100726094342.5994"></v>
 </v>
 <v t="zoomq.20091204150544.9625"><vh>4KsPEG</vh>
 <v t="zoomq.20091204150544.9867"><vh>goal4kspeg</vh>
@@ -2005,6 +2032,12 @@ expanded="zoomq.20100726095759.6164,zoomq.20100726130819.6017,"><vh>@shadow inde
 </v>
 </v>
 </v>
+</v>
+</v>
+<v t="zoomq.20100819213607.6364"><vh>Recovered Nodes</vh>
+<v t="zoomq.20100819213607.6365"><vh>Recovered node "page0 from @shadow index.html</vh>
+<v t="zoomq.20100819213607.6366"><vh>old:page0</vh></v>
+<v t="zoomq.20100819213607.6367"><vh>new:page0</vh></v>
 </v>
 </v>
 </vnodes>
@@ -37579,6 +37612,289 @@ SNS学习原理:3
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+
+</t>
+<t tx="zoomq.20100817123015.6207">@path 100918-MyTools
+
+</t>
+<t tx="zoomq.20100818100255.10487">@path 100826-PyTDD
+</t>
+<t tx="zoomq.20100819090507.6357">@path 100819-pythonicamp-intro</t>
+<t tx="zoomq.20100819090507.6366">&lt;div class="slide"&gt;
+&lt;h1&gt; 提纲 &lt;/h1&gt;
+
+&lt;b style="font-size:150%"&gt;
+&lt;center&gt;
+&lt;ol&gt;
+    &lt;li&gt;KSPEG简介
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+    &lt;li&gt;蟒营 由来
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+    &lt;li&gt;蟒营 体验
+        &lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/center&gt;
+&lt;/b&gt;
+    &lt;div class="handout"&gt;
+&lt;center&gt;&lt;img src="icon/080428-zeuux-logo-gb-h90.png"/&gt;&lt;/center&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100819090507.7893">@path 100820-introPy</t>
+<t tx="zoomq.20100819090507.8048">测试?
+    定义
+    分类
+    Py对应
+TDD:
+    实施
+    工具
+流程:
+    Trac+Bitten
+
+sys.exit(foundPrimenu(sys.argv[1]))    
+
+In [8]: p = 10
+
+In [9]:  0 not in [ p% d for d in range(2, p)] 
+   ...: 
+Out[9]: False
+
+In [10]: p = 11
+
+In [11]:  0 not in [ p% d for d in range(2, p)] 
+   ....: 
+Out[11]: True
+</t>
+<t tx="zoomq.20100819213607.6364"></t>
+<t tx="zoomq.20100819213607.6365">(uncached) zoomq.20100818100255.10594</t>
+<t tx="zoomq.20100819213607.6366">&lt;div class="slide" id="slide0"&gt;
+
+&lt;h1&gt;
+Python
+&lt;/h1&gt;
+&lt;h3&gt;
+~快速通介:&lt;a href="http://www.woodpecker.org.cn/share/doc/abyteofpython_cn/chinese/"&gt;
+进入舒心的脚本世界!
+&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;br/&gt;
+&lt;h4&gt;&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;
+
+&lt;/h4&gt;
+
+&lt;br/&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100819213607.6367">&lt;div class="slide" id="slide0"&gt;
+
+&lt;h1&gt;
+&lt;img src="logo/300px-Python_logo.svg.png"/&gt;?!
+&lt;/h1&gt;
+&lt;h3&gt;
+~快速通介:&lt;a href="http://www.woodpecker.org.cn/share/doc/abyteofpython_cn/chinese/"&gt;
+进入舒心的脚本世界!
+&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;br/&gt;
+&lt;h4&gt;&lt;a href="mailto:zhouqi@kingsoft.com"&gt;Zoom.Quiet&lt;/a&gt;
+
+&lt;/h4&gt;
+
+&lt;br/&gt;
+
+&lt;/div&gt;
+
+
+</t>
+<t tx="zoomq.20100825215032.7271">@path testdemo
+</t>
+<t tx="zoomq.20100826101657.6528">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;注意！&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi4"&gt;
+&lt;img src="pix/Takahashi-method.jpg"&gt;&lt;br/&gt;&lt;a href="http://book.douban.com/subject/4326862/"&gt;高橋流&lt;/a&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100826101657.6529">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;特点:文字&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+巨大
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100826101657.6530">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;特点:幻灯片&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi9"&gt;
+很多
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100826101657.6531">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;特点:播放&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi10"&gt;
+快!
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100826101657.6532">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;特点:速度&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi10"&gt;
+很快
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100826101657.6533">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;特点:速度&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi8"&gt;
+非常快
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100826101657.6534">&lt;div class="slide"&gt;
+&lt;h1&gt; &lt;a href="http://blog.derjohng.com/2006/04/12/takahashi-method-%E7%B0%A1%E5%A0%B1/"&gt;所以...&lt;/a&gt;
+&lt;div id="sup"&gt;
+Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi Takahashi)
+&lt;/div&gt;
+&lt;/h1&gt;
+
+&lt;h2 id="takahashi10"&gt;
+&lt;b class="focus"&gt;听!&lt;/b&gt;
+&lt;/h2&gt;
+
+    &lt;div class="handout"&gt;
+    class="incremental"...
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
 
 </t>
 </tnodes>

@@ -10,9 +10,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20100310084837.5905"><vh>@chapters</vh></v>
-<v t="ZoomQuiet.20060116172141" a="E"><vh>运维记要</vh>
-<v t="zoomq.20100319214837.4218" a="E"><vh>2010@py.k</vh>
-<v t="zoomq.20100413102905.5772" a="E"><vh>静态化发布</vh>
+<v t="ZoomQuiet.20060116172141"><vh>运维记要</vh>
+<v t="zoomq.20100319214837.4218"><vh>2010@py.k</vh>
+<v t="zoomq.20100413102905.5772"><vh>静态化发布</vh>
 <v t="zoomq.20100413102905.5776"><vh>批量重整</vh>
 <v t="zoomq.20100413102905.5773"><vh>ask@ZSP</vh></v>
 </v>
@@ -187,6 +187,17 @@
 </v>
 </v>
 </v>
+<v t="ZoomQuiet.20060306165940" a="E"><vh>~~~stuff</vh>
+<v t="zoomq.20100817094645.4076"><vh>Nginx配置</vh></v>
+<v t="zoomq.20060916180156.12"></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20100714100009.4008"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
+<v t="zoomq.20100714100009.4009"><vh>noDOC</vh></v>
+<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="ZoomQuiet.20060121172947.1"></v>
+</v>
+<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
+</v>
 <v t="ZoomQuiet.20060116170040.2"><vh>oss</vh>
 <v t="ZoomQuiet.20060125173931"><vh>@nosent OSSdocDemoJPS-2006-01-17-23-23.t2t</vh>
 <v t="zoomq.20060916180156.12"></v>
@@ -266,11 +277,16 @@
 <v t="ZoomQuiet.20060116170256.1"><vh>WeKnow</vh></v>
 </v>
 <v t="zoomq.20100414115206.4540"><vh>mind</vh>
-<v t="ZoomQuiet.20060531114330"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
-<v t="ZoomQuiet.20060531114330.1"><vh>noDOC</vh></v>
-<v t="ZoomQuiet.20060531114849"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="ZoomQuiet.20060531114330" a="E"><vh>@nosent why-noread-paid-books-2010-08-06-11-01.t2t</vh>
+<v t="ZoomQuiet.20060531114330.1"><vh>main</vh></v>
 <v t="zoomq.20060916180156.12"></v>
 <v t="zoomq.20100728103610.7583"></v>
+</v>
+<v t="zoomq.20100806085041.4077"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
+<v t="zoomq.20100806085041.4078"><vh>noDOC</vh></v>
+<v t="zoomq.20100806085041.4079"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="zoomq.20100728103610.7583"></v>
+<v t="zoomq.20060916180156.12"></v>
 </v>
 </v>
 <v t="ZoomQuiet.20060116170040.4"><vh>Quiet</vh>
@@ -331,7 +347,7 @@
 </v>
 <v t="ZoomQuiet.20060116170435"><vh>SiFi</vh></v>
 </v>
-<v t="zoomq.20100414115206.4538" a="E"><vh>utility</vh>
+<v t="zoomq.20100414115206.4538"><vh>utility</vh>
 <v t="ZoomQuiet.20060116170508"><vh>py4gui</vh></v>
 <v t="ZoomQuiet.20060116170643"><vh>py4str</vh>
 <v t="zoomq.20100414115206.4235"><vh>StructuredText</vh>
@@ -359,12 +375,12 @@
 <v t="zoomq.20100414115206.4269"></v>
 </v>
 </v>
-<v t="ZoomQuiet.20060116170643.1" a="E"><vh>py4web</vh>
+<v t="ZoomQuiet.20060116170643.1"><vh>py4web</vh>
 <v t="zoomq.20100414115206.4271"><vh>Django</vh>
 <v t="zoomq.20100414115206.4272"><vh>@nosent django-stepbystep-2006-01-27-23-23.txt</vh></v>
 </v>
 <v t="zoomq.20100414115206.4256"><vh>Karrigell</vh></v>
-<v t="zoomq.20100414115206.4257" a="E"><vh>MoinMoin</vh>
+<v t="zoomq.20100414115206.4257"><vh>MoinMoin</vh>
 <v t="zoomq.20100414115206.4258"><vh>@nosent moinerror-2006-01-31-16-00.t2t</vh>
 <v t="zoomq.20100414115206.4259"><vh>report</vh></v>
 <v t="zoomq.20100414115206.4260"><vh>fixed</vh></v>
@@ -377,7 +393,7 @@
 <v t="zoomq.20100730100904.4046"><vh>MoinGraphViz/main.py</vh></v>
 <v t="zoomq.20100729092538.7644"><vh>text_html.py</vh></v>
 </v>
-<v t="zoomq.20100730103931.6531" a="E"><vh>@nosent moin-graphviz-hack-2010-07-30-15-00.t2t</vh>
+<v t="zoomq.20100730103931.6531"><vh>@nosent moin-graphviz-hack-2010-07-30-15-00.t2t</vh>
 <v t="zoomq.20100730103931.6532"><vh>aim</vh></v>
 <v t="zoomq.20100730104744.4052"><vh>core</vh>
 <v t="zoomq.20100730150200.4062"><vh>&lt;&lt;fixed text_html.py&gt;&gt;</vh></v>
@@ -395,16 +411,6 @@
 </v>
 <v t="zoomq.20100728103610.7583"></v>
 <v t="zoomq.20060916180156.12"></v>
-</v>
-<v t="ZoomQuiet.20060306165940"><vh>~~~stuff</vh>
-<v t="zoomq.20060916180156.12"></v>
-<v t="zoomq.20100728103610.7583"></v>
-<v t="zoomq.20100714100009.4008"><vh>@nosent not-doc-2006-05-31-12-00.t2t</vh>
-<v t="zoomq.20100714100009.4009"><vh>noDOC</vh></v>
-<v t="ZoomQuiet.20060122153701.1"></v>
-<v t="ZoomQuiet.20060121172947.1"></v>
-</v>
-<v t="zoomq.20100714100833.4002"><vh>我的”怪癖” (作业)</vh></v>
 </v>
 </v>
 <v t="zoomq.20100414115206.4264"><vh>Quixote</vh>
@@ -8295,29 +8301,9 @@ sprint
    color: #444;
 }
 </t>
-<t tx="ZoomQuiet.20060306165940">publishing dirs::
-	location /pyblosxom {
-        alias /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_static;
-        index  index.html index.htm;
-		autoindex on;
-	}
-	location /pybshare {
-		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/pybshare;
-		autoindex on;
-	}
-	location /pybimage {
-		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_images;
-		autoindex on;
-	}
-	location /pybnodes {
-		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/entries;
-		autoindex on;
-	}
-	location /pybstyle {
-		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/flavours;
-		autoindex on;
-	}
-
+<t tx="ZoomQuiet.20060306165940">gconf-editor
+    /apps/panel/applets/applet_7/prefs/custom_format
+    &lt;b&gt;%y.%m.%d&lt;/b&gt; %A
 </t>
 <t tx="ZoomQuiet.20060308100814">@language Moin
 方言版大話西游！
@@ -8932,50 +8918,40 @@ GNN北京之行
     + 怎么
 </t>
 <t tx="ZoomQuiet.20060531114330">@language Moin
-NOT WORD!
---不仅仅关乎版权
+然何买书不读?
+~~自我心理分析
 &lt;&lt;t2t head&gt;&gt;
 
 @others
 
 
 &lt;&lt;t2t foot&gt;&gt;
-&lt;&lt;SNSlink&gt;&gt;
+
 </t>
-<t tx="ZoomQuiet.20060531114330.1">
-: [几行字也发个doc?? http://blog.delphij.net/archives/001487.html]:
-    经常在邮件中看到朋友们将些小故事塞到 word 中分享,
-    和delphij 同样的感慨…………
+<t tx="ZoomQuiet.20060531114330.1">= 问 =
+- 发觉近来自个儿买的书被读的越来越少
+- 好容易得空也是积极看网络中可以免费获得的
 
-: 有诗曰:
-```
-文本文件好 
-工具遍地跑
-程序两三行
-全部改好了
-```
-    [文本好了歌 http://blog.cathayan.org/item/920] - Blog on 27th Floor
-    cathayan 的感慨
-
-: 文可文，非常文。本可文，非常本。文本,数据之始,字符,万思之母...
-    [结构化文本 http://wiki.woodpecker.org.cn/moin/AllAboutText]才是王道！
-    呜乎矣哉!是也乎是也乎!!
-    为了我们的写作快感，抵制一切富格式化编辑器!
-    有结构化文本想怎么漂亮都成的!不用在界面中辛苦的使用mouse 永远的点击…………
-
-: 可恨/可叹:
-    M$的市场策略，成功的将
-    ``正式文档===word文档``
-    的概念填入了人们的头脑中，特别是在中国！
-
-: 觉醒:
-    从我作起！[/pybimage/nodoc4cn.png] 至少从OOo 开始！
+何也?
 
 
-[抵制.doc运动 http://www.cyut.edu.tw/~ckhung/i/nd/fydoc.png]</t>
-<t tx="ZoomQuiet.20060531114849">
-[/pybimage/technorati-over.gif]
-    [Zen http://www.technorati.com/tags/Zen]</t>
+= 答 =
+- 买了就是自个儿的了,什么时候读就不重要了
+- 网络中免费得的也都是有网络费用的,但是相对低很多,很占便宜的!在没有和谐前,多看哪...
+
+然也?
+
+
+= 解 =
+- as [网民的狂欢：关于互联网弊端的反思 (豆瓣) http://book.douban.com/subject/4275054/] 网络中流传的多不靠谱
+- 图书里倒是严密的比较多(得有过滤无良书商和译者的能力)
+- 只有读进心里的才是自个儿的,否则只是一堆纸而已!
+
+
+时间的投入产出,是自个儿的控制和选择...
+- 但是,读书的体验和氛围是有技巧营造的,就看自个儿是否愿意了...
+
+</t>
 <t tx="ZoomQuiet.20060531135448">@language Moin
 六一了！
 --应该祝贺，如果没有忘记
@@ -15151,6 +15127,74 @@ title="graphviz-hostLegendG-a58ce04d28b92b59230a72964c27a9f8fc867de5.png" /&gt;
 
 
 
+</t>
+<t tx="zoomq.20100806085041.4077">@language Moin
+NOT WORD!
+--不仅仅关乎版权
+&lt;&lt;t2t head&gt;&gt;
+
+@others
+
+
+&lt;&lt;t2t foot&gt;&gt;
+&lt;&lt;SNSlink&gt;&gt;
+</t>
+<t tx="zoomq.20100806085041.4078">
+: [几行字也发个doc?? http://blog.delphij.net/archives/001487.html]:
+    经常在邮件中看到朋友们将些小故事塞到 word 中分享,
+    和delphij 同样的感慨…………
+
+: 有诗曰:
+```
+文本文件好 
+工具遍地跑
+程序两三行
+全部改好了
+```
+    [文本好了歌 http://blog.cathayan.org/item/920] - Blog on 27th Floor
+    cathayan 的感慨
+
+: 文可文，非常文。本可文，非常本。文本,数据之始,字符,万思之母...
+    [结构化文本 http://wiki.woodpecker.org.cn/moin/AllAboutText]才是王道！
+    呜乎矣哉!是也乎是也乎!!
+    为了我们的写作快感，抵制一切富格式化编辑器!
+    有结构化文本想怎么漂亮都成的!不用在界面中辛苦的使用mouse 永远的点击…………
+
+: 可恨/可叹:
+    M$的市场策略，成功的将
+    ``正式文档===word文档``
+    的概念填入了人们的头脑中，特别是在中国！
+
+: 觉醒:
+    从我作起！[/pybimage/nodoc4cn.png] 至少从OOo 开始！
+
+
+[抵制.doc运动 http://www.cyut.edu.tw/~ckhung/i/nd/fydoc.png]</t>
+<t tx="zoomq.20100806085041.4079">
+[/pybimage/technorati-over.gif]
+    [Zen http://www.technorati.com/tags/Zen]</t>
+<t tx="zoomq.20100817094645.4076">publishing dirs::
+	location /pyblosxom {
+        alias /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_static;
+        index  index.html index.htm;
+		autoindex on;
+	}
+	location /pybshare {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/pybshare;
+		autoindex on;
+	}
+	location /pybimage {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/_images;
+		autoindex on;
+	}
+	location /pybnodes {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/entries;
+		autoindex on;
+	}
+	location /pybstyle {
+		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/flavours;
+		autoindex on;
+	}
 </t>
 </tnodes>
 </leo_file>
