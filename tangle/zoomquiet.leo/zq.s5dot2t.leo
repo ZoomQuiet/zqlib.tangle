@@ -42,7 +42,7 @@
 <v t="zoomq.20100608162108.5860"><vh>@shadow takahashi.xul</vh></v>
 </v>
 </v>
-<v t="zoomq.20080523161605"><vh>s5:public</vh>
+<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
 <v t="zoomq.20100726095759.6175"><vh>_stuff</vh>
 <v t="zoomq.20100726095759.6174"><vh>brief0</vh></v>
 <v t="zoomq.20100726130819.5995"><vh>PKM</vh>
@@ -77,8 +77,9 @@
 </v>
 <v t="zoomq.20100818100255.10587"><vh>@shadow index.html</vh></v>
 </v>
-<v t="zoomq.20100819090507.7893"><vh>100820-introPy</vh>
-<v t="zoomq.20100819090507.7894"><vh>@shadow index.html</vh></v>
+<v t="zoomq.20100819090507.7893" a="E"><vh>100820-introPy</vh>
+<v t="zoomq.20100819090507.7894" a="E"
+expanded="zoomq.20100818100255.10801,zoomq.20100818100255.10879,zoomq.20100818100255.10962,zoomq.20100818100255.10969,"><vh>@shadow index.html</vh></v>
 </v>
 <v t="zoomq.20100819090507.6357"><vh>100819-pythonicamp-intro</vh>
 <v t="zoomq.20100819090507.6359"><vh>@shadow index.html</vh></v>
@@ -1235,7 +1236,7 @@
 </v>
 </v>
 <v t="zoomq.20091204150544.6940"><vh>SKSiG</vh>
-<v t="zoomq.20091204150544.7013" a="E"><vh>SNSintro</vh>
+<v t="zoomq.20091204150544.7013"><vh>SNSintro</vh>
 <v t="zoomq.20091204150544.6977"><vh>@nosent index.html</vh>
 <v t="zoomq.20091204150544.6978"><vh>S5head</vh></v>
 <v t="zoomq.20091204150544.6979"><vh>S5foot</vh></v>

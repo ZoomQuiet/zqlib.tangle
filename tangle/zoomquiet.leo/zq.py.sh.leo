@@ -10,12 +10,35 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
+<v t="zoomq.20100831135717.3642" a="E"><vh>WeKnow</vh>
+<v t="zoomq.20100831135717.3643"><vh>可视化</vh></v>
+</v>
 <v t="zoomq.20100412163057.2814"><vh>Misc任务</vh>
 <v t="zoomq.20100412163057.2815"><vh>病毒样本对比</vh>
 <v t="zoomq.20100412163057.2827"><vh>@shadow virusampls-ratio.py</vh></v>
 </v>
+<v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
+<v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
+<v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
 </v>
-<v t="zoomq.20091008173724.2" a="E"><vh>kspeg SA 配置收集</vh>
+<v t="zoomq.20100827095209.8300"><vh>@file /home/zoomq/media/manga/manga.py</vh>
+<v t="zoomq.20100827095209.8301"><vh>manga declarations</vh></v>
+<v t="zoomq.20100827095209.8302"><vh>genUrlist</vh></v>
+</v>
+<v t="zoomq.20100827095209.8303"><vh>@file /home/zoomq/media/manga/manga-zipang12~1.sh</vh></v>
+<v t="zoomq.20100827095209.8304"><vh>@file /home/zoomq/media/manga/wgetli.py</vh>
+<v t="zoomq.20100827095209.8305"><vh>wgetli declarations</vh></v>
+<v t="zoomq.20100827095209.8306"><vh>genUrlist</vh></v>
+</v>
+</v>
+<v t="zoomq.20100827095209.8299"><vh>清除字幕字体聲明</vh>
+<v t="zoomq.20100827095209.8310"><vh>@nosent clfontd4.py</vh>
+<v t="zoomq.20100827095209.8311"><vh>declarations</vh></v>
+<v t="zoomq.20100827095209.8312"><vh>cleaner()</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20091008173724.2"><vh>kspeg SA 配置收集</vh>
 <v t="zoomq.20091008174006.28"><vh>_chaos</vh>
 <v t="zoomq.20091008174006.29"><vh>/wpsonline</vh></v>
 <v t="zoomq.20091215180924.3867"><vh>fnmatch</vh></v>
@@ -42,7 +65,6 @@
 </v>
 <v t="zoomq.20091215180924.2722"><vh>unique</vh></v>
 </v>
-<v t="zoomq.20091207162144.2995"><vh>USS</vh></v>
 <v t="zoomq.20091209151935.2787"><vh>KSSO</vh></v>
 <v t="zoomq.20091207160418.2464"><vh>ml</vh>
 <v t="zoomq.20091207162144.2996"><vh>_cron</vh></v>
@@ -327,11 +349,6 @@
 </v>
 </v>
 </v>
-</v>
-</v>
-<v t="zoomq.20100122092723.2783" a="E"><vh>GrasPic</vh>
-<v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
-<v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1104,7 +1121,6 @@ AuthLDAPBindPassword  kss
 Require valid-user
 Satisfy all
 </t>
-<t tx="zoomq.20091207162144.2995"></t>
 <t tx="zoomq.20091207162144.2996">@path /home/zoomq/2matter4peg/trunk/kupp/ml/root.cron</t>
 <t tx="zoomq.20091209151935.2787">@language python
 @tabwidth -4
@@ -1319,12 +1335,161 @@ matters:TestEngineCases
 
 </t>
 <t tx="zoomq.20100114185924.2779"></t>
-<t tx="zoomq.20100122092723.2783"></t>
-<t tx="zoomq.20100122092723.2784">@path /home/zoomq/media/manga/2graspic/ellytran.com/wp-content/gallery
+<t tx="zoomq.20100122092723.2783">@path /home/zoomq/media/manga</t>
+<t tx="zoomq.20100122092723.2784">@path 2graspic/ellytran.com/wp-content/gallery
 #/home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
 <t tx="zoomq.20100412163057.2814"></t>
 <t tx="zoomq.20100412163057.2815">@path /home/zoomq/vbox2win/0day/zoom.quiet/100412-virus-sample-selector
 #/home/zoomq/data/0day-vbox/zoom.quiet/100412-virus-sample-selector
 </t>
+<t tx="zoomq.20100827095209.8299">@path /home/zoomq/_stuff/_mov
+网络字幕，有的::
+    
+1
+00:00:09,240 --&gt; 00:00:15,940
+{\fn微软雅黑\fs12\fscx130\fscy130\3c&amp;HFF8000&amp;}本字幕仅出于业余兴趣而制，如有鄙陋，还望指正。{\r}
+{\fn微软雅黑\fs12}{\r}
+
+2
+00:00:16,240 --&gt; 00:00:29,940
+{\fn微软雅黑\fs15\3c&amp;HFF8000&amp;}感谢 COPSY心理学的支持
+{\fntahoma\fs12\3c&amp;H1717FF&amp;}www.COPSY.org{\r}
+
+不认识字体聲明，需要快速清除，
+sed/awk 都不能直接识别出 {.+} 这种模式，特别是在 utf-8 环境中处理 gb2312 编码文本...
+
+cat 06-Justice_Michael.Sandel-HARVARD.srt | cut --delimiter="}" -f2 | cut --delimiter="{" -f1 &gt; 06-Justice_Michael.Sandel-HARVARD.srt.srt
+</t>
+<t tx="zoomq.20100827095209.8300">@language python
+@tabwidth -4
+@others
+if __name__ == "__main__":
+    if 4 != len(sys.argv):
+        print """ %s usage::
+        $ python manga.py bookName(e.g zipang) bookID(e.g 002) maxPage(e.g 196) 
+        """ % VERSION
+    else:
+        begin = time.time()
+        urlmark = "http://251.99770.com:9977/ok-comic06/c/cyjd_771/%03d/%03d.jpg\n"
+        bookName = sys.argv[1]
+        bookId = sys.argv[2]
+        maxPage = sys.argv[3]
+        genUrlist(urlmark,bookName,bookId,maxPage)
+        end = time.time()
+        print 'usedTime::', end - begin
+
+</t>
+<t tx="zoomq.20100827095209.8301"># -*- coding: utf-8 -*-
+# Name: manga.py
+# Desc: gen. grasp comics pics url files
+# Author: Zoom.Quiet
+VERSION = "manga.py v0.8-070921"
+
+import os,sys,time,datetime
+
+</t>
+<t tx="zoomq.20100827095209.8302">def genUrlist(urlmark,bookName,bookId,maxPage):
+    expF = "manga-%s-%s.txt"%(bookName,bookId)
+    urlist = ""
+    for p in range(1,int(maxPage)):
+        urlist += urlmark % (int(bookId),p)
+        print urlmark % (int(bookId),p)
+    open(expF,'w').write(urlist)
+
+</t>
+<t tx="zoomq.20100827095209.8303">@ignore
+@language shell
+#!/bin/sh
+
+wget -nv -t 3 -P 012 -i manga-zipang-012.txt &amp;
+wget -nv -t 3 -P 011 -i manga-zipang-011.txt &amp;
+wget -nv -t 3 -P 010 -i manga-zipang-010.txt &amp;
+wget -nv -t 3 -P 009 -i manga-zipang-009.txt &amp;
+wget -nv -t 3 -P 008 -i manga-zipang-008.txt &amp;
+wget -nv -t 3 -P 007 -i manga-zipang-007.txt &amp;
+wget -nv -t 3 -P 006 -i manga-zipang-006.txt &amp;
+wget -nv -t 3 -P 005 -i manga-zipang-005.txt &amp;
+wget -nv -t 3 -P 004 -i manga-zipang-004.txt &amp;
+wget -nv -t 3 -P 003 -i manga-zipang-003.txt &amp;
+wget -nv -t 3 -P 002 -i manga-zipang-002.txt &amp;
+wget -nv -t 3 -P 001 -i manga-zipang-001.txt &amp;
+
+</t>
+<t tx="zoomq.20100827095209.8304">@language python
+@tabwidth -4
+@others
+if __name__ == "__main__":
+    if 3 != len(sys.argv):
+        print """ %s usage::
+        $ python manga.py bookName(e.g zipang) maxPage(e.g 196) 
+        """ % VERSION
+    else:
+        begin = time.time()
+        urlmark = "http://tulaoya.cn/photo/x1/%03d.jpg\n"
+        bookName = sys.argv[1]
+        maxPage = sys.argv[2]
+        genUrlist(urlmark,bookName,maxPage)
+        end = time.time()
+        print 'usedTime::', end - begin
+
+</t>
+<t tx="zoomq.20100827095209.8305"># -*- coding: utf-8 -*-
+# Name: manga.py
+# Desc: gen. grasp comics pics url files
+# Author: Zoom.Quiet
+VERSION = "wgetli.py v0.5-080409"
+
+import os,sys,time,datetime
+
+</t>
+<t tx="zoomq.20100827095209.8306">def genUrlist(urlmark,bookName,maxPage):
+    expF = "wgetli-%s-%s.txt"%(bookName,maxPage)
+    urlist = ""
+    for p in range(1,int(maxPage)):
+        urlist += urlmark % p
+        print urlmark % p
+    open(expF,'w').write(urlist)
+
+</t>
+<t tx="zoomq.20100827095209.8310">@language python
+@tabwidth -4
+# -*- coding: utf-8 -*-
+"""
+Name    : clfontd4.py
+Desc    : clean font define words in subtitle files
+Author  : Zoom.Quiet
+Usage   : 1: make srt file-&gt;utf8; 2: python cleaner.py path/2/***.str 
+    we can get cleanning .srt
+"""
+VERSION = "clfontd4.py v10.8.27"
+@others
+if __name__ == "__main__":
+    sys.exit(cleaner(sys.argv))
+</t>
+<t tx="zoomq.20100827095209.8311">import os,sys,re
+
+</t>
+<t tx="zoomq.20100827095209.8312">def cleaner(arg):
+    if 2 != len(sys.argv):
+        print """ %s usage::
+        $ python cleaner.py path/2/***.str
+        """ % VERSION
+    else:
+        exp = ""
+        print arg[1]
+        for l in open(arg[1]).readlines():
+            #print "&gt;&gt;",l
+            if "{" in l:
+                exp += "%s\n"%l.split("}")[1].split("{")[0]
+                #print exp
+            else:
+                exp += l
+        open("%s"%arg[1],"w").write(exp)
+
+
+</t>
+<t tx="zoomq.20100831135717.3642">收集所有 WeKnow 相关的代码片段
+</t>
+<t tx="zoomq.20100831135717.3643"></t>
 </tnodes>
 </leo_file>

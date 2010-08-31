@@ -1,0 +1,8 @@
+note over A,B: 是也乎
+note left of A: 可能
+note right of A
+    多行
+    文本
+    multiline
+    text
+end note

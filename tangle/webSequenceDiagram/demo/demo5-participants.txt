@@ -1,0 +1,8 @@
+participant "客户端" as C
+participant "服务端" as S
+participant "可以很长名\n的后台服务" as L
+
+C->S: Authentication Request
+S->C: Authentication Response
+S-->L: Log transaction
+
