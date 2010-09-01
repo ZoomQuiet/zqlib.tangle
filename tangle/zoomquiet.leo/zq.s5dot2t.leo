@@ -10,17 +10,29 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
-<v t="zoomq.20100408222312.5717"><vh>.dot</vh>
-<v t="zoomq.20100408222312.5718"><vh>@nosent zqbook-map-think.dot</vh>
-<v t="zoomq.20100411141119.6916"><vh>时间轴</vh></v>
-<v t="zoomq.20100408222312.5719"><vh>图元</vh></v>
-<v t="zoomq.20100408222312.5725"><vh>关系网</vh>
-<v t="zoomq.20100408222312.5720"><vh>关系liv</vh></v>
-<v t="zoomq.20100408222312.5724"><vh>关系tech</vh></v>
-<v t="zoomq.20100408222312.5722"><vh>关系pkm</vh></v>
+<v t="zoomq.20100408222312.5717" a="E"><vh>.dot</vh>
+<v t="zoomq.20100408222312.5718" a="E"><vh>@nosent idx-zoomquiet.dot</vh>
+<v t="zoomq.20100408222312.5719"><vh>图元</vh>
+<v t="zoomq.20100901204131.7774"><vh>Share</vh></v>
+<v t="zoomq.20100901204131.7775"><vh>doing</vh></v>
+<v t="zoomq.20100901204131.7776"><vh>learn</vh></v>
 </v>
-<v t="zoomq.20100411141119.6917"><vh>时间关系</vh></v>
-<v t="zoomq.20100411141119.6918"><vh>次序隐调</vh></v>
+<v t="zoomq.20100408222312.5725"><vh>关系网</vh></v>
+</v>
+<v t="zoomq.20100901204131.7771" a="E"><vh>@nosent idx-zoomquiet-legend.dot</vh>
+<v t="zoomq.20100901204131.7772"><vh>图元</vh></v>
+<v t="zoomq.20100901204131.7773"><vh>关系网</vh></v>
+</v>
+<v t="zoomq.20100901091630.9262" a="E"><vh>@nosent zqbook-map-think.dot</vh>
+<v t="zoomq.20100901091630.9263"><vh>时间轴</vh></v>
+<v t="zoomq.20100901091630.9264"><vh>图元</vh></v>
+<v t="zoomq.20100901091630.9265"><vh>关系网</vh>
+<v t="zoomq.20100901091630.9266"><vh>关系liv</vh></v>
+<v t="zoomq.20100901091630.9267"><vh>关系tech</vh></v>
+<v t="zoomq.20100901091630.9268"><vh>关系pkm</vh></v>
+</v>
+<v t="zoomq.20100901091630.9269"><vh>时间关系</vh></v>
+<v t="zoomq.20100901091630.9270"><vh>次序隐调</vh></v>
 </v>
 <v t="zoomq.20100428114251.7240"><vh>@nosent zqtools-mapping.dot</vh>
 <v t="zoomq.20100428114251.7241"><vh>时间轴</vh></v>
@@ -42,7 +54,7 @@
 <v t="zoomq.20100608162108.5860"><vh>@shadow takahashi.xul</vh></v>
 </v>
 </v>
-<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
+<v t="zoomq.20080523161605"><vh>s5:public</vh>
 <v t="zoomq.20100726095759.6175"><vh>_stuff</vh>
 <v t="zoomq.20100726095759.6174"><vh>brief0</vh></v>
 <v t="zoomq.20100726130819.5995"><vh>PKM</vh>
@@ -77,9 +89,8 @@
 </v>
 <v t="zoomq.20100818100255.10587"><vh>@shadow index.html</vh></v>
 </v>
-<v t="zoomq.20100819090507.7893" a="E"><vh>100820-introPy</vh>
-<v t="zoomq.20100819090507.7894" a="E"
-expanded="zoomq.20100818100255.10801,zoomq.20100818100255.10879,zoomq.20100818100255.10962,zoomq.20100818100255.10969,"><vh>@shadow index.html</vh></v>
+<v t="zoomq.20100819090507.7893"><vh>100820-introPy</vh>
+<v t="zoomq.20100819090507.7894"><vh>@shadow index.html</vh></v>
 </v>
 <v t="zoomq.20100819090507.6357"><vh>100819-pythonicamp-intro</vh>
 <v t="zoomq.20100819090507.6359"><vh>@shadow index.html</vh></v>
@@ -36512,228 +36523,94 @@ http://www.xmind.net/share/zoomquiet/33-session/
 <t tx="zoomq.20100408222312.5717">@path dot</t>
 <t tx="zoomq.20100408222312.5718">@language javascript
 @tabwidth -4
-digraph ZqBookG {
+digraph GzoomquietIdx {
     /*生成命令:
-$ dot -Tpng zqbook-map-think.dot -o zqbook-map-think.png -Tcmapx -o zqbook-map-think.map
+$ dot -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.map
+$ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.map
     全局设定
     */
-    graph [label="&lt;大妈书&gt;选题分析图谱\n {by Zoom.Quiet}",
-        fontsize=12.0,
-        labeljust="r",labelloc="b",center=1,
-        ranksep=0.2,center=1,ratio=compress,
-        rankdir=TB,
+    graph [label=""
+        ,fontsize=12.0,fontcolor=snow
+        ,labeljust="l",labelloc="b",center=1
+        ,ranksep=0.2,center=1,ratio=compress
+        ,rankdir=LR
+        ,truecolor bgcolor="#333333"
         ];
 
-    node[fontsize=10.0,height=0.1,
-        style=filled,fillcolor=snow,
-        color=darkolivegreen,fontcolor=darkolivegreen,
-        shape=tab,
+    node[fontsize=10.0,height=0.3
+        ,style=filled,fillcolor="#333333"
+        ,color=gray,fontcolor=snow
+        ,shape=plaintext
         ];
 
-    edge [fontsize=9.0,fontcolor=yellowgreen,
-        fontcolor=gray25,
-        color=gray30,
-		arrowsize=0.5,arrowhead=vee,arrowtail=none,
+    edge [fontsize=9.0,fontcolor=snow
+        ,color=azure
+        ,arrowsize=0.7,arrowhead=vee,arrowtail=none
+        ,style="setlinewidth(0.5)"
         ];
     /*图元声明
-        start       [label="流程开始/结束",shape=point];
+    start       [label="流程开始/结束",shape=point];
     end         [label="",shape=doublecircle,fillcolor=red];
+box         [label="处置",shape=box,style="rounded,"];
+ellipse     [label="行动",shape=ellipse];
+egg         [label="角色",shape=egg];
 
-    box         [label="实体/对象",shape=box];
-    ellipse     [label="行动/节点",shape=ellipse];
-    egg         [label="用户/人物",shape=egg];
-    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
-    diamond     [label="判别",shape=diamond];
-    note        [label="注释",shape=note];
-    tab         [label="目录/模块",shape=tab];
-    db          [label="数据库",shape=box3d];
-    component   [label="主机/组件",shape=component];
+diamond     [label="判别",shape=diamond,style="rounded,"];
+note        [label="注释",shape=note,style="rounded,dashed"];
+
+db          [label="数据",shape=box3d,style="rounded,"];
+component   [label="组件",shape=component];
+class       [label="分类",shape=folder];
+
+title       [label="图例::"];
+nodeA       [label="节点"];
+nodeB       [label="节点",shape=ellipse,style="rounded,dotted"];
     */
     @others
 }
 </t>
-<t tx="zoomq.20100408222312.5719">core [label="核心主题\n依从追求的决择",shape=egg,fontcolor=navy,fillcolor=skyblue,color=skyblue];
-life [label="个人生存住事"];
-    step0 [label="幼年环境"];
-    step1 [label="少年心智"];
-    step2 [label="沉默大学"];
-    step3 [label="职场初哥"];
-    step4 [label="社会态度"];
-
-    sf [label="SiFi"];
-        sfw [label="科幻世界"];
-    maga [label="maga"];
-    lomo [label="lomo"];
-    job [label="工作机会"];
-        lz [label="兰州"];
-        cz [label="常州"];
-        sh [label="上海"];
-        bj [label="北京"];
-        zh [label="珠海"];
-tech [label="技术信仰发展"];
-    asp [label="asp"];
-    floss [label="FLOSS"];
-        php [label="php",fontcolor=snow,fillcolor=darkgreen];
-            mysql [label="mysql"];
-            cms [label="CMS"];
-                nu [label="Nucleus"];
-                xo [label="Xoops"];
-                dr [label="Drupal"];
-                pyb[label="PyBlosxom"];
-        py [label="python"];
-            zope [label="zope"];
-            plone [label="plone"];
-            cherry [label="CherryPy"];
-            karrigell [label="karrigell"];
-            web2py [label="web2py"];
-        erl [label="Erlang"];
-    os [label="OS"];
-    ms [label="M$"];
-        ms95 [label="M$95"];
-        ms98 [label="M$98"];
-        msnt [label="M$NT"];
-        ms2000 [label="M$2000"];
-        ms2003 [label="M$2003"];
-    unix [label="unix"];
-        rh [label="RedHat"];
-        bsd [label="FreeBSD"];
-        ub [label="Ubuntu"];
-            ubdd [label="6.06 LTS Dapper Drake"];
-            ubhh [label="8.04 LTS Hardy Heron"];
-            ubkk [label="9.10 Karmic Koala"];
-pkm [label="知识管理"];
-    paper [label="纸"];
-    page [label="HTML/PDF"];
-    scrap [label="ScrapBook"];
-    leo [label="Leo"];
-    wiki [label="维基"];
-        tw [label="TiddlyWiki"];
-        zim [label="zim"];
-        mm [label="MoinMoin"];
-    spe [label="过程改进",fontcolor=snow,fillcolor=darkgreen];
-    sns [label="SNS"];
-        wp [label="啄木鸟",fontcolor=snow,fillcolor=darkgreen];
-            obp [label="OpenBookProject"];
-        czug [label="CZUG"];
-        cpug [label="CPyUG"];
-        ecug [label="ECUG"];
-            erlo [label="Erloung"];
-        cbc [label="网志年会"];
-        sll [label="SLL.org"];
-        zeuux [label="哲思"];
-        pts [label="珠三角技术沙龙"];
-    gtd [label="GTD"];
-
-
-</t>
-<t tx="zoomq.20100408222312.5720">/*图例关系    
-ksso2-&gt;ksso [arrowtail=none,arrowhead=none,style=dashed]    
-proxy-&gt;staff-&gt;pg    [arrowtail=normal];
-s904-&gt;staff        [arrowhead=dot];
-*/
-life-&gt;lz-&gt;cz;
-life-&gt;step0-&gt;step1-&gt;step2-&gt;step3-&gt;step4 [color=green,style="setlinewidth(3)"];
-    step0-&gt;lz;
-    step1-&gt;sf-&gt;sfw;
-        step1-&gt;maga;
-        step1-&gt;lomo;
-    step2-&gt;cz;
-    lz-&gt;cz-&gt;job-&gt;sh-&gt;bj-&gt;zh [color=blue,style="setlinewidth(3)"];
-        bj-&gt;spe-&gt;zh;
-    lomo-&gt;sh;
-</t>
-<t tx="zoomq.20100408222312.5722">pkm-&gt;paper-&gt;page-&gt;scrap-&gt;leo-&gt;wiki;
-    wiki-&gt;mm-&gt;tw-&gt;zim;
-wiki-&gt;sns;
-    sns-&gt;czug-&gt;wp-&gt;cpug-&gt;sll-&gt;zeuux-&gt;ecug-&gt;pts;
-        wp-&gt;obp;
-        erl-&gt;erlo-&gt;ecug;
-pkm-&gt;gtd-&gt;paper;
-
-
-</t>
-<t tx="zoomq.20100408222312.5724">tech-&gt;asp-&gt;php-&gt;floss;
-floss-&gt;py-&gt;zope-&gt;plone;
-    py-&gt;cherry-&gt;karrigell-&gt;pyb-&gt;web2py;
-
-    php-&gt;mysql-&gt;cms-&gt;nu-&gt;xo-&gt;dr;
-        cms-&gt;plone;
-        nu-&gt;pyb;
-tech-&gt;os-&gt;ms-&gt;ms95-&gt;ms98-&gt;msnt-&gt;ms2000-&gt;ms2003;
-    os-&gt;unix-&gt;rh-&gt;bsd-&gt;ub;
-        ub-&gt;ubdd-&gt;ubhh-&gt;ubkk;
-</t>
-<t tx="zoomq.20100408222312.5725">@others
-core-&gt;tech;
-core-&gt;life;
-/*时间/地域关联关系*/
-cz-&gt;rh;
-bj-&gt;bsd;
-zh-&gt;erl;
-/*FLOSS引发关系*/
-step4-&gt;floss;
-czug-&gt;plone;
-/*PKM引发关系*/
-step4-&gt;pkm;
-    nu-&gt;cbc;
-spe-&gt;sll;
-</t>
-<t tx="zoomq.20100411141119.6916">ttag [label="时间轴",shape=box,];
-ctag [label="",shape=plaintext,];
-1974 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1978 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1981 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1986 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1987 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1990 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1993 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1994 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1996 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1998 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-1999 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2000 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2001 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2003 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2004 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2005 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2006 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2007 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2008 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-2009 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
-
-1974-&gt;1978-&gt;1981-&gt;1986-&gt;1987-&gt;1990-&gt;1993-&gt;1994-&gt;1996-&gt;1998-&gt;1999-&gt;2000-&gt;2001-&gt;2003-&gt;2004-&gt;2005-&gt;2006-&gt;2007-&gt;2008-&gt;2009 [color=gray,style="setlinewidth(4)"];
+<t tx="zoomq.20100408222312.5719">ZQ [label=&lt;&lt;TABLE BORDER="0" CELLBORDER="0" CELLSPACING="4"&gt;  
+        &lt;TR&gt;&lt;TD&gt;&lt;IMG src="zoomquiet-dot-10901_h85.png"/&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;&gt;
+        ,URL="http://zoomquiet.org"
+        ];
+title [label="zoomquiet.org\n资源图谱 {gen. by Graphviz}\nTime is unimprtant,only life important!"
+    URL="#"];
+mailme [label="电俺",shape=ellipse
+    ,URL="mailto:zoomquiet+sns@gmail.com?subject=zoomquiet.org feedback"];
 
 @others
 
 </t>
-<t tx="zoomq.20100411141119.6917">{ rank=same; ttag   core; }
-{ rank=same; ctag       life tech; }
-{ rank=same; 1974   lz; }
-{ rank=same; 1978       ; }
-{ rank=same; 1981   step0 ; }
-{ rank=same; 1986       sf; }
-{ rank=same; 1987       sfw; }
-{ rank=same; 1990       ; }
-{ rank=same; 1993   step1 ; }
-{ rank=same; 1994   step2 cz; }
-{ rank=same; 1996       ms95 unix; }
-{ rank=same; 1998   step3 job msnt asp; }
-{ rank=same; 1999       rh floss php; }
-{ rank=same; 2000       sh; }
-{ rank=same; 2001       ms2000 py wiki; }
-{ rank=same; 2003   step4 ; }
-{ rank=same; 2004       bj ms2003 wp cpug; }
-{ rank=same; 2005       cbc; }
-{ rank=same; 2006       ubdd pyb ; }
-{ rank=same; 2007       zh erl erlo; }
-{ rank=same; 2008       ecug pts; }
-{ rank=same; 2009       ubkk; }
+<t tx="zoomq.20100408222312.5725">/*
+nodeA-&gt;nodeB [label="日常",color=azure,style="setlinewidth(1)"];
+nodeA-&gt;nodeB [label="活跃",color=azure,style="setlinewidth(2)"];
+nodeA-&gt;nodeB [label="兴奋",color=azure,style="setlinewidth(3)"];
+*/
+@others
+ZQ-&gt;{share learn doing };
+share-&gt;{sb douban haokanbu};
+share-&gt;wiki [style="setlinewidth(2)"];
 
-</t>
-<t tx="zoomq.20100411141119.6918">edge [style=invis];
-    ttag-&gt;ctag-&gt;1974;
-    ctag-&gt;life-&gt;tech;
-    1998-&gt;step3-&gt;job-&gt;ms98-&gt;msnt-&gt;asp;
+share-&gt;bloging [style="setlinewidth(1)"];
+    bloging-&gt;{gb lj} [style="dotted"];
+    bloging-&gt;pyb [style="setlinewidth(3)"];
+
+    sb-&gt;{oss skm} [style="setlinewidth(1)"];
+
+doing-&gt;{trac WK};
+    doing-&gt;{PiC OBP}[style="setlinewidth(3)"];
+
+learn-&gt;{ecug zeuux};
+    learn-&gt;cpug [style="setlinewidth(2)"];
+        cpug-&gt;zpug [style="setlinewidth(1)"];
+    learn-&gt;tparty [style="setlinewidth(1)"];
+    learn-&gt;sll [style="setlinewidth(1)"];
+    ecug-&gt;erlb;
+
+
+edge [style=invis];
+title-&gt;share;
+mailme-&gt;learn;
 
 
 </t>
@@ -37898,6 +37775,352 @@ Takahashi-method 幻灯风格，发源自 Ruby 创始人高橋征義(Masayoshi T
 
 
 
+</t>
+<t tx="zoomq.20100901091630.9262">@language javascript
+@tabwidth -4
+digraph ZqBookG {
+    /*生成命令:
+$ dot -Tpng zqbook-map-think.dot -o zqbook-map-think.png -Tcmapx -o zqbook-map-think.map
+    全局设定
+    */
+    graph [label="&lt;大妈书&gt;选题分析图谱\n {by Zoom.Quiet}",
+        fontsize=12.0,
+        labeljust="r",labelloc="b",center=1,
+        ranksep=0.2,center=1,ratio=compress,
+        rankdir=TB,
+        ];
+
+    node[fontsize=10.0,height=0.1,
+        style=filled,fillcolor=snow,
+        color=darkolivegreen,fontcolor=darkolivegreen,
+        shape=tab,
+        ];
+
+    edge [fontsize=9.0,fontcolor=yellowgreen,
+        fontcolor=gray25,
+        color=gray30,
+		arrowsize=0.5,arrowhead=vee,arrowtail=none,
+        ];
+    /*图元声明
+        start       [label="流程开始/结束",shape=point];
+    end         [label="",shape=doublecircle,fillcolor=red];
+
+    box         [label="实体/对象",shape=box];
+    ellipse     [label="行动/节点",shape=ellipse];
+    egg         [label="用户/人物",shape=egg];
+    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
+    diamond     [label="判别",shape=diamond];
+    note        [label="注释",shape=note];
+    tab         [label="目录/模块",shape=tab];
+    db          [label="数据库",shape=box3d];
+    component   [label="主机/组件",shape=component];
+    */
+    @others
+}
+</t>
+<t tx="zoomq.20100901091630.9263">ttag [label="时间轴",shape=box,];
+ctag [label="",shape=plaintext,];
+1974 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1978 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1981 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1986 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1987 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1990 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1993 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1994 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1996 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1998 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+1999 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2000 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2001 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2003 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2004 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2005 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2006 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2007 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2008 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+2009 [fillcolor=none,shape=box,fontcolor=snow,fillcolor=dimgray];
+
+1974-&gt;1978-&gt;1981-&gt;1986-&gt;1987-&gt;1990-&gt;1993-&gt;1994-&gt;1996-&gt;1998-&gt;1999-&gt;2000-&gt;2001-&gt;2003-&gt;2004-&gt;2005-&gt;2006-&gt;2007-&gt;2008-&gt;2009 [color=gray,style="setlinewidth(4)"];
+
+@others
+
+</t>
+<t tx="zoomq.20100901091630.9264">core [label="核心主题\n依从追求的决择",shape=egg,fontcolor=navy,fillcolor=skyblue,color=skyblue];
+life [label="个人生存住事"];
+    step0 [label="幼年环境"];
+    step1 [label="少年心智"];
+    step2 [label="沉默大学"];
+    step3 [label="职场初哥"];
+    step4 [label="社会态度"];
+
+    sf [label="SiFi"];
+        sfw [label="科幻世界"];
+    maga [label="maga"];
+    lomo [label="lomo"];
+    job [label="工作机会"];
+        lz [label="兰州"];
+        cz [label="常州"];
+        sh [label="上海"];
+        bj [label="北京"];
+        zh [label="珠海"];
+tech [label="技术信仰发展"];
+    asp [label="asp"];
+    floss [label="FLOSS"];
+        php [label="php",fontcolor=snow,fillcolor=darkgreen];
+            mysql [label="mysql"];
+            cms [label="CMS"];
+                nu [label="Nucleus"];
+                xo [label="Xoops"];
+                dr [label="Drupal"];
+                pyb[label="PyBlosxom"];
+        py [label="python"];
+            zope [label="zope"];
+            plone [label="plone"];
+            cherry [label="CherryPy"];
+            karrigell [label="karrigell"];
+            web2py [label="web2py"];
+        erl [label="Erlang"];
+    os [label="OS"];
+    ms [label="M$"];
+        ms95 [label="M$95"];
+        ms98 [label="M$98"];
+        msnt [label="M$NT"];
+        ms2000 [label="M$2000"];
+        ms2003 [label="M$2003"];
+    unix [label="unix"];
+        rh [label="RedHat"];
+        bsd [label="FreeBSD"];
+        ub [label="Ubuntu"];
+            ubdd [label="6.06 LTS Dapper Drake"];
+            ubhh [label="8.04 LTS Hardy Heron"];
+            ubkk [label="9.10 Karmic Koala"];
+pkm [label="知识管理"];
+    paper [label="纸"];
+    page [label="HTML/PDF"];
+    scrap [label="ScrapBook"];
+    leo [label="Leo"];
+    wiki [label="维基"];
+        tw [label="TiddlyWiki"];
+        zim [label="zim"];
+        mm [label="MoinMoin"];
+    spe [label="过程改进",fontcolor=snow,fillcolor=darkgreen];
+    sns [label="SNS"];
+        wp [label="啄木鸟",fontcolor=snow,fillcolor=darkgreen];
+            obp [label="OpenBookProject"];
+        czug [label="CZUG"];
+        cpug [label="CPyUG"];
+        ecug [label="ECUG"];
+            erlo [label="Erloung"];
+        cbc [label="网志年会"];
+        sll [label="SLL.org"];
+        zeuux [label="哲思"];
+        pts [label="珠三角技术沙龙"];
+    gtd [label="GTD"];
+
+
+</t>
+<t tx="zoomq.20100901091630.9265">@others
+core-&gt;tech;
+core-&gt;life;
+/*时间/地域关联关系*/
+cz-&gt;rh;
+bj-&gt;bsd;
+zh-&gt;erl;
+/*FLOSS引发关系*/
+step4-&gt;floss;
+czug-&gt;plone;
+/*PKM引发关系*/
+step4-&gt;pkm;
+    nu-&gt;cbc;
+spe-&gt;sll;
+</t>
+<t tx="zoomq.20100901091630.9266">/*图例关系    
+ksso2-&gt;ksso [arrowtail=none,arrowhead=none,style=dashed]    
+proxy-&gt;staff-&gt;pg    [arrowtail=normal];
+s904-&gt;staff        [arrowhead=dot];
+*/
+life-&gt;lz-&gt;cz;
+life-&gt;step0-&gt;step1-&gt;step2-&gt;step3-&gt;step4 [color=green,style="setlinewidth(3)"];
+    step0-&gt;lz;
+    step1-&gt;sf-&gt;sfw;
+        step1-&gt;maga;
+        step1-&gt;lomo;
+    step2-&gt;cz;
+    lz-&gt;cz-&gt;job-&gt;sh-&gt;bj-&gt;zh [color=blue,style="setlinewidth(3)"];
+        bj-&gt;spe-&gt;zh;
+    lomo-&gt;sh;
+</t>
+<t tx="zoomq.20100901091630.9267">tech-&gt;asp-&gt;php-&gt;floss;
+floss-&gt;py-&gt;zope-&gt;plone;
+    py-&gt;cherry-&gt;karrigell-&gt;pyb-&gt;web2py;
+
+    php-&gt;mysql-&gt;cms-&gt;nu-&gt;xo-&gt;dr;
+        cms-&gt;plone;
+        nu-&gt;pyb;
+tech-&gt;os-&gt;ms-&gt;ms95-&gt;ms98-&gt;msnt-&gt;ms2000-&gt;ms2003;
+    os-&gt;unix-&gt;rh-&gt;bsd-&gt;ub;
+        ub-&gt;ubdd-&gt;ubhh-&gt;ubkk;
+</t>
+<t tx="zoomq.20100901091630.9268">pkm-&gt;paper-&gt;page-&gt;scrap-&gt;leo-&gt;wiki;
+    wiki-&gt;mm-&gt;tw-&gt;zim;
+wiki-&gt;sns;
+    sns-&gt;czug-&gt;wp-&gt;cpug-&gt;sll-&gt;zeuux-&gt;ecug-&gt;pts;
+        wp-&gt;obp;
+        erl-&gt;erlo-&gt;ecug;
+pkm-&gt;gtd-&gt;paper;
+
+
+</t>
+<t tx="zoomq.20100901091630.9269">{ rank=same; ttag   core; }
+{ rank=same; ctag       life tech; }
+{ rank=same; 1974   lz; }
+{ rank=same; 1978       ; }
+{ rank=same; 1981   step0 ; }
+{ rank=same; 1986       sf; }
+{ rank=same; 1987       sfw; }
+{ rank=same; 1990       ; }
+{ rank=same; 1993   step1 ; }
+{ rank=same; 1994   step2 cz; }
+{ rank=same; 1996       ms95 unix; }
+{ rank=same; 1998   step3 job msnt asp; }
+{ rank=same; 1999       rh floss php; }
+{ rank=same; 2000       sh; }
+{ rank=same; 2001       ms2000 py wiki; }
+{ rank=same; 2003   step4 ; }
+{ rank=same; 2004       bj ms2003 wp cpug; }
+{ rank=same; 2005       cbc; }
+{ rank=same; 2006       ubdd pyb ; }
+{ rank=same; 2007       zh erl erlo; }
+{ rank=same; 2008       ecug pts; }
+{ rank=same; 2009       ubkk; }
+
+</t>
+<t tx="zoomq.20100901091630.9270">edge [style=invis];
+    ttag-&gt;ctag-&gt;1974;
+    ctag-&gt;life-&gt;tech;
+    1998-&gt;step3-&gt;job-&gt;ms98-&gt;msnt-&gt;asp;
+
+
+</t>
+<t tx="zoomq.20100901204131.7771">@language javascript
+@tabwidth -4
+digraph GzoomquietLegend {
+    /*生成命令:
+$ dot -Tpng idx-zoomquiet-legend.dot -o idx-zoomquiet-legend.png
+    全局设定
+    */
+    graph [label=""
+        ,fontsize=10.0,fontcolor=snow
+        ,labeljust="l",labelloc="t",center=1
+        ,ranksep=0.3,center=1,ratio=compress
+        ,rankdir=LR
+        ,truecolor bgcolor="#333333"
+        ];
+
+    node[fontsize=11.0,height=0.4
+        ,style=filled,fillcolor="#333333"
+        ,color=gray,fontcolor=snow
+        ,shape=plaintext
+        ];
+
+    edge [color=snow,fontsize=9.0,fontcolor=snow
+        ,arrowsize=0.5,arrowhead=vee,arrowtail=none
+        ,style="setlinewidth(0.5)"
+        ];
+
+    /*图元声明
+    start       [label="流程开始/结束",shape=point];
+    end         [label="",shape=doublecircle,fillcolor=red];
+
+    box         [label="实体/对象",shape=box];
+    ellipse     [label="行动/节点",shape=ellipse];
+    egg         [label="用户/人物",shape=egg];
+    plaintext   [label="状态/属性",shape=plaintext,fillcolor=whitesmoke];
+    diamond     [label="判别",shape=diamond];
+    note        [label="注释",shape=note];
+    tab         [label="目录/模块",shape=tab];
+    db          [label="数据库",shape=box3d];
+    component   [label="主机/组件",shape=component];
+  ,style="rounded,dotted"];
+    */
+    @others
+}
+</t>
+<t tx="zoomq.20100901204131.7772">box         [label="处置",shape=box,style="rounded,"];
+ellipse     [label="行动",shape=ellipse];
+egg         [label="角色",shape=egg];
+diamond     [label="判别",shape=diamond,style="rounded,"];
+note        [label="注释",shape=note,style="rounded,dashed"];
+db          [label="工程",shape=box3d,style="rounded,"];
+component   [label="组件",shape=component];
+tab         [label="组别",shape=tab];
+class       [label="分类",shape=folder];
+
+title       [label="图例::"];
+nodeA       [label="节点"];
+nodeB       [label="节点",shape=ellipse,style="rounded,dotted"];
+</t>
+<t tx="zoomq.20100901204131.7773">@others
+nodeA-&gt;nodeB [label="日常",color=azure,style="setlinewidth(1)"];
+nodeA-&gt;nodeB [label="活跃",color=azure,style="setlinewidth(2)"];
+nodeA-&gt;nodeB [label="兴奋",color=azure,style="setlinewidth(3)"];
+nodeA-&gt;nodeA [label="默认",color=azure];
+
+edge [style=invis];
+title-&gt;db;
+nodeB-&gt;db-&gt;component-&gt;class-&gt;note-&gt;box-&gt;ellipse-&gt;diamond-&gt;egg;
+</t>
+<t tx="zoomq.20100901204131.7774">share [label="扯ing",shape=folder];
+    wiki [label="维基"
+        ,URL="#"];
+    douban [label="豆瓣"
+        ,URL="#"];
+    haokanbu [label="好看"
+        ,URL="#"];
+
+    bloging [label="bloging",shape=tab
+        ,URL="#"];
+        gb [label="@blogger"
+            ,URL="#"];
+        lj [label="@livejournal"
+            ,URL="http://zoomq.livejournal.com/"];
+        pyb [label="PyBlosxom"
+            ,URL="#"];
+
+    sb [label="ScrapBook",shape=tab
+        ,URL="#"];
+        oss [label="FLOSS"
+            ,URL="#"];
+        skm [label="SKM"
+            ,URL="#"];
+</t>
+<t tx="zoomq.20100901204131.7775">doing [label="整ing",shape=folder];
+    OBP [label="OBP",shape=box3d
+        ,URL="#"];
+    PiC [label="蟒营",shape=box3d
+        ,URL="#"];
+    trac [label="KTRAC",shape=box3d
+        ,URL="#"];
+    WK [label="WeKnow",shape=box3d,style="rounded,dotted"
+        ,URL="#"];
+</t>
+<t tx="zoomq.20100901204131.7776">learn [label="掺ing",shape=folder];
+    cpug [label="CPyUG"
+        ,URL="#"];
+        zpug [label="ZPyUG"
+            ,URL="#"];
+    tparty [label="TechParty"
+        ,URL="#"];
+
+    zeuux [label="哲思"
+        ,URL="#"];
+    ecug [label="ECUG"
+        ,URL="#"];
+        erlb [label="恶狼战役"
+            ,URL="#"];
+    sll [label="教育大发现"
+        ,URL="#"];
 </t>
 </tnodes>
 </leo_file>
