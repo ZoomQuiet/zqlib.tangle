@@ -12,12 +12,12 @@
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
 <v t="zoomq.20100831135717.3642" a="E"><vh>WeKnow</vh>
 <v t="zoomq.20100831135717.3643" a="E"><vh>可视化</vh>
-<v t="zoomq.20100831135717.4174" a="E"><vh>webSequenceDiagram</vh>
-<v t="zoomq.20100831135717.4171" a="E"><vh>@nosent getSequenceDiagram.py</vh>
+<v t="zoomq.20100831135717.4174"><vh>webSequenceDiagram</vh>
+<v t="zoomq.20100831135717.4171"><vh>@nosent getSequenceDiagram.py</vh>
 <v t="zoomq.20100831135717.4172"><vh>declarations</vh></v>
 <v t="zoomq.20100831135717.4173"><vh>getSequenceDiagram()</vh></v>
 </v>
-<v t="zoomq.20100831135717.4195" a="E"><vh>demo</vh>
+<v t="zoomq.20100831135717.4195"><vh>demo</vh>
 <v t="zoomq.20100831135717.4178"><vh>@nosent demo0.txt</vh></v>
 <v t="zoomq.20100831135717.4184"><vh>@nosent demo1-activate.txt</vh></v>
 <v t="zoomq.20100831135717.4188"><vh>@nosent demo2-alt.txt</vh></v>
@@ -31,10 +31,16 @@
 </v>
 </v>
 <v t="zoomq.20100412163057.2814" a="E"><vh>Misc任务</vh>
-<v t="zoomq.20100412163057.2815"><vh>病毒样本对比</vh>
-<v t="zoomq.20100412163057.2827"><vh>@shadow virusampls-ratio.py</vh></v>
+<v t="zoomq.20100412163057.2815" a="E"><vh>病毒样本对比</vh>
+<v t="zoomq.20100902112115.7756"><vh>@nosent virusampls-ratio.py</vh>
+<v t="zoomq.20100902112115.7757"><vh>declarations</vh></v>
+<v t="zoomq.20100902112115.7758"><vh>processLogKV</vh></v>
+<v t="zoomq.20100902112115.7759"><vh>processLogRX</vh></v>
+<v t="zoomq.20100902112115.7760"><vh>ratioYQ</vh></v>
+<v t="zoomq.20100902112115.7761"><vh>finalExport</vh></v>
 </v>
-<v t="zoomq.20100122092723.2783" a="E"><vh>GrasPic</vh>
+</v>
+<v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
 <v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
 <v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
 </v>
@@ -48,7 +54,7 @@
 <v t="zoomq.20100827095209.8306"><vh>genUrlist</vh></v>
 </v>
 </v>
-<v t="zoomq.20100827095209.8299"><vh>清除字幕字体聲明</vh>
+<v t="zoomq.20100827095209.8299" a="E"><vh>清除字幕字体聲明</vh>
 <v t="zoomq.20100827095209.8310"><vh>@nosent clfontd4.py</vh>
 <v t="zoomq.20100827095209.8311"><vh>declarations</vh></v>
 <v t="zoomq.20100827095209.8312"><vh>cleaner()</vh></v>
@@ -62,7 +68,9 @@
 <t tx="zoomq.20100122092723.2784">@path 2graspic/ellytran.com/wp-content/gallery
 #/home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
 <t tx="zoomq.20100412163057.2814"></t>
-<t tx="zoomq.20100412163057.2815">@path /home/zoomq/vbox2win/0day/zoom.quiet/100412-virus-sample-selector
+<t tx="zoomq.20100412163057.2815">@path /home/zoomq/ssp-zoom.quiet/virusampls-ratio
+#/home/zoomq/Desktop/KiS/zoom.quiet/100412-virus-sample-selector
+#/home/zoomq/vbox2win/0day/zoom.quiet/100412-virus-sample-selector
 #/home/zoomq/data/0day-vbox/zoom.quiet/100412-virus-sample-selector
 </t>
 <t tx="zoomq.20100827095209.8299">@path /home/zoomq/_stuff/_mov
@@ -345,6 +353,163 @@ destroy C
 B--&gt;A: RequestCreated
 deactivate B
 A-&gt;User: Done
+</t>
+<t tx="zoomq.20100902112115.7756">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION="virusampls-ratio v10.4.12"
+
+@others
+
+if __name__ == '__main__':      # this way the module can be
+    begin = time.time()
+    usage = "usage: %prog [option0] arg0 [arg1]"
+    parser = OptionParser(usage,version=VERSION)
+    parser.add_option("-r","--ratio",dest="ratio",nargs=2,
+                      type="string",metavar="*.dump some-hot-virus-list.txt",
+                      help="YiQing comparison,uasge --lrx|lkv processed .dump file "
+                        "e.g KV-RESULT.dump some-hot-virus-list.txt")
+    parser.add_option("--lrx",dest="lrx",
+                      type="string",
+                      help="process RX checking log")
+    parser.add_option("--lkv",dest="lkv",
+                      type="string",
+                      help="process KV checking log")
+    parser.add_option("-e","--export",dest="export",nargs=2,
+                      type="string",metavar="*.txt path/2/export ",
+                      help="export total hotest virus list into dir             " 
+                        "e.g -e virus-hotest-in-my-pc.tx tmp")
+    (options, args) = parser.parse_args()
+    if 1 == len(sys.argv):
+        parser.print_help()
+    if options.ratio :
+        print "comparison checked list and YiQing list\n\n"
+        ratioYQ(options.ratio)
+    else:
+        if options.lrx:
+            print "\n\nreFormat RX checking list\n\n"
+            processLogRX(options.lrx)
+        if options.lkv:
+            print "\n\nreFormat KV checking list\n\n"
+            processLogKV(options.lkv)
+        if options.export:
+            print "\n\nexport total hotest virus list in to\n\n"
+            finalExport(options.export)
+    if (options.lrx and options.ratio) or (options.lkv and options.ratio):
+        print "\n\nATTENTION!\n\t -r and --lrx|lkx can not usage in same time!\n\n"
+        parser.error("incorrect number of arguments! \nATTENTION!\n"
+            "\ne.g.\n \tpython %s -lrx something.txt "
+            "\nor\n\tpython %s -r sonething.dump top500-from-RX.TXT"%(parser.get_prog_name()
+                ,parser.get_prog_name())
+                )
+        parser.print_help()
+
+</t>
+<t tx="zoomq.20100902112115.7757">import os,sys,time,pickle,shutil
+from optparse import OptionParser
+from operator import itemgetter
+
+</t>
+<t tx="zoomq.20100902112115.7758">def processLogKV(fname):
+    "简单处理KV查杀日志为list对象[计数,病毒名,隔离区目录]"
+    print fname
+    dumpf = "%s.dump"%fname
+    dumpd = {}
+    for line in open(fname).readlines():
+        if " 中发现 " in line:
+            tags = line.split()
+            print tags[3],tags[1]
+            viru = tags[3]
+            path = tags[1]
+            if viru in dumpd.keys():
+                pass
+            else:
+                dumpd[viru]=[0,path]
+    pickle.dump(dumpd, open(dumpf, 'wb'))
+    print "\n\n%s\n\tdumped %d lines checked log as Python List obj."%(VERSION,len(dumpd.keys()))
+</t>
+<t tx="zoomq.20100902112115.7759">def processLogRX(fname):
+    "简单处理RX查杀日志为list对象[计数,病毒名,隔离区目录]"
+    print fname
+    dumpf = "%s.dump"%fname
+    dumpd = {}
+    for line in open(fname).readlines():
+        if "手动查杀" in line:
+            tags = line.split(";")
+            print tags[2][1:-1],tags[6][1:-1]
+            viru = tags[2][1:-1]
+            path = tags[6][1:-1]
+            if viru in dumpd.keys():
+                pass
+            else:
+                dumpd[viru]=[0,path]
+    pickle.dump(dumpd, open(dumpf, 'wb'))
+    print "\n\n%s\n\tdumped %d lines checked log as Python List obj."%(VERSION,len(dumpd.keys()))
+
+</t>
+<t tx="zoomq.20100902112115.7760">def ratioYQ(args):
+    """将查杀日志和厂商疫情进行对比,按照排名积累分数,最终得到综合热度:
+        前500排名的话,第一名为500分;
+    MiscItems/2008-07-01 - Woodpecker Wiki for CPUG
+http://wiki.woodpecker.org.cn/moin/MiscItems/2008-07-01
+    Python中最快的字典排序方法 | Windstorm
+http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
+    """
+    dumpf = args[0]
+    yqfile = args[1]
+    tophotf = "%s-hot4-%s.txt"%(dumpf.split(".")[0],yqfile.split(".")[0])
+    ratio = pickle.load(open(dumpf, 'rb'))
+    flines = open(yqfile).readlines()
+    for i in range(len(flines)):
+        hvname = flines[i].upper().replace(".","").replace("/","")
+        for v in ratio.keys():
+            vname = v.upper().replace(".","").replace("/","")
+            if vname in hvname:
+                ratio[v][0]+=i
+    unitRatioDictFile = "virusampls-ratio.dict.dump"
+    try:
+        unitRD = pickle.load(open(unitRatioDictFile, 'rb'))
+    except:
+        unitRD = {}
+    td = sorted(ratio.iteritems(), key=itemgetter(1), reverse=True)     
+    hotvli=""
+    for t in td:
+        if 0!=t[1][0]:
+            print t
+            hotvli +="%s\t\t%s\n"%(t[0],t[1][1])
+            if t[0] in unitRD.keys():
+                unitRD[t[0]][0] +=t[1][0]
+            else:
+                unitRD[t[0]] =[t[1][0],t[1][1]]
+
+    open(tophotf,"w").write(hotvli)
+    print "\n\n%s\n\tfound top %d hotest Virus base %s...\n\t\t export as:%s"%(VERSION
+        ,len(hotvli)
+        ,yqfile
+        ,tophotf
+        )
+    pickle.dump(unitRD, open(unitRatioDictFile, 'wb'))
+</t>
+<t tx="zoomq.20100902112115.7761">def finalExport(args):
+    "将最终交叉对比出来的列表输出到指定目录/文件,同时(尝试将隔离区文件也复制到指定目录)"
+    expfn = "%s/%s"%(args[1],args[0])
+    expdir = args[1]
+    unitRatioDictFile = "virusampls-ratio.dict.dump"
+    unitRD = pickle.load(open(unitRatioDictFile, 'rb'))
+    td = sorted(unitRD.iteritems(), key=itemgetter(1), reverse=True)     
+    hotvli=""
+    for t in td:
+        print t
+        hotvli +="%s\t\t%s\n"%(t[0],t[1][1])
+        #shutil.copy(t[1][1],expdir)
+    open(expfn,"w").write(hotvli)
+    print "\n\n%s\n\tfound top %d hotest Virus in my pc \n\t\t export list file::%s"%(VERSION
+        ,len(td)
+        ,expfn
+        )
+
+
 </t>
 </tnodes>
 </leo_file>

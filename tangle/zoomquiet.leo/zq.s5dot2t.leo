@@ -10,8 +10,18 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
+<v t="zoomq.20100903102804.6565" a="E"><vh>zoomquiet.org发布规划</vh>
+<v t="zoomq.20100903105555.6571"><vh>目录</vh></v>
+<v t="zoomq.20100903102804.6566"><vh>域名</vh></v>
+<v t="zoomq.20100903102804.6567"><vh>scrapbook</vh></v>
+</v>
 <v t="zoomq.20100408222312.5717" a="E"><vh>.dot</vh>
-<v t="zoomq.20100408222312.5718" a="E"><vh>@nosent idx-zoomquiet.dot</vh>
+<v t="zoomq.20100903105555.6665"><vh>_stuff</vh></v>
+<v t="zoomq.20100902112115.6558" a="E"><vh>dotools</vh>
+<v t="zoomq.20100902112115.6559" a="E"
+expanded="zoomq.20100902112115.6562,zoomq.20100903105555.6662,"><vh>@shadow gen4dot2htm.py</vh></v>
+</v>
+<v t="zoomq.20100408222312.5718"><vh>@nosent idx-zoomquiet.dot</vh>
 <v t="zoomq.20100408222312.5719"><vh>图元</vh>
 <v t="zoomq.20100901204131.7774"><vh>Share</vh></v>
 <v t="zoomq.20100901204131.7775"><vh>doing</vh></v>
@@ -19,11 +29,11 @@
 </v>
 <v t="zoomq.20100408222312.5725"><vh>关系网</vh></v>
 </v>
-<v t="zoomq.20100901204131.7771" a="E"><vh>@nosent idx-zoomquiet-legend.dot</vh>
+<v t="zoomq.20100901204131.7771"><vh>@nosent idx-zoomquiet-legend.dot</vh>
 <v t="zoomq.20100901204131.7772"><vh>图元</vh></v>
 <v t="zoomq.20100901204131.7773"><vh>关系网</vh></v>
 </v>
-<v t="zoomq.20100901091630.9262" a="E"><vh>@nosent zqbook-map-think.dot</vh>
+<v t="zoomq.20100901091630.9262"><vh>@nosent zqbook-map-think.dot</vh>
 <v t="zoomq.20100901091630.9263"><vh>时间轴</vh></v>
 <v t="zoomq.20100901091630.9264"><vh>图元</vh></v>
 <v t="zoomq.20100901091630.9265"><vh>关系网</vh>
@@ -49,11 +59,7 @@
 <v t="zoomq.20100428114251.7260"><vh>次序隐调</vh></v>
 </v>
 </v>
-<v t="zoomq.20100608162108.5859"><vh>takahashi.xul</vh>
-<v t="zoomq.20100608162108.5862"><vh>100610-pycon-pythonicamp@ZqLib</vh>
-<v t="zoomq.20100608162108.5860"><vh>@shadow takahashi.xul</vh></v>
-</v>
-</v>
+<v t="zoomq.20100903105555.6572"><vh>幻灯</vh>
 <v t="zoomq.20080523161605"><vh>s5:public</vh>
 <v t="zoomq.20100726095759.6175"><vh>_stuff</vh>
 <v t="zoomq.20100726095759.6174"><vh>brief0</vh></v>
@@ -1638,6 +1644,12 @@
 <v t="zoomq.20091204150544.9668"><vh>S5</vh></v>
 <v t="zoomq.20091204150544.9669"><vh>Q&amp;A</vh></v>
 </v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100608162108.5859"><vh>takahashi.xul</vh>
+<v t="zoomq.20100608162108.5862"><vh>100610-pycon-pythonicamp@ZqLib</vh>
+<v t="zoomq.20100608162108.5860"><vh>@shadow takahashi.xul</vh></v>
 </v>
 </v>
 </v>
@@ -36537,9 +36549,8 @@ $ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.ma
         ,truecolor bgcolor="#333333"
         ];
 
-    node[fontsize=10.0,height=0.3
-        ,style=filled,fillcolor="#333333"
-        ,color=gray,fontcolor=snow
+    node[fontsize=11.0,height=0.3
+        ,style="filled,setlinewidth(0.5)",fillcolor="#333333",color=gray,fontcolor=snow
         ,shape=plaintext
         ];
 
@@ -36548,24 +36559,6 @@ $ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.ma
         ,arrowsize=0.7,arrowhead=vee,arrowtail=none
         ,style="setlinewidth(0.5)"
         ];
-    /*图元声明
-    start       [label="流程开始/结束",shape=point];
-    end         [label="",shape=doublecircle,fillcolor=red];
-box         [label="处置",shape=box,style="rounded,"];
-ellipse     [label="行动",shape=ellipse];
-egg         [label="角色",shape=egg];
-
-diamond     [label="判别",shape=diamond,style="rounded,"];
-note        [label="注释",shape=note,style="rounded,dashed"];
-
-db          [label="数据",shape=box3d,style="rounded,"];
-component   [label="组件",shape=component];
-class       [label="分类",shape=folder];
-
-title       [label="图例::"];
-nodeA       [label="节点"];
-nodeB       [label="节点",shape=ellipse,style="rounded,dotted"];
-    */
     @others
 }
 </t>
@@ -36573,9 +36566,10 @@ nodeB       [label="节点",shape=ellipse,style="rounded,dotted"];
         &lt;TR&gt;&lt;TD&gt;&lt;IMG src="zoomquiet-dot-10901_h85.png"/&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;&gt;
         ,URL="http://zoomquiet.org"
         ];
-title [label="zoomquiet.org\n资源图谱 {gen. by Graphviz}\nTime is unimprtant,only life important!"
+title [label="zoomquiet.org资源图谱\n{gen. by Graphviz}\nTime is unimprtant,only life important!"
     URL="#"];
-mailme [label="电俺",shape=ellipse
+mailme [label="电俺",shape=ellipse,style="filled,dashed,setlinewidth(5)"
+    ,color="#333333",fillcolor=dimgray
     ,URL="mailto:zoomquiet+sns@gmail.com?subject=zoomquiet.org feedback"];
 
 @others
@@ -38019,8 +38013,7 @@ $ dot -Tpng idx-zoomquiet-legend.dot -o idx-zoomquiet-legend.png
         ];
 
     node[fontsize=11.0,height=0.4
-        ,style=filled,fillcolor="#333333"
-        ,color=gray,fontcolor=snow
+        ,style="filled,setlinewidth(0.5)",fillcolor="#333333",color=gray,fontcolor=snow
         ,shape=plaintext
         ];
 
@@ -38047,29 +38040,31 @@ $ dot -Tpng idx-zoomquiet-legend.dot -o idx-zoomquiet-legend.png
     @others
 }
 </t>
-<t tx="zoomq.20100901204131.7772">box         [label="处置",shape=box,style="rounded,"];
-ellipse     [label="行动",shape=ellipse];
+<t tx="zoomq.20100901204131.7772">box         [label="处置",shape=box];
+act [label="行动",shape=ellipse,style="filled,dashed,setlinewidth(5)"
+    ,color="#333333",fillcolor=dimgray];
 egg         [label="角色",shape=egg];
-diamond     [label="判别",shape=diamond,style="rounded,"];
-note        [label="注释",shape=note,style="rounded,dashed"];
-db          [label="工程",shape=box3d,style="rounded,"];
+diamond     [label="判别",shape=diamond];
+note        [label="注释",shape=note];
+db          [label="工程",shape=box3d];
 component   [label="组件",shape=component];
 tab         [label="组别",shape=tab];
 class       [label="分类",shape=folder];
 
 title       [label="图例::"];
-nodeA       [label="节点"];
-nodeB       [label="节点",shape=ellipse,style="rounded,dotted"];
+nodeA       [label="节点",];
+nodeB       [label="节点",shape=ellipse,style="dotted"];
+
 </t>
 <t tx="zoomq.20100901204131.7773">@others
+nodeA-&gt;nodeA [label="默认",color=azure];
 nodeA-&gt;nodeB [label="日常",color=azure,style="setlinewidth(1)"];
 nodeA-&gt;nodeB [label="活跃",color=azure,style="setlinewidth(2)"];
 nodeA-&gt;nodeB [label="兴奋",color=azure,style="setlinewidth(3)"];
-nodeA-&gt;nodeA [label="默认",color=azure];
 
 edge [style=invis];
 title-&gt;db;
-nodeB-&gt;db-&gt;component-&gt;class-&gt;note-&gt;box-&gt;ellipse-&gt;diamond-&gt;egg;
+nodeB-&gt;db-&gt;component-&gt;class-&gt;tab-&gt;note-&gt;box-&gt;act-&gt;diamond-&gt;egg;
 </t>
 <t tx="zoomq.20100901204131.7774">share [label="扯ing",shape=folder];
     wiki [label="维基"
@@ -38102,7 +38097,7 @@ nodeB-&gt;db-&gt;component-&gt;class-&gt;note-&gt;box-&gt;ellipse-&gt;diamond-&g
         ,URL="#"];
     trac [label="KTRAC",shape=box3d
         ,URL="#"];
-    WK [label="WeKnow",shape=box3d,style="rounded,dotted"
+    WK [label="WeKnow",shape=box3d,style="dashed",height=0.5
         ,URL="#"];
 </t>
 <t tx="zoomq.20100901204131.7776">learn [label="掺ing",shape=folder];
@@ -38121,6 +38116,131 @@ nodeB-&gt;db-&gt;component-&gt;class-&gt;note-&gt;box-&gt;ellipse-&gt;diamond-&g
             ,URL="#"];
     sll [label="教育大发现"
         ,URL="#"];
+</t>
+<t tx="zoomq.20100902112115.6558">@path dotools/
+
+TimeLogging:
+    +1 清理桌面
+    +1 整理需求
+    +1 复习参数处理,决策调试/运行/运营模式
+
+
+</t>
+<t tx="zoomq.20100903102804.6565">@language python
+@tabwidth -4
+
+整体规划 zoomquiet.org 相关网站发布及小工具任务
+
+最终:
+    zoomquiet.org
+        http://zoomquiet.org/obp    图书工程发布    
+    blog.zoomquiet.org
+    jump&gt;&gt;&gt; http://blog.zoomquiet.org/pyblosxom
+    
+    floss.zoomquiet.org
+    jump&gt;&gt;&gt; http://zoomquiet.org/res/scrapbook/ZqFLOSS/tree/
+    skm.zoomquiet.org
+    jump&gt;&gt;&gt; http://zoomquiet.org/res/scrapbook/ZqSKM/tree/
+    </t>
+<t tx="zoomq.20100903102804.6566">#Type:	Source:	Destination:	Actions:
+# 准备好后,取消!
+A Record	www.zoomquiet.org	202.108.44.62	Edit | Delete
+A Record	obp.zoomquiet.org	119.88.56.193	Edit | Delete
+
+# 核心域名
+A Record	zoomquiet.org	119.88.56.193	Edit | Delete
+
+A Record	blog.zoomquiet.org	119.88.56.193	Edit | Delete
+A Record	skm.zoomquiet.org	119.88.56.193	Edit | Delete
+A Record	floss.zoomquiet.org	119.88.56.193	Edit | Delete
+
+# 预留,指向 gae
+A Record	weknow.zoomquiet.org	202.108.44.62	Edit | Delete
+
+CNAME Record	*.zoomquiet.org	Yahoo! Hostname	Edit | --
+CNAME Record	googlee445fdb76e058b0a.zoomquiet.org	google.com	Edit | Delete
+CNAME Record	mail.zoomquiet.org	Yahoo! Hostname	Edit | --
+CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
+<t tx="zoomq.20100903102804.6567">对根页面进行精简:
+    + 所有目录只显示前子目录和前5页面索引
+        + 2级索引同上
+        + 3级索引不限制
+    + 默认说明页面 readme.html
+    + 所有页面,增补原始URL旁注!</t>
+<t tx="zoomq.20100903105555.6571">zeus:~/zoomquiet.org&gt; tree -L 4
+.
+|-- README.txt
++-- _cfgs
++-- _cron
++-- _docs
++-- _logs
++-- _stuff
++-- blog    ~ PyBlosxom
+|   +-- _static     ~ 发布为 /pyblosxom
+|   +-- _images     ~ 发布为 /pybimage
+|   +-- entries     ~ 发布为 /pybnodes
+|   +-- flavours    ~ 发布为 /pybstyle
+|   +-- pybshare    ~ 发布为 /pybshare
+|   +-- plugins  
+|   |-- blog.ini
+|   |-- comment
+|   |-- config.py
+|   |-- config.pyc
+|   |-- index.html
+|   |-- not-doc-2006-05-31-12-00.t2t
+|   |-- pyblosxom.cgi
+|   `-- tags.index
++-- repos
+|   `-- zqlib-hg
+`-- www
+    |-- index.html -&gt; map/index.html
+    |-- leo_doc_zh -&gt; obp/leo_doc_zh/doc/html/_build/html
+    +-- logs -&gt; ../_logs
+    +-- map
+    +-- obp
+    +-- res
+    |   +-- HYRY-scipydoc
+    |   +-- d   ~ 文档
+    |   +-- f   ~ foto
+    |   +-- j   ~ Js
+    |   +-- m   ~ 多媒体
+    |   |   |-- r   ~ 录音
+    |   |   `-- v   ~ 录像
+    |   +-- s5 -&gt; ../../repos/zqlib-hg/tangle/zoomquiet.leo/s5/
+    |   `+- scrapbook 
+    |-- pyblosxom_zh -&gt; obp/pyblosxom_zh/build/html/
+    |-- pywdwpy -&gt; obp/PyWDWPy/build/html/
+    |-- tpipy_zh -&gt; obp/TPiPy/build/html/
+    `-- w2py_manual_zh -&gt; obp/web2py_manual_zh/build/html
+</t>
+<t tx="zoomq.20100903105555.6572">汇总所有幻灯撰写...
+</t>
+<t tx="zoomq.20100903105555.6665">from :
+'/home/zoomq/media/zRecord/TechConferences/PyCon/PyCon2009-USA-Chicago/MattHarrison:scripting-testable_maintainable_packagable/scriptingslides.pdf'
+
+模擬文件::
+&gt;&gt;&gt; import StringIO
+&gt;&gt;&gt; fout = StringIO.StringIO()
+&gt;&gt;&gt; file_cat(StringIO.StringIO('foo\nbar\
+n'), fout)
+&gt;&gt;&gt; print fout.getvalue()
+foo
+bar
+
+
+logging boilerplate
+&gt;&gt;&gt; LOGFILE =
+os.path.expanduser('~/.script.log')
+&gt;&gt;&gt; logger =
+logging.getLogger('ScriptLogger')
+&gt;&gt;&gt; logger.setLevel(logging.DEBUG)
+&gt;&gt;&gt; handler =
+handlers.RotatingFileHandler(LOGFILE,
+maxBytes=500, backupCount=2)
+&gt;&gt;&gt; log_format = Formatter("%(asctime)s -
+%(name)s - %(levelname)s - %(message)s")
+&gt;&gt;&gt; handler.setFormatter(log_format)
+&gt;&gt;&gt; logger.addHandler(handler)
 </t>
 </tnodes>
 </leo_file>
