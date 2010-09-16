@@ -8,14 +8,9 @@
     - 9.03.12 for KUP.rdev dot mapping gen html
 usage:
 $ python dot-gen-html.py kupmapidx.dot index.htm
-
-__Author__  = $Author$
-__Source__  = $Source$
-__Date__    = $Date$
-__Revision__= $Revision$
 '''
 import os,sys,time
-import popen2
+from subprocess import Popen
 
 VERSION = "dot-gen-html v9.11.29"
 GENTIME = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
@@ -41,12 +36,16 @@ def gen(dotis,tplf,dotf,mapname,wxpf):
     #css = open(FOOTCSS).read()
     genmap = runtpl%(dotmap,dotmap,dotmap)
     expath = os.path.dirname(wxpf)
-    r, w, e = popen2.popen3(genmap)
-    print e.readlines()
-    print r.readlines()
-    r.close()
-    e.close()
-    w.close()
+    #r, w, e = popen2.popen3(genmap)
+    p = Popen(genmap, shell=True, close_fds=True)
+    (r, w, e) = (p.stdin, p.stdout, p.stderr)
+    #print e.readlines()
+    print e
+    print r
+    #r.close()
+    #e.close()
+    #w.close()
+    time.sleep(1)
     cmapx = open("%s.map"%dotmap).read()#.decode('utf8')
     #dotmap = dotmap
     urlroot = ROOTURL
@@ -73,3 +72,8 @@ $ dot-gen-html.py dot|fdp 'path/to/u.tpl' 'path/2/u.dot' "MapName" exPageNam[lik
         gen(dotis,tplf,dotf,mapname,expf)
     #open(exrep,"w").write(open(tpl).read() % locals())
     
+
+
+
+
+

@@ -187,7 +187,7 @@
 </v>
 </v>
 </v>
-<v t="ZoomQuiet.20060306165940" a="E"><vh>~~~stuff</vh>
+<v t="ZoomQuiet.20060306165940"><vh>~~~stuff</vh>
 <v t="zoomq.20100817094645.4076"><vh>Nginx配置</vh></v>
 <v t="zoomq.20060916180156.12"></v>
 <v t="zoomq.20100728103610.7583"></v>
@@ -277,7 +277,7 @@
 <v t="ZoomQuiet.20060116170256.1"><vh>WeKnow</vh></v>
 </v>
 <v t="zoomq.20100414115206.4540"><vh>mind</vh>
-<v t="ZoomQuiet.20060531114330" a="E"><vh>@nosent why-noread-paid-books-2010-08-06-11-01.t2t</vh>
+<v t="ZoomQuiet.20060531114330"><vh>@nosent why-noread-paid-books-2010-08-06-11-01.t2t</vh>
 <v t="ZoomQuiet.20060531114330.1"><vh>main</vh></v>
 <v t="zoomq.20060916180156.12"></v>
 <v t="zoomq.20100728103610.7583"></v>
@@ -347,7 +347,7 @@
 </v>
 <v t="ZoomQuiet.20060116170435"><vh>SiFi</vh></v>
 </v>
-<v t="zoomq.20100414115206.4538"><vh>utility</vh>
+<v t="zoomq.20100414115206.4538" a="E"><vh>utility</vh>
 <v t="ZoomQuiet.20060116170508"><vh>py4gui</vh></v>
 <v t="ZoomQuiet.20060116170643"><vh>py4str</vh>
 <v t="zoomq.20100414115206.4235"><vh>StructuredText</vh>
@@ -461,11 +461,21 @@
 <v t="ZoomQuiet.20060122153701.1"></v>
 </v>
 </v>
-<v t="ZoomQuiet.20060116170256.2"><vh>ZqLib</vh>
-<v t="ZoomQuiet.20060124152735"><vh>@nosent MD5-2006-01-24-23-23.t2t</vh>
-<v t="ZoomQuiet.20060124152945"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
+<v t="ZoomQuiet.20060116170256.2" a="E"><vh>ZqLib</vh>
+<v t="ZoomQuiet.20060124152735" a="E"><vh>@nosent gen4dot2htm-py.t2t</vh>
+<v t="zoomq.20100910090235.9593"><vh>5W1H</vh></v>
+<v t="zoomq.20100910090235.9594"><vh>zqlog</vh></v>
+<v t="zoomq.20100910090235.9595"><vh>智能参数？</vh></v>
+<v t="zoomq.20100910090235.9596"><vh>TDD</vh></v>
+<v t="zoomq.20100910090235.9599"><vh>todo</vh></v>
+<v t="zoomq.20100910090235.9597"><vh>TiLog</vh></v>
 <v t="ZoomQuiet.20060122153701.1"></v>
 <v t="ZoomQuiet.20060121172947.1"></v>
+</v>
+<v t="zoomq.20100910090235.9589"><vh>@nosent MD5-2006-01-24-23-23.t2t</vh>
+<v t="ZoomQuiet.20060122153701.1"></v>
+<v t="ZoomQuiet.20060121172947.1"></v>
+<v t="zoomq.20100910090235.9590"><vh>&lt;&lt;SNSlink&gt;&gt;</vh></v>
 </v>
 </v>
 </v>
@@ -545,6 +555,7 @@
 <v t="zoomq.20100420100426.5527"><vh>@nosent relivin-pyblosxom-2010-04-18-23-23.t2t</vh>
 <v t="zoomq.20100420100426.5528"><vh>what?</vh></v>
 <v t="zoomq.20100420100426.5529"><vh>plan</vh></v>
+<v t="zoomq.20100910090235.9600"><vh>SyntaxHighlighter</vh></v>
 <v t="zoomq.20100714140857.5218"><vh>TODO</vh></v>
 <v t="zoomq.20100414115206.4534"></v>
 <v t="zoomq.20100414115206.4535"></v>
@@ -3507,7 +3518,7 @@ should    be grouped    in pairs).``
 </t>
 <t tx="ZoomQuiet.20060116170040">@path Zen
 
-成体系的思考</t>
+成体系的思考所得</t>
 <t tx="ZoomQuiet.20060116170040.1">@path Chinese
 </t>
 <t tx="ZoomQuiet.20060116170040.2">@path oss
@@ -6897,44 +6908,13 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     return "Comment submitted.  Thanks!"
 </t>
 <t tx="ZoomQuiet.20060124152735">@language Moin
-MD5使用快记
-ZoomQuiet
+[CI]dot 生成可点击网页
+~gen4dot2htm.py 进化记要
 &lt;&lt;t2t head&gt;&gt;
 
-: [MD5 http://a-010.cyut.edu.tw/~vote/md5.php]
-  ( Message-Digest algorithm 5) 
-  MD5作为一个单向混淆算法，即不易以逆向运算得到原始资料
-:
-
-**Pythonic 的使用:**
-```
-::brush: shell
-Python 2.4.1 (#65, Mar 30 2005, 09:13:57) [MSC v.1310 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
-&gt;&gt;&gt; import md5
-&gt;&gt;&gt; dir(md5)
-['MD5Type', '__doc__', '__name__', 'digest_size', 'md5', 'new']
-&gt;&gt;&gt; md5.md5(文件)
-&lt;md5.md5 object at 0x00B83800&gt;
-&gt;&gt;&gt; md=md5.md5(文件)
-&gt;&gt;&gt; dir(md)
-['copy', 'digest', 'hexdigest', 'update']
-&gt;&gt;&gt; md.hexdigest()
-'50235d71d6aa33a2be8d8bfbb1e87b91'
-```
-
-
-嗯哪……
+@others
 
 &lt;&lt;t2t foot&gt;&gt;
-&lt;&lt;SNSlink&gt;&gt;
-</t>
-<t tx="ZoomQuiet.20060124152945">
-[/pybimage/technorati-over.gif]
-    [chinese http://www.technorati.com/tags/chinese]
-    ,[OpenSource http://www.technorati.com/tags/OpenSource]
-    ,[pythonic http://www.technorati.com/tags/pythonic]
-    ,[md5 http://www.technorati.com/tags/md5]
 </t>
 <t tx="ZoomQuiet.20060124160948">&lt;div id="cloud"&gt;[PyBlosxom]
 &lt;/div&gt;
@@ -13103,27 +13083,6 @@ for entry in entrise:
     - 
 
 
-= 成果 =
-**就是当前这个重生的 ZQ's PyBlosxom 了**
-
-- 通过对 t2t 的hack,可以直接在 t2t 文本中聲明是否使用 [SyntaxHighlighter http://alexgorbatchev.com/wiki/SyntaxHighlighter:Usage] ,以及使用哪种语法刷来显示
-
-: demo
-```
-#! python
-py["plugin_dirs"] = [os.path.join(blogdir, "plugins")
-                        ,os.path.join(blogdir, "plugins/archives")
-                        ,os.path.join(blogdir, "plugins/navigate")
-                        ,os.path.join(blogdir, "plugins/date")                        
-                        ,os.path.join(blogdir, "plugins/preformatters")
-                        ,os.path.join(blogdir, "plugins/folksonomy")
-                        ,os.path.join(blogdir, "plugins/willplugins")
-                        ,os.path.join(blogdir, "plugins/zqpyb+")    
-                        ]
-```
-
-
-
 </t>
 <t tx="zoomq.20100517221505.4512">@path IOP</t>
 <t tx="zoomq.20100517221505.4526">@language Moin
@@ -15195,6 +15154,90 @@ NOT WORD!
 		alias   /home/zoomq/workspace/3hg/pyk.pyblosoxm/zoomquiet/flavours;
 		autoindex on;
 	}
+</t>
+<t tx="zoomq.20100910090235.9589">@language Moin
+MD5使用快记
+ZoomQuiet
+&lt;&lt;t2t head&gt;&gt;
+
+: [MD5 http://a-010.cyut.edu.tw/~vote/md5.php]
+  ( Message-Digest algorithm 5) 
+  MD5作为一个单向混淆算法，即不易以逆向运算得到原始资料
+:
+
+**Pythonic 的使用:**
+```
+::brush: shell
+Python 2.4.1 (#65, Mar 30 2005, 09:13:57) [MSC v.1310 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+&gt;&gt;&gt; import md5
+&gt;&gt;&gt; dir(md5)
+['MD5Type', '__doc__', '__name__', 'digest_size', 'md5', 'new']
+&gt;&gt;&gt; md5.md5(文件)
+&lt;md5.md5 object at 0x00B83800&gt;
+&gt;&gt;&gt; md=md5.md5(文件)
+&gt;&gt;&gt; dir(md)
+['copy', 'digest', 'hexdigest', 'update']
+&gt;&gt;&gt; md.hexdigest()
+'50235d71d6aa33a2be8d8bfbb1e87b91'
+```
+
+
+嗯哪……
+
+&lt;&lt;t2t foot&gt;&gt;
+&lt;&lt;SNSlink&gt;&gt;
+</t>
+<t tx="zoomq.20100910090235.9590">
+[/pybimage/technorati-over.gif]
+    [chinese http://www.technorati.com/tags/chinese]
+    ,[OpenSource http://www.technorati.com/tags/OpenSource]
+    ,[pythonic http://www.technorati.com/tags/pythonic]
+    ,[md5 http://www.technorati.com/tags/md5]
+</t>
+<t tx="zoomq.20100910090235.9593">= 原求 =
+
+== 设想 ==</t>
+<t tx="zoomq.20100910090235.9594">= 变化0:logging 不好用 =</t>
+<t tx="zoomq.20100910090235.9595">= 变化1:参数处理 =</t>
+<t tx="zoomq.20100910090235.9596">= 变化2:TDD反射 =</t>
+<t tx="zoomq.20100910090235.9597">= 时间帐单 =
++ ~1h   100902 起意，设立目标
++ ~1.5h   100906 OptionParser 设计
++ ~2.5h   100907 logging-&gt;zqlog
++ ~3h   100908 交互参数调整
+    兼容所有情况很难...
+    防御还是不防御？
++ ~1h   100910 处理参照,工作流?
++ ~3h   100913 Data-URI 输出,嵌入所有
+Using Dean Edwards IE7 Script
+http://www.charlescooke.me.uk/web/lab_notes/ie7_script.html
+</t>
+<t tx="zoomq.20100910090235.9599">= TODO =
+: 真正实用化...:
+
+</t>
+<t tx="zoomq.20100910090235.9600">= 成果 =
+**就是当前这个重生的 ZQ's PyBlosxom 了**
+
+- 通过对 t2t 的hack,可以直接在 t2t 文本中聲明是否使用 [SyntaxHighlighter http://alexgorbatchev.com/wiki/SyntaxHighlighter:Usage] ,以及使用哪种语法刷来显示
+
+: demo
+```
+#! python
+py["plugin_dirs"] = [os.path.join(blogdir, "plugins")
+                        ,os.path.join(blogdir, "plugins/archives")
+                        ,os.path.join(blogdir, "plugins/navigate")
+                        ,os.path.join(blogdir, "plugins/date")                        
+                        ,os.path.join(blogdir, "plugins/preformatters")
+                        ,os.path.join(blogdir, "plugins/folksonomy")
+                        ,os.path.join(blogdir, "plugins/willplugins")
+                        ,os.path.join(blogdir, "plugins/zqpyb+")    
+                        ]
+```
+
+
+
 </t>
 </tnodes>
 </leo_file>

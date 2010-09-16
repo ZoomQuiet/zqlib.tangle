@@ -10,18 +10,81 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20080621102004.2"><vh>@chapters</vh></v>
-<v t="zoomq.20100903102804.6565" a="E"><vh>zoomquiet.org发布规划</vh>
+<v t="zoomq.20100903102804.6565"><vh>zoomquiet.org发布规划</vh>
 <v t="zoomq.20100903105555.6571"><vh>目录</vh></v>
 <v t="zoomq.20100903102804.6566"><vh>域名</vh></v>
 <v t="zoomq.20100903102804.6567"><vh>scrapbook</vh></v>
 </v>
-<v t="zoomq.20100408222312.5717" a="E"><vh>.dot</vh>
-<v t="zoomq.20100903105555.6665"><vh>_stuff</vh></v>
-<v t="zoomq.20100902112115.6558" a="E"><vh>dotools</vh>
-<v t="zoomq.20100902112115.6559" a="E"
-expanded="zoomq.20100902112115.6562,zoomq.20100903105555.6662,"><vh>@shadow gen4dot2htm.py</vh></v>
+<v t="zoomq.20100408222312.5717"><vh>.dot</vh>
+<v t="zoomq.20100903105555.6665"><vh>_stuff</vh>
+<v t="zoomq.20100908150441.6737"><vh>&lt;&lt;doctest&gt;&gt;</vh></v>
+<v t="zoomq.20100908150441.6732"><vh>动态生成属性函式</vh></v>
+<v t="zoomq.20100908091715.7734"><vh>__log()</vh>
+<v t="zoomq.20100908091715.7735"><vh>doctest</vh></v>
+<v t="zoomq.20100908091715.7736"><vh>实现</vh></v>
 </v>
-<v t="zoomq.20100408222312.5718"><vh>@nosent idx-zoomquiet.dot</vh>
+<v t="zoomq.20100908091715.7730"><vh>__initlog()</vh></v>
+<v t="zoomq.20100907214327.12748"><vh>class zqlog</vh>
+<v t="zoomq.20100907214327.12749"><vh>__init__()</vh></v>
+<v t="zoomq.20100907214327.12750"><vh>info()</vh></v>
+<v t="zoomq.20100907214327.12751"><vh>debug()</vh></v>
+<v t="zoomq.20100907214327.12752"><vh>error()</vh></v>
+<v t="zoomq.20100907214327.12753"><vh>warning()</vh></v>
+</v>
+<v t="zoomq.20100908091715.6703"><vh>class zqlog</vh>
+<v t="zoomq.20100908091715.6704"><vh>__init__()</vh></v>
+</v>
+<v t="zoomq.20100908091715.7745"><vh>class zqlog</vh>
+<v t="zoomq.20100908091715.7746"><vh>__init__()</vh>
+<v t="zoomq.20100908091715.7747"><vh>动态生成属性函式</vh></v>
+</v>
+<v t="zoomq.20100908091715.7748"><vh>info()</vh></v>
+<v t="zoomq.20100908091715.7749"><vh>debug()</vh></v>
+<v t="zoomq.20100908091715.7750"><vh>error()</vh></v>
+<v t="zoomq.20100908091715.7751"><vh>warning()</vh></v>
+</v>
+</v>
+<v t="zoomq.20100902112115.6558" a="E"><vh>dotools</vh>
+<v t="zoomq.20100902112115.6559"><vh>@nosent gen4dot2htm.py</vh>
+<v t="zoomq.20100902112115.6560"><vh>declarations</vh></v>
+<v t="zoomq.20100910090235.10618"><vh>__chkPath()</vh></v>
+<v t="zoomq.20100913101742.6761"><vh>imgDataURI()</vh></v>
+<v t="zoomq.20100913225758.6763"><vh>getJpegInfo()</vh>
+<v t="zoomq.20100913225758.6764"><vh>&lt;&lt;16进制数据&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100906103453.10040"><vh>gen2html()</vh>
+<v t="zoomq.20100913101742.6759"><vh>&lt;&lt;doctest&gt;&gt;</vh></v>
+<v t="zoomq.20100909213420.7981"><vh>参数响应</vh></v>
+<v t="zoomq.20100909213420.7982"><vh>生成图片</vh></v>
+<v t="zoomq.20100913101742.9614"><vh>dataURI嵌入CSS</vh></v>
+<v t="zoomq.20100910090235.9601"><vh>输出HTML</vh></v>
+</v>
+<v t="zoomq.20100908150441.6739"><vh>默认值</vh>
+<v t="zoomq.20100914090206.8002"><vh>htm模板</vh>
+<v t="zoomq.20100914171624.6772"><vh>footer</vh></v>
+</v>
+<v t="zoomq.20100914090206.8004"><vh>css模板</vh></v>
+</v>
+<v t="zoomq.20100906103453.10038"><vh>main()</vh>
+<v t="zoomq.20100908150441.6741"><vh>参数响应</vh></v>
+</v>
+<v t="zoomq.20100907214327.11503"><vh>class zqlog</vh>
+<v t="zoomq.20100907214327.11504"><vh>__init__()</vh></v>
+<v t="zoomq.20100908150441.6730"><vh>__logit()</vh></v>
+<v t="zoomq.20100908091715.7752"><vh>__getattr__()</vh></v>
+</v>
+<v t="zoomq.20100902112115.6562"><vh>&lt;&lt;__main__&gt;&gt;</vh>
+<v t="zoomq.20100903105555.6662"><vh>&lt;&lt;交互参数&gt;&gt;</vh>
+<v t="zoomq.20100906103453.10041"><vh>&lt;&lt;运营模式组&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100907214327.11513"><vh>主业务</vh></v>
+</v>
+</v>
+<v t="zoomq.20100908150441.6740"><vh>@nosent dotmapping.css</vh></v>
+<v t="zoomq.20100910090235.7985"><vh>@nosent SomeGraph.dot</vh></v>
+</v>
+<v t="zoomq.20100916094556.6792"><vh>abt.zoomquiet.org</vh>
+<v t="zoomq.20100408222312.5718"><vh>@nosent zoomquiet_org_idx.dot</vh>
 <v t="zoomq.20100408222312.5719"><vh>图元</vh>
 <v t="zoomq.20100901204131.7774"><vh>Share</vh></v>
 <v t="zoomq.20100901204131.7775"><vh>doing</vh></v>
@@ -29,10 +92,18 @@ expanded="zoomq.20100902112115.6562,zoomq.20100903105555.6662,"><vh>@shadow gen4
 </v>
 <v t="zoomq.20100408222312.5725"><vh>关系网</vh></v>
 </v>
-<v t="zoomq.20100901204131.7771"><vh>@nosent idx-zoomquiet-legend.dot</vh>
+<v t="zoomq.20100901204131.7771"><vh>@nosent zoomquiet_org_idx_legend.dot</vh>
 <v t="zoomq.20100901204131.7772"><vh>图元</vh></v>
 <v t="zoomq.20100901204131.7773"><vh>关系网</vh></v>
 </v>
+<v t="zoomq.20100914211211.6779"><vh>@nosent obp_zoomquiet_org_idx.dot</vh>
+<v t="zoomq.20100914211211.6780"><vh>图元</vh>
+<v t="zoomq.20100914211211.6781"><vh>书</vh></v>
+</v>
+<v t="zoomq.20100914211211.6784"><vh>关系网</vh></v>
+</v>
+</v>
+<v t="zoomq.20100916094556.6791"><vh>abt.大妈书</vh>
 <v t="zoomq.20100901091630.9262"><vh>@nosent zqbook-map-think.dot</vh>
 <v t="zoomq.20100901091630.9263"><vh>时间轴</vh></v>
 <v t="zoomq.20100901091630.9264"><vh>图元</vh></v>
@@ -59,8 +130,9 @@ expanded="zoomq.20100902112115.6562,zoomq.20100903105555.6662,"><vh>@shadow gen4
 <v t="zoomq.20100428114251.7260"><vh>次序隐调</vh></v>
 </v>
 </v>
-<v t="zoomq.20100903105555.6572"><vh>幻灯</vh>
-<v t="zoomq.20080523161605"><vh>s5:public</vh>
+</v>
+<v t="zoomq.20100903105555.6572" a="E"><vh>幻灯</vh>
+<v t="zoomq.20080523161605" a="E"><vh>s5:public</vh>
 <v t="zoomq.20100726095759.6175"><vh>_stuff</vh>
 <v t="zoomq.20100726095759.6174"><vh>brief0</vh></v>
 <v t="zoomq.20100726130819.5995"><vh>PKM</vh>
@@ -74,8 +146,17 @@ expanded="zoomq.20100902112115.6562,zoomq.20100903105555.6662,"><vh>@shadow gen4
 <v t="zoomq.20100726130819.6001"><vh>KM:持续改进</vh></v>
 </v>
 </v>
-<v t="zoomq.20100817123015.6207"><vh>100918-MyTools</vh>
+<v t="zoomq.20100817123015.6207" a="E"><vh>100918-MyTools</vh>
+<v t="zoomq.20100915085348.9250"><vh>html-s5</vh>
 <v t="zoomq.20100817123015.6208"><vh>@shadow index.html</vh></v>
+</v>
+<v t="zoomq.20100915085348.9351" a="E"><vh>rst2s5</vh>
+<v t="zoomq.20100915085348.9352" a="E"><vh>@nosent index.rst</vh>
+<v t="zoomq.20100915085348.9451"><vh>&lt;&lt;DOCDEFINE&gt;&gt;</vh></v>
+<v t="zoomq.20100915085348.9453"><vh>&lt;&lt;footer&gt;&gt;</vh></v>
+<v t="zoomq.20100915085348.9450"><vh>version</vh></v>
+</v>
+</v>
 </v>
 <v t="zoomq.20100818100255.10487"><vh>100826-PyTDD</vh>
 <v t="zoomq.20100819090507.8048"><vh>_stuff</vh>
@@ -36535,16 +36616,16 @@ http://www.xmind.net/share/zoomquiet/33-session/
 <t tx="zoomq.20100408222312.5717">@path dot</t>
 <t tx="zoomq.20100408222312.5718">@language javascript
 @tabwidth -4
-digraph GzoomquietIdx {
+digraph zoomquiet_org_idx {
     /*生成命令:
-$ dot -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.map
+$ dot -Tjpeg zoomquiet_org_idx.dot -o zoomquiet_org_idx.jpg -Tcmapx -o zoomquiet_org_idx.map
 $ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.map
     全局设定
     */
     graph [label=""
         ,fontsize=12.0,fontcolor=snow
         ,labeljust="l",labelloc="b",center=1
-        ,ranksep=0.2,center=1,ratio=compress
+        ,ranksep=0.1,center=1,ratio=compress
         ,rankdir=LR
         ,truecolor bgcolor="#333333"
         ];
@@ -36554,9 +36635,9 @@ $ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.ma
         ,shape=plaintext
         ];
 
-    edge [fontsize=9.0,fontcolor=snow
+    edge [fontsize=9.0,fontcolor=gray
         ,color=azure
-        ,arrowsize=0.7,arrowhead=vee,arrowtail=none
+        ,arrowsize=0.6,arrowhead=vee,arrowtail=none
         ,style="setlinewidth(0.5)"
         ];
     @others
@@ -36567,10 +36648,11 @@ $ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.ma
         ,URL="http://zoomquiet.org"
         ];
 title [label="zoomquiet.org资源图谱\n{gen. by Graphviz}\nTime is unimprtant,only life important!"
-    URL="#"];
+    URL="http://code.google.com/p/zqlib/source/browse/tangle/zoomquiet.leo/dot/zoomquiet_org_idx.dot"];
+
 mailme [label="电俺",shape=ellipse,style="filled,dashed,setlinewidth(5)"
     ,color="#333333",fillcolor=dimgray
-    ,URL="mailto:zoomquiet+sns@gmail.com?subject=zoomquiet.org feedback"];
+    ,URL="mailto:zoomquiet+sns@gmail.com?subject=zoomquiet.org mapping feedback"];
 
 @others
 
@@ -36586,12 +36668,14 @@ share-&gt;{sb douban haokanbu};
 share-&gt;wiki [style="setlinewidth(2)"];
 
 share-&gt;bloging [style="setlinewidth(1)"];
-    bloging-&gt;{gb lj} [style="dotted"];
     bloging-&gt;pyb [style="setlinewidth(3)"];
+    bloging-&gt;lj [style="dotted"];
+    bloging-&gt;gb [label="和谐ing",style="dotted"];
 
     sb-&gt;{oss skm} [style="setlinewidth(1)"];
 
-doing-&gt;{trac WK};
+doing-&gt;trac;
+    doing-&gt;WK [label="构思ing"];
     doing-&gt;{PiC OBP}[style="setlinewidth(3)"];
 
 learn-&gt;{ecug zeuux};
@@ -37999,9 +38083,9 @@ pkm-&gt;gtd-&gt;paper;
 </t>
 <t tx="zoomq.20100901204131.7771">@language javascript
 @tabwidth -4
-digraph GzoomquietLegend {
+digraph zoomquiet_org_idx_legend {
     /*生成命令:
-$ dot -Tpng idx-zoomquiet-legend.dot -o idx-zoomquiet-legend.png
+$ dot -Tjpeg zoomquiet_org_idx_legend.dot -o zoomquiet_org_idx_legend.jpg
     全局设定
     */
     graph [label=""
@@ -38068,54 +38152,57 @@ nodeB-&gt;db-&gt;component-&gt;class-&gt;tab-&gt;note-&gt;box-&gt;act-&gt;diamon
 </t>
 <t tx="zoomq.20100901204131.7774">share [label="扯ing",shape=folder];
     wiki [label="维基"
-        ,URL="#"];
+        ,URL="http://wiki.woodpecker.org.cn/moin/ZoomQuiet"];
     douban [label="豆瓣"
-        ,URL="#"];
+        ,URL="http://www.douban.com/group/zoomquiet/"];
     haokanbu [label="好看"
-        ,URL="#"];
+        ,URL="http://zoomq.haokanbu.com/"];
+    haokanbu [label="Flickr"
+        ,URL="http://www.flickr.com/photos/zoomq/"];
 
     bloging [label="bloging",shape=tab
         ,URL="#"];
         gb [label="@blogger"
-            ,URL="#"];
+            ,URL="http://zoomquiet.blogspot.com/"];
         lj [label="@livejournal"
             ,URL="http://zoomq.livejournal.com/"];
         pyb [label="PyBlosxom"
-            ,URL="#"];
+            ,URL="http://blog.zoomquiet.org/pyblosxom/"];
 
     sb [label="ScrapBook",shape=tab
-        ,URL="#"];
+        ,URL="https://addons.mozilla.org/zh-CN/firefox/addon/427/"];
         oss [label="FLOSS"
-            ,URL="#"];
+            ,URL="http://floss.zoomquiet.org/"];
         skm [label="SKM"
-            ,URL="#"];
+            ,URL="http://skm.zoomquiet.org/"];
 </t>
-<t tx="zoomq.20100901204131.7775">doing [label="整ing",shape=folder];
+<t tx="zoomq.20100901204131.7775">doing [label="整ing",shape=folder
+    ,URL="http://code.google.com/u/Zoom.Quiet/"];
     OBP [label="OBP",shape=box3d
-        ,URL="#"];
+        ,URL="http://zoomquiet.org/obp/"];
     PiC [label="蟒营",shape=box3d
-        ,URL="#"];
+        ,URL="http://code.google.com/p/kcpycamp/"];
     trac [label="KTRAC",shape=box3d
-        ,URL="#"];
+        ,URL="http://py.kingsoft.net/ktrac"];
     WK [label="WeKnow",shape=box3d,style="dashed",height=0.5
-        ,URL="#"];
+        ,URL="http://wiki.woodpecker.org.cn/moin/WeKnow"];
 </t>
 <t tx="zoomq.20100901204131.7776">learn [label="掺ing",shape=folder];
     cpug [label="CPyUG"
-        ,URL="#"];
+        ,URL="http://wiki.woodpecker.org.cn/moin/CPUG"];
         zpug [label="ZPyUG"
-            ,URL="#"];
+            ,URL="http://wiki.woodpecker.org.cn/moin/ZPyUG"];
     tparty [label="TechParty"
-        ,URL="#"];
+        ,URL="http://techparty.org/"];
 
     zeuux [label="哲思"
-        ,URL="#"];
+        ,URL="http://www.zeuux.org/community/zeuux-activist.cn.html"];
     ecug [label="ECUG"
-        ,URL="#"];
+        ,URL="http://code.google.com/p/ecug/wiki/FrontPage"];
         erlb [label="恶狼战役"
-            ,URL="#"];
+            ,URL="http://code.google.com/p/erlbattle/"];
     sll [label="教育大发现"
-        ,URL="#"];
+        ,URL="http://code.google.com/p/sociallearnlab/"];
 </t>
 <t tx="zoomq.20100902112115.6558">@path dotools/
 
@@ -38126,6 +38213,54 @@ TimeLogging:
 
 
 </t>
+<t tx="zoomq.20100902112115.6559">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+'''Changelog:
+    - 10.9.8 fixed for options judge
+    - 10.9.7 fixed for zqlog
+    - 10.9.2 fixed as ZqLib
+    - 9.11.03 for KUP++ mapping fixed
+    - 9.05.16 for kup.s.kingsoft.net/map as root
+    - 9.04.21 for deep dir gen html
+    - 9.03.12 for KUP.rdev dot mapping gen html
+'''
+VERSION = "10.9.4"
+@others
+
+if __name__ == '__main__':      # this way the module can be
+    &lt;&lt;__main__&gt;&gt;
+
+</t>
+<t tx="zoomq.20100902112115.6560">
+import os,sys
+# for OptionParser chinese help
+reload(sys)
+sys.setdefaultencoding('utf-8')
+from optparse import OptionParser,OptionGroup
+from datetime import datetime
+import subprocess
+import fnmatch
+</t>
+<t tx="zoomq.20100902112115.6562">'''usage::
+gen4dot2htm.py -t path/2/模板.htm -o path/2/发布.html -i '标题'
+业务参数:
+    -t 页面输出模板
+    -o 输出页面
+    -i 页面标题
+通用参数:
+    -N 试用模式:不作为,测试输出相关参数
+    -D 调试模式:打印debug信息到屏幕
+    -Q 安静模式:不输出任何信息
+    -V 运营模式:输出 INFO|WARNING|ERROR 到sys.stderr
+    --doctest TDD支持
+    -v doctest 详细模式
+'''
+&lt;&lt;交互参数&gt;&gt;
+(options, args) = parser.parse_args()
+@others
+gen2html(ov,log)</t>
 <t tx="zoomq.20100903102804.6565">@language python
 @tabwidth -4
 
@@ -38215,7 +38350,55 @@ CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
 </t>
 <t tx="zoomq.20100903105555.6572">汇总所有幻灯撰写...
 </t>
-<t tx="zoomq.20100903105555.6665">from :
+<t tx="zoomq.20100903105555.6662">usage = "$python %prog [-V|N|D|Q][--dot|fdp][-t path/2/templete.htm] [-o /path/2/export.html] [-i 'title of page']"
+parser = OptionParser(usage,version="%s {powered by Zoom.Quiet+Leo}"%VERSION)
+&lt;&lt;运营模式组&gt;&gt;
+gIput = OptionGroup(parser, "Group fo Import",
+    "them need realy obj.")
+gIput.add_option("-d",metavar="path/2/my.dot"
+    ,dest="dotscript",nargs=1,type="string"
+    ,default="battery"
+    ,help="dot script file with path "
+    "e.g: ../tpl/idx.dot"
+    "   DEFAULT: battery"
+    )
+gIput.add_option("-t","--tmplete",metavar="path/2/tpl.htm"
+    ,dest="exptpl",nargs=1,type="string"
+    ,default="battery"
+    ,help="file name with path "
+    "e.g: ../tpl/idx.htm"
+    "   DEFAULT: battery"
+    )
+gIput.add_option("-o","--output",metavar="path/2/page.html"
+    ,dest="expage",nargs=1,type="string"
+    ,default="stdout"
+    ,help="templet file name with ppath "
+    "e.g: ../exp/idx.html"
+    "   DEFAULT: index.html"
+    )
+gIput.add_option("-i","--title",metavar=""
+    ,dest="title",nargs=1,type="string"
+    ,default=DEFTITLE
+    ,help="Page Title"
+    )
+gIput.add_option("--fdp",metavar=""
+    ,dest="fdp",action="store_true"
+    ,default=False
+    ,help="usage fdp gen. mapping"
+    "   DEFAULT:dot"
+    )
+parser.add_option_group(gIput)
+</t>
+<t tx="zoomq.20100903105555.6665">Turns this:
+if key in dictobj:
+    dictobj[key].append(val)
+else:
+    dictobj[key] = [val]
+Into this:
+    dictobj.setdefault(key, []).append(val)
+
+
+from :
 '/home/zoomq/media/zRecord/TechConferences/PyCon/PyCon2009-USA-Chicago/MattHarrison:scripting-testable_maintainable_packagable/scriptingslides.pdf'
 
 模擬文件::
@@ -38241,6 +38424,967 @@ maxBytes=500, backupCount=2)
 %(name)s - %(levelname)s - %(message)s")
 &gt;&gt;&gt; handler.setFormatter(log_format)
 &gt;&gt;&gt; logger.addHandler(handler)
+
+</t>
+<t tx="zoomq.20100906103453.10038">def main(ov,log):
+    '''默认主函式,组合响应各种参数,调用实际行为..
+    log.error("错误")
+    log.info("消息")
+    log.debug("调试")
+    log.warning("警告")
+    log.info("消息2")
+    '''
+    @others
+    gen2html(ov,log)
+</t>
+<t tx="zoomq.20100906103453.10040">def gen2html(ov,log):
+    &lt;&lt;doctest&gt;&gt;
+    @others
+
+</t>
+<t tx="zoomq.20100906103453.10041">gRun = OptionGroup(parser, "Group for Running",
+    '''DEFAULT::
+-V False    -N False    -D False    -Q False'''
+    )
+gRun.add_option("-V","--verbose",metavar="",help="mod_run: export INFO|WARNING|ERROR -&gt;sys.stderr"
+    ,dest="verbose",action="store_true"
+    ,default=False
+    )
+gRun.add_option("-v",metavar="",help="verbose for doctest"
+    ,dest="verbose_doctest",action="store_true"
+    ,default=False
+    )
+gRun.add_option("-N","--notdo",metavar="",help="mod_try: no realy do,export INFO"
+    ,dest="mnotdo",action="store_true"
+    ,default=False
+    )
+gRun.add_option("-D","--debug",metavar="",help="mod_debug: export DEBUG|INFO|WARNING|ERROR -&gt;sys.stderr"
+    ,dest="mdebug",action="store_true"
+    ,default=False
+    )
+gRun.add_option("-Q","--quiet",metavar="",help="mod_quiet: export NULL"
+    ,dest="mquiet",action="store_true"
+    ,default=False
+    )
+gRun.add_option("--doctest",metavar="",help="mod_test: runnin doctest"
+    ,dest="tdd",action="store_true"
+    ,default=False
+    )
+parser.add_option_group(gRun)
+
+</t>
+<t tx="zoomq.20100907214327.11503">
+class zqlog():
+    '''z quickly logging,export all kinds of log as stderr
+    usage:
+        log = zqlog()
+        log.info
+        log.debug
+        log.error
+        log.warning
+
+        log.info("info!")
+        log.debug("debug!")
+        log.error("error!")
+        log.warning("warning")
+    配合CL参数: -Q|V|N|D 过滤不同等级的输出
+    mdebug|verbose|mquiet|mnotdo
+    '''
+    @others
+
+</t>
+<t tx="zoomq.20100907214327.11504">def __init__(self,optionValues):
+    '''初始化日志输出句柄
+    '''
+    self.tformatter = "%y%m%d %H:%M:%S,%f"
+    self.lformatter = "[%(asctime)s]- %(levelname)-8s - %(message)s\n"
+    self.hdlr = sys.stderr
+    self.ov = optionValues
+
+</t>
+<t tx="zoomq.20100907214327.11513"># 检查是否没有参数
+if 1==len(sys.argv):
+    parser.print_help()
+
+ov = parser.values
+#初始化日志对象 todo:自动激活...
+log = zqlog(ov)
+log.info
+log.debug
+log.error
+log.warning
+# --doctest 开关
+if ov.tdd:
+    log.warning("&gt;&gt;&gt; running doctest")
+    import doctest
+    doctest.testmod(verbose=ov.verbose_doctest)
+
+
+'''
+log.info("消息")
+log.debug("调试")
+log.error("错误")
+log.warning("警告")
+'''
+</t>
+<t tx="zoomq.20100907214327.12748">class zqlog():
+    '''z quickly logging
+    usage:
+        log = zqlog()
+        log.info("info!")
+        log.debug("debug!")
+        log.error("error!")
+        log.warning("warning")
+        with optiond as -Q|V|N|D 
+    '''
+    @others
+
+</t>
+<t tx="zoomq.20100907214327.12749">def __init__(self):
+    import logging
+    logger = logging.getLogger()
+    #logger.setLevel(logging.NOTSET)
+    formatter = logging.Formatter("%(asctime)s - %(levelname)-8s - %(message)s")
+    #hdlr = logging.FileHandler(LOG_FILENAME)
+    hdlr = logging.StreamHandler(sys.stderr)
+    hdlr.setFormatter(formatter)
+    logger.addHandler(hdlr)
+    self.logger=logger
+    self.hdlr=hdlr
+    #return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100907214327.12750">def info(self,message):
+    self.logger.info(message)
+    #self.logger.removeHandler(self.hdlr)
+    #return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100907214327.12751">def debug(self,message):
+    self.logger.debug(message)
+    #self.logger.removeHandler(self.hdlr)
+    #return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100907214327.12752">def error(self,message):
+    self.logger.error(message)
+    #self.logger.removeHandler(self.hdlr)
+    #return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100907214327.12753">def warning(self,message):
+    self.logger.warning(message)
+    #self.logger.removeHandler(self.hdlr)
+    #return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100908091715.6703">class zqlog():
+    '''z quickly logging
+    usage:
+        log = zqlog()
+        log.info("info!")
+        log.debug("debug!")
+        log.error("error!")
+        log.warning("warning")
+        with optiond as -Q|V|N|D 
+    '''
+    @others
+
+</t>
+<t tx="zoomq.20100908091715.6704">def __init__(self):
+    import logging
+    logger = logging.getLogger()
+    #logger.setLevel(logging.NOTSET)
+    formatter = logging.Formatter("%(asctime)s - %(levelname)-8s - %(message)s")
+    #hdlr = logging.FileHandler(LOG_FILENAME)
+    hdlr = logging.StreamHandler(sys.stderr)
+    hdlr.setFormatter(formatter)
+    logger.addHandler(hdlr)
+    self.logger=logger
+    self.hdlr=hdlr
+    #return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100908091715.7730">def __initlog():
+    '''base Limodou blog easy creat logger obj.
+    usage:
+        log.info("info!")
+        log.debug("debug!")
+        log.error("error!")
+        log.warning("warning")
+    '''
+    import logging
+    logger = logging.getLogger()
+    formatter = logging.Formatter("%(asctime)s - %(levelname)-8s - %(message)s")
+    logger.setLevel(logging.NOTSET)
+    #hdlr = logging.FileHandler(LOG_FILENAME)
+    hdlr = logging.StreamHandler(sys.stderr)
+    hdlr.setFormatter(formatter)
+    logger.addHandler(hdlr)
+    return [logger,hdlr]
+
+</t>
+<t tx="zoomq.20100908091715.7734">def __log(tag,message):
+    @others
+
+</t>
+<t tx="zoomq.20100908091715.7735">'''联合配置,有效过滤,合理输出:
+    -Q 不输出
+    -N 输出 INFO
+    -D 输出 INFO|DEBUG
+    -V 时输出 INFO|ERROR|WARNING
+&gt;&gt;&gt; log4all,hdlr = __initlog()
+&gt;&gt;&gt; ov = {'mdebug': False, 'verbose': False, 'mquiet': True, 'mnotdo': False}
+&gt;&gt;&gt; __log('info',"-Q")
+
+
+&gt;&gt;&gt; ov = {'mdebug': False, 'verbose': False, 'mquiet': False, 'mnotdo': True}
+&gt;&gt;&gt; __log('info',"-N")
+INFO     - -N
+
+&gt;&gt;&gt; ov = {'mdebug': True, 'verbose': False, 'mquiet': False, 'mnotdo': False}
+&gt;&gt;&gt; __log('info',"-D")
+INFO     - -D
+DEBUG    - debug!
+
+&gt;&gt;&gt; ov = {'mdebug': False, 'verbose': True, 'mquiet': False, 'mnotdo': False}
+&gt;&gt;&gt; __log('info',"-V")
+INFO     - -V
+ERROR    - error!
+WARNING  - warning!
+
+
+'''
+
+</t>
+<t tx="zoomq.20100908091715.7736">#{'mdebug': False, 'verbose': False, 'mquiet': True, 'mnotdo': False}
+logtype=()
+if ov.mquiet:
+    pass
+else:
+    if ov.mnotdo:
+        logtype=("info")
+    elif ov.mdebug:
+        logtype=("info","debug")
+    elif ov.verbose:
+        logtype=("info","debug")
+    else:
+        pass    #logtype=("info","error","warning")
+print logtype
+if tag in logtype:
+    exec("log4all.%s('%s')"%(tag,message))
+
+log4all.removeHandler(hdlr)
+
+
+</t>
+<t tx="zoomq.20100908091715.7745">class zqlog():
+    '''z quickly logging,export all kinds of log as stderr
+    usage:
+        log = zqlog()
+        log.info("info!")
+        log.debug("debug!")
+        log.error("error!")
+        log.warning("warning")
+    配合CL参数: -Q|V|N|D 过滤不同等级的输出
+    mdebug|verbose|mquiet|mnotdo
+    '''
+    @others
+
+</t>
+<t tx="zoomq.20100908091715.7746">def __init__(self,optionValues):
+    '''时间戳:
+    datetime.datetime.now().strftime("%y%m%d %H:%M:%S,%f")
+    '''
+    self.tformatter = "%y%m%d %H:%M:%S,%f"
+    self.lformatter = "%(asctime)s - %(levelname)-8s - %(message)s\n"
+    self.hdlr = sys.stderr
+    self.ov = optionValues
+    @others
+</t>
+<t tx="zoomq.20100908091715.7747">tpSubFunc='''
+def %s(self,message):
+    asctime = datetime.now().strftime(self.tformatter)
+    levelname = "%s"
+    self.hdlr.write(self.lformatter%locals())
+
+'''
+if self.ov.mquiet:
+    pass
+elif self.ov.mdebug:
+    exec(tpSubFunc%("debug","DEBUG"))
+</t>
+<t tx="zoomq.20100908091715.7748">def info(self,message):
+    '''mdebug|verbose|mquiet|mnotdo
+    '''
+    if self.ov.mquiet:
+        pass
+    else:
+        asctime = datetime.now().strftime(self.tformatter)
+        levelname = "INFO"
+        self.hdlr.write(self.lformatter%locals())
+
+</t>
+<t tx="zoomq.20100908091715.7749">def debug(self,message):
+    '''mdebug|verbose|mquiet|mnotdo
+    '''
+    if self.ov.mquiet:
+        pass
+    elif self.ov.mdebug:
+        asctime = datetime.now().strftime(self.tformatter)
+        levelname = "DEBUG"
+        self.hdlr.write(self.lformatter%locals())
+
+</t>
+<t tx="zoomq.20100908091715.7750">def error(self,message):
+    '''mdebug|verbose|mquiet|mnotdo
+    '''
+    if self.ov.mquiet:
+        pass
+    elif self.ov.mdebug or self.ov.verbose:
+        asctime = datetime.now().strftime(self.tformatter)
+        levelname = "ERROR"
+        self.hdlr.write(self.lformatter%locals())
+
+</t>
+<t tx="zoomq.20100908091715.7751">def warning(self,message):
+    '''mdebug|verbose|mquiet|mnotdo
+    '''
+    if self.ov.mquiet:
+        pass
+    elif self.ov.mdebug or self.ov.verbose:
+        asctime = datetime.now().strftime(self.tformatter)
+        levelname = "WARNING"
+        self.hdlr.write(self.lformatter%locals())
+
+</t>
+<t tx="zoomq.20100908091715.7752">def __getattr__(self, levelname):
+    #print self.ov
+    if self.ov.mnotdo:
+        # -N 仅仅INFO
+        if levelname == "info":
+            self.__dict__[levelname] = lambda message:self.__logit(levelname,str(message))
+        else:
+            self.__dict__[levelname] = lambda message:None
+    elif self.ov.verbose:
+        # -V 仅不输出 DEBUG
+        if levelname == "debug":
+            self.__dict__[levelname] = lambda message:None
+        else:
+            self.__dict__[levelname] = lambda message:self.__logit(levelname,str(message))
+    elif self.ov.mdebug:
+        # -D 输出一切
+        self.__dict__[levelname] = lambda message:self.__logit(levelname,str(message))
+    else:
+        # 默认情况同 -Q
+        self.__dict__[levelname] = lambda message:None
+</t>
+<t tx="zoomq.20100908150441.6730">def __logit(self, levelname,message):
+    '''日志输出行动函式
+    datetime.datetime.now().strftime("%y%m%d %H:%M:%S,%f")
+    '''
+    asctime = datetime.now().strftime(self.tformatter)
+    levelname = levelname.upper()
+    self.hdlr.write(self.lformatter%locals())
+</t>
+<t tx="zoomq.20100908150441.6732">tpSubFunc='''
+def %s(self,message):
+    asctime = datetime.now().strftime(self.tformatter)
+    levelname = "%s"
+    self.hdlr.write(self.lformatter%locals())
+
+'''
+if self.ov.mquiet:
+    pass
+elif self.ov.mdebug:
+    exec(tpSubFunc%("debug","DEBUG"))
+</t>
+<t tx="zoomq.20100908150441.6737">'''动态生成可调用日志输出对象
+&gt;&gt;&gt; ov = {'verbose': True, 'mquiet': False, 'mdebug': False, 'mnotdo': False}
+&gt;&gt;&gt; l = zqlog(ov)
+&gt;&gt;&gt; l.info
+&gt;&gt;&gt; l.debug
+&gt;&gt;&gt; l.error
+&gt;&gt;&gt; w=l.warning
+&gt;&gt;&gt; w("W")[30:]
+- WARNING  - 警告
+
+'''
+</t>
+<t tx="zoomq.20100908150441.6739">DODOT = "/usr/bin/dot %s -Tjpeg -o %s.jpeg -Tcmapx -o %s.map "
+DOFDP = "/usr/bin/fdp %s -Tjpeg -o %s.jpeg -Tcmapx -o %s.map "
+IMGTYPE = "jpeg"
+#dotPageTitle dotPageStyle imgame mapname map4dot
+DEFEXPORT = "stdout"
+DEFTITLE = "mapping base .dot"
+MAPID = "SomeGraph"
+DOTXT = "%s.dot"%MAPID
+@others
+DEFLEGEND="zoomquiet_org_idx_legend"
+
+
+</t>
+<t tx="zoomq.20100908150441.6740">@language css
+@tabwidth -4
+img {
+    border: 0;
+    }
+#mapping {text-align:center;
+    border: 1px solid #eee;
+    }
+
+#powerby { text-align:right; 
+    border: 1px solid #eee;
+    }
+#blueprintbutton { float:left; margin-top:3px; margin-right:24px; vertical-align:middle; 
+    }
+
+/*usage http://www.cssstickyfooter.com/cn/using-sticky-footer-code.html 
+zip hight 150-&gt;90px*/
+html, body, #wrap {height: 100%;}
+body &gt; #wrap {height: auto; min-height: 100%;}
+#main {padding-bottom: 90px;}  /* must be same height as the footer */
+#footer {position: relative;
+	margin-top: -90px; /* negative value of footer height */
+	height: 90px;
+	clear:both;
+	} 
+
+</t>
+<t tx="zoomq.20100908150441.6741">global HTMTPL,DOTXT,MAPID,DOTORDER
+#--fdp 响应
+if ov.fdp:
+    DOTORDER = DOFDP
+else:
+    DOTORDER = DODOT
+#ov:    dotscript exptpl title expage 
+#tpl:   dotPageTitle dotPageStyle imgame mapname map4dot
+dotPageStyle = DOTCSS
+if "battery" != ov.exptpl:
+    HTMTPL = open(ov.exptpl,"r").read()
+elif "battery" != ov.dotscript:
+    DOTXT = open(ov.dotscript,"r").read()
+    #log.debug(MAPID)
+    MAPID = os.path.basename(ov.dotscript[:-4])
+    #log.debug(MAPID)
+elif DEFTITLE != ov.title:
+    dotPageTitle = ov.title
+else:
+    # all default
+    exPage = ov.expage
+    mapname = MAPID
+    imgname = "%s.png"%MAPID
+    map4dot = "&lt;map/&gt;"
+
+
+
+</t>
+<t tx="zoomq.20100909213420.7981">#options_as_dict = eval(str(ov))
+#options_as_set = set(options_as_dict.items())
+global HTMTPL,DOTXT,MAPID,DEFEXPORT
+SCRIPT = os.path.basename(sys.argv[0])
+# 默认情况以自身所在目录为准输出
+pathSelf = __chkPath(os.path.dirname(sys.argv[0]),log)
+log.debug('DEFEXPORT:\t%s'%DEFEXPORT)
+log.debug('IMGTYPE:\t%s'%IMGTYPE)
+if DEFEXPORT == ov.expage and "battery" != ov.dotscript:
+    #仅 -d
+    pathDotxt = __chkPath(os.path.dirname(ov.dotscript),log)
+    RELPATH = pathDotxt
+    DOTXT = ov.dotscript
+    MAPID = os.path.basename(ov.dotscript[:-4])
+elif DEFEXPORT != ov.expage and "battery" == ov.dotscript:
+    #只 -o
+    pathExport = __chkPath(os.path.dirname(ov.expage),log)
+    RELPATH = pathExport
+    DEFEXPORT = ov.expage
+elif DEFEXPORT != ov.expage and "battery" != ov.dotscript:
+    #都有 -o|-d
+    pathExport = __chkPath(os.path.dirname(ov.expage),log)
+    MAPID = os.path.basename(ov.dotscript[:-4])
+    RELPATH = pathExport
+    DOTXT = ov.dotscript
+    DEFEXPORT = ov.expage
+else:
+    #默认 无参数时
+    RELPATH = pathSelf
+    DOTXT = "%s/%s"%(pathSelf,DOTXT)
+log.debug("RELPATH:\t%s"%RELPATH)
+EXPAS = "%s/%s"%(RELPATH,MAPID)
+log.debug("EXPAS:\t%s"%EXPAS)
+
+
+</t>
+<t tx="zoomq.20100909213420.7982"># --fdp 响应:切换dot 生成命令
+if ov.fdp:
+    DOTORDER = DOFDP
+else:
+    DOTORDER = DODOT
+#DODOT = "dot %s.dot -Tpng -o %s.png -Tcmapx -o %s.map"
+log.info(DOTORDER%(DOTXT,EXPAS,EXPAS))
+try:
+    #,universal_newlines=True,close_fds=True
+    p =  subprocess.Popen(DOTORDER%(DOTXT,EXPAS,EXPAS)
+        ,shell=True
+        ,stdin=subprocess.PIPE
+        ,stdout=subprocess.PIPE
+        ,stderr=subprocess.PIPE)
+    #i, r, e = (p.pid, p.stdout, p.stderr)
+    #log.debug("retcode:\t%s"%retcode)
+    log.debug("subID:\t%s"%p.pid)
+    #log.debug("stdin:\t%s"%p.stdin.readlines())
+    log.debug("stderr:\t%s"%"".join(p.stderr.readlines()))
+    #log.debug("stdout:\t%s"%"".join(p.stdout.readlines()))
+except OSError, e:
+    log.debug("OSError:\t%s"%e)
+
+</t>
+<t tx="zoomq.20100910090235.10618">def __chkPath(path,log):
+    '''检验路径，如果为空，设为 . 以便统一使用 "%s/%s"%(path,file) 形式
+    '''
+    if 0 == len(path):
+        return "."
+    else:
+        return path
+
+
+</t>
+<t tx="zoomq.20100910090235.7985">@language javascript
+@tabwidth -4
+digraph SomeGraph {
+    rankdir=LR;
+    A-&gt;{ B C };
+    B-&gt;C-&gt;D;
+}
+</t>
+<t tx="zoomq.20100910090235.9601">#&lt;title&gt;%(pageTitle)s&lt;/title&gt;
+#        &lt;img src="data:image/%(picType)s;base64,%(mainMapURI)s" 
+#            id="%(mainMap)s" alt="%(mainMap)s"/&gt;
+#    %(mainImageMaps)s
+#        &lt;img src="data:image/%(picType)s;base64,%(legendMapURI)s" 
+#            usemap="#%(legendMap)s"
+#            id="%(legendMap)s" alt="%(legendMap)s"/&gt;
+#        %(legendImageMap)s
+#   %(styleData)s
+#   jsActions
+genTime = datetime.now().strftime(log.tformatter)
+pageTitle = "%s {by %s v%s at:%s}"%(ov.title
+    ,SCRIPT
+    ,VERSION
+    ,genTime
+    )
+#log.debug("mainMapURI:\t%s.%s.b64"%(EXPAS,picType))
+mainMapURI = open("%s.%s.b64"%(EXPAS,picType),'r').read()
+#log.debug("mainMapURI:\t%s"%mainMapURI)
+mainMap = MAPID
+#log.debug("dotmap:\t%s.map"%EXPAS)
+#log.debug(open("%s.map"%EXPAS,'r').read())
+mainImageMap = open("%s.map"%EXPAS,'r').read()
+
+legendMap = DEFLEGEND
+legendMapURI = open("%s/%s.%s.b64"%(pathSelf,DEFLEGEND,picType),'r').read()
+legendImageMap = open("%s/%s.map"%(pathSelf,DEFLEGEND),'r').read()
+
+list4jsEmbed = fnmatch.filter(os.listdir("%s/j"%pathSelf),"*.js")
+list4jsEmbed.sort()
+log.debug(list4jsEmbed)
+jsActions = "".join([open("%s/j/%s"%(pathSelf,i),'r').read() for i in list4jsEmbed])
+
+if "stdout" == DEFEXPORT:
+    log.debug("DEFEXPORT:\t sys.stdout")
+    sys.stdout.write(TPLidxHTM%locals())
+else:
+    log.debug("DEFEXPORT:\t %s"%DEFEXPORT)
+    open(DEFEXPORT,'w').write(TPLidxHTM%locals())
+#log.debug(TPLidxHTM%locals())
+</t>
+<t tx="zoomq.20100913101742.6759">"""usage dot exp png+img map,auto usage html tpl writ out idenx page!
+#dotPageTitle dotPageStyle imgame mapname map4dot
+考虑通用的参数组合处理:
+    +-- 工作流方式
+    +-- 图转换?
+#ov:   默认 dotscript expage 三条件,
+组合:
+    empty:
+        +-- 内置dot文本
+        +-- 输出到脚本所在目录
+    仅dotscript
+        +-- 指定dot文本
+        +-- 输出到dot脚本所在目录
+    仅expage
+        +-- 内置dot文本
+        +-- 输出到指定页面所在目录
+    dotscript and expage
+        +-- 指定dot文本
+        +-- 输出到指定页面所在目录
+"""
+</t>
+<t tx="zoomq.20100913101742.6761">def imgDataURI(pathPic,picName,log):
+    '''转化图片文件为 DataURI内置数据文本!
+    '''
+    from base64 import b64encode
+    #log.debug("__imgDataURI:\t%s/%s"%(pathPic,picName))
+    dataURI = b64encode(open("%s/%s"%(pathPic,picName),'rb').read())
+    b64file = "%s/%s.b64"%(pathPic,picName)
+    open(b64file,"w").write(dataURI)
+    return dataURI
+
+
+</t>
+<t tx="zoomq.20100913101742.9614">log.debug("dotmap:\t%s.%s"%(EXPAS,IMGTYPE))
+picType = IMGTYPE
+imgDataURI(RELPATH,"%s.%s"%(MAPID,IMGTYPE),log)
+uriEmbed = ""
+'''
+# embded 图例
+dataID = DEFLEGEND
+dataURI = open("%s/%s.%s.b64"%(pathSelf,DEFLEGEND,IMGTYPE),'r').read()
+imgWidth = getJpegInfo(pathSelf,"%s.%s"%(DEFLEGEND,IMGTYPE),log)[0]
+uriEmbed += TPLcssURI%locals()
+# embded 主图谱
+dataID = MAPID
+dataURI = imgDataURI(RELPATH,"%s.%s"%(MAPID,IMGTYPE),log)
+imgWidth = getJpegInfo(RELPATH,"%s.%s"%(MAPID,IMGTYPE),log)[0]
+uriEmbed += TPLcssURI%locals()
+'''
+#log.debug(locals().keys())
+list4cssEmbed = fnmatch.filter(os.listdir("%s/css"%pathSelf),"*.css")
+list4cssEmbed.sort()
+log.debug(list4cssEmbed)
+cssEmbed = "".join([open("%s/css/%s"%(pathSelf,i),'r').read() for i in list4cssEmbed])
+
+styleData = TPLcssZIP%locals()
+#log.debug("styleData:\n\t%s"%styleData)
+</t>
+<t tx="zoomq.20100913225758.6763">def getJpegInfo(pathPic,picName,log):
+    '''base Python and the JPEG Image File, Part 1, The Header - Python
+    http://www.daniweb.com/forums/thread71188.html
+        print out the hex bytes of a jpeg file, find end of header, image size, and extract any text comment
+        (JPEG = Joint Photographic Experts Group)
+        tested with Python24    vegaseat    21sep2005
+    '''
+    try:
+        # the sample jpeg file is an "all blue 80x80 200dpi image, saved at a quality of 90"
+        # with the quoted comment added
+        imageFile = '%s/%s'%(pathPic,picName)
+        data = open(imageFile, "rb").read()
+    except IOError:
+        print "Image file %s not found" % imageFile
+        raise SystemExit
+    # initialize empty list
+    hexList = []
+    for ch in data:
+        # make a hex byte
+        byt = "%02X" % ord(ch)
+        hexList.append(byt)
+    &lt;&lt;16进制数据&gt;&gt;
+    # find pixel width and height of image
+    # located at offset 5,6 (highbyte,lowbyte) and 7,8 after FF C0 or FF C2 marker
+    for k in range(len(hexList)-1):
+        if hexList[k] == 'FF' and (hexList[k+1] == 'C0' or hexList[k+1] == 'C2'):
+            #print k, hex(k)  # test
+            height = int(hexList[k+5],16)*256 + int(hexList[k+6],16)
+            width  = int(hexList[k+7],16)*256 + int(hexList[k+8],16)
+            #print "width = %d  height = %d pixels" % (width, height)
+            log.debug("width = %d  height = %d pixels" % (width, height))
+            return (str(width),str(height))
+    # find any comment inserted into the jpeg file
+    # marker is FF FE followed by the highbyte/lowbyte of comment length, then comment text
+    '''
+    comment = ""
+    for k in range(len(hexList)-1):
+        if hexList[k] == 'FF' and hexList[k+1] == 'FE':
+            #print k, hex(k)  # test
+            length = int(hexList[k+2],16)*256 + int(hexList[k+3],16)
+            #print length  # test
+            for m in range(length-3):
+                comment = comment + chr(int(hexList[k + m + 4],16))
+                #print chr(int(hexList[k + m + 4],16)),  # test
+                #print hexList[k + m + 4],  # test
+
+    if len(comment) &gt; 0:
+        print comment
+    else:
+        print "No comment"
+    '''
+</t>
+<t tx="zoomq.20100913225758.6764">#print hexList  # test
+'''
+print
+print "hex dump of a 80x80 200dpi all blue jpeg file:"
+print "(the first two bytes FF and D8 mark a jpeg file)"
+print "(index 6,7,8,9 spells out the subtype JFIF)"
+k = 0
+for byt in hexList:
+    # add spacer every 8 bytes
+    if k % 8 == 0:
+        print "  ",
+    # new line every 16 bytes
+    if k % 16 == 0:
+        print
+    print byt,
+    k += 1
+
+print
+print "-"*50
+
+# the header goes from FF D8 to the first FF C4 marker
+for k in range(len(hexList)-1):
+    if hexList[k] == 'FF' and hexList[k+1] == 'C4':
+        #print "end of header at index %d (%s)" % (k, hex(k))
+        log.debug("end of header at index %d (%s)" % (k, hex(k))
+        break
+'''
+
+</t>
+<t tx="zoomq.20100914090206.8002">#&lt;title&gt;%(pageTitle)s&lt;/title&gt;
+#    &lt;div id="%(mainMap)s"/&gt;
+#    %(mainImageMaps)s
+#    &lt;div id="%(mapLegend)s"/&gt;
+#   %(styleData)s
+TPLidxHTM='''&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN"&gt;
+&lt;head&gt;
+  &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" &gt;
+  &lt;title&gt;%(pageTitle)s&lt;/title&gt;
+	&lt;link rel="icon" href="http://zoomquiet.org/res/m/i/zqstudio.ico" type="image/gif"&gt;
+	&lt;link rel="shortcut icon" href="http://zoomquiet.org/res/m/i/zqstudio.ico" type="image/gif"&gt;
+&lt;style type="text/css"&gt;
+%(styleData)s
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--Sticky Footer Solution  http://www.cssstickyfooter.com--&gt;
+&lt;div id="wrap"&gt;
+    &lt;div id="main" class="clearfix"&gt;
+        &lt;img src="data:image/%(picType)s;base64,%(mainMapURI)s" 
+            usemap="#%(mainMap)s"
+            id="%(mainMap)s" alt="%(mainMap)s"/&gt;
+        %(mainImageMap)s
+
+	&lt;/div&gt;&lt;!-- cssstickyfooter::id="main" class="clearfix"--&gt;
+&lt;/div&gt;&lt;!-- cssstickyfooter::id="wrap"--&gt;
+'''
+@others
+</t>
+<t tx="zoomq.20100914090206.8004">TPLcssURI='''#%(dataID)s {
+    margin-left: %(imgWidth)spx;
+    background-image: url('data:image/%(picType)s;base64,%(dataURI)s') top left no-repeat;
+}
+'''
+TPLcssZIP='''
+%(cssEmbed)s
+
+%(uriEmbed)s
+'''</t>
+<t tx="zoomq.20100914171624.6772">TPLidxHTM+='''
+&lt;div id="footer" class="footbar"&gt;
+        &lt;img src="data:image/%(picType)s;base64,%(legendMapURI)s" 
+            usemap="#%(legendMap)s"
+            id="%(legendMap)s" alt="%(legendMap)s"/&gt;
+        %(legendImageMap)s
+&lt;hr/&gt;
+&lt;br/&gt;
+&lt;a href="http://www.w3.org/TR/CSS2/"&gt;
+&lt;img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAMAAABEF7i9AAAAYFBMVEWov9fi4+PY4++Wr86etdLs7/Pl7PSTk5TY2Nh8nsLy9viysrIALn0zYp1ubm5HdKn1+ftBaqLLysmLqcnL2ej6/P1Vfq9sjrkvLy8TS4+8zuElV5YEPIUAAAD///8FSI3S6VXqAAAA6UlEQVR42q3TSYrDQBBEUcma56nmSn/d/5amu5ExXgm1giKWjySTSp43J3lya35Av4EZCghedi+W2rmu69gv5BdclpZEAlifh0mCdm50br0ObqIIfUMbDYW3dC6lq7gOKsnY+kk/ZMPEkqoC+AOP5ugzYDtM87T7MhcV+qio1jfI8fajz4BYH2ITczPoYKNXa/0Jfs55Fkz2KbZm8A0QxM7tAX6Px0mwjL1hkz0AeokzXzvk3SdBTL+hJJYPzbzEFKBOr18ZMlHowcxLMwex6wq1W/8DqkmDzbCyeP8oxnF0o74K3v+Xb84LJUWFnPSsMq4AAAAASUVORK5CYII=" 
+    id="css2" alt="css2"/&gt;
+&lt;/a&gt;
+&lt;a href="http://www.w3.org/TR/xhtml1/"&gt;
+&lt;img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAMAAABEF7i9AAAAYFBMVEWov9fi4+PY4++Wr86etdLs7/Pl7PSTk5TY2Nh8nsLy9viysrIALn0zYp1ubm5HdKn1+ftBaqLLysmLqcnL2ej6/P1Vfq9sjrkvLy8TS4+8zuElV5YEPIUAAAD///8FSI3S6VXqAAAA8klEQVR42q3T2YqEMBQEUPdds5g9tyv//5fjSGPTMCg4FqmXQA6XhGSvh5O98Gh+Qb8CZq6B4Cl5suicG8cR6UZ2UIgBGQXA+iowCtq5xTl5H1xJIUw9hmhQe4vR5Rhb3AcVlVgnpgtaYWKDtsWWHdx7LOCzcwYOM+Ms+aYiFaao0MoDTPgI7yLhCoT1IfaxMrMONnoluwN8n/yaF+kSzBKLg5l9DyCQ5cPJhFuvwSZOBiulAECLyPF9h3+CwAkIM61QFJtCg4uYY0uX339loCQFPRsueh7ISrl5Tv4HVEwDtoQl4X1RL8viFn0XfP4vP5wf+GiFiXJO3ocAAAAASUVORK5CYII=" 
+    id="xhtml" alt="xhtml"/&gt;
+&lt;/a&gt;
+&lt;a href="http://browsehappy.com/why/"&gt;
+&lt;img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAMAAABEF7i9AAABlVBMVEUeitkghtohhNghkN0if9UigtkikN4ikd8ik98ileAil+AimeEimuAje8wjhNwjh90jitwjj98kh9klh90lid8liuAli+AlouQmh94mitgmitsnpuYqj9crk+Qrq+YtouEususxi88znug0p+I1r904jc4+ktQ+qOo/vulBotREyu9Uk85YtONlz+xmZmZoxe1qp9hvrdtzvNh1y+Z6qst7v9yAt96Es9uEtN6GzeWJoMeMrc+NwdmOutuPw+WQud2Rxd6T0OWWe5qazeWcyOmfz+mf2O2iutWmx+Soz+Kpy+ap2uyryuWtkqyt2Omvy+Svy+Wwy+Wwzuay0OK42u270ea82ei+3+vA3OrCorLF2OrJxNTL4PDN4PHO3OnP4e3W4uzc7PPi6/Pi7/bn8PboHybt9fnuIynv9Pfx9fn0Jyr0+Pr2+Pn2+fv2+fz2+vv4+vv6w8X7eXr7/P38/P39LS39/v7+/v7/AAD/AgL/ExP/Li7/QED/YWH/fHz/i4v/mpr/trb/x8f/6ur/9fX//Pz////7om9CAAABKElEQVR42q2TVW/DQBCEXWZuU2amlJmZmZmZKdnYTuI4zvzuSidbp0ayKsWel9m5h0+j2zvBabMEJ5h8ksr8bffg0YfIZQAVieC62FudGr/F0Y/CzigCGUBNVEETXa1NFeW9r+cfomYV6PfiaYA6G8ryU2Lan+H1WwXKASz0DNPM9Wh8VvYhArIBBHEycz3yAeCBA8Wgq3urppqW54scuf0IihzIzAD+TTDMCBzoCX2fNhYnCxSVkZ7TgZDHtCFPgG46MKwhRlKTSo5PaGN988ysIbd/G8qBl8rEhMzF9zUqbNk3v0Oe2MSBQPiWd2rrHHlxadFVNPtlw5Y1caXvsjm2oLS+bYmgWn+HUO4G3Q9DY9PbV26QpMAyEJ83k3P3bFIli3/ZZv0CIEnzewB06Q4AAAAASUVORK5CYII=" 
+    id="noIE!" alt="noIE!"/&gt;
+&lt;/a&gt;
+&lt;a href="http://www.w3.org/TR/xhtml1/"&gt;
+&lt;img
+ src="data:image/png;base64,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" 
+    id="jQuery" alt="jQuery"/&gt;
+&lt;/a&gt;
+powered by:
+    &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;
+    ,&lt;a href="http://webpages.charter.net/edreamleo/front.html"&gt;Leo&lt;/a&gt;
+    ,&lt;a href="http://www.graphviz.org/About.php"&gt;graphviz&lt;/a&gt;
+    ,&lt;a href="http://www.ubuntu.org.cn/"&gt;Ubuntu&lt;/a&gt;
+    ,&lt;a href="http://www.inkscape.org/"&gt;Inkscape&lt;/a&gt;
+    ,&lt;a href="http://www.catb.org/hacker-emblem/"&gt;Hacker&lt;/a&gt;
+    ,&lt;a href="http://wenq.org/" title="文泉驿"&gt;
+    &lt;img src="http://wenq.org/images/powered_by_wqy_14px.png" alt="文泉驿提供动力"/&gt;
+ &lt;/a&gt;
+
+{
+&lt;a href="http://creativecommons.org/licenses/by-sa/2.5/cn/"&gt;
+&lt;img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAIAAAD8q9/YAAAABGdBTUEAANbY1E9YMgAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIySURBVHjaYmAYYYARiP///z9SfMvIyAJhrdm0Glliz669M6fO7OjoKC8vx9Tm6up66tSptu5WcQlxIFdeVsHVyfXjh4+D3LeQeGXClHj54uXyxctx+RYIdu/ebWZmNrl/CoT74eOHwoLCoRLJWDy8fMkKYWFhXL6FAGBw3Lxxc8PajUD2x08fPHw8vH28h6qHL128lJ6eDmScPXtWWVkZmO6Bafj9+/dAEsgGigDFjY2NXVxcrl29BjWFiQnIRUs/EICcnDDZ+LXQonBhwvDt5c+fPgP9A2SHhYUBGUBbgWRnZyfQn+/evQPG/L1794CyQME7t+/AUzUwkWOWEEAAcTScASSBbKy+ZYQBZC7V/Yzu4a9fvgBJQUFBYJQCPQbxOTABA9lKSkpA8bS0tNDQUFgRD3X6z58/GFkYscYY3HsQ18O5aPEJkUVLCPSIYW4eHiAJ9C3Qb0AfAmMVUiwDuUA/A8UrKipmzZqFljjZ2Tn+//mPJ4ax1hDw+MSqHk2WVh7W09fl5eWF+BMYsXv27AHaCvQ5kA2MbSEhIaAIJLueOXNGUVkRokuAXwBYUeGPYYJ1BknqKW14INfDfV39z58+v3//Ph5twBAxMTGJjosOCPYHcmWl5Zobmrdu2TrI62FgaGIppaPjot6+fQOMUjyay8rKVFSVIb7l5xPYsWXHIPctvmoJ2H5KzUytrKxsb2/HqsfJ2en69esFJQXw9Nw/oX+0LT1I29IjrbPEABBgAEdwNeO7yfOaAAAAAElFTkSuQmCC" 
+    id="(cc)/by-sa/" alt="(cc)/by-sa/"/&gt;
+&lt;/a&gt;
+}
+
+
+&lt;/div&gt;&lt;!-- cssstickyfooter::id="footer"--&gt;
+&lt;!--Sticky Footer Solution
+http://www.cssstickyfooter.com
+--&gt;
+&lt;script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+%(jsActions)s
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+'''
+</t>
+<t tx="zoomq.20100914211211.6779">@language javascript
+@tabwidth -4
+digraph obp_zoomquiet_org_idx {
+    /*生成命令:
+$ dot -Tjpeg zoomquiet_org_idx.dot -o zoomquiet_org_idx.jpg -Tcmapx -o zoomquiet_org_idx.map
+$ neato -Tpng idx-zoomquiet.dot -o idx-zoomquiet.png -Tcmapx -o idx-zoomquiet.map
+    全局设定
+    */
+    graph [label=""
+        ,fontsize=12.0,fontcolor=snow
+        ,labeljust="l",labelloc="b",center=1
+        ,ranksep=0.1,center=1,ratio=compress
+        ,rankdir=BT
+        ,truecolor bgcolor="#333333"
+        ];
+
+    node[fontsize=11.0,height=0.3
+        ,style="filled,setlinewidth(0.5)",fillcolor="#333333",color=gray,fontcolor=snow
+        ,shape=plaintext
+        ];
+
+    edge [fontsize=9.0,fontcolor=gray
+        ,color=azure
+        ,arrowsize=0.6,arrowhead=vee,arrowtail=none
+        ,style="setlinewidth(0.5)"
+        ];
+    @others
+}
+</t>
+<t tx="zoomq.20100914211211.6780">ZQ  [label="zoomquiet.org",shape=ellipse,style="dotted"
+    ,URL="http://zoomquiet.org"];
+
+title [label="obp.zoomquiet.org 图书索引 \n{gen. by Graphviz}\nTime is unimprtant,only life important!"
+    URL="http://code.google.com/p/zqlib/source/browse/tangle/zoomquiet.leo/dot/obp_zoomquiet_org_idx.dot"];
+
+mailme [label="电俺",shape=ellipse,style="filled,dashed,setlinewidth(5)"
+    ,color="#333333",fillcolor=dimgray
+    ,URL="mailto:zoomquiet+sns@gmail.com?subject=obp.zoomquiet.org mapping feedback"];
+
+@others
+
+</t>
+<t tx="zoomq.20100914211211.6781">CPUG     [label="CPyUG\n~ChinesePythonUserGroup\n~华蟒用户组",shape=component
+    ,URL="http://wiki.woodpecker.org.cn/moin/CPUG"];
+ZEUUX    [label="ZEUUX.org\n~哲思社区",shape=component
+    ,URL="http://www.zeuux.org"];
+support  [label="支持",shape=folder];
+OBP      [label="OBP\n~OpenBookProjects\n开放图书计划",shape=box3d
+    ,URL="http://code.google.com/p/openbookproject/"];
+author   [label="成员",shape=folder];
+    self       [label="Zoom.Quiet",shape=egg,URL="http://zoomquiet.org"];
+    WY       [label="Yan Wu",shape=egg,URL="http://code.google.com/p/openbookproject/wiki/YanWu"];
+    LLX      [label="林路翔",shape=egg,URL="http://code.google.com/p/openbookproject/wiki/LinLuxiang"];
+    JeanToe      [label="JeanToe",shape=egg,URL="http://code.google.com/p/openbookproject/wiki/JeanToe"];
+    Liz      [label="盛艳",shape=egg,URL="http://code.google.com/u/shengyan1985/"];
+
+include  [label="含",shape=folder];
+    w2pyzh   [label="Web2py手册",shape=box3d
+        ,URL="/w2py_manual_zh"];
+    leodoc   [label="Leo手册\nv4.7",shape=box3d
+        ,URL="/leo_doc_zh"];
+    pyblosxom   [label="PyBlosxom手册\nv1.5-rc1",shape=box3d
+        ,URL="/pyblosxom_zh"];
+    tpipy   [label="TPiPy 中文版",shape=box3d
+        ,URL="/tpipy_zh"];
+    pywdwpy   [label="蟒样web开发\n基于web.py",shape=box3d
+        ,URL="/pywdwpy"];
+</t>
+<t tx="zoomq.20100914211211.6784">ZQ-&gt;OBP [label="返回主站",arrowhead=none,arrowtail=vee];
+ZEUUX-&gt;support;
+    CPUG-&gt;support;
+support-&gt;OBP-&gt;author;
+    author-&gt;self-&gt;{w2pyzh leodoc pyblosxom tpipy pywdwpy};
+    author-&gt;{WY LLX Liz JeanToe}-&gt;w2pyzh;
+
+OBP-&gt;include-&gt;{w2pyzh leodoc pyblosxom tpipy};
+    include-&gt;pywdwpy [label="原创！\n筹备ing..."];
+
+edge [style=invis];
+title-&gt;ZQ;
+mailme-&gt;OBP;
+
+</t>
+<t tx="zoomq.20100915085348.9250">@path html-s5
+手工写HTML的 s5</t>
+<t tx="zoomq.20100915085348.9351">@path rst2s5
+$ python rst2s5 --current-slide --theme-url=ui/freedom
+--no-footnote-backlinks</t>
+<t tx="zoomq.20100915085348.9352">@language rest
+@tabwidth -4
+.. include:: &lt;s5defs.txt&gt;
+
+==================================================================
+我的工具箱
+==================================================================
+
+～持续的效率进化之旅 (powered by rst2S5)
+
+:Authors: `Zoom.Quiet &lt;zoomquiet+sns@gmai.com&gt;`__
+:Date:    `2010-09-18 &lt;http://wiki.szlug.org/w/Software_Freedom_Day_2010&gt;`__
+
+&lt;&lt;DOCDEFINE&gt;&gt;
+
+&lt;&lt;footer&gt;&gt;
+
+@others
+
+</t>
+<t tx="zoomq.20100915085348.9450">&lt;版本/&gt;
+=========
+
+- 100915 迁移为 rST2S5 格式
+- 100817 为SFD2010zs 重构... 
+- 100728 增补髙桥流以及蕃茄时间说明 
+- 100727 增补各种截屏 
+- 100724 为金山新人培训重构 
+- 100331 为珠三角技术沙龙创建
+
+.. image:: ui/freedom/cc-byncnd-88x31.png
+   :alt: CC 许可证
+</t>
+<t tx="zoomq.20100915085348.9451">.. This document has been placed in the CC domain.
+.. _Docutils: http://docutils.sourceforge.net/
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+.. _S5: http://meyerweb.com/eric/tools/s5/
+.. _Firefox: http://www.mozilla.com/firefox/
+.. |bullet| unicode:: U+02022
+.. |mode| unicode:: U+00D8 .. capital o with stroke
+
+.. _Zoom.Quiet:
+    http://code.google.com/p/openbookproject/wiki/ZoomQuiet
+.. _(CC)by-sa:
+    http://creativecommons.org/licenses/by-sa/2.5/cn
+.. _FireFox:
+    http://www.mozilla.com/firefox/
+
+</t>
+<t tx="zoomq.20100915085348.9453">.. footer:: 
+   .. class:: borderless
+
+   =============  ====================================
+   `Zoom.Quiet`_  `(CC)by-sa`_
+   -------------  ------------------------------------
+   v10.09.16      推荐用 `FireFox`_ 获得最佳游览效果
+   =============  ====================================
+</t>
+<t tx="zoomq.20100916094556.6791">图书相关图谱</t>
+<t tx="zoomq.20100916094556.6792">zoomquiet.org 网站图谱
 </t>
 </tnodes>
 </leo_file>

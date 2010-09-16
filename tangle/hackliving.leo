@@ -10,8 +10,18 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
-<v t="zoomq.20100831135717.3642" a="E"><vh>WeKnow</vh>
-<v t="zoomq.20100831135717.3643" a="E"><vh>可视化</vh>
+<v t="zoomq.20100903210229.3838" a="E"><vh>Hacking Life</vh>
+<v t="zoomq.20100903210229.3896"><vh>KM思绪</vh>
+<v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh></v>
+</v>
+<v t="zoomq.20100903210229.3839" a="E"><vh>巨坑分析:</vh>
+<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh></v>
+<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh></v>
+<v t="zoomq.20100903210229.3841"><vh>OBP</vh></v>
+<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh></v>
+</v>
+<v t="zoomq.20100831135717.3642"><vh>WeKnow</vh>
+<v t="zoomq.20100831135717.3643"><vh>可视化</vh>
 <v t="zoomq.20100831135717.4174"><vh>webSequenceDiagram</vh>
 <v t="zoomq.20100831135717.4171"><vh>@nosent getSequenceDiagram.py</vh>
 <v t="zoomq.20100831135717.4172"><vh>declarations</vh></v>
@@ -30,8 +40,73 @@
 </v>
 </v>
 </v>
-<v t="zoomq.20100412163057.2814" a="E"><vh>Misc任务</vh>
-<v t="zoomq.20100412163057.2815" a="E"><vh>病毒样本对比</vh>
+</v>
+<v t="zoomq.20100903210229.3876"><vh>4lifeHacking</vh>
+<v t="zoomq.20100903210229.3843"><vh>misc</vh>
+<v t="zoomq.20100903210229.3844" a="M"><vh>_stuff</vh>
+<v t="zoomq.20100903210229.3845"><vh>dict sort</vh></v>
+<v t="zoomq.20100903210229.3846"><vh>dislin-0.py</vh>
+<v t="zoomq.20100903210229.3847"><vh>dislin-0 declarations</vh></v>
+</v>
+<v t="zoomq.20100903210229.3878"><vh>@nosent try0.txt</vh>
+<v t="zoomq.20100903210229.3879"><vh>&lt;&lt;my sub node&gt;&gt;</vh>
+<v t="zoomq.20100903210229.3880"><vh>&lt;&lt;我的&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3851"><vh>@nosent try1.txt</vh>
+<v t="zoomq.20100903210229.3879"></v>
+</v>
+<v t="zoomq.20100903210229.3854"><vh>@nosent plotry.py</vh></v>
+<v t="zoomq.20100903210229.3855"><vh>@nosent plotry1.py</vh></v>
+<v t="zoomq.20100903210229.3856"><vh>@nosent dictsort.py</vh></v>
+<v t="zoomq.20100903210229.3857"><vh>@nosent plotry2.py</vh></v>
+</v>
+<v t="zoomq.20100903210229.3858"><vh>unitest</vh>
+<v t="zoomq.20100903210229.3859"><vh>@nosent test0.py</vh></v>
+</v>
+<v t="zoomq.20100903210229.3860"><vh>_cron</vh>
+<v t="zoomq.20100903210229.3861"><vh>inter.131</vh></v>
+<v t="zoomq.20100903210229.3862"><vh>intra.59</vh>
+<v t="zoomq.20100903210229.3863"><vh>@nosent doykseoAM.sh</vh></v>
+<v t="zoomq.20100903210229.3864"><vh>@nosent doykseoPM.sh</vh></v>
+<v t="zoomq.20100903210229.3865"><vh>@nosent mldledSyncAll.sh</vh>
+<v t="zoomq.20100903210229.3866"><vh>&lt;&lt; init &gt;&gt;</vh></v>
+<v t="zoomq.20100903210229.3867"><vh>&lt;&lt; sync p2ped &gt;&gt;</vh></v>
+<v t="zoomq.20100903210229.3868"><vh>&lt;&lt; sync runlog &gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3869"><vh>intra.61</vh></v>
+<v t="zoomq.20100903210229.3870"><vh>intra.101</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3877"><vh>tpl</vh>
+<v t="zoomq.20100903210229.3878"></v>
+</v>
+<v t="zoomq.20100903210229.3881"><vh>@nosent cfg.py</vh></v>
+<v t="zoomq.20100903210229.3882"><vh>@nosent tilog_chart.py</vh>
+<v t="zoomq.20100903210229.3883"><vh>&lt;&lt; tilog_chart declarations &gt;&gt;</vh></v>
+<v t="zoomq.20100903210229.3884"><vh>tilogchart()</vh></v>
+<v t="zoomq.20100903210229.3885"><vh>radar4month</vh>
+<v t="zoomq.20100903210229.3886"><vh>formatotmr()</vh></v>
+<v t="zoomq.20100903210229.3887"><vh>monthradar()</vh></v>
+</v>
+<v t="zoomq.20100903210229.3888"><vh>pie4month</vh>
+<v t="zoomq.20100903210229.3889"><vh>formatotm()</vh></v>
+<v t="zoomq.20100903210229.3890"><vh>monthpie()</vh></v>
+</v>
+<v t="zoomq.20100903210229.3891"><vh>line4day</vh>
+<v t="zoomq.20100903210229.3892"><vh>formatlog()</vh></v>
+<v t="zoomq.20100903210229.3893"><vh>dayline()</vh></v>
+</v>
+<v t="zoomq.20100903210229.3894"><vh>expchart()</vh></v>
+<v t="zoomq.20100903210229.3895"><vh>expplot()</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3872"><vh>rc.local</vh>
+<v t="zoomq.20100903210229.3873"><vh>@shadow xinput4bamboo.py</vh></v>
+</v>
+<v t="zoomq.20100412163057.2814"><vh>Misc任务</vh>
+<v t="zoomq.20100412163057.2815"><vh>病毒样本对比</vh>
 <v t="zoomq.20100902112115.7756"><vh>@nosent virusampls-ratio.py</vh>
 <v t="zoomq.20100902112115.7757"><vh>declarations</vh></v>
 <v t="zoomq.20100902112115.7758"><vh>processLogKV</vh></v>
@@ -54,7 +129,7 @@
 <v t="zoomq.20100827095209.8306"><vh>genUrlist</vh></v>
 </v>
 </v>
-<v t="zoomq.20100827095209.8299" a="E"><vh>清除字幕字体聲明</vh>
+<v t="zoomq.20100827095209.8299"><vh>清除字幕字体聲明</vh>
 <v t="zoomq.20100827095209.8310"><vh>@nosent clfontd4.py</vh>
 <v t="zoomq.20100827095209.8311"><vh>declarations</vh></v>
 <v t="zoomq.20100827095209.8312"><vh>cleaner()</vh></v>
@@ -63,17 +138,17 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="zoomq.20091008173724.1"></t>
-<t tx="zoomq.20100122092723.2783">@path /home/zoomq/media/manga</t>
+<t tx="zoomq.20091008173724.1">'/home/zoomq/workspace/3hg/zqlib-hg/tangle/hackliving.leo'</t>
+<t tx="zoomq.20100122092723.2783">@path media/manga</t>
 <t tx="zoomq.20100122092723.2784">@path 2graspic/ellytran.com/wp-content/gallery
 #/home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
-<t tx="zoomq.20100412163057.2814"></t>
-<t tx="zoomq.20100412163057.2815">@path /home/zoomq/ssp-zoom.quiet/virusampls-ratio
+<t tx="zoomq.20100412163057.2814">@path /home/zoomq/</t>
+<t tx="zoomq.20100412163057.2815">@path ssp-zoom.quiet/virusampls-ratio
 #/home/zoomq/Desktop/KiS/zoom.quiet/100412-virus-sample-selector
 #/home/zoomq/vbox2win/0day/zoom.quiet/100412-virus-sample-selector
 #/home/zoomq/data/0day-vbox/zoom.quiet/100412-virus-sample-selector
 </t>
-<t tx="zoomq.20100827095209.8299">@path /home/zoomq/_stuff/_mov
+<t tx="zoomq.20100827095209.8299">@path _stuff/_mov
 网络字幕，有的::
     
 1
@@ -511,5 +586,982 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
 
 
 </t>
+<t tx="zoomq.20100903210229.3838">@path /home/zoomq/workspace/3hg/zqlib-hg/tangle
+@language python
+@tabwidth -4
+
+人生hacking...
+
+</t>
+<t tx="zoomq.20100903210229.3839">当前工作外长期拖延的意义任务...
+
+
+</t>
+<t tx="zoomq.20100903210229.3840">+-- zoomquiet.org 发布改版:
+    +-- dot mapping:
+        +-- #通用含热区html输出:
+            +-- 固化运营脚本的代码结构...:
+                +-- '参数'
+                +-- "日志/调试"
+            +-- 'Data-URI 集约化所有到一个HTML'
+            +-- 文档TTD
+    +-- ScrapBook:
+        +-- 索引优化:
+            +-- 分层简化
+            +-- 嵌入原始URL
+            +-- 分年度保存data 
+    +-- PyBlosxom:
+        +-- 部署:
+            +-- Hg hook
+            +-- crontab 备份?
+        +-- 优化:
+            +-- 图片合并css 配合
+            +-- JS 合并压缩
+            +-- CSS 合并压缩
+        +-- Leo配合:
+            +-- 自动事务按钮:
+                +-- t2t编译
+                +-- 静态化发布
+        +-- 评注:
+            +-- 外部JS 评注服务
+            +-- WeKnow GAE服务
+                +-- Cloudant 使用
+
+</t>
+<t tx="zoomq.20100903210229.3841">+-- OBP:
+    +-- Shpnix 自动化编译Hg hooks
+    +-- 图书:
+        +-- 大妈书:
+            +-- 牛妞成长史
+            +-- 私人编年史:
+                +-- #周氏家谱....
+                +-- 不可失败的菜谱
+        +-- #Sphinx实用手册
+            +-- rst2s5 使用
+        +-- TPiP
+            +-- Leo doc
+            +-- Code_Like_Pythonic-Idiomatic_Python
+            +-- Hidden features of Python
+            +-- Py标准文档:
+                +-- 库
+                +-- 教程
+            +-- web2py
+        +-- TheArt-of-Community-1ed_jonobacon
+        +-- Thinking_in_Erlang.pdf</t>
+<t tx="zoomq.20100903210229.3842">+-- WeKnow:
+    +-- ScrapBook 社会化分享
+    +-- CPyUG 列表综合活跃分析~ codeworm
+    +-- 时间帐单自动分析统计:
+        +-- #手工记录
+        +-- Workrave 
+        +-- http://wakoopa.com/ZoomQuiet
+        +-- Gmail 时间点对应
+
+</t>
+<t tx="zoomq.20100903210229.3843">支持片段代码收集...</t>
+<t tx="zoomq.20100903210229.3844">
+
+</t>
+<t tx="zoomq.20100903210229.3845">http://groups.google.com/group/python-cn/browse_thread/thread/1f674f2fe812fc67/b1f034f965d230ff?lnk=gst&amp;q=%E5%AD%97%E5%85%B8%E6%8E%92%E5%BA%8F&amp;rnum=1#b1f034f965d230ff
+
+sorted( iterable[, cmp[, key[, reverse]]])
+    Return a new sorted list from the items in iterable. The optional
+arguments cmp, key, and reverse have the same meaning as those for the
+list.sort() method. New in version 2.4. 
+
+&gt;&gt;&gt;
+
+for k, v in sorted(myDict.items()
+    , key=lambda x: x[1]
+    ,reverse=True):
+    print k,v 
+
+&gt;&gt;&gt;&gt;a better and quicker way:
+
+from operator import itemgetter
+sorted(myDict.iteritems(), key=itemgetter(1), reverse=True)
+
+:)
+
+</t>
+<t tx="zoomq.20100903210229.3846">@language python
+@tabwidth -4
+@others
+</t>
+<t tx="zoomq.20100903210229.3847">#! /usr/bin/env python
+import math
+import dislin
+
+n = 101
+f = 3.1415926 / 180.
+x = range (n)
+y1 = range (n)
+y2 = range (n)
+for i in range (0,n):
+  x[i] = i * 3.6
+  v = i * 3.6 * f
+  y1[i] = math.sin (v)
+  y2[i] = math.cos (v)
+
+dislin.metafl ('xwin')
+dislin.disini ()
+dislin.complx ()
+dislin.pagera ()
+
+dislin.axspos (450, 1800)
+dislin.axslen (2200, 1200)
+
+dislin.name   ('X-axis', 'X')
+dislin.name   ('Y-axis', 'Y')
+
+dislin.labdig (-1, 'X')
+dislin.ticks  (9, 'X')
+dislin.ticks  (10, 'Y')
+
+dislin.titlin ('Demonstration of CURVE', 1)
+dislin.titlin ('SIN (X), COS (X)', 3)
+
+ic = dislin.intrgb (0.95, 0.95, 0.95)
+dislin.axsbgd (ic)
+ 
+dislin.graf   (0., 360., 0., 90., -1., 1., -1., 0.5)
+dislin.setrgb (0.7, 0.7, 0.7)
+dislin.grid   (1,1)
+
+dislin.color  ('fore')
+dislin.height (50)
+dislin.title  ()
+
+dislin.color  ('red')
+dislin.curve  (x, y1, n)
+dislin.color  ('green')
+dislin.curve  (x, y2, n)
+dislin.disfin ()
+
+</t>
+<t tx="zoomq.20100903210229.3851">def try():
+    """
+    """
+    &lt;&lt;my sub node&gt;&gt;
+    pass
+    &lt;&lt;my sub node&gt;&gt;
+
+</t>
+<t tx="zoomq.20100903210229.3854">#!/usr/bin/env python
+import random, os, Gnuplot
+
+mean = 3
+strdev =  10
+ns = [10, 100, 1000, 10000]
+g = Gnuplot.Gnuplot()
+g('set multiplot')
+g('set size 0.5,0.5')
+
+for i in range(0, 4):
+ gauss = list()
+ for j in range(0, ns[i]):
+     gauss.append(list())
+     gauss[j].append(random.gauss(mean, strdev))
+     gauss[j].append(random.gauss(mean, strdev))
+
+ if i == 0:
+     g('set origin 0,0.5')
+ elif i == 1:
+     g('set origin 0.5,0.5')
+ elif i == 2:
+     g('set origin 0,0')
+ else:
+     g('set origin 0.5,0')
+
+ g.plot(gauss)
+
+g('unset multiplot')
+raw_input('Please press return to continue...\n') 
+</t>
+<t tx="zoomq.20100903210229.3855">#!/usr/bin/env python
+
+import random, os, Gnuplot
+
+mean = 3
+strdev =  10
+ns = [10, 100, 1000, 10000]
+g = Gnuplot.Gnuplot()
+g.plot([(0,2),(1,2),(2,2)])
+g('set multiplot')
+g('set size 0.5,0.5')
+
+</t>
+<t tx="zoomq.20100903210229.3856">@path olink_ad_point
+
+from operator import itemgetter
+
+myDict={
+    "www":[112,177,888]
+    ,"blog":[777,66,12]
+    ,"chat":[13,5464,442]
+    ,"yue":[5634,1232,177]
+    }
+
+print myDict
+print "\n\n"
+
+#sorted(myDict.iteritems(), key=itemgetter(1), reverse=True)
+for k, v in sorted(myDict.items()
+    , key=lambda x: x[1][1]
+    ,reverse=True):
+    print k,v 
+
+print myDict
+
+</t>
+<t tx="zoomq.20100903210229.3857">import os,sys
+import random, Gnuplot
+
+title = sys.argv[1]
+g = Gnuplot.Gnuplot(persist=1)
+DEFONT="/usr/share/fonts/VeraSansYuanTi/VeraSansYuanTi-Regular.ttf"
+g('set term png font "%s" ' %DEFONT)
+g('set output "gnuplot-%s.png" ' %title)
+g('set title "easy-account chart %s" ' %title)
+
+mean = 3
+strdev =  10
+ns = [10, 100, 1000, 10000]
+
+g('set multiplot')
+g('set size 0.5,0.5')
+
+for i in range(0, 4):
+ gauss = list()
+ for j in range(0, ns[i]):
+     gauss.append(list())
+     gauss[j].append(random.gauss(mean, strdev))
+     gauss[j].append(random.gauss(mean, strdev))
+
+ if i == 0:
+     g('set origin 0,0.5')
+ elif i == 1:
+     g('set origin 0.5,0.5')
+ elif i == 2:
+     g('set origin 0,0')
+ else:
+     g('set origin 0.5,0')
+
+ g.plot(gauss)</t>
+<t tx="zoomq.20100903210229.3858"></t>
+<t tx="zoomq.20100903210229.3859"># -*- coding: utf-8 -*-
+from foo import add2
+
+import unittest
+
+class DemoTest(unittest.TestCase):
+    def testFoo(self):
+        self.assertEqual(1, 0)
+
+    def testAdd(self):
+        sefl.assertEqual(2, add2(1, 1))
+
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3860">
+
+#collection cron script abt SEO
+</t>
+<t tx="zoomq.20100903210229.3861">SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.com.cn
+HOME=/home/zoomq/
+
+# auto sync p2p dled out intra. usage wget
+2 2 * * * /data0/p2p4mu/chkmldonkey.sh
+3 3 * * * /data0/p2p4mu/cleanMLDed.sh
+
+### zoomq::070524 add for auto analyzed YK running log for adPoint monitoring
+6 6 * * * /data0/mupopro/logs/yseo6_do_adpanalyzer.sh
+
+### zoomq::070615 add for auto analyzed YK searched key words
+7 7 * * * /data1/ykrunning/mupopro/logs/searchKeyAnalyzer/statsSearchKey.sh
+</t>
+<t tx="zoomq.20100903210229.3862">SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.com.cn
+HOME=/home/zoomq/
+
+# dialy drag dept SVN repo for BKup
+3 3 * * * /data1/svnbkup/dragsvn.sh
+
+# auto sync p2p dled out intra. usage wget
+## zoomq::070615 cancel sync log into 59;usage 61 NFS export runlogs analzye
+#7 7 * * * /home/zoomq/4p2p/mldledSyncAll.sh
+</t>
+<t tx="zoomq.20100903210229.3863">#!/bin/sh
+
+# zoomq::070530 creat for zip all 101 dialy doning for YLSEO
+version="doykseo BSDv0.7 070530"
+
+cmdDate="/bin/date" #$( which date)
+cmdSudo=$( which sudo)
+cmdZcat=$( which zcat)
+cmdEGrep=$( which egrep)
+cmdFGrep=$( which fgrep)
+cmdGrep=$( which grep)
+cmdCut=$( which cut)
+cmdAwk=$( which awk)
+cmdSed=$( which sed)
+#cmdLn=$( which ln)
+cmdNl=$( which nl)
+cmdUniq=$( which uniq)
+cmdSort=$( which sort)
+cmdPython=$( which python)
+
+offset="-v-1d"
+yesterday="`$cmdDate $offset "+%y%m%d"`"
+#yesterday="`$cmdDate -d "$offset day" "+%Y-%m-%d"`"
+echo "doing YKSEO statistics for -=$yesterday=-"
+
+defaultFont="/usr/home/zoomq/zqdev/YKSEO/olink_ad_point/stxihei.ttf"
+runykseo0="/usr/home/zoomq/zqdev/YKSEO/seomonitor"
+runykseo6="/usr/home/zoomq/zqdev/YKSEO/olink_ad_point"
+
+
+cd $runykseo6
+
+echo "$cmdPython adpanalyzer.py 'stxihei.ttf' $yesterday"
+$cmdPython adpanalyzer.py 'stxihei.ttf' $yesterday
+
+echo "$version done statistics 4 yseo0 @ " `$cmdDate +"%Y/%m/%d %H:%M:%S"` 
+
+echo
+exit  0
+
+
+</t>
+<t tx="zoomq.20100903210229.3864">#!/bin/sh
+
+# zoomq::070530 creat for zip all 101 dialy doning for YLSEO
+version="doykseo BSDv0.7 070530"
+
+cmdDate="/bin/date" #$( which date)
+cmdSudo=$( which sudo)
+cmdZcat=$( which zcat)
+cmdEGrep=$( which egrep)
+cmdFGrep=$( which fgrep)
+cmdGrep=$( which grep)
+cmdCut=$( which cut)
+cmdAwk=$( which awk)
+cmdSed=$( which sed)
+#cmdLn=$( which ln)
+cmdNl=$( which nl)
+cmdUniq=$( which uniq)
+cmdSort=$( which sort)
+cmdPython=$( which python)
+
+offset="-v-1d"
+yesterday="`$cmdDate $offset "+%y%m%d"`"
+#yesterday="`$cmdDate -d "$offset day" "+%Y-%m-%d"`"
+echo "doing YKSEO statistics for -=$yesterday=-"
+
+defaultFont="/usr/home/zoomq/zqdev/YKSEO/olink_ad_point/stxihei.ttf"
+runykseo0="/usr/home/zoomq/zqdev/YKSEO/seomonitor"
+runykseo6="/usr/home/zoomq/zqdev/YKSEO/olink_ad_point"
+
+echo "$version auto running for YKSEO @ " `$cmdDatedate +"%Y/%m/%d %H:%M:%S"` 
+
+cd $runykseo0
+
+echo "$cmdPython dailySECoveRate.py $defaultFont"
+$cmdPython dailySECoveRate.py $defaultFont
+
+
+echo
+exit  0
+
+
+</t>
+<t tx="zoomq.20100903210229.3865">#!/bin/bash
+
+&lt;&lt; init &gt;&gt;
+
+LOGROOT="/var/log/sync"
+LOGFILE="/var/log/sync/$today-synced.log"
+RESROOT="/data3/p2pmldonkey"
+
+PUTPATH="$RESROOT/done/$today"
+PUTYEST="$RESROOT/done/$yesterday"
+ULRTOD="http://60.28.2.131:81/done/$today/"
+ULRYES="http://60.28.2.131:81/done/$yesterday/"
+doWget="$cmdWget -c -nv -N -r -np -nd -t 13 -T 19 --wait=7 --random-wait --http-user=SinaMu --http-passwd=p2p@TJ "
+
+SYNCPAS="/usr/local/etc/sync.key"
+dosync="$cmdRsync -vztu --bwlimit=1024 --password-file=$SYNCPAS sdper@60.28.2.131::p2pmldonkey/done/$today"
+#echo $dosync
+
+&lt;&lt; sync p2ped &gt;&gt;
+
+RUNLOGROOT="/data3/run_yueku_logs"
+RUNLOGanalyzed="$RUNLOGROOT/analyzed"
+PATHanalyzed="$RUNLOGanalyzed/runYueKuLogs/analyzed"
+&lt;&lt; sync runlog &gt;&gt;
+
+echo "###$version::end ALL@ " `date +"%Y/%m/%d %H:%M:%S"` 
+echo "###$version::end ALL@ " `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+
+
+echo
+exit  0
+
+</t>
+<t tx="zoomq.20100903210229.3866">###!/bin/sh
+#===========================================
+#====== Change log =========================
+# zoomq::070603 add zip running log shell,after download all pre. analyz in TJ131
+# zoomq::070517 clean yestday sync.;and dl YueKu runing daily logs all into /data3/run_yueku_logs/
+# zoomq::070515 add for sync all YueKu runing log into /data3/run_yueku_logs/
+# zoomq::070427 for auto sync MLDonkey downloaded dir and .lsRL
+#===========================================
+#today="`date +"%y%m%d"`"
+version="'mldledSyncAll v0.9.1 070517"
+
+offset="+0"
+nowday="`date -d "$offset day" "+%Y%m%d"`"
+#nowday="`date +"%d"`"
+#offset=0
+#((yday=nowday - offset))
+today=$nowday
+#"`date +"%Y%m"`$yday"
+#((yday=nowday - offset -1 ))
+offset="-1"
+yesterday="`date -d "$offset day" "+%Y%m%d"`"
+yesterlog="`date -d "$offset day" "+%y%m%d"`"
+#yesterday="`date +"%Y%m"`$yday"
+#echo "try $yesterday"
+
+#echocmd=$( which echo)
+cmdWget=$( which wget)
+cmdRsync=$( which rsync)
+#cmdLs=$( which ls)
+cmdMkdir=$( which mkdir)
+cmdMv=$( which mv)
+cmdRm=$( which rm)
+</t>
+<t tx="zoomq.20100903210229.3867">echo "###$version::start@ " `date +"%Y/%m/%d %H:%M:%S"` 
+echo "###$version::start@ " `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+echo "auto SYNC mldonkey p2p downloaded files..."
+echo "chk dir :: $PUTPATH"
+if [ -d $PUTPATH ]
+then
+    cd $PUTPATH
+    $cmdLs -la &gt; $LOGFILE
+else
+    echo "$PUTPATH not exist! creat now.."
+    echo "$PUTPATH not exist! creat now.." &gt;&gt; $LOGFILE
+	echo "$cmdMkdir -p $PUTPATH" &gt;&gt; $LOGFILE
+	$cmdMkdir -p $PUTPATH
+    
+    cd $PUTPATH
+    ls -la  &gt;&gt; $LOGFILE
+fi
+
+ls -la
+#echo "$dosync/* $PUTPATH/"
+#$dosync/* $PUTPATH/
+echo "$doWget $ULRTOD $PUTPATH/" &gt;&gt; $LOGFILE
+echo "$doWget $ULRTOD ./"
+$doWget $ULRTOD ./
+
+echo 
+echo "try sync yesterday dled files again..."
+echo "try sync yesterday dled files again..." &gt;&gt; $LOGFILE
+ls -la
+ls -la  &gt;&gt; $LOGFILE
+
+cd $PUTYEST
+echo "$doWget $ULRYES $PUTYEST/" &gt;&gt; $LOGFILE
+echo "$doWget $ULRYES ./"
+#$doWget $ULRYES ./
+</t>
+<t tx="zoomq.20100903210229.3868">echo "###start 4 sync YueKu runing logs all" `date +"%Y/%m/%d %H:%M:%S"` 
+echo "###start 4 sync YueKu runing logs all" `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+
+
+cd $RUNLOGROOT
+$cmdWget -c -nv -nH -N -r -np -t 13 -T 19 --wait=7 --random-wait --http-user=SinaMu --http-passwd=p2p@TJ http://60.28.2.131:81/runYueKuLogs/$yesterlog/
+
+echo "###start dl for analyzed .log @ " `date +"%Y/%m/%d %H:%M:%S"` 
+
+cd $RUNLOGanalyzed
+$cmdWget -A.log -c -nv -nH -N -r -np -t 13 -T 19 --wait=7 --random-wait --http-user=SinaMu --http-passwd=p2p@TJ http://60.28.2.131:81/runYueKuLogs/analyzed/
+
+echo "cd $PATHanalyzed"
+cd $PATHanalyzed
+echo "./zipadplog.sh adPoint$yesterlog.log"
+./zipadplog.sh adPoint$yesterlog.log
+
+</t>
+<t tx="zoomq.20100903210229.3869">SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.com.cn
+HOME=/home/zoomq/
+
+# dialy drag dept SVN repo for BKup
+#3 3 * * * /data1/svnbkup/dragsvn.sh
+
+# auto sync p2p dled out intra. usage wget
+8 8 * * * /home/zoomq/4p2p/syncYKrunlogs.sh
+
+</t>
+<t tx="zoomq.20100903210229.3870"># /etc/crontab - root's crontab for FreeBSD
+#
+# $FreeBSD: src/etc/crontab,v 1.32 2002/11/22 16:13:39 tom Exp $
+#
+SHELL=/bin/sh
+PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin
+
+HOME=/var/log
+#
+#minute hour    mday    month   wday    who     command
+#
+*/5     *       *       *       *       root    /usr/libexec/atrun
+#
+# Save some entropy so that /dev/random can re-seed on boot.
+*/11    *       *       *       *       operator /usr/libexec/save-entropy
+#
+# Rotate log files every hour, if necessary.
+0       *       *       *       *       root    newsyslog
+#
+# Perform daily/weekly/monthly maintenance.
+1       3       *       *       *       root    periodic daily
+15      4       *       *       6       root    periodic weekly
+30      5       1       *       *       root    periodic monthly
+#
+# Adjust the time zone if the CMOS clock keeps local time, as opposed to
+# UTC time.  See adjkerntz(8) for details.
+1,31    0-5     *       *       *       root    adjkerntz -a
+
+MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.com.cn
+# auto do all matter for YKSEO1.0
+9 9 * * * zoomq /home/zoomq/zqdev/YKSEO/doykseoAM.sh &gt; /var/log/YKSEO/ykseo.log
+8 18 * * * zoomq /home/zoomq/zqdev/YKSEO/doykseoPM.sh &gt; /var/log/YKSEO/ykseo.log
+
+</t>
+<t tx="zoomq.20100903210229.3872">@path /home/zoomq/.zoomq/rc.local</t>
+<t tx="zoomq.20100903210229.3876">@path /home/zoomq/2matter4peg/tangle/zoom.quiet/4lifeHacking
+时间帐单处置辅助</t>
+<t tx="zoomq.20100903210229.3877">@path 4lifeHacking/tpl</t>
+<t tx="zoomq.20100903210229.3878">dsfadsf
+dasfa
+dsf
+&lt;&lt;my sub node&gt;&gt;
+adsf
+adsf
+ds
+&lt;&lt;my sub node&gt;&gt;
+
+sdfdsf
+</t>
+<t tx="zoomq.20100903210229.3879">[i,i+1 for i in range(10)&lt;&lt;我的&gt;&gt;]
+</t>
+<t tx="zoomq.20100903210229.3880">dgdfg
+dsfgdfsg
+sdfdfgsg
+dfsg
+</t>
+<t tx="zoomq.20100903210229.3881">## try leo
+TILOG={'DEFONT':"/usr/share/fonts/VeraSansYuanTi/VeraSansYuanTi-Regular.ttf"
+    ,'TITLE':"TiLog"
+    ,'PATH':{'root':"/home/zoomq/2matter4peg/tangle/zoomquiet/4lifeHacking"
+        ,'log':"_log"
+        ,'exp':"exp"
+        ,'data':"data"
+        ,'tpl':"tpl"
+        }
+    ,'FILTER':{'log':"zq-tilog-*.txt"
+        }
+    ,'TPL':{'log':"zq-tilog-%s.txt"
+        }
+    ,'DICT':{'date':[],'tI':[],'tO':[],'tC':[],'tM':[],'tS':[]}
+    ,'tLebel':['tLost','tInput','tOutput','tCommunicate','tMyself','tSleep']
+    }
+INIDICT={'date':[],'tI':[],'tO':[],'tC':[],'tM':[],'tS':[]}</t>
+<t tx="zoomq.20100903210229.3882">&lt;&lt; tilog_chart declarations &gt;&gt;
+
+@others
+
+if __name__ == '__main__':      # this way the module can be
+    if 2 != len(sys.argv):
+        print """ %s usage::
+        $ python tilog_chart.py MonthPoint [like 0812]
+        """ % VERSION
+    else:
+        zmonth = sys.argv[1]                 #[-10:-4]    print tonow
+        tilogchart(zmonth)
+
+    print "Mnnnn export all that report! \n by %s"%VERSION
+
+
+</t>
+<t tx="zoomq.20100903210229.3883"># -*- coding: utf-8 -*-
+import os,sys
+#import time,datetime,pickle
+#from operator import itemgetter
+from fnmatch import *
+from cfg import *
+
+#from pychartdir import *
+#from ChartDirector import pychartdir as pcd
+
+VERSION = "tilog_chart v0.8-090304@Zoom.Quiet"
+#print dir()
+
+''''tilog_chart.py'
+    v0.7 090205 init. to simple chart handwrited TiLog
+'''
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3884">def tilogchart(month):
+    '''main func
+    '''
+    #print TILOG['PATH']
+    #flog = filter(os.listdir(TILOG['PATH']['data'])
+    #    ,TILOG['FILTER']['log'])
+    flog = "%s/%s"%(
+        TILOG['PATH']['data']
+        ,TILOG['TPL']['log']%month
+        )
+    #dictchart = {'date':[],'tI':[],'tO':[],'tC':[],'tM':[],'tS':[]}
+    for li in open(flog):
+        formatlog(li)
+        #pass
+    dayline(month)
+    TILOG['DICT']=INIDICT
+    for li in open(flog):
+        formatotm(li)
+        #pass
+    monthpie(month)
+    TILOG['DICT']=INIDICT
+    '''
+    for li in open(flog):
+        formatotmr(li)
+        pass
+    '''
+    monthradar(month)
+    TILOG['DICT']=INIDICT
+
+
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3885">#pie chart 4 month lost time</t>
+<t tx="zoomq.20100903210229.3886">def formatotmr(line):
+    '''format log data into dict for tot time month in radar
+    '''
+    #print TILOG['DICT']['date']
+    ddict= TILOG['DICT']
+    if "date" in line:
+        ddict['tI'] = 0.0
+        ddict['tO'] = 0.0
+        ddict['tC'] = 0.0
+        ddict['tM'] = 0.0
+        ddict['tS'] = 0.0
+        #pass
+    else:
+        dli = line.split(",")
+        ddict['date'].append(str("%s.%s"%(int(dli[0][2:4]),dli[0][-2:])))
+        ddict['tI']+=float(dli[1])
+        ddict['tO']+=float(dli[2])
+        ddict['tC']+=float(dli[3])
+        ddict['tM']+=float(dli[4])
+        ddict['tS']+=float(dli[5])
+
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3887">def monthradar(month):
+    '''usage ChartDirector exp chart in radar
+    '''
+    from ChartDirector import pychartdir as pcd
+    # The labels for the line chart
+    labels = TILOG['tLebel']
+    tL = len(TILOG['DICT']['date'])*24-(TILOG['DICT']['tI']+TILOG['DICT']['tO']+TILOG['DICT']['tC']+TILOG['DICT']['tM']+TILOG['DICT']['tS'])
+    tI = TILOG['DICT']['tI']
+    tO = TILOG['DICT']['tO']
+    tC = TILOG['DICT']['tC']
+    tM = TILOG['DICT']['tM']
+    tS = TILOG['DICT']['tS']
+    data = [tL,tI,tO,tC,tM,tS]
+    # The data for the chart
+    #data = [6,7,3,8,7,9,7,4,10]
+
+
+    # Create a PolarChart object of size 450 x 350 pixels
+    c = pcd.PolarChart(350, 300)
+    c.setRoundedFrame()
+    c.addTitle("ZQ`s TiLog Chart %s"%month
+        , TILOG['DEFONT'], 15).setBackground(
+            0xccccff, 0x000000, pcd.glassEffect())
+    #c.addTitle("角色雷达图谱:", defaultfont, 14, 0xffffff).setBackground(0x008000)
+    #c.addTitle2(TopLeft, "&lt;*underline=2*&gt;角色雷达图谱:", defaultfont, 14)
+
+    # Set center of plot area at (225, 185) with radius 150 pixels
+    #c.setPlotArea(225, 185, 150)
+    c.setPlotArea(180, 160, 100)
+    #c.setGridColor(0xc0000000L, 1, 0xc0000000L, 1)
+
+    # Add an area layer to the polar chart
+    c.addAreaLayer(data, 0x9999ff)
+    c.addLineLayer(data, 0x6666cc).setLineWidth(3)
+
+    c.setPlotAreaBg(0xdddddd, 0xeeeeee)
+    c.setGridStyle(0)
+
+    layer0 = c.addLineLayer(data, 0x0000ff, "Close Loop Line")
+    #layer0.setAngles(data)
+
+    # Set the line width to 2 pixels
+    layer0.setLineWidth(2)
+
+    # Use 11 pixel triangle symbols for the data points
+    layer0.setDataSymbol(pcd.CircleShape, 11, 0xffff00)
+
+    #layer0.setDataLabelStyle().setBackground(0x9999ff, pychartdir.Transparent, 1)
+
+    # Enable data label and set its format
+    #layer0.setDataLabelFormat("{value}分")
+
+
+    # Set the labels to the angular axis as spokes
+    c.angularAxis().setLabels(labels).setFontStyle(TILOG['DEFONT'])
+
+    # output the chart
+    c.makeChart("zq-ti-month-radar-%s.png"%month)
+    print "EXPed: zq-ti-month-radar-%s.png"%month
+
+</t>
+<t tx="zoomq.20100903210229.3888">#pie chart 4 month lost time</t>
+<t tx="zoomq.20100903210229.3889">def formatotm(line):
+    '''format log data into dict for tot time month
+    '''
+    #print TILOG['DICT']['date']
+    ddict= TILOG['DICT']
+    if "date" in line:
+        ddict['tI'] = 0.0
+        ddict['tO'] = 0.0
+        ddict['tC'] = 0.0
+        ddict['tM'] = 0.0
+        ddict['tS'] = 0.0
+        #pass
+    else:
+        dli = line.split(",")
+        ddict['date'].append(str("%s.%s"%(int(dli[0][2:4]),dli[0][-2:])))
+        ddict['tI']+=float(dli[1])
+        ddict['tO']+=float(dli[2])
+        ddict['tC']+=float(dli[3])
+        ddict['tM']+=float(dli[4])
+        ddict['tS']+=float(dli[5])
+
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3890">def monthpie(month):
+    '''usage ChartDirector exp chart
+    '''
+    from ChartDirector import pychartdir as pcd
+    # The labels for the line chart
+    labels = TILOG['tLebel']
+    tL = len(TILOG['DICT']['date'])*24-(TILOG['DICT']['tI']+TILOG['DICT']['tO']+TILOG['DICT']['tC']+TILOG['DICT']['tM']+TILOG['DICT']['tS'])
+    tI = TILOG['DICT']['tI']
+    tO = TILOG['DICT']['tO']
+    tC = TILOG['DICT']['tC']
+    tM = TILOG['DICT']['tM']
+    tS = TILOG['DICT']['tS']
+    data = [tL,tI,tO,tC,tM,tS]
+
+    # creat chart
+    c = pcd.PieChart(440, 200,pcd.metalColor(0xccccff, 0), 0x000000, 1)
+    c.setRoundedFrame()
+    c.setPieSize(215, 110, 80)
+    c.addTitle("ZQ`s TiLog Chart %s"%month
+        , TILOG['DEFONT'], 15).setBackground(
+            0xccccff, 0x000000, pcd.glassEffect())
+    c.set3D(-1,60)
+    c.setData(data, labels)
+    c.setExplode(0)
+    #c.setStartAngle(135)
+    c.setStartAngle(90, 0   )
+
+    c.setLabelLayout(pcd.SideLayout)
+    c.setLabelFormat("{label}&lt;*br*&gt;{value}h ({percent}%)")
+
+    t = c.setLabelStyle()
+    t.setBackground(pcd.SameAsMainColor, pcd.Transparent, pcd.glassEffect())
+    t.setRoundedCorners(5)
+    c.setLineColor(pcd.SameAsMainColor, 0x334433)
+
+    # output the chart
+    c.makeChart("zq-ti-month-pie-%s.png"%month)
+    print "EXPed: zq-ti-month-pie-%s.png"%month
+</t>
+<t tx="zoomq.20100903210229.3891">#line fot time usaged in day</t>
+<t tx="zoomq.20100903210229.3892">def formatlog(line):
+    '''format log data into dict
+    '''
+    #print TILOG['DICT']['date']
+    ddict= TILOG['DICT']
+    if "date" in line:
+        pass
+    else:
+        dli = line.split(",")
+        ddict['date'].append(str("%s.%s"%(int(dli[0][2:4]),dli[0][-2:])))
+        ddict['tI'].append(float(dli[1]))
+        ddict['tO'].append(float(dli[2]))
+        ddict['tC'].append(float(dli[3]))
+        ddict['tM'].append(float(dli[4]))
+        ddict['tS'].append(float(dli[5]))
+
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3893">def dayline(month):
+    '''usage ChartDirector exp chart
+    '''
+    from ChartDirector import pychartdir as pcd
+    # The labels for the line chart
+    labels = TILOG['DICT']['date']
+    tI = TILOG['DICT']['tI']
+    tO = TILOG['DICT']['tO']
+    tC = TILOG['DICT']['tC']
+    tM = TILOG['DICT']['tM']
+    tS = TILOG['DICT']['tS']
+
+    c = pcd.XYChart(800, 300, 0xeeeeff, 0x000000, 1)
+    c.setRoundedFrame()
+    c.setPlotArea(55, 58, 720, 195, 0xffffff, -1, -1, 0xcccccc, 0xcccccc)
+    c.addLegend(50, 30, 0, TILOG['DEFONT'], 9).setBackground(pcd.Transparent)
+    c.addTitle("ZQ`s TiLog Chart %s"%month
+        , TILOG['DEFONT'], 15).setBackground(
+            0xccccff, 0x000000, pcd.glassEffect())
+
+    c.yAxis().setTitle("hour")
+    c.xAxis().setLabels(labels).setFontAngle(45)
+
+    #c.xAxis().setLabelStep(3)
+    c.xAxis().setTitle("date")
+
+    # Add a line layer to the chart
+    layer = c.addLineLayer2()
+
+    layer.setLineWidth(2)
+
+    layer.addDataSet(tI, 0xff0000, "tI")
+    layer.addDataSet(tO, 0x008800, "tO")
+    layer.addDataSet(tC, c.dashLineColor(0x3333ff, pcd.DashLine), "tC")
+    layer.addDataSet(tM, 0xff8800, "tM")
+    layer.addDataSet(tS, 0x334433, "tS")
+
+    # output the chart
+    c.makeChart("zq-ti-line-day-%s.png"%month)
+    print "EXPed: zq-ti-line-day-%s.png"%month
+</t>
+<t tx="zoomq.20100903210229.3894">def expchart(month):
+    '''usage ChartDirector exp charts
+    '''
+    lineday(month)
+
+</t>
+<t tx="zoomq.20100903210229.3895">def expplot():
+    '''usage Gnuplot exp png chart
+    '''
+    print TILOG['DICT']['date']
+    i = 0
+    d=[]
+    for j in TILOG['DICT']['tI']:
+        d.append([i,j])
+        i+=1
+    print d
+    import Gnuplot
+    g = Gnuplot.Gnuplot(persist=1)
+    g('set term png font "%s" ' %TILOG['DEFONT'])
+    g('set output "gnuplot-%s.png" ' %TILOG['TITLE'])
+    g('set title "Zoomq`s chart %s" ' %TILOG['TITLE'])
+
+    g('set xlabel "日期" ')
+    g('set ylabel "时耗" ')
+
+    g.plot([[0, 1.0], [1, 2.0], [2, 0.0], [3, 4.5], [4, 2.5], [5, 3.0], [6, 1.0], [7, 0.0], [8, 0.0], [9, 0.0], [10, 2.5], [11, 0.0], [12, 0.0], [13, 2.0], [14, 0.0], [15, 0.0], [16, 1.0], [17, 2.5], [18, 2.5], [19, 1.5]])
+    #d = Gnuplot.Data(TILOG['DICT']['date'],TILOG['DICT']['tI'])
+    #g.plot(str(d))
+
+
+
+</t>
+<t tx="zoomq.20100903210229.3896">@path zoomquiet.leo/txt/KMthinking
+</t>
+<t tx="zoomq.20100903210229.3897">wiki 不是任何人都可以用的！
+
+
+- 任何的理由都是理由:
+ - word 经验是即得的不用学习
+ - wiki 无法快速使用表格
+ - wiki 难以排版不好看
+
+...
+以往的努力都使错方向了:
+
+维基的本质是相互服务，文章共用
+而所有不习惯维基的人，都不是维基用户
+只是文章消费者，本质期望是:
+- 有人为他们准备好 清晰/明了/排版漂亮 的索引页面
+- 他们随时可以查阅想查阅的!
+
+MLBD !怪不得维基不能用!
+没有分享的冲动,没有知识的结构,还想有专人为您服务?!
+- 对分享人不公平!
+ - 屈从你的格式你的分类?!
+- 对其它查阅者也不公平!
+ - 屈从你的格式你的分类?!
+
+
+&gt;
+&gt; 哦，那我觉得最核心的问题是：wiki一定要定位明确
+是也乎，是也乎，
+所以，俺推广维基时，首先都是尝试说明什么是维基，而不是怎么使用...
+但是，真的是在 Office 淫威之下的人们，大多数无法想象 Word 不方便之处(也可能是拒绝想象)
+但是，维基也的确是可以当成各种平台来用:
+- 有公司用维基作工单系统
+- 配合插件，可以作个人/团队blog
+- 共同写作平台
+- FAQ
+- ...
+维基是真正作到本身简单到极致,使用正式自由到充分的信息管理平台了,
+就象 Scrunm 成功实施的团队一样,人最重要!
+使用维基成功,必须是:
+- 团队有知识积累的冲动
+- 所有人有知识分享的冲动
+- 所有人有时间记录知识片段
+- 所有人愿意配合其它人整理知识体系
+
+&gt; 是作为随手分享的知识经验库还是作为正式的文档资料库，一定要搞清楚
+&gt; 如果定位是后者，那要想保证wiki文档的权威性，就不能把其他分享掺合进来，就一定全是正式文档。这里如何组织文档是非常重要的问题。MoinMoin的url太灵活了，这虽然方便，但其实对使用者有了比较高的要求。别说非技术人员，就是技术人员在“我的文档该放在哪儿”这个问题上也是有些纠结的，这一点是推广wiki作为正式文档库的核心障碍，如果就这一点多下些功夫，制定方便的规范和流程并且给出培训，就好了。
+&gt; 这时，wiki可以基本取代非流转性的(无需流转到客户手中)word文档，如果需要流转，导出就行了。但电子表格和幻灯是完全没法的。但这两种文档一般也没有相互链接，自由索引／复用，统一搜索等需求。
+&gt; 建议电子表格类文档不要往wiki里整合了，如果统一存在svn中，引用时给出url，或者直接上传复件，如果要显示局部数据，给出截图。
+
+</t>
+<t tx="zoomq.20100908091715.2579">蟒营:
+    +-- 文档:
+        +-- #Hg使用
+        +-- Py 环境
+        +-- 协同
+    +-- 环境:
+        +-- TDD 配置
+        +-- Hg Hooks...
+    +-- 教案</t>
 </tnodes>
 </leo_file>
