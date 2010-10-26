@@ -3,6 +3,7 @@
     Zoom.Quiet 的快速实用模块仓库
     
  版本::
+  * 101026 ZoomQuiet 进行服务端仓库克隆,使用仓库来划分功能
   * 090616 ZoomQuiet 升级到 Hg 环境后,增补目录说明
   * 090109 ZoomQuiet 增补掺合新目录结构
   * 060126 ZoomQuiet 创建
@@ -11,14 +12,17 @@
 `约定这一中文版文档工程的相关协同事务`
 
 === 工程环境 ===
- Hg: https://zqlib.googlecode.com/hg 目录结构
-{{{
-/
-    +-- tangle    自由分支
-    +-- tasks     任务分支
-    +-- trunk     主干代码
-    \-- readme.txt  本文
-}}}
+Repositories::
+Name 	Clone URL
++-- 成品释放和维护
+|   default https://zqlib.googlecode.com/hg/
++-- 维基维护
+|   wiki 	https://wiki.zqlib.googlecode.com/hg/
++-- 网站内容维护
+|   4site 	https://4site.zqlib.googlecode.com/hg/
+`-- 试作小工具
+    tangle 	https://tangle.zqlib.googlecode.com/hg/
+
 
  SVN: http://zqlib.googlecode.com/svn/trunk 目录结构
 {{{
