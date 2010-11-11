@@ -15,10 +15,38 @@
 <v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh></v>
 </v>
 <v t="zoomq.20100903210229.3839" a="E"><vh>巨坑分析:</vh>
-<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh></v>
-<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh></v>
+<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh></v>
+<v t="zoomq.20100903210229.3840" a="E"><vh>zoomquiet.org</vh>
+<v t="zoomq.20101109214756.6989" a="E"><vh>zoomquiet.org发布规划</vh>
+<v t="zoomq.20101109214756.6990"><vh>目录</vh></v>
+<v t="zoomq.20101109214756.6991"><vh>域名</vh></v>
+<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
+</v>
+<v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
 <v t="zoomq.20100903210229.3841"><vh>OBP</vh></v>
-<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh></v>
+<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
+<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
+<v t="zoomq.20101104113205.5096"><vh>DouPy</vh></v>
+</v>
+</v>
+<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh>
+<v t="zoomq.20100927113242.2581"><vh>Hg demo</vh></v>
+<v t="zoomq.20101015095808.2582"><vh>Hg 配置</vh>
+<v t="zoomq.20101029104710.3831"><vh>hgrc</vh></v>
+<v t="zoomq.20101019093735.5077"><vh>diff</vh></v>
+<v t="zoomq.20101019093735.5078"><vh>keywords</vh></v>
+</v>
+</v>
+<v t="zoomq.20101019093735.5079"><vh>Geek</vh>
+<v t="zoomq.20101103153946.5095"><vh>CLI</vh></v>
+</v>
+</v>
+<v t="zoomq.20101030170919.2579"><vh>newHeadline</vh>
+<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
+<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
+<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
+<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
+</v>
 </v>
 <v t="zoomq.20100831135717.3642"><vh>WeKnow</vh>
 <v t="zoomq.20100831135717.3643"><vh>可视化</vh>
@@ -42,6 +70,9 @@
 </v>
 </v>
 <v t="zoomq.20100903210229.3876"><vh>4lifeHacking</vh>
+<v t="zoomq.20101026092125.2576"><vh>TiLogs</vh>
+<v t="zoomq.20101026092125.2577"><vh>@nosent zq-tilog-1010.txt</vh></v>
+</v>
 <v t="zoomq.20100903210229.3843"><vh>misc</vh>
 <v t="zoomq.20100903210229.3844" a="M"><vh>_stuff</vh>
 <v t="zoomq.20100903210229.3845"><vh>dict sort</vh></v>
@@ -586,7 +617,7 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
 
 
 </t>
-<t tx="zoomq.20100903210229.3838">@path /home/zoomq/workspace/3hg/zqlib-hg/tangle
+<t tx="zoomq.20100903210229.3838">@path /home/zoomq/workspace/3hg/zqlib-tangle/
 @language python
 @tabwidth -4
 
@@ -596,67 +627,63 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
 <t tx="zoomq.20100903210229.3839">当前工作外长期拖延的意义任务...
 
 
+
+
 </t>
 <t tx="zoomq.20100903210229.3840">+-- zoomquiet.org 发布改版:
+    +-- SEO:
+        +-- sitemapping
     +-- dot mapping:
+        +-- jQuery 拒绝IE
         +-- #通用含热区html输出:
-            +-- 固化运营脚本的代码结构...:
+            +-- '固化运营脚本的代码结构...:'
                 +-- '参数'
                 +-- "日志/调试"
             +-- 'Data-URI 集约化所有到一个HTML'
-            +-- 文档TTD
+            +-- docTTD
     +-- ScrapBook:
         +-- 索引优化:
             +-- 分层简化
             +-- 嵌入原始URL
             +-- 分年度保存data 
-    +-- PyBlosxom:
-        +-- 部署:
-            +-- Hg hook
-            +-- crontab 备份?
-        +-- 优化:
-            +-- 图片合并css 配合
-            +-- JS 合并压缩
-            +-- CSS 合并压缩
-        +-- Leo配合:
-            +-- 自动事务按钮:
-                +-- t2t编译
-                +-- 静态化发布
-        +-- 评注:
-            +-- 外部JS 评注服务
-            +-- WeKnow GAE服务
-                +-- Cloudant 使用
-
 </t>
 <t tx="zoomq.20100903210229.3841">+-- OBP:
-    +-- Shpnix 自动化编译Hg hooks
+    +-- Sphnix 自动化编译Hg hooks
+        +-- #Sphinx 官网翻译
+        +-- Sphinx实用手册
+            +-- 'rst2s5 使用'
+            http://blog.zoomquiet.org/pyblosxom/utility/py4str/StructuredText/rst2s5-usage-2010-09-18-23-23.html
     +-- 图书:
         +-- 大妈书:
             +-- 牛妞成长史
             +-- 私人编年史:
                 +-- #周氏家谱....
                 +-- 不可失败的菜谱
-        +-- #Sphinx实用手册
-            +-- rst2s5 使用
         +-- TPiP
             +-- Leo doc
             +-- Code_Like_Pythonic-Idiomatic_Python
             +-- Hidden features of Python
-            +-- Py标准文档:
-                +-- 库
-                +-- 教程
-            +-- web2py
+        +-- Py标准文档:
+            +-- 库
+            +-- 教程
+        +-- web2py
         +-- TheArt-of-Community-1ed_jonobacon
-        +-- Thinking_in_Erlang.pdf</t>
+        +-- Thinking_in_Erlang.pdf
+
+
+</t>
 <t tx="zoomq.20100903210229.3842">+-- WeKnow:
     +-- ScrapBook 社会化分享
+        +-- 云存储中心
+        +-- GAE 界面
+        +-- 桌面界面
+        +-- SNS 机制
     +-- CPyUG 列表综合活跃分析~ codeworm
     +-- 时间帐单自动分析统计:
         +-- #手工记录
         +-- Workrave 
-        +-- http://wakoopa.com/ZoomQuiet
+            +-- http://wakoopa.com/ZoomQuiet
         +-- Gmail 时间点对应
-
 </t>
 <t tx="zoomq.20100903210229.3843">支持片段代码收集...</t>
 <t tx="zoomq.20100903210229.3844">
@@ -1149,7 +1176,7 @@ MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.co
 <t tx="zoomq.20100903210229.3872">@path /home/zoomq/.zoomq/rc.local</t>
 <t tx="zoomq.20100903210229.3876">@path /home/zoomq/2matter4peg/tangle/zoom.quiet/4lifeHacking
 时间帐单处置辅助</t>
-<t tx="zoomq.20100903210229.3877">@path 4lifeHacking/tpl</t>
+<t tx="zoomq.20100903210229.3877">@path tpl</t>
 <t tx="zoomq.20100903210229.3878">dsfadsf
 dasfa
 dsf
@@ -1502,10 +1529,11 @@ VERSION = "tilog_chart v0.8-090304@Zoom.Quiet"
 
 
 </t>
-<t tx="zoomq.20100903210229.3896">@path zoomquiet.leo/txt/KMthinking
+<t tx="zoomq.20100903210229.3896">@path ../zoomquiet-tangle/txt/KMthinking/
+#zoomquiet.leo/txt/KMthinking
 </t>
 <t tx="zoomq.20100903210229.3897">wiki 不是任何人都可以用的！
-
+??
 
 - 任何的理由都是理由:
  - word 经验是即得的不用学习
@@ -1556,12 +1584,401 @@ MLBD !怪不得维基不能用!
 </t>
 <t tx="zoomq.20100908091715.2579">蟒营:
     +-- 文档:
-        +-- #Hg使用
+        +-- #Hg使用:
+            +-- code.google 協同
+                '+-- 权限'
+                '+-- 初始化'
+            +-- 本地使用:
+                '+-- M$工具'
+                '+-- 仓库理解'
+                '+-- 提交'
+                '+-- 合并'
+                #+-- 分支
+            +-- 团队協同
+                '+-- 局部交换'
         +-- Py 环境
-        +-- 协同
+        +-- #工程协同
+            +-- 维基贡献?
+            +-- 仓库使用流程...
     +-- 环境:
-        +-- TDD 配置
+        +-- Trac:Bitten TDD 配置
         +-- Hg Hooks...
-    +-- 教案</t>
+    +-- 教案:
+        +-- Py
+        +-- Web
+        +-- DB
+        +-- ...</t>
+<t tx="zoomq.20100925155257.2580">+-- PyBlosxom:
+    +-- 部署:
+        +-- ~Hg hook
+        +-- crontab 备份?
+    +-- 评注:
+        +-- 外部JS 评注服务
+        +-- WeKnow GAE服务
+            +-- Cloudant 使用
+    +-- 增进:
+        +-- '文章页 title 插入'
+            ~/zq.pyblosxom/pybshare/jquery-pybactions.js
+        +-- ...
+    +-- 优化:
+        +-- 图片合并css 配合
+        +-- JS 合并压缩
+        +-- CSS 合并压缩
+    +-- #Leo配合:
+        +-- 自动事务按钮:
+            +-- t2t编译
+            +-- 静态化发布
+
+</t>
+<t tx="zoomq.20100927113242.2581">
+foo-main    :8000 主仓库
+    $ hg serve -p 8000 -a 127.0.0.1 -n "HgDemo main REPO."
+    hg serve -p 8000 -a 10.20.208.13 -n "HgDemo main REPO."
+foo-zq      :9001 用户克隆
+    $ hg serve -p 9001 -a 127.0.0.1 -n "HgDemo: ZQ'srv. clone" --style gitweb
+foo-bar     :9002
+    $ hg serve -p 9002 -a 127.0.0.1 -n "HgDemo: BAR'srv. clone" --style coal
+    hg serve -p 9002 -a 10.20.208.34 -n "HgDemo: BAR'srv. clone" --style coal
+    hg serve -p 9002 -a 10.20.208.13 -n "HgDemo: BAR'srv. clone" --style coal
+
+foo-loc     本地仓库
+bar-loc
+
+[extensions]
+hgext.extdiff =
+
+[extdiff]
+;tortoisemerge =
+beyondcompare3.args=$local $other $base $output /ro /lefttitle=local /centertitle=base /righttitle=other /automerge /reviewconflicts /solo
+beyondcompare3.regkey=Software\Scooter Software\Beyond Compare 3
+beyondcompare3.regname=ExePath
+beyondcompare3.gui=True
+beyondcompare3.priority=-2
+beyondcompare3.diffargs=/lro /lefttitle='$plabel1' /righttitle='$clabel' /solo /expandall $parent $child
+
+[merge-tools]
+tortoisemerge.args=/base:$base /mine:$local /theirs:$other /merged:$output
+tortoisemerge.regkey=Software\TortoiseSVN
+tortoisemerge.checkchanged=True
+tortoisemerge.gui=True
+tortoisemerge.priority=-4
+tortoisemerge.diffargs=/base:$parent /mine:$child /basename:'$plabel1' /minename:'$clabel'
+</t>
+<t tx="zoomq.20101015095808.2582">.hgrc 中的常用配置...
+
+</t>
+<t tx="zoomq.20101019093735.5077">[extensions]
+hgext.extdiff =
+
+[extdiff]
+cmd.diffuse = 
+;cmd.kdiff3 =
+
+[merge-tools]
+;kdiff3.args = $base $local $other -o $output
+
+diffuse.priority=-3
+diffuse.args=$local $base $other
+diffuse.gui=True
+diffuse.diffargs=$parent $child
+
+
+[extensions]
+hgext.extdiff =
+
+[extdiff]
+cmd.kdiff3 =
+
+[merge-tools]
+kdiff3.args = $base $local $other -o $output
+</t>
+<t tx="zoomq.20101019093735.5078">[extensions]
+hgext.keyword=
+
+[keyword]
+**.py =
+**.rst =
+**.txt =
+**.wiki =
+
+[keywordmaps]
+RCSFile = {file|basename},v
+Author = {author|user}
+Header = {root}/{file},v {node|short} {date|utcdate} {author|user}
+Source = {root}/{file},v
+Date = {date|utcdate}
+Id = {file|basename},v {node|short} {date|utcdate} {author|user}
+Revision = {node|short}
+</t>
+<t tx="zoomq.20101019093735.5079">+-- http://xkcd.com/ 中文翻译
+    +-- 下载脚本 '/home/zoomq/media/manga/2graspic/xkcd.com/' grasp-xkcd.sh;filter-xkcd.py
+    +-- blogger.com 发布?</t>
+<t tx="zoomq.20101026092125.2576">@data</t>
+<t tx="zoomq.20101026092125.2577">@nocolor
+date,tI,tO,tC,tM,tF,tS
+101008,1.5,3.0,0.5,5.5,5.5,7.0
+101009,0.0,3.0,0.5,5.5,6.5,7.0
+
+101011,3.0,3.0,0.0,5.0,5.0,6.5
+101012,0.5,1.5,2.0,6.0,5.0,6.0
+101013,1.0,5.0,1.5,5.0,5.0,7.0
+101014,6.0,0.0,0.0,6.0,5.0,7.0
+101015,0.0,6.0,0.0,6.0,5.0,7.0
+
+101018,0.0,3.25,1.2,8.25,5.0,7.0
+101019,0.0,6.0,3.75,3.75,3.25,6.0
+101020,1.0,4.0,0.5,9.0,5.0,6.5
+</t>
+<t tx="zoomq.20101029104710.3831">[ui]
+username = Zoom.Quiet &lt;zoomquiet+hg@gmail.com&gt;
+
+[extensions]
+hgext.keyword=
+graphlog =
+
+[defaults] 
+glog = --style compact
+
+[alias] 
+ll = glog --style compact
+
+[keyword]
+**.py =
+**.rst =
+**.txt =
+**.wiki =
+**.xml =
+**.yaml =
+**.html =
+
+[keywordmaps]
+RCSFile = {file|basename},v
+Author = {author|user}
+Header = {root}/{file},v {node|short} {date|utcdate} {author|user}
+Source = {root}/{file},v
+Date = {date|utcdate}
+Id = {file|basename},v {node|short} {date|utcdate} {author|user}
+Revision = {node|short}
+
+</t>
+<t tx="zoomq.20101030170919.2579"></t>
+<t tx="zoomq.20101030170919.2580">@language python
+@tabwidth -4
+# -*- coding: utf-8 -*-
+# Quick Pytohn Script Explanation for Progeammers
+# 给程序员的超快速Py脚本解说
+import os
+def main():
+    print 'Hello World!'
+    print "这是Alice\'的问候."
+    print "这是Bob\'的问候."
+    foo(5,10)
+    print '=' * 10
+    print '这将直接执行'+os.getcwd()
+    counter = 0
+    counter += 1
+    food = ['苹果','杏子','李子','梨']
+    for i in food:
+        print '俺就爱整只:'+i
+    print '数到10'
+    for i in range(10):
+        print i
+def foo(param1,secondParam):
+    res = param1+secondParam
+    print '%s 加 %s 等于 %s'%(param1,secondParam,res)
+    if res &lt; 50:
+        print '这个'
+    elif (res&gt;=50) and ((param1==42) or (secondParam==24)):
+        print '那个'
+    else:
+        print '嗯...'
+    return res  # 这是单行注释
+    '''这是多
+行
+注
+释......'''
+if __name__=='__main__':
+    main()
+</t>
+<t tx="zoomq.20101030170919.2581"># -*- coding: utf-8 -*-
+# Quick Pytohn Script Explanation for Progeammers
+# 给程序员的超快速Py脚本解说
+import os
+</t>
+<t tx="zoomq.20101030170919.2582">def main():
+    print 'Hello World!'
+    print "这是Alice\'的问候."
+    print "这是Bob\'的问候."
+    foo(5,10)
+    print '=' * 10
+    print '这将直接执行'+os.getcwd()
+    counter = 0
+    counter += 1
+    food = ['苹果','杏子','李子','梨']
+    for i in food:
+        print '俺就爱整只:'+i
+    print '数到10'
+    for i in range(10):
+        print i
+
+</t>
+<t tx="zoomq.20101030170919.2583">def foo(param1,secondParam):
+    res = param1+secondParam
+    print '%s 加 %s 等于 %s'%(param1,secondParam,res)
+    if res &lt; 50:
+        print '这个'
+    elif (res&gt;=50) and ((param1==42) or (secondParam==24)):
+        print '那个'
+    else:
+        print '嗯...'
+    return res  # 这是单行注释
+    '''这是多
+行
+注
+释......'''
+</t>
+<t tx="zoomq.20101103153946.3839">邮件来自 Google Groups:"ks-deve"金山开源社区技术邮件列表
+讨论: ks-deve@googlegroups.com
+退订,请邮件至: ks-deve+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/ks-deve
+用户列表: http://groups.google.com/group/ks-user
+通告列表: http://groups.google.com/group/ks-ann
+社区官网: http://code.ijinshan.com
+
+
+邮件来自 Google Groups:"ks-user"金山开源社区用户邮件列表
+讨论: ks-user@googlegroups.com
+退订,请邮件至: ks-user+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/ks-user
+技术列表: http://groups.google.com/group/ks-deve
+通告列表: http://groups.google.com/group/ks-ann
+社区官网: http://code.ijinshan.com
+
+邮件来自 Google Groups:"ks-ann"金山开源社区通告邮件列表
+讨论: ks-ann@googlegroups.com
+退订,请邮件至: ks-ann+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/ks-ann
+技术列表: http://groups.google.com/group/ks-deve
+用户列表: http://groups.google.com/group/ks-user
+社区官网: http://code.ijinshan.com</t>
+<t tx="zoomq.20101103153946.5095">+-- 常好CLI 技巧:
+    +-- history
+    +-- 文件更动...
++-- Vim
++-- rxvt
+    +-- tmux
+    +-- Muut+Gmail
+</t>
+<t tx="zoomq.20101104113205.5096">邮件来自 Google Groups "DouPy"列表!
+讨论: DouPy@googlegroups.com | 退订: DouPy+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/DouPy
+工程: http://code.google.com/p/unbeans/
+维基: http://code.google.com/p/unbeans/wiki/DouPy
+
++-- doupy ~ 豆瓣综合使用:
+    #你的豆瓣 API key:
+0cd1817bb03732fc2674847310a598f4
+API key 的详细信息   · · · · · · 
+* 私钥：d241f9b2e06544fc -请保护好你的私钥
+* 应用名称：Zoom.Quiet
+* 创建时间: 2010-10-29
+* 应用说明:
+  个人试用各种豆瓣API, 通过Py 结合 Shell 进行Ubuntu 中的一键式操作, 在寻找到合理的快感后,将另外申请 Key 进行服务化 ;-)
+</t>
+<t tx="zoomq.20101105113140.2587">#服务即命令行
++-- GooglCL
++-- Cloudant 永久存储 ~ CouchDB
++-- DouPy ~ dubanAPI
+
+</t>
+<t tx="zoomq.20101109214756.6989">@language python
+@tabwidth -4
+
+整体规划 zoomquiet.org 相关网站发布及小工具任务
+
+最终:
+    zoomquiet.org
+        http://zoomquiet.org/obp    图书工程发布    
+    blog.zoomquiet.org
+    jump&gt;&gt;&gt; http://blog.zoomquiet.org/pyblosxom
+    
+    floss.zoomquiet.org
+    jump&gt;&gt;&gt; http://zoomquiet.org/res/scrapbook/ZqFLOSS/tree/
+    skm.zoomquiet.org
+    jump&gt;&gt;&gt; http://zoomquiet.org/res/scrapbook/ZqSKM/tree/
+
+  &lt;head&gt;
+  &lt;meta http-equiv="refresh" content="0;URL=gldt1009.svg"&gt;
+  &lt;/head&gt;
+    </t>
+<t tx="zoomq.20101109214756.6990">zeus:~/zoomquiet.org&gt; tree -L 4
+.
+|-- README.txt
++-- _cfgs
++-- _cron
++-- _docs
++-- _logs
++-- _stuff
++-- blog    ~ PyBlosxom
+|   +-- _static     ~ 发布为 /pyblosxom
+|   +-- _images     ~ 发布为 /pybimage
+|   +-- entries     ~ 发布为 /pybnodes
+|   +-- flavours    ~ 发布为 /pybstyle
+|   +-- pybshare    ~ 发布为 /pybshare
+|   +-- plugins  
+|   |-- blog.ini
+|   |-- comment
+|   |-- config.py
+|   |-- index.html
+|   |-- not-doc-2006-05-31-12-00.t2t
+|   `-- ...
++-- repos
+|   `-- zqlib-hg
+`-- www
+    |-- index.html -&gt; map/index.html
+    |-- leo_doc_zh -&gt; obp/leo_doc_zh/doc/html/_build/html
+    +-- logs -&gt; ../_logs
+    +-- map
+    +-- obp
+    +-- res
+    |   +-- HYRY-scipydoc
+    |   +-- d   ~ 文档
+    |   +-- f   ~ foto
+    |   +-- j   ~ Js
+    |   +-- m   ~ 多媒体
+    |   |   |-- r   ~ 录音
+    |   |   `-- v   ~ 录像
+    |   +-- s5 -&gt; ../../repos/zqlib-hg/tangle/zoomquiet.leo/s5/
+    |   `+- scrapbook 
+    |-- pyblosxom_zh -&gt; obp/pyblosxom_zh/build/html/
+    |-- pywdwpy -&gt; obp/PyWDWPy/build/html/
+    |-- tpipy_zh -&gt; obp/TPiPy/build/html/
+    `-- w2py_manual_zh -&gt; obp/web2py_manual_zh/build/html
+</t>
+<t tx="zoomq.20101109214756.6991">#Type:	Source:	Destination:	Actions:
+# 准备好后,取消!
+A Record	www.zoomquiet.org	202.108.44.62	Edit | Delete
+A Record	obp.zoomquiet.org	119.88.56.193	Edit | Delete
+
+# 核心域名
+A Record	zoomquiet.org	119.88.56.193	Edit | Delete
+
+A Record	blog.zoomquiet.org	119.88.56.193	Edit | Delete
+A Record	skm.zoomquiet.org	119.88.56.193	Edit | Delete
+A Record	floss.zoomquiet.org	119.88.56.193	Edit | Delete
+
+# 预留,指向 gae
+A Record	weknow.zoomquiet.org	202.108.44.62	Edit | Delete
+
+CNAME Record	*.zoomquiet.org	Yahoo! Hostname	Edit | --
+CNAME Record	googlee445fdb76e058b0a.zoomquiet.org	google.com	Edit | Delete
+CNAME Record	mail.zoomquiet.org	Yahoo! Hostname	Edit | --
+CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
+<t tx="zoomq.20101109214756.6992">对根页面进行精简:
+    + 所有目录只显示前子目录和前5页面索引
+        + 2级索引同上
+        + 3级索引不限制
+    + 默认说明页面 readme.html
+    + 所有页面,增补原始URL旁注!</t>
 </tnodes>
 </leo_file>
