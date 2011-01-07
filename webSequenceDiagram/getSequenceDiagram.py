@@ -45,7 +45,17 @@ def getSequenceDiagram( text, outputFile, style = 'default' ):
 if __name__ == "__main__":
     if 4 != len(sys.argv):
         print """ %s usage::
-$ python getSequenceDiagram.py DiagremStyle DiagramName 定义文件.txt
+$ getSequenceDiagram.py DiagremStyle DiagramName 定义文件.txt
+                        |              +-- 用于生成图片,最好E文
+                        +-- default
+                        +-- earth
+                        +-- modern-blue
+                        +-- mscgen
+                        +-- omegapple
+                        +-- qsd
+                        +-- rose
+                        +-- roundgreen
+                        \-- napkin 
         """ % VERSION
     else:
         style = sys.argv[1] #"napkin"

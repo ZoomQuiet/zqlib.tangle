@@ -10,18 +10,17 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
-<v t="zoomq.20100903210229.3838" a="E"><vh>Hacking Life</vh>
-<v t="zoomq.20100903210229.3896"><vh>KM思绪</vh>
-<v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh></v>
+<v t="zoomq.20100903210229.3838"><vh>Hacking Life</vh>
+<v t="zoomq.20100903210229.3839"><vh>巨坑分析:</vh>
+<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh>
+<v t="zoomq.20101227205438.2592"><vh>ml</vh></v>
 </v>
-<v t="zoomq.20100903210229.3839" a="E"><vh>巨坑分析:</vh>
-<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh></v>
-<v t="zoomq.20100903210229.3840" a="E"><vh>zoomquiet.org</vh>
-<v t="zoomq.20101109214756.6989" a="E"><vh>zoomquiet.org发布规划</vh>
+<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh>
+<v t="zoomq.20101109214756.6989"><vh>zoomquiet.org发布规划</vh>
 <v t="zoomq.20101109214756.6990"><vh>目录</vh></v>
 <v t="zoomq.20101109214756.6991"><vh>域名</vh></v>
-<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
 </v>
+<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
 <v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
 <v t="zoomq.20100903210229.3841"><vh>OBP</vh></v>
 <v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
@@ -39,13 +38,6 @@
 </v>
 <v t="zoomq.20101019093735.5079"><vh>Geek</vh>
 <v t="zoomq.20101103153946.5095"><vh>CLI</vh></v>
-</v>
-</v>
-<v t="zoomq.20101030170919.2579"><vh>newHeadline</vh>
-<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
-<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
-<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
-<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
 </v>
 </v>
 <v t="zoomq.20100831135717.3642"><vh>WeKnow</vh>
@@ -68,10 +60,23 @@
 </v>
 </v>
 </v>
+<v t="zoomq.20100903210229.3896"><vh>KM思绪</vh>
+<v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh></v>
 </v>
-<v t="zoomq.20100903210229.3876"><vh>4lifeHacking</vh>
-<v t="zoomq.20101026092125.2576"><vh>TiLogs</vh>
+<v t="zoomq.20101030170919.2579"><vh>newHeadline</vh>
+<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
+<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
+<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
+<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3876" a="E"><vh>4lifeHacking</vh>
+<v t="zoomq.20101026092125.2576" a="E"><vh>TiLogs</vh>
 <v t="zoomq.20101026092125.2577"><vh>@nosent zq-tilog-1010.txt</vh></v>
+<v t="zoomq.20101228111644.2594"><vh>@nosent zq-tilog-1011.txt</vh></v>
+<v t="zoomq.20101228111644.2596"><vh>@nosent zq-tilog-1012.txt</vh></v>
+<v t="zoomq.20110104095502.2596"><vh>@nosent zq-tilog-1101.txt</vh></v>
 </v>
 <v t="zoomq.20100903210229.3843"><vh>misc</vh>
 <v t="zoomq.20100903210229.3844" a="M"><vh>_stuff</vh>
@@ -150,12 +155,12 @@
 <v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
 <v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
 </v>
-<v t="zoomq.20100827095209.8300"><vh>@file /home/zoomq/media/manga/manga.py</vh>
+<v t="zoomq.20100827095209.8300"><vh>@file manga.py</vh>
 <v t="zoomq.20100827095209.8301"><vh>manga declarations</vh></v>
 <v t="zoomq.20100827095209.8302"><vh>genUrlist</vh></v>
 </v>
-<v t="zoomq.20100827095209.8303"><vh>@file /home/zoomq/media/manga/manga-zipang12~1.sh</vh></v>
-<v t="zoomq.20100827095209.8304"><vh>@file /home/zoomq/media/manga/wgetli.py</vh>
+<v t="zoomq.20100827095209.8303"><vh>@file manga-zipang12~1.sh</vh></v>
+<v t="zoomq.20100827095209.8304"><vh>@file wgetli.py</vh>
 <v t="zoomq.20100827095209.8305"><vh>wgetli declarations</vh></v>
 <v t="zoomq.20100827095209.8306"><vh>genUrlist</vh></v>
 </v>
@@ -170,7 +175,8 @@
 </vnodes>
 <tnodes>
 <t tx="zoomq.20091008173724.1">'/home/zoomq/workspace/3hg/zqlib-hg/tangle/hackliving.leo'</t>
-<t tx="zoomq.20100122092723.2783">@path media/manga</t>
+<t tx="zoomq.20100122092723.2783">@path _stuff/manga
+#media/manga</t>
 <t tx="zoomq.20100122092723.2784">@path 2graspic/ellytran.com/wp-content/gallery
 #/home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
 <t tx="zoomq.20100412163057.2814">@path /home/zoomq/</t>
@@ -617,7 +623,7 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
 
 
 </t>
-<t tx="zoomq.20100903210229.3838">@path /home/zoomq/workspace/3hg/zqlib-tangle/
+<t tx="zoomq.20100903210229.3838">@path workspace/3hg/zqlib-tangle/
 @language python
 @tabwidth -4
 
@@ -625,8 +631,6 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
 
 </t>
 <t tx="zoomq.20100903210229.3839">当前工作外长期拖延的意义任务...
-
-
 
 
 </t>
@@ -1174,7 +1178,7 @@ MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.co
 
 </t>
 <t tx="zoomq.20100903210229.3872">@path /home/zoomq/.zoomq/rc.local</t>
-<t tx="zoomq.20100903210229.3876">@path /home/zoomq/2matter4peg/tangle/zoom.quiet/4lifeHacking
+<t tx="zoomq.20100903210229.3876">@path 2matter4peg/tangle/zoom.quiet/4lifeHacking
 时间帐单处置辅助</t>
 <t tx="zoomq.20100903210229.3877">@path tpl</t>
 <t tx="zoomq.20100903210229.3878">dsfadsf
@@ -1718,16 +1722,23 @@ Revision = {node|short}
 date,tI,tO,tC,tM,tF,tS
 101008,1.5,3.0,0.5,5.5,5.5,7.0
 101009,0.0,3.0,0.5,5.5,6.5,7.0
-
 101011,3.0,3.0,0.0,5.0,5.0,6.5
 101012,0.5,1.5,2.0,6.0,5.0,6.0
 101013,1.0,5.0,1.5,5.0,5.0,7.0
 101014,6.0,0.0,0.0,6.0,5.0,7.0
 101015,0.0,6.0,0.0,6.0,5.0,7.0
-
 101018,0.0,3.25,1.2,8.25,5.0,7.0
 101019,0.0,6.0,3.75,3.75,3.25,6.0
 101020,1.0,4.0,0.5,9.0,5.0,6.5
+101021,0.5,3.0,4.25,7.75,2.0,6.5
+101022,0.0,4.25,1.0,6.5,3.75,6.5
+101024,1.5,2.75,3.25,4.0,5.0,6.0
+101025,0.0,7.5,2.5,6.0,2.0,6.0
+101026,2.75,2.3,0.0,6.85,2.0,6.5
+101027,0.5,4.0,6.75,4.25,2.0,6.0
+101028,0.0,1.0,1.0,4.5,2.0,5.5
+101029,0.0,10.5,0.0,5.25,2.0,7.0
+101030,1.5,8.5,2.0,1.5,2.0,6.0
 </t>
 <t tx="zoomq.20101029104710.3831">[ui]
 username = Zoom.Quiet &lt;zoomquiet+hg@gmail.com&gt;
@@ -1837,30 +1848,16 @@ import os
 注
 释......'''
 </t>
-<t tx="zoomq.20101103153946.3839">邮件来自 Google Groups:"ks-deve"金山开源社区技术邮件列表
-讨论: ks-deve@googlegroups.com
-退订,请邮件至: ks-deve+unsubscribe@googlegroups.com
-详细: http://groups.google.com/group/ks-deve
-用户列表: http://groups.google.com/group/ks-user
-通告列表: http://groups.google.com/group/ks-ann
-社区官网: http://code.ijinshan.com
-
-
-邮件来自 Google Groups:"ks-user"金山开源社区用户邮件列表
-讨论: ks-user@googlegroups.com
-退订,请邮件至: ks-user+unsubscribe@googlegroups.com
-详细: http://groups.google.com/group/ks-user
-技术列表: http://groups.google.com/group/ks-deve
-通告列表: http://groups.google.com/group/ks-ann
-社区官网: http://code.ijinshan.com
-
-邮件来自 Google Groups:"ks-ann"金山开源社区通告邮件列表
-讨论: ks-ann@googlegroups.com
-退订,请邮件至: ks-ann+unsubscribe@googlegroups.com
-详细: http://groups.google.com/group/ks-ann
-技术列表: http://groups.google.com/group/ks-deve
-用户列表: http://groups.google.com/group/ks-user
-社区官网: http://code.ijinshan.com</t>
+<t tx="zoomq.20101103153946.3839">卫士开源的定制设想...
++-- 维基增补:
+    +-- 列表注册
+    +-- Hg 使用
++-- 代码自动化流程
+    +-- 对内部 hadson
+    +-- 对pyk的 Bitten
++-- #迁移高配主机
++-- py.k 配合宣传
+</t>
 <t tx="zoomq.20101103153946.5095">+-- 常好CLI 技巧:
     +-- history
     +-- 文件更动...
@@ -1980,5 +1977,78 @@ CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
         + 3级索引不限制
     + 默认说明页面 readme.html
     + 所有页面,增补原始URL旁注!</t>
+<t tx="zoomq.20101227205438.2592">邮件来自 Google Groups:"ks-deve"金山开源社区技术邮件列表
+讨论: ks-deve@googlegroups.com
+退订,请邮件至: ks-deve+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/ks-deve
+用户列表: http://groups.google.com/group/ks-user
+通告列表: http://groups.google.com/group/ks-ann
+社区官网: http://code.ijinshan.com
+
+
+邮件来自 Google Groups:"ks-user"金山开源社区用户邮件列表
+讨论: ks-user@googlegroups.com
+退订,请邮件至: ks-user+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/ks-user
+技术列表: http://groups.google.com/group/ks-deve
+通告列表: http://groups.google.com/group/ks-ann
+社区官网: http://code.ijinshan.com
+
+邮件来自 Google Groups:"ks-ann"金山开源社区通告邮件列表
+讨论: ks-ann@googlegroups.com
+退订,请邮件至: ks-ann+unsubscribe@googlegroups.com
+详细: http://groups.google.com/group/ks-ann
+技术列表: http://groups.google.com/group/ks-deve
+用户列表: http://groups.google.com/group/ks-user
+社区官网: http://code.ijinshan.com</t>
+<t tx="zoomq.20101228111644.2594">@nocolor
+date,tI,tO,tC,tM,tF,tS
+101102,1.75,4.25,0.75,6.75,5.0,6.0
+101103,0.0,2.0,3.0,5.0,5.0,6.0
+101104,0.0,6.35,2.75,4.0,6.5,6.0
+101105,2.25,1.0,1.0,6.25,4.75,5.0
+101106,0.0,5.5,1.5,4.0,4.0,7.0
+101108,0.0,6.5,2.75,3.25,5.0,6.5
+101109,0.0,6.5,2.75,2.0,5.0,7.0
+101110,2.5,5.0,1.5,4.0,5.0,6.0
+101111,0.0,7.75,4.5,3.25,2.0,6.0
+101112,0.0,2.5,0.75,4.75,2.0,6.0
+101115,0.0,4.5,4.0,5.0,5.0,7.0
+101116,0.0,4.5,2.5,3.0,5.0,6.0
+101117,0.0,2.5,2.5,7.5,5.5,6.0
+101118,0.0,7.5,2.0,2.0,2.5,6.0
+101119,1.75,3.5,1.25,5.0,5.0,6.0
+101129,0.0,2.25,5.5,7.5,2.0,6.0
+101130,0.5,9.0,2.5,5.5,2.0,5.0
+</t>
+<t tx="zoomq.20101228111644.2596">@nocolor
+date,tI,tO,tC,tM,tF,tS
+101201,0.0,8.75,4.25,4.0,2.0,5.5
+101202,1.0,6.25,1.5,2.0,2.0,4.5
+101203,0.0,8.0,1.0,4.5,2.0,7.5
+101206,1.0,5.0,5.75,3.75,2.5,7.0
+101207,0.0,7.0,2.75,6.0,2.0,5.5
+101208,0.0,10.5,2.75,2.5,2.0,7.0
+101209,0.0,11.0,2.0,4.0,2.0,5.0
+101210,0.0,5.5,2.75,2.5,2.0,5.0
+101213,0.0,6.5,0.75,6.25,2.0,7.0
+101214,0.0,3.5,2.75,6.25,5.0,7.0
+101215,0.0,5.25,2.25,6.5,5.0,7.5
+101216,3.5,5.5,0.5,5.5,2.0,6.0
+101217,0.0,0.0,2.75,12.5,2.0,6.0
+101220,0.0,2.75,4.0,4.0,5.0,7.0
+101221,0.0,4.25,1.5,5.75,5.0,6.0
+101222,0.0,5.5,1.0,4.5,2.0,7.0
+101223,0.5,1.5,1.0,10.5,5.0,5.5,6.5
+101227,0.0,1.75,3.25,8.0,5.0,6.0
+101228,1.75,2.25,1.75,8.5,5.0,5.5
+101229,4.5,4.5,1.75,2.75,4.5,5.5
+101230,0.0,2.75,2.75,6.5,5.5,5.0
+101231,0.0,2.0,1.5,6.5,7.0,7.5</t>
+<t tx="zoomq.20110104095502.2596">kkj@nocolor
+date,tI,tO,tC,tM,tF,tS
+110104,0.0,6.5,0.0,5.5,5.0,7.0
+110105,1.0,4.5,0.5,5.0,6.0,7.0
+110106,2.15,4.75,0.5,6.5,4.5,7.0</t>
 </tnodes>
 </leo_file>
