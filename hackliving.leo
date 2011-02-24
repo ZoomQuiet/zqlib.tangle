@@ -10,8 +10,8 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
-<v t="zoomq.20100903210229.3838"><vh>Hacking Life</vh>
-<v t="zoomq.20100903210229.3839"><vh>巨坑分析:</vh>
+<v t="zoomq.20100903210229.3838" a="E"><vh>Hacking Life</vh>
+<v t="zoomq.20100903210229.3839" a="E"><vh>巨坑分析:</vh>
 <v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh>
 <v t="zoomq.20101227205438.2592"><vh>ml</vh></v>
 </v>
@@ -22,13 +22,19 @@
 </v>
 <v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
 <v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
-<v t="zoomq.20100903210229.3841"><vh>OBP</vh></v>
 <v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
-<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
 <v t="zoomq.20101104113205.5096"><vh>DouPy</vh></v>
+<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
 </v>
 </v>
-<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh>
+<v t="zoomq.20100903210229.3841" a="E"><vh>OBP</vh>
+<v t="zoomq.20110218220319.2595"><vh>2Hg</vh></v>
+<v t="zoomq.20110218220319.3903" a="E"><vh>RWIwPyZh</vh>
+<v t="zoomq.20110224000107.3905"><vh>配置</vh></v>
+<v t="zoomq.20110221225054.2597"><vh>报名</vh></v>
+</v>
+</v>
+<v t="zoomq.20100908091715.2579" a="E"><vh>PythoniCamp</vh>
 <v t="zoomq.20100927113242.2581"><vh>Hg demo</vh></v>
 <v t="zoomq.20101015095808.2582"><vh>Hg 配置</vh>
 <v t="zoomq.20101029104710.3831"><vh>hgrc</vh></v>
@@ -73,6 +79,7 @@
 </v>
 <v t="zoomq.20100903210229.3876" a="E"><vh>4lifeHacking</vh>
 <v t="zoomq.20101026092125.2576" a="E"><vh>TiLogs</vh>
+<v t="zoomq.20110209102527.2595"><vh>@nosent zq-tilog-1102.txt</vh></v>
 <v t="zoomq.20101026092125.2577"><vh>@nosent zq-tilog-1010.txt</vh></v>
 <v t="zoomq.20101228111644.2594"><vh>@nosent zq-tilog-1011.txt</vh></v>
 <v t="zoomq.20101228111644.2596"><vh>@nosent zq-tilog-1012.txt</vh></v>
@@ -152,9 +159,6 @@
 </v>
 </v>
 <v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
-<v t="zoomq.20100122092723.2784"><vh>ellytran.com</vh>
-<v t="zoomq.20100122092723.2797"><vh>@shadow pic-ellytran.py</vh></v>
-</v>
 <v t="zoomq.20100827095209.8300"><vh>@file manga.py</vh>
 <v t="zoomq.20100827095209.8301"><vh>manga declarations</vh></v>
 <v t="zoomq.20100827095209.8302"><vh>genUrlist</vh></v>
@@ -177,8 +181,6 @@
 <t tx="zoomq.20091008173724.1">'/home/zoomq/workspace/3hg/zqlib-hg/tangle/hackliving.leo'</t>
 <t tx="zoomq.20100122092723.2783">@path _stuff/manga
 #media/manga</t>
-<t tx="zoomq.20100122092723.2784">@path 2graspic/ellytran.com/wp-content/gallery
-#/home/zoomq/9media/comics/2graspic/ellytran.com/wp-content/gallery</t>
 <t tx="zoomq.20100412163057.2814">@path /home/zoomq/</t>
 <t tx="zoomq.20100412163057.2815">@path ssp-zoom.quiet/virusampls-ratio
 #/home/zoomq/Desktop/KiS/zoom.quiet/100412-virus-sample-selector
@@ -657,9 +659,12 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
         +-- Sphinx实用手册
             +-- 'rst2s5 使用'
             http://blog.zoomquiet.org/pyblosxom/utility/py4str/StructuredText/rst2s5-usage-2010-09-18-23-23.html
+    +-- Hg 手册/Tip
     +-- 图书:
+        +-- #SFSF 校对...
+        +-- xkcd.com 漫画翻译...
         +-- 大妈书:
-            +-- 牛妞成长史
+            +-- #牛妞成长史
             +-- 私人编年史:
                 +-- #周氏家谱....
                 +-- 不可失败的菜谱
@@ -1717,7 +1722,9 @@ Revision = {node|short}
 <t tx="zoomq.20101019093735.5079">+-- http://xkcd.com/ 中文翻译
     +-- 下载脚本 '/home/zoomq/media/manga/2graspic/xkcd.com/' grasp-xkcd.sh;filter-xkcd.py
     +-- blogger.com 发布?</t>
-<t tx="zoomq.20101026092125.2576">@data</t>
+<t tx="zoomq.20101026092125.2576">date 收集
+
+</t>
 <t tx="zoomq.20101026092125.2577">@nocolor
 date,tI,tO,tC,tM,tF,tS
 101008,1.5,3.0,0.5,5.5,5.5,7.0
@@ -1849,13 +1856,13 @@ import os
 释......'''
 </t>
 <t tx="zoomq.20101103153946.3839">卫士开源的定制设想...
++-- #迁移高配主机
 +-- 维基增补:
-    +-- 列表注册
+    +-- '列表注册'
     +-- Hg 使用
 +-- 代码自动化流程
     +-- 对内部 hadson
     +-- 对pyk的 Bitten
-+-- #迁移高配主机
 +-- py.k 配合宣传
 </t>
 <t tx="zoomq.20101103153946.5095">+-- 常好CLI 技巧:
@@ -1976,7 +1983,8 @@ CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
         + 2级索引同上
         + 3级索引不限制
     + 默认说明页面 readme.html
-    + 所有页面,增补原始URL旁注!</t>
+    + 所有页面,增补原始URL旁注!
+    </t>
 <t tx="zoomq.20101227205438.2592">邮件来自 Google Groups:"ks-deve"金山开源社区技术邮件列表
 讨论: ks-deve@googlegroups.com
 退订,请邮件至: ks-deve+unsubscribe@googlegroups.com
@@ -2045,10 +2053,241 @@ date,tI,tO,tC,tM,tF,tS
 101229,4.5,4.5,1.75,2.75,4.5,5.5
 101230,0.0,2.75,2.75,6.5,5.5,5.0
 101231,0.0,2.0,1.5,6.5,7.0,7.5</t>
-<t tx="zoomq.20110104095502.2596">kkj@nocolor
+<t tx="zoomq.20110104095502.2596">@nocolor
 date,tI,tO,tC,tM,tF,tS
-110104,0.0,6.5,0.0,5.5,5.0,7.0
-110105,1.0,4.5,0.5,5.0,6.0,7.0
-110106,2.15,4.75,0.5,6.5,4.5,7.0</t>
+110104,0.00,6.50,0.00,5.50,5.00,7.00
+110105,1.00,4.50,0.50,5.00,6.00,7.00
+110106,2.15,4.75,0.50,6.50,4.50,7.00
+110107,0.50,5.75,2.25,6.50,4.00,6.50
+110110,1.00,3.00,4.50,1.50,5.00,7.00
+110111,1.50,3.50,1.50,7.00,3.00,5.50
+110112,2.00,3.00,1.00,6.50,5.00,7.00
+110113,6.00,1.75,0.25,6.00,1.50,7.00
+110117,0.00,5.25,2.25,5.50,4.00,7.00
+110118,0.00,2.50,4.50,5.00,4.00,7.00
+110119,1.00.1/50,1.50,5.00,7.00,7.50
+110120,3.00,5.00,1.00,3.00,4.00,6.00
+110121,2.00,5.25,1.25,3.50,4.00,7.50
+110124,1.00,5.50,0.50,5.50,4.00,7.00
+110125,0.00,5.50,1.00,6.00,4.50,7.50
+110126,1.50,8.75,2.75,2.00,1.00,7.00
+110127,2.50,7.50,0.00,3.00,3.50,7.50
+110128,0.50,8.00,0.00,3.00,5.50,7.00
+110129,2.00,4.50,4.50,3.00,4.00,7.00
+</t>
+<t tx="zoomq.20110209102527.2595">date,tI,tO,tC,tM,tF,tS
+110209,2.00,4.00,1.00,7.00,5.00,6.00
+110210,0.00,1.50,1.50,10.5,4.50,5.50
+110212,0.00,2.50,1.00,8.00,4.00,7.00
+110214,2.50,2.75,1.25,4.00,5.00,7.00
+110215,0.00,6.00,0.50,6.50,4.00,7.50
+110216,0.00,3.00,1.50,7.00,4.00,7.50
+110217,0.00,1.00,2.00,8.50,4.50,7.00
+110218,2.00,3.00,0.00,7.00,4.00,7.00
+110221,0.00,3.50,3.00,4.50,4.00,7.50
+110222,0.50,3.50,1.00,8.00,4.50,8.00
+110223,1.00,4.50,1.00,5.00,4.50,7.00
+
+
+
+
+</t>
+<t tx="zoomq.20110218220319.2595">Command-line access
+
+If you plan to make changes, use this command to check out the code as yourself using HTTPS:
+# Project members authenticate over HTTPS to allow committing changes.
+svn checkout https://openbookproject.googlecode.com/svn/trunk/ openbookproject --username Zoom.Quiet
+
+When prompted, enter your generated googlecode.com password.
+
+Use this command to anonymously check out the latest project source code:
+# Non-members may check out a read-only working copy anonymously over HTTP.
+svn checkout http://openbookproject.googlecode.com/svn/trunk/ openbookproject-read-only 
+</t>
+<t tx="zoomq.20110218220319.3903">Table of Contents
+Chapter 1 Introduction to Instrumentation
+    Data Acquisition
+    Control Output
+    Applications Overview
+    Summary
+Chapter 2 Essential Electronics
+    Electrical Charge
+    Electric Current
+    Basic Circuit Theory
+    Circuit Schematics
+    DC Circuit Characteristics
+    AC Circuits
+    Interfaces
+    Summary
+    Suggested Reading
+Chapter 3 The Python Programming Language
+    Installing Python
+    The Python Programming Language
+    Python Development Tools
+    Summary
+    Suggested Reading
+Chapter 4 The C Programming Language
+    Installing C
+    Developing Software in C
+    C Development Tools
+    Summary
+    Suggested Reading
+Chapter 5 Python Extensions
+    Creating Python Extensions in C
+    Python’s C Extension API
+    Using the Python C Extension API
+    Python’s ctypes Foreign Function Library
+    Summary
+    Suggested Reading
+Chapter 6 Hardware: Tools and Supplies
+    The Essentials
+    Advanced Tools
+    Supplies
+    New Versus Used
+    Summary
+    Suggested Reading
+Chapter 7 Physical Interfaces
+    Connectors
+    Serial Interfaces
+    GPIB/IEEE-488
+    PC Bus Interface Hardware
+    Old Doesn’t Mean Bad
+    Summary
+    Suggested Reading
+Chapter 8 Getting Started
+    Defining the Project
+    Requirements
+    Designing the Software
+    Functional Testing
+    Implementation
+    User Documentation
+    Summary
+    Suggested Reading
+Chapter 9 Control System Concepts
+    Basic Control Systems Theory
+    Control System Types
+    Implementing Control Systems in Python
+    Summary
+    Suggested Reading
+Chapter 10 Building and Using Simulators
+    What Is Simulation?
+    Using Python to Create a Simulator
+    Serial Terminal Emulators
+    Displaying Simulation Data
+    Creating Your Own Simulators
+    Summary
+    Suggested Reading
+Chapter 11 Instrumentation Data I/O
+    Data I/O Interface Software
+    Data I/O: Acquiring and Writing Data
+    Summary
+    Suggested Reading
+Chapter 12 Reading and Writing Data Files
+    ASCII Data Files
+    Binary Data Files
+    Summary
+    Suggested Reading
+Chapter 13 User Interfaces
+    Text-Based Interfaces
+    Graphical User Interfaces
+    Summary
+    Suggested Reading
+Chapter 14 Real World Examples
+    Serial Interfaces
+    USB Example: The LabJack U3
+    Summary
+    Suggested Reading
+Appendix Free and Open Source Software Resources
+Appendix Instrument Sources
+    Manufacturers
+    Used Test Equipment Sources
+    Manuals
+Colophon</t>
+<t tx="zoomq.20110221225054.2597">=== 报名: ===
+ # 高增琦 &lt;pgf00a@gmail.com&gt; / 13522167037
+  * 自用Blog:暂无，校内用的多...
+  * 邮寄前联系（租的房子快到期了）
+  * 2010年新鲜毕业的研究生，作XML查询引擎，JAVA 工作是数据库开发，C 有一定的C语言基础，有并行程序的经验硬件接触的少（也就是上学时）有一定的英文阅读能力，曾经翻译过英文论文（XML流处理相关）对开源、开发有激情
+  * 每天1-2个小时？也许周末能多点儿,要是能在手机上弄，也许更多一些吧
+  * 对于未来的版权收益有什么特殊要求? 这个不懂，求指教... 
+ # Grissiom &lt;chaos.proton@gmail.com&gt; / 15901033820
+  * *bitbucket ID:* `grissiom`
+  * http://grissiom.blogspot.com (life), http://blog.csdn.net/grissiom (tech)
+  * 北京海淀区知春路大运村 1 号楼 1305 邮编 100191
+  * 现在研一，大二的时候自学的 python，以后只要能用 python 的地方就用 python。C 语言也会，写过 51 的程序。 本科毕设做的是 pyqt+pyserial 的拉伸机测控系统。实验室做一些小的材料测控仪器。上个学期学过一点控制论。 我看目录里也有控制系统的内容。英语水平是 CET-6，平时常在英文网站上瞎逛。技术书籍有原版不读译本。
+  *  2011 年的课程应该不紧。基本应该是在实验室做项目吧。估计每周应该有四个晚上可以掺和，呵呵
+  * 对于未来的版权收益有什么特殊要求?
+   * 以前只给 KDE 翻译过几个 po，第一次参与这种翻译，不知道行规怎么样的。图学习，不图收益，呵呵
+ # 小马xiaoma &lt;cnxiaoma@gmail.com&gt; / 13311664600
+  * 自用Blog    在建中...
+  * 15年开发经验，其中:5年MIS开发(VB, PB, Sybase)/5年Web开发(PHP,Mysql,ASP,Java)/5年嵌入式（RFID）开发(C)/对数据库，互联网,嵌入式有一定了解。
+  * 2011 很忙，但是仍然能抽出一定的时间。目前正在翻译《REST in Practice》 其中6,7,8章（150多页），4人合译，计划3月完稿，6月可以出版。4月份后可以抽出时间，平均一天一页应该没问题。
+    * http://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829
+  * 对于未来的版权收益有什么特殊要求?只要求有署名权，其他有最好，没有也无所谓，就当是为社区做贡献。
+ # kermit.mei@gmail.com / 13428780315
+  * *bitbucket ID:* `kermitmei`
+  * http://www.zeuux.org/home/kermit.mei/
+  * 邮寄地址
+  * 目前从事嵌入式Linux下C/C++软件开发，主要是以Qt为主的嵌入式Linux应用开发，2年工作经验;以前做过智能遥控器，多款数码电子产品；现在工作内容是开发一个基于嵌入式的精简Web引擎，包括html解析和界面生成等功能。对C/C++ 以及Qt架构灰常熟悉，目前靠这个吃饭；熟悉Linux操作系统;熟悉Python/Perl/Bash等脚本语言(主要用于测试和辅助编程)；对计算机硬件有一定了解，并有浓厚兴趣。
+  * 换工作了，从不加班，所以不算忙，至少保证：
+   * 1.每天能够查收并处理邮件；
+   * 2.每周至少贡献一天(周六或者周日)来完成社区任务；
+  * 所有收益均愿意贡献给Zeuux。当然，如果能在扉页中属个名字最好，以帮助我以后找工作时吹吹牛；若无则也罢。
+  * 参与目的：
+   # 这个工作量不算大，按照一年的计划完成C部分翻译和语法润色应该没有问题。
+   # 希望为社区力所能及地贡献一点儿力量。
+   # 最重要的是，我本身也希望阅读此书，并进一步学习社区中的“协同作战“。
+   # 另外，除了C部分的翻译(因为这部分内容确实很少)，如果时间确实是1年，那我觉得我还有时间担任其他章节的校验工作。
+ # 孙伟 / sagasw@gmail.com / 13840885742
+  * http://sunxiunan.com
+  * 目前主要从事Windows桌面下Visual C++开发，爱好Python和Lua。8年工作经验。
+  * 报名参加C相关章节翻译。每周可保证至少有6个小时。
+ # Alan Zheng &lt;machinecat1666@gmail.com&gt; / 13764183786
+  * *bitbucket ID:* `AlanZheng`
+  * http://blog.microsuncn.com
+  * 上海市长宁路1018号龙之梦大厦14楼，Siemens工业软件（上海）有限公司
+  * 3D图形，Linux(Fedora) C/C++, MIPS embedded system, Python, RHCEr, etc.
+  * 周六周日基本都有时间
+  * 对于未来的版权收益有什么特殊要求? ：方便介绍一下通常是怎么处理的吗？
+ # jl y &lt;newpublic01@gmail.com&gt; /  13764860916
+  * *bitbucket ID:* `newpublic01`
+  * 邮寄地址:  租房, 到时候联系, OK?!
+  * 技术积累:  c, python (自我感觉还需要大幅度提高)
+  * 2011 是否忙,每周可以挤出多少时间掺合:  忙也得挤时间啊(目前比较空闲)
+  * 对于未来的版权收益有什么特殊要求:    我觉得, 既然是 linux 环境下的, 就应该支持一下 GPL, 但不是说主张盗版啥的, 只是说能让更多的人读到就好. 况且, 说句不太中听的话, 要想拿这个收益改变生活水平啥的, 我觉得八成不靠谱, 还不如支持一下开源, 呵呵
+ # hu peter &lt;hulwyx@gmail.com&gt;/ 13929554974
+  * 自用Blog：无
+  * 广州市前进路161号
+  * 技术积累：？？？？ 本人专业是工程类的，不过对外语比较感兴趣，有兴趣参加。目前就职中交第四航道勘察设计院，08年就被派驻一个援外港口建设项目（安哥拉），外语还行，我想试试看，能否帮上你的忙！
+  * 工作比较空闲，时间较多。
+  * 对于未来的版权收益有什么特殊要求?           ：没有特殊要求。
+</t>
+<t tx="zoomq.20110224000107.3905">+ '可以链式clone传递'
++ '事务邮件通告:'
+    commits-noreply@bitbucket.org&gt;
+    发送至	zoomquiet+rwiwpy@gmail.com （是的，这就是您。） 了解详情
++ https 认证部署!
+    /data/py.kingsoft.net/ssl/server.key
+    pass phrase for server.key: P@55w02d
+    Signature ok
+subject=/C=CN/ST=GuangDong/L=ZhuHai/O=zoomquiet.org/OU=obp/CN=Zoom.Quiet/emailAddress=zoomquiet+obp@gmail.com
+Getting Private key
+    #Yahoo! obp.zoomquiet.org -&gt; py.kingsoft.net
+    https://py.kingsoft.net:8080/rwiwpyzh
+    使用 Nginx 发布
++ Issue 评注...
+    H* 点击到:
+    https://bitbucket.org/ZoomQuiet/obp.rwiwpyzh/issues/new
+    zsprain obp@pyk
+    pgf00a
+    grissiom
+    xiaoma
+    kermitmei
+    sagasw
+    AlanZheng
+    newpublic01
+    hulwyx
++ 自动编译 hook 部署
+</t>
 </tnodes>
 </leo_file>
