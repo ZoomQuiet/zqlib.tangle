@@ -1,3 +1,0 @@
-opt text
-    A->B: text
-end

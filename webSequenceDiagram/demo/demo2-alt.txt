@@ -1,5 +1,0 @@
-alt text1
-    A->B: text
-else text2
-    A->B: text
-end

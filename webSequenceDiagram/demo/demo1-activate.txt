@@ -1,4 +1,0 @@
-A->B: text
-activate B
-B-->A: json
-deactivate B
