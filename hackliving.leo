@@ -10,76 +10,11 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
-<v t="zoomq.20100903210229.3838" a="E"><vh>Hacking Life</vh>
-<v t="zoomq.20100903210229.3839" a="E"><vh>巨坑分析:</vh>
-<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh>
-<v t="zoomq.20101227205438.2592"><vh>ml</vh></v>
-</v>
-<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh>
-<v t="zoomq.20101109214756.6989"><vh>zoomquiet.org发布规划</vh>
-<v t="zoomq.20101109214756.6990"><vh>目录</vh></v>
-<v t="zoomq.20101109214756.6991"><vh>域名</vh></v>
-</v>
-<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
-<v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
-<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
-<v t="zoomq.20101104113205.5096"><vh>DouPy</vh></v>
-<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
-</v>
-</v>
-<v t="zoomq.20100903210229.3841" a="E"><vh>OBP</vh>
-<v t="zoomq.20110218220319.2595"><vh>2Hg</vh></v>
-<v t="zoomq.20110218220319.3903" a="E"><vh>RWIwPyZh</vh>
-<v t="zoomq.20110224000107.3905"><vh>配置</vh></v>
-<v t="zoomq.20110221225054.2597"><vh>报名</vh></v>
-</v>
-</v>
-<v t="zoomq.20100908091715.2579" a="E"><vh>PythoniCamp</vh>
-<v t="zoomq.20100927113242.2581"><vh>Hg demo</vh></v>
-<v t="zoomq.20101015095808.2582"><vh>Hg 配置</vh>
-<v t="zoomq.20101029104710.3831"><vh>hgrc</vh></v>
-<v t="zoomq.20101019093735.5077"><vh>diff</vh></v>
-<v t="zoomq.20101019093735.5078"><vh>keywords</vh></v>
-</v>
-</v>
-<v t="zoomq.20101019093735.5079"><vh>Geek</vh>
-<v t="zoomq.20101103153946.5095"><vh>CLI</vh></v>
-</v>
-</v>
-<v t="zoomq.20100831135717.3642"><vh>WeKnow</vh>
-<v t="zoomq.20100831135717.3643"><vh>可视化</vh>
-<v t="zoomq.20100831135717.4174"><vh>webSequenceDiagram</vh>
-<v t="zoomq.20100831135717.4171"><vh>@nosent getSequenceDiagram.py</vh>
-<v t="zoomq.20100831135717.4172"><vh>declarations</vh></v>
-<v t="zoomq.20100831135717.4173"><vh>getSequenceDiagram()</vh></v>
-</v>
-<v t="zoomq.20100831135717.4195"><vh>demo</vh>
-<v t="zoomq.20100831135717.4178"><vh>@nosent demo0.txt</vh></v>
-<v t="zoomq.20100831135717.4184"><vh>@nosent demo1-activate.txt</vh></v>
-<v t="zoomq.20100831135717.4188"><vh>@nosent demo2-alt.txt</vh></v>
-<v t="zoomq.20100831135717.4190"><vh>@nosent demo3-opt.txt</vh></v>
-<v t="zoomq.20100831135717.4192"><vh>@nosent demo4-note.txt</vh></v>
-<v t="zoomq.20100831135717.4194"><vh>@nosent demo5-participants.txt</vh></v>
-<v t="zoomq.20100831135717.4197"><vh>@nosent demo6-grouping.txt</vh></v>
-<v t="zoomq.20100831135717.4199"><vh>@nosent demo7-lifeline.txt</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="zoomq.20100903210229.3896"><vh>KM思绪</vh>
-<v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh></v>
-</v>
-<v t="zoomq.20101030170919.2579"><vh>newHeadline</vh>
-<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
-<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
-<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
-<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
-</v>
-</v>
-</v>
 <v t="zoomq.20100903210229.3876" a="E"><vh>4lifeHacking</vh>
 <v t="zoomq.20101026092125.2576" a="E"><vh>TiLogs</vh>
-<v t="zoomq.20110209102527.2595"><vh>@nosent zq-tilog-1102.txt</vh></v>
+<v t="zoomq.20110209102527.2595"><vh>@nosent zq-tilog-1104.txt</vh></v>
+<v t="zoomq.20110402090250.2620"><vh>@nosent zq-tilog-1103.txt</vh></v>
+<v t="zoomq.20110301085102.3912"><vh>@nosent zq-tilog-1102.txt</vh></v>
 <v t="zoomq.20101026092125.2577"><vh>@nosent zq-tilog-1010.txt</vh></v>
 <v t="zoomq.20101228111644.2594"><vh>@nosent zq-tilog-1011.txt</vh></v>
 <v t="zoomq.20101228111644.2596"><vh>@nosent zq-tilog-1012.txt</vh></v>
@@ -143,6 +78,110 @@
 </v>
 <v t="zoomq.20100903210229.3894"><vh>expchart()</vh></v>
 <v t="zoomq.20100903210229.3895"><vh>expplot()</vh></v>
+</v>
+</v>
+<v t="zoomq.20110218220319.3903"><vh>RWIwPyZh</vh>
+<v t="zoomq.20110322090028.3918"><vh>翻译</vh>
+<v t="zoomq.20110322090028.9761"><vh>@shadow LINKS.rst</vh></v>
+<v t="zoomq.20110322090028.3919"><vh>ch03</vh>
+<v t="zoomq.20110322090028.3920"><vh>@nosent index.rst</vh></v>
+<v t="zoomq.20110322090028.3921"><vh>@nosent 0_intro.rst</vh></v>
+<v t="zoomq.20110322090028.3922"><vh>@nosent 1_install_py.rst</vh></v>
+<v t="zoomq.20110322090028.3923"><vh>@nosent 2_py_programming_language.rst</vh>
+<v t="zoomq.20110407085430.2620"><vh>The Python Command Line</vh></v>
+<v t="zoomq.20110407085430.2621"><vh>Command-Line Options and Environment</vh></v>
+<v t="zoomq.20110407085430.2622"><vh>Objects in Python</vh></v>
+<v t="zoomq.20110407085430.2623"><vh>Data Types in Python</vh></v>
+<v t="zoomq.20110407085430.2624"><vh>Expressions</vh></v>
+<v t="zoomq.20110407085430.2625"><vh>Operators </vh></v>
+<v t="zoomq.20110407085430.2626"><vh>Statements</vh></v>
+<v t="zoomq.20110407085430.2627"><vh>Strings</vh></v>
+<v t="zoomq.20110407085430.2628"><vh>Program Organization</vh></v>
+<v t="zoomq.20110407085430.2629"><vh>Importing Modules</vh></v>
+<v t="zoomq.20110407085430.2630"><vh>Loading and Running a Python Program</vh></v>
+<v t="zoomq.20110407085430.2631"><vh>Basic Input and Output</vh></v>
+<v t="zoomq.20110407085430.2632"><vh>Hints and Tips</vh></v>
+</v>
+<v t="zoomq.20110322090028.3924"><vh>@nosent 3_py_evelopment_tools.rst</vh></v>
+<v t="zoomq.20110322090028.3925"><vh>@nosent 4_summary.rst</vh></v>
+<v t="zoomq.20110322090028.3926"><vh>@nosent 5_suggested_reading.rst</vh></v>
+</v>
+</v>
+<v t="zoomq.20110224000107.3905"><vh>配置</vh>
+<v t="zoomq.20110309092312.11334"><vh>Nginx</vh></v>
+</v>
+<v t="zoomq.20110221225054.2597"><vh>报名</vh></v>
+</v>
+<v t="zoomq.20100903210229.3838"><vh>Hacking Life</vh>
+<v t="zoomq.20100903210229.3839"><vh>巨坑分析:</vh>
+<v t="zoomq.20110325220944.2613"><vh>CPyUG社区</vh></v>
+<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh>
+<v t="zoomq.20101227205438.2592"><vh>ml</vh></v>
+</v>
+<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh>
+<v t="zoomq.20101109214756.6989"><vh>zoomquiet.org发布规划</vh>
+<v t="zoomq.20101109214756.6990"><vh>目录</vh></v>
+<v t="zoomq.20101109214756.6991"><vh>域名</vh></v>
+</v>
+<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
+<v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
+<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
+<v t="zoomq.20101104113205.5096"><vh>DouPy</vh></v>
+<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
+</v>
+</v>
+<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh>
+<v t="zoomq.20100927113242.2581"><vh>Hg demo</vh></v>
+<v t="zoomq.20101015095808.2582"><vh>Hg 配置</vh>
+<v t="zoomq.20101029104710.3831"><vh>hgrc</vh></v>
+<v t="zoomq.20101019093735.5077"><vh>diff</vh></v>
+<v t="zoomq.20101019093735.5078"><vh>keywords</vh></v>
+</v>
+</v>
+<v t="zoomq.20101019093735.5079"><vh>Geek</vh>
+<v t="zoomq.20110329090742.2614"><vh>沈崴-wileishn语录</vh>
+<v t="zoomq.20110329090742.2615"><vh>110329书</vh>
+<v t="zoomq.20110329090742.2618"><vh>军规:</vh></v>
+<v t="zoomq.20110329090742.2616"><vh>影响力</vh></v>
+<v t="zoomq.20110329090742.2617"><vh>大杀器</vh></v>
+</v>
+</v>
+<v t="zoomq.20101103153946.5095"><vh>CLI</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3841"><vh>OBP</vh>
+<v t="zoomq.20110218220319.2595"><vh>2Hg</vh></v>
+<v t="zoomq.20110218220319.3903"></v>
+</v>
+<v t="zoomq.20100831135717.3642"><vh>WeKnow</vh>
+<v t="zoomq.20100831135717.3643"><vh>可视化</vh>
+<v t="zoomq.20100831135717.4174"><vh>webSequenceDiagram</vh>
+<v t="zoomq.20100831135717.4171"><vh>@nosent getSequenceDiagram.py</vh>
+<v t="zoomq.20100831135717.4172"><vh>declarations</vh></v>
+<v t="zoomq.20100831135717.4173"><vh>getSequenceDiagram()</vh></v>
+</v>
+<v t="zoomq.20100831135717.4195"><vh>demo</vh>
+<v t="zoomq.20100831135717.4178"><vh>@nosent demo0.txt</vh></v>
+<v t="zoomq.20100831135717.4184"><vh>@nosent demo1-activate.txt</vh></v>
+<v t="zoomq.20100831135717.4188"><vh>@nosent demo2-alt.txt</vh></v>
+<v t="zoomq.20100831135717.4190"><vh>@nosent demo3-opt.txt</vh></v>
+<v t="zoomq.20100831135717.4192"><vh>@nosent demo4-note.txt</vh></v>
+<v t="zoomq.20100831135717.4194"><vh>@nosent demo5-participants.txt</vh></v>
+<v t="zoomq.20100831135717.4197"><vh>@nosent demo6-grouping.txt</vh></v>
+<v t="zoomq.20100831135717.4199"><vh>@nosent demo7-lifeline.txt</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3896"><vh>KM思绪</vh>
+<v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh></v>
+</v>
+<v t="zoomq.20101030170919.2579"><vh>newHeadline</vh>
+<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
+<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
+<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
+<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
+</v>
 </v>
 </v>
 <v t="zoomq.20100903210229.3872"><vh>rc.local</vh>
@@ -633,7 +672,6 @@ http://www.kunli.info/2009/05/07/sorting-dictionaries-by-value-in-python/
 
 </t>
 <t tx="zoomq.20100903210229.3839">当前工作外长期拖延的意义任务...
-
 
 </t>
 <t tx="zoomq.20100903210229.3840">+-- zoomquiet.org 发布改版:
@@ -1183,7 +1221,7 @@ MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.co
 
 </t>
 <t tx="zoomq.20100903210229.3872">@path /home/zoomq/.zoomq/rc.local</t>
-<t tx="zoomq.20100903210229.3876">@path 2matter4peg/tangle/zoom.quiet/4lifeHacking
+<t tx="zoomq.20100903210229.3876">@path ~/2matter4peg/tangle/zoom.quiet/4lifeHacking
 时间帐单处置辅助</t>
 <t tx="zoomq.20100903210229.3877">@path tpl</t>
 <t tx="zoomq.20100903210229.3878">dsfadsf
@@ -1720,13 +1758,15 @@ Id = {file|basename},v {node|short} {date|utcdate} {author|user}
 Revision = {node|short}
 </t>
 <t tx="zoomq.20101019093735.5079">+-- http://xkcd.com/ 中文翻译
-    +-- 下载脚本 '/home/zoomq/media/manga/2graspic/xkcd.com/' grasp-xkcd.sh;filter-xkcd.py
-    +-- blogger.com 发布?</t>
-<t tx="zoomq.20101026092125.2576">date 收集
+    +-- 下载脚本 '/home/zoomq/media/manga/2graspic/xkcd.com/' 
+        grasp-xkcd.sh   ;   filter-xkcd.py
+    +-- blogger.com 发布?
+</t>
+<t tx="zoomq.20101026092125.2576">@path data
+date 收集
 
 </t>
-<t tx="zoomq.20101026092125.2577">@nocolor
-date,tI,tO,tC,tM,tF,tS
+<t tx="zoomq.20101026092125.2577">date,tI,tO,tC,tM,tF,tS
 101008,1.5,3.0,0.5,5.5,5.5,7.0
 101009,0.0,3.0,0.5,5.5,6.5,7.0
 101011,3.0,3.0,0.0,5.0,5.0,6.5
@@ -1745,8 +1785,7 @@ date,tI,tO,tC,tM,tF,tS
 101027,0.5,4.0,6.75,4.25,2.0,6.0
 101028,0.0,1.0,1.0,4.5,2.0,5.5
 101029,0.0,10.5,0.0,5.25,2.0,7.0
-101030,1.5,8.5,2.0,1.5,2.0,6.0
-</t>
+101030,1.5,8.5,2.0,1.5,2.0,6.00</t>
 <t tx="zoomq.20101029104710.3831">[ui]
 username = Zoom.Quiet &lt;zoomquiet+hg@gmail.com&gt;
 
@@ -1862,10 +1901,11 @@ import os
     +-- Hg 使用
 +-- 代码自动化流程
     +-- 对内部 hadson
-    +-- 对pyk的 Bitten
+    +-- 对pyk的 Bitten ~ #先得恢复 pyk!
 +-- py.k 配合宣传
 </t>
-<t tx="zoomq.20101103153946.5095">+-- 常好CLI 技巧:
+<t tx="zoomq.20101103153946.5095">+-- #OhLife CLI
++-- 常好CLI 技巧:
     +-- history
     +-- 文件更动...
 +-- Vim
@@ -2009,8 +2049,7 @@ CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
 技术列表: http://groups.google.com/group/ks-deve
 用户列表: http://groups.google.com/group/ks-user
 社区官网: http://code.ijinshan.com</t>
-<t tx="zoomq.20101228111644.2594">@nocolor
-date,tI,tO,tC,tM,tF,tS
+<t tx="zoomq.20101228111644.2594">date,tI,tO,tC,tM,tF,tS
 101102,1.75,4.25,0.75,6.75,5.0,6.0
 101103,0.0,2.0,3.0,5.0,5.0,6.0
 101104,0.0,6.35,2.75,4.0,6.5,6.0
@@ -2028,9 +2067,9 @@ date,tI,tO,tC,tM,tF,tS
 101119,1.75,3.5,1.25,5.0,5.0,6.0
 101129,0.0,2.25,5.5,7.5,2.0,6.0
 101130,0.5,9.0,2.5,5.5,2.0,5.0
+
 </t>
-<t tx="zoomq.20101228111644.2596">@nocolor
-date,tI,tO,tC,tM,tF,tS
+<t tx="zoomq.20101228111644.2596">date,tI,tO,tC,tM,tF,tS
 101201,0.0,8.75,4.25,4.0,2.0,5.5
 101202,1.0,6.25,1.5,2.0,2.0,4.5
 101203,0.0,8.0,1.0,4.5,2.0,7.5
@@ -2052,9 +2091,10 @@ date,tI,tO,tC,tM,tF,tS
 101228,1.75,2.25,1.75,8.5,5.0,5.5
 101229,4.5,4.5,1.75,2.75,4.5,5.5
 101230,0.0,2.75,2.75,6.5,5.5,5.0
-101231,0.0,2.0,1.5,6.5,7.0,7.5</t>
-<t tx="zoomq.20110104095502.2596">@nocolor
-date,tI,tO,tC,tM,tF,tS
+101231,0.0,2.0,1.5,6.5,7.0,7.5
+
+</t>
+<t tx="zoomq.20110104095502.2596">date,tI,tO,tC,tM,tF,tS
 110104,0.00,6.50,0.00,5.50,5.00,7.00
 110105,1.00,4.50,0.50,5.00,6.00,7.00
 110106,2.15,4.75,0.50,6.50,4.50,7.00
@@ -2076,18 +2116,11 @@ date,tI,tO,tC,tM,tF,tS
 110129,2.00,4.50,4.50,3.00,4.00,7.00
 </t>
 <t tx="zoomq.20110209102527.2595">date,tI,tO,tC,tM,tF,tS
-110209,2.00,4.00,1.00,7.00,5.00,6.00
-110210,0.00,1.50,1.50,10.5,4.50,5.50
-110212,0.00,2.50,1.00,8.00,4.00,7.00
-110214,2.50,2.75,1.25,4.00,5.00,7.00
-110215,0.00,6.00,0.50,6.50,4.00,7.50
-110216,0.00,3.00,1.50,7.00,4.00,7.50
-110217,0.00,1.00,2.00,8.50,4.50,7.00
-110218,2.00,3.00,0.00,7.00,4.00,7.00
-110221,0.00,3.50,3.00,4.50,4.00,7.50
-110222,0.50,3.50,1.00,8.00,4.50,8.00
-110223,1.00,4.50,1.00,5.00,4.50,7.00
-
+110401,0.00,1.00,3.75,7.75,4.25,6.50
+110406,0.00,3.00,3.25,6.50,4.25,7.00
+110407,3.25,3.25,2.50,10.0,1.50,7.00
+110408,4.00,4.00,0.00,8.00,1.50,5.50
+110409,0.00,6.25,0.00,6.75,4.00,7.00
 
 
 
@@ -2262,23 +2295,30 @@ Colophon</t>
   * 工作比较空闲，时间较多。
   * 对于未来的版权收益有什么特殊要求?           ：没有特殊要求。
 </t>
-<t tx="zoomq.20110224000107.3905">+ '可以链式clone传递'
+<t tx="zoomq.20110224000107.3905">*HI*UI**+ '可以链式clone传递'
 + '事务邮件通告:'
     commits-noreply@bitbucket.org&gt;
     发送至	zoomquiet+rwiwpy@gmail.com （是的，这就是您。） 了解详情
++ '自动编译 hook 部署'
+    trac2:
+        /ata/_cron/
 + https 认证部署!
     /data/py.kingsoft.net/ssl/server.key
     pass phrase for server.key: P@55w02d
+    
     Signature ok
 subject=/C=CN/ST=GuangDong/L=ZhuHai/O=zoomquiet.org/OU=obp/CN=Zoom.Quiet/emailAddress=zoomquiet+obp@gmail.com
 Getting Private key
     #Yahoo! obp.zoomquiet.org -&gt; py.kingsoft.net
     https://py.kingsoft.net:8080/rwiwpyzh
     使用 Nginx 发布
-+ Issue 评注...
++ 'Issue 评注...'
     H* 点击到:
     https://bitbucket.org/ZoomQuiet/obp.rwiwpyzh/issues/new
+    zoomq   1q2w3e4r
     zsprain obp@pyk
+    billxu
+    atommann
     pgf00a
     grissiom
     xiaoma
@@ -2287,7 +2327,500 @@ Getting Private key
     AlanZheng
     newpublic01
     hulwyx
-+ 自动编译 hook 部署
+</t>
+<t tx="zoomq.20110301085102.3912">date,tI,tO,tC,tM,tF,tS
+110209,2.00,4.00,1.00,7.00,5.00,6.00
+110210,0.00,1.50,1.50,10.5,4.50,5.50
+110212,0.00,2.50,1.00,8.00,4.00,7.00
+110214,2.50,2.75,1.25,4.00,5.00,7.00
+110215,0.00,6.00,0.50,6.50,4.00,7.50
+110216,0.00,3.00,1.50,7.00,4.00,7.50
+110217,0.00,1.00,2.00,8.50,4.50,7.00
+110218,2.00,3.00,0.00,7.00,4.00,7.00
+110221,0.00,3.50,3.00,4.50,4.00,7.50
+110222,0.50,3.50,1.00,8.00,4.50,8.00
+110223,1.00,4.50,1.00,5.00,4.50,7.00
+110224,3.00,5.00,0.00,3.50,3.50,7.50
+110225,2.00,0.75,7.75,2.00,4.00,6.50
+110228,0.00,4.00,0.00,6.00,6.00,6.50
+</t>
+<t tx="zoomq.20110309092312.11334"> http://nginx.org/download/nginx-0.9.5.tar.gz
+http://www.openssl.org/source/openssl-1.0.0d.tar.gz
+系统是 OpenSSL 0.9.8k 25 Mar 2009
+
+./configure \
+    --prefix=/usr/local/nginx \
+    --user=www \
+    --group=www \
+    --sbin-path=/usr/local/nginx/sbin/nginx \
+    --conf-path=/usr/local/nginx/conf/nginx.conf \
+    --pid-path=/usr/local/nginx/run/nginx.pid  \
+    --lock-path=/usr/local/nginx/lock/nginx.lock \
+    --error-log-path=/usr/local/nginx/log/error.log \
+    --http-log-path=/usr/local/nginx/log/access.log \
+    --with-http_stub_status_module \
+    --with-http_ssl_module \
+    --with-http_sub_module \
+    --with-http_gzip_static_module \
+    --with-openssl=../openssl-1.0.0d \ 
+    --http-client-body-temp-path=/usr/local/nginx/tmp/client_body  \
+    --http-proxy-temp-path=/usr/local/nginx/tmp/proxy  \
+    --http-fastcgi-temp-path=/usr/local/nginx/tmp/fastcgi  \
+    --http-uwsgi-temp-path=/usr/local/nginx/tmp/uwsgi_temp \
+    --http-scgi-temp-path=/usr/local/nginx/tmp/scgi_temp 
+
+
+Configuration summary
+  + using system PCRE library
+  + using OpenSSL library: ../openssl-1.0.0d
+  + md5: using OpenSSL library
+  + sha1 library is not used
+  + using system zlib library
+
+  nginx path prefix: "/usr/local/nginx"
+  nginx binary file: "/usr/local/nginx/sbin/nginx"
+  nginx configuration prefix: "/usr/local/nginx/conf"
+  nginx configuration file: "/usr/local/nginx/conf/nginx.conf"
+  nginx pid file: "/usr/local/nginx/run/nginx.pid"
+  nginx error log file: "/usr/local/nginx/log/error.log"
+  nginx http access log file: "/usr/local/nginx/log/access.log"
+  nginx http client request body temporary files: "/usr/local/nginx/tmp/client_body"
+  nginx http proxy temporary files: "/usr/local/nginx/tmp/proxy"
+  nginx http fastcgi temporary files: "/usr/local/nginx/tmp/fastcgi"
+  nginx http uwsgi temporary files: "/usr/local/nginx/tmp/uwsgi_temp"
+  nginx http scgi temporary files: "/usr/local/nginx/tmp/scgi_temp"
+</t>
+<t tx="zoomq.20110322090028.3918">@path ~/workspace/OBP.b/RWIwPy/source/
+</t>
+<t tx="zoomq.20110322090028.3919">@path ch03</t>
+<t tx="zoomq.20110322090028.3920">@language rest
+Python编程语言
+============================================
+
+
+.. include:: 0_intro.rst
+
+
+.. toctree::
+    :maxdepth: 2
+
+    1_install_py.rst
+    2_py_programming_language.rst
+    3_py_evelopment_tools.rst
+    4_summary.rst
+    5_suggested_reading.rst
+
+
+.. |rwip_0101| image:: ../_static/figs/rwip_0101.pdf.png
+   :alt: rwip_0101
+   :target: #
+</t>
+<t tx="zoomq.20110322090028.3921">@language rest
+.. include:: ../LINKS.rst
+
+本章节是面向非Py 程序员的,一个精简语言简介...
+
+
+    I just want to go on the record as being completely opposed to computer languages. Let
+them have their own language and soon they’ll be off in the corner plotting with each other!
+
+    我认为就算完全禁止研发计算机语言,他们依然会各自拥有自个儿的开发语言,并立即悄鸟儿的退到各自角落中自娱自乐去了.
+
+—Dr. Steven D. Majewski
+
+.. sidebar:: Steven D. Majewski
+   :subtitle: 简介
+
+    早在 1992年就为 Python 摇旗呐喊过的牛人:
+
+    - `WHY PYTHON? &lt;http://www.python.org/search/hypermail/python-1992/0274.html&gt;`__
+    - 一直是 `PyObjC 项目 &lt;http://sourceforge.net/projects/pyobjc/&gt;`__ 主持人 
+
+
+
+自动化设备一个重要的需求是能够和电脑或是其它控制设备连接运行.
+说到这儿,术语"编程"会立即在一些读者头脑中浮现,
+实际上作到这一点有很多方法,有些甚至于不涉及编程语言(至少不是传统意义上的).
+不过,本书中,我们选择了 Python和少量的C 来创造软件给自动设备用.
+
+
+本章的目的是给出 Python 的基础介绍.
+以便在下一章节,来引入C语言,来为Python 程序使用廠方提供的硬件驱动,或是创造计算密集型的模块.
+本章不打算成为Python 的深入教程或是手册;
+已经有太多优秀的图书可以承担这一角色了(具体参考本意的推荐阅读部分).
+同时可以在 `Python官网`_ 找到从入门教材到高级话题的各种文档!
+
+
+Python 作为本书的主力开发语言,出于以下原因:
+
+- 足够简单易学
+- 没有编译过程,可以直接加载执行(或是直接输入,如果够胆的话)
+- 足够强大
+
+
+同时 Python 也是种多范式语言,支持多种编程模型: 面向过程,面向对象,和函数式编程!
+首先我们将进行通常的编程,然后将尝试追加图形界面(GUI)并用C来写擴展;
+进一步的,我们将遇到需要抛开通常的程序设计,完全使用我们自行创建的嵌入式对象.
+
+
+而且,正如我们将见证的, Python 是天生的面向对象的,甚至于变量本质上也是对象;
+即使我们没有被迫进行OOP编程,实际上每时每刻我们都在使用对象.
+如果还不清楚什么是 "面向对象"的含义,参阅边注所述.
+
+
+
+.. sidebar:: 面向对象的编程
+   :subtitle: Procedural and Object-Oriented Programming
+
+    一般说程序是认为一种命令式编程,
+    核心概念是一组顺序排列的指令形成程序(类似食谱).
+
+    - 扩展程序包含在模块中,模块则由一组函式组成.
+     - 每个函式执行特定活动(算法),并可以包含其私有数据.
+     - 函式可以在其所在的模块中使用 "全局" 数据.
+     - 函式可以调用其它函式
+     - 函式可以返回数据
+    - 模块可以从其它模块引用函式或是数据
+     - 这种设计可以令程序用模块的层次结构组织起来 (即,结构化设计)
+
+    标准C程序就是一个通常的面向过程的例子.
+    注意,这里我们使用 "函式"作为"功能"的同义词,不过,在其它一些语言中,他们被区别对待了.
+    在 Python 和 C 中,就只有函式!
+
+    面向对象的编程,用类(及其数据)来描述对象的特性概念以及可以在其上执行的操作(对象的方法)来
+    扩展了同类事务的功能;
+
+    - 一个对象,可以说是一类说明和模板,而这种描述本身是不可执行的.只有基于对象创建的实例才可执行.
+     - 可以想象为,一个类就是个饼干压模,而用这压模作出的饼干有的可能含有坚果,有的又有巧克力,但是他们都称作"饼干"
+     - 必要的话,我们可以从指定的类创建很多可执行对象,每个对象除了从其父类继承的数据和方法之外,又都有各自特殊的.
+     - 对象的数据,一般称为:"属性",而操作数据的类函式称为:"方法".
+    - 对象,经常用来声明组件间的 "有一个.." 以及 "是一个.." 的关系:
+     - 例如: 一个摇椅 "是一个" 被称作椅子的类的实行; 它 "有一个" 座位,和两个摇杆(属性); 人们可以坐在它上面摇摆 (方法)
+
+
+</t>
+<t tx="zoomq.20110322090028.3922">@language rest
+.. include:: ../LINKS.rst
+
+安装Python
+===============================================================================
+
+首先需要安装Python.
+本书使用 2.6(不是3.x),对于 Windows 环境, ActiveState发行版比较友好
+
+- http://www.activestate.com/activepython/
+
+当然从 python.org 获取的官方版本也很好.
+都包含有针对Windows 定制的帮助和手册.
+如果运行在 Linux 直接使用软件包管理器安装即可(synaptic, apt-get, rpm, 等等)
+
+
+如果想从源代码编译安装,参考: http://docs.python.org/using/unix.html#getting-and-installing-the-latest-version-of-python
+
+
+
+</t>
+<t tx="zoomq.20110322090028.3923">@language rest
+Python编程
+===============================================================================
+
+现在至少已安装好了 Python,我们可以通过一个快速导览来体验这语言的主要特性.
+
+Python 是种解释型语言.精确的说,是种编译为字节码的解释型语言.
+这意味着,Python 在执行脚本前会将脚本编译为一种二进制的可行程序.其实这就是"解释型"的含义.
+
+Python在其虚拟机中将形式文本解释为字节码来运行,
+虚拟机内部的指令集是经过优化的,虽然无法和通常的编译成机器码的编译型语言执行效率相比,
+但对于大多数应用程序来说,字节码的运行速度很够力了.
+尤其是考虑到时下PC上的处理器(CPU或叫中央处理器)都是在1~3G赫兹.
+而以前运行 30兆赫兹已经算好的时候,程序本身的执行速度才是大事儿.
+
+不论是否Python 新手,Mark Lutz 写的 `Python口袋手册 &lt;http://oreilly.com/catalog/9780596158095/&gt;`__ 
+强烈推荐. 这书提供了一个简洁/组织良好/易读体积小巧的 Python 语言核心功能/模块的速查手册,
+可以随身携带,需要时就查.
+
+其它相关好书在推荐阅读部分分享.
+
+@others
+
+</t>
+<t tx="zoomq.20110322090028.3924">@language rest
+Python开发工具
+===============================================================================
+
+
+编辑器和 IDEs
+-------------------------------------------------------------------------------
+
+调试
+-------------------------------------------------------------------------------
+
+
+</t>
+<t tx="zoomq.20110322090028.3925">@language rest
+小结
+===============================================================================
+
+</t>
+<t tx="zoomq.20110322090028.3926">@language rest
+推荐阅读
+===============================================================================
+
+</t>
+<t tx="zoomq.20110325220944.2613">Cpython-cn   群組建立以來
+8901	limo...@gmail.com
+5767	zoom.qu...@gmail.com
+4997	jhuangjiahua@gmail.com
+2778	askfor@gmail.com
+2260	python.leojay@gmail.com
+2056	march.liu@gmail.com
+1262	
+1183	hanzhupeng@gmail.com
+1178	zsp007@gmail.com
+1071	yi.codeplayer@gmail.com
+
+
+CPyUG 列表 717...</t>
+<t tx="zoomq.20110329090742.2614">与 沈崴-wileishn 在 2011年03月29日 星期二 09时20分19秒 的会话
+...
+
+...
+(2011-03-29 09:37:03) 沈崴-wileishn: 
+很多不解风情的家伙说不爽 python 的缩进，所以有了杯具的 ruby
+(2011-03-29 09:37:22) 沈崴-wileishn: 
+一开始 ruby 这个轮子就是为了一个 end 而已，从历史上讲
+
+
+
+</t>
+<t tx="zoomq.20110329090742.2615">(2011-03-29 09:27:06) 沈崴-wileishn: 
+虽然我一直想写一本关于 python 的黑客的书，就是人比较懒，有点事就一直没弄
+(2011-03-29 09:32:24) 沈崴-wileishn: 
+我们公司是不用这些技巧的，我们的 hack 技术是把最简单的东西用到极致，危害可读性、稳定、安全的东西都是不用的，用最简单的语法写出华丽的程序。
+(2011-03-29 09:32:51) Zoomq: 
+咔咔咔!那个顶! 就象你提倡的用复制不用类的方式来加速运行
+
+(2011-03-29 09:33:02) 沈崴-wileishn: 
+打个比方，我们公司里面有两条“军规”，
+1、我们公司员工 code review 的速度很快，基本扫一眼文件就知道有没有 bug 和设计问题
+2、更简单，当无法起出一个漂漂的变量名时，已经有设计问题了。
+(2011-03-29 09:40:39) 沈崴-wileishn: 
+一开始他们问我，怎样才知道什么时候合并两个模块，什么时候拆分一个模块成两个文件？我说，等起不出美观的变量名时，你就知道了。
+</t>
+<t tx="zoomq.20110329090742.2616">...
+(2011-03-29 09:46:32) 沈崴-wileishn: 
+以前在网易我经常这么说，比如我常对赖勇浩说，要影响而不是说服别人。
+(2011-03-29 09:49:24) 沈崴-wileishn: 
+赖勇浩经常让项目组从 c++ 转用 python 的，有时候会有人反弹。我说，其实这时说服是没有用的，有时候对自己也没什么好处，人家凭什么把用了几年的 c++ 换掉来用不熟悉的 python。
+
+这个工作靠平时潜移默化地影响人家，用行动和赖勇浩超凡的个人魅力，就很容易达到，到时候跟不不用说服人家，大家喜洋洋地切换到 python 模式了。哈哈哈。开源也一样。
+(2011-03-29 09:50:58) Zoomq: 
+"个人魅力" ~ 其实就是自个儿用Py 挣得你用 C++ 搞不到的身家,开跑车,泡美女,状态潇洒，人家当然相信了，就这么简单 ;-)
+(2011-03-29 09:52:12) 沈崴-wileishn: 
+就是。
+...
+</t>
+<t tx="zoomq.20110329090742.2617">(2011-03-29 09:53:48) 沈崴-wileishn: 
+eurasia 目前有 python 和 c 两个版本。python 版每秒处理 1.5w 以上个 http 请求，c 版是 2.5w 个以上，目前都还没有测试出上线，应为测试工具性能达不到暂时。
+
+python 版每秒 1.5w 个请求和 fapws、tornado、gevent 这些不是一个概念。因为 eurasia 每个请求都是长连接，可以在一个请求中处理多个 http 请求，而且每个请求都有细粒度超时控制和入侵检测，所以实际性能要高得多。
+(2011-03-29 09:54:57) Zoomq: 
+嗯嗯嗯,这个很早就说过,不过,用长连接的情景很少,大家也长年没有用过 S/C 结构来开发广域网应用了,多是不相信,,,咔咔咔
+(2011-03-29 09:55:58) 沈崴-wileishn: 
+eurasia 现在利用 pypy 技术发展的版本，速度比 纯python 和 c 版本的都要快。我们一般不用在具体项目中，一般项目用 c 版足够了。我只有在咨询服务中，对性能要求非常极端的情况下才会用到最后一个技术栈。
+(2011-03-29 09:56:28) Zoomq: 
+一直没有确认,你公司的业务,主要还是游戏开发的支持?!
+(2011-03-29 09:56:48) 沈崴-wileishn: 
+因为浏览器都支持 http 1.1 keep-alive，所以 eurasia 3.1 实际上要快得多。
+(2011-03-29 09:57:13) Zoomq: 
+不需要特别的客户端JS 支持库的?!
+(2011-03-29 09:57:19) 沈崴-wileishn: 
+不需要。
+(2011-03-29 09:57:30) Zoomq: 
+在长连接中进行多次交互?
+(2011-03-29 09:57:34) 沈崴-wileishn: 
+是的。
+(2011-03-29 09:57:40) 沈崴-wileishn: 
+一次请求，多个页面。
+(2011-03-29 09:57:56) 沈崴-wileishn: 
+目前只有 eurasia 3.1 做到的。
+
+(2011-03-29 10:02:11) 沈崴-wileishn: 
+再下一代的 eurasia ，因为我们公司已经完全消化了 pypy 的技术，所以已经达到 c 级别的 stackless 协程了。
+...
+(2011-03-29 10:04:16) 沈崴-wileishn: 
+剪掉财务营销之类的，湖州搞核心研发的三个人，加我四个人。杭州分布四到五个人，不过是产品研发。
+..
+(2011-03-29 10:07:43) 沈崴-wileishn: 
+我这里搞核心研发的人，都培训了黑客技术（甚至能做入侵大网站的事情，做到使用各类溢出从传输层入侵，用来改进我们自己产品的安全）、能从 linux kernel 建立整个操作系统，编写图形界面基础、有的能做编译器和数据库。
+(2011-03-29 10:08:22) 沈崴-wileishn: 
+写个 python web 框架那是第一天就要会搞定的。
+
+(2011-03-29 10:10:53) 沈崴-wileishn: 
+应该说，我现在已经不大关心 eurasia 这一级的东西了，我可以抽出来弄更好玩的大杀器了，呵呵
+...
+(2011-03-29 10:15:30) 沈崴-wileishn: 
+我们现在项目里可以用 python 写应用，然后编译成 .so .dll 然后给 c 、php、perl 之类的去用。你知道用了 pypy 的编译期优化技术其实比 c 写的模块跑得还快。
+(2011-03-29 10:17:39) 沈崴-wileishn: 
+文件系统的话，我们现在的 web 框架，可以把远程的 web 服务器直接映射到本地磁盘，在本地修改远程服务器的程序，然后文件系统通知服务器自动更新已经修改的程序。都不用重启了。
+(2011-03-29 10:18:01) 沈崴-wileishn: 
+还有加密盘之类的，都要用到这项技术。
+...
+(2011-03-29 10:19:10) 沈崴-wileishn: 
+说到加密，我用 python 实现了一个 rsa 只用了 12 行代码，python 的开发效率真牛叉啊。
+(2011-03-29 10:20:24) 沈崴-wileishn: 
+我们的数据库引擎技术有这个，我们在数据库引擎层做集群、负载分流、热备，然后可以在引擎上架 mysql、zodb ，就直接支持这些了。不过我们的数据库产品还在研发中。
+
+</t>
+<t tx="zoomq.20110329090742.2618">Pythonic 军规:
+1、code review 的必须很快,代码排版到能够扫一眼文件就知道有没有 bug 和设计问题
+2、当无法起出一个漂漂的变量名时，已经有设计问题了
+</t>
+<t tx="zoomq.20110402090250.2620">date,tI,tO,tC,tM,tF,tS
+110301,0.00,2.50,2.50,4.00,2.50,7.50
+110302,3.25,0.75,5.25,7.50,5.75,5.50
+110303,0.00,4.50,0.50,5.50,5.00,7.00
+110304,3.00,4.50,0.50,4.00,4.50,7.00
+110307,0.00,5.00,5.00,2.00,4.00,7.00
+110308,0.00,7.50,2.50,3.00,5.00,7.00
+110309,0.00,7.00,1.00,6.50,1.00,6.00
+110310,0.00,3.00,4.50,4.00,2.50,7.00
+110311,1.00,12.5,0.00,3.00,1.50,7.00
+110312,1.00,6.50,1.00,5.50,1.50,5.00
+110314,0.00,5.75,3.50,2.50,1.75,7.00
+110315,5.00,1.50,1.75,7.25,1.00,7.50
+110316,3.00,5.00,1.00,5.00,2.00,6.50
+110317,0.00,4.50,0.00,7.50,1.50,6.50
+110321,1.75,2.25,0.00,10.0,1.00,7.00
+110322,0.00,4.75,3.25,5.50,3.00,7.00
+110323,0.00,8.50,2.00,2.00,2.00,6.50
+110324,2.75,5.25,0.00,6.25,1.50,7.00
+110325,0.75,5.00,2.50,6.25,2.00,6.00
+110326,2.25,1.00,0.00,7.50,3.75,6.50
+110328,2.60,2.75,0.40,6.00,2.00,7.00
+110329,4.75,4.50,2.50,3.50,1.00,5.00
+110330,0.00,6.75,1.50,4.75,3.50,6.50
+110331,0.00,10.0,2.50,3.50,1.00,6.50</t>
+<t tx="zoomq.20110407085430.2620">The Python Command Line
+-------------------------------------------------------------------------------
+How you will start the Python interpreter in interactive mode depends on which operating
+system you are using. For Windows, the usual method is to first open a command prompt
+window (this is sometimes erroneously called a “DOS box,” but Windows hasn’t had a
+real DOS box for a long time). At the prompt (which may look different than what is shown
+here), type in the following command:
+
+C:\&gt; python
+
+You should see something like this (assuming you’ve installed the ActiveState distribution,
+but the standard Python distribution is almost identical):
+ActivePython 2.6.4.8 (ActiveState Software Inc.) based on
+
+Python 2.6.4 (r264:75706, Nov 3 2009, 13:23:17) [MSC v.1500 32 bit
+(Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+&gt;&gt;&gt;
+
+The procedure is similar for a Linux (or BSD, or Solaris) system. Open a shell window (it
+shouldn’t matter if the shell is csh, ksh, bash, or whatever) and enter python at the prompt.
+Assuming that Python has been installed correctly, you will see the startup message.
+
+The &gt;&gt;&gt; is Python’s command prompt, waiting for you to give it something to do. To exit
+from the Python command line on a Windows machine, use Ctrl-Z, and on a Linux system
+
+use Ctrl-D. Typing “quit” will not work.
+The Python command line is a great way to explore and experiment. You can get help for
+just about everything by using the built-in help facility. Just typing help(), with no arguments,
+results in the following display:
+
+&gt;&gt;&gt; help()
+
+Welcome to Python 2.6! This is the online help utility.
+If this is your first time using Python, you should definitely check out
+the tutorial on the Internet at http://docs.python.org/tutorial/.
+Enter the name of any module, keyword, or topic to get help on writing
+
+Python programs and using Python modules. To quit this help utility and
+return to the interpreter, just type "quit".
+To get a list of available modules, keywords, or topics, type "modules",
+"keywords", or "topics". Each module also comes with a one-line summary
+of what it does; to list the modules whose summaries contain a given word
+such as "spam", type "modules spam".
+
+help&gt;
+
+As the help display states, the tutorial material found on the official website is indeed a
+good place to get a feel for what Python looks like and how to use it. This chapter takes a
+somewhat different approach to the language, however, by introducing the reader to the
+concept of data objects first, and reserving things like operators and statements until a little
+later. I feel that the underlying object-oriented nature of the language is important enough
+to be dealt with first, because when creating even trivial programs in Python one will quickly
+encounter situations that will require the use of some of the capabilities embedded in each
+type of data object.
+
+Over the years I have observed that when tutorial material on Python attempts to ignore or
+downplay the fundamental OO nature of the language, the result is often full of statements
+like “Oh, and by the way...” and “It is also like this, but we won’t worry about that
+here...” Rather than trying to avoid the topic, we will just deal with it head-on. Having
+a good understanding of what is going on under the hood helps make it a lot easier to
+comprehend what is happening when things work correctly, and a whole lot easier to have
+some idea of what to look for when they don’t. If you’re new to Python, it would probably
+be a good idea to read through both this section and Python’s online tutorial.
+
+
+
+</t>
+<t tx="zoomq.20110407085430.2621">Command-Line Options and Environment
+-------------------------------------------------------------------------------
+
+
+
+
+</t>
+<t tx="zoomq.20110407085430.2622">Objects in Python
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2623">Data Types in Python
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2624">Expressions
+-------------------------------------------------------------------------------
+
+
+</t>
+<t tx="zoomq.20110407085430.2625">Operators 
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2626">Statements
+-------------------------------------------------------------------------------
+
+
+</t>
+<t tx="zoomq.20110407085430.2627">Strings
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2628">Program Organization
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2629">Importing Modules
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2630">Loading and Running a Python Program
+-------------------------------------------------------------------------------
+
+</t>
+<t tx="zoomq.20110407085430.2631">Basic Input and Output
+-------------------------------------------------------------------------------
+
+
+</t>
+<t tx="zoomq.20110407085430.2632">Hints and Tips
+-------------------------------------------------------------------------------
 </t>
 </tnodes>
 </leo_file>
