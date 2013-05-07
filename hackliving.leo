@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Leo (http://webpages.charter.net/edreamleo/front.html) -->
 <?xml-stylesheet ekr_stylesheet?>
-<leo_file>
+<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -10,128 +11,29 @@
 <find_panel_settings/>
 <vnodes>
 <v t="zoomq.20091008173724.1"><vh>@chapters</vh></v>
-<v t="zoomq.20110709131924.2700" a="E"><vh>Yuike</vh>
-<v t="zoomq.20110714090951.4108"><vh>logging</vh>
-<v t="zoomq.20110711214730.4102"><vh>Kanban</vh></v>
-<v t="zoomq.20110709131924.2703"><vh>工作设施</vh>
-<v t="zoomq.20110711090727.6884"><vh>VPS</vh></v>
-<v t="zoomq.20110711090727.6882"><vh>Apple</vh></v>
-<v t="zoomq.20110714090951.6916"><vh>Air</vh></v>
-<v t="zoomq.20110711090727.6883"><vh>Dell</vh></v>
-</v>
-</v>
-<v t="zoomq.20110713090346.2709" a="E"><vh>fadpop</vh>
-<v t="zoomq.20110720091129.2763"><vh>@nosent readme.txt</vh></v>
-<v t="zoomq.20110718091518.2725"><vh>test</vh>
-<v t="zoomq.20110720091129.2771"><vh>@nosent readme.txt</vh></v>
-</v>
-<v t="zoomq.20110718091518.2723"><vh>queue</vh>
-<v t="zoomq.20110720091129.2769"><vh>@nosent readme.txt</vh></v>
-</v>
-<v t="zoomq.20110718091518.2722"><vh>analyzer</vh>
-<v t="zoomq.20110720091129.2765"><vh>@nosent readme.txt</vh></v>
-</v>
-<v t="zoomq.20110718091518.2721" a="E"><vh>CrawlSpider</vh>
-<v t="zoomq.20110720091129.2767"><vh>@nosent readme.txt</vh></v>
-<v t="zoomq.20110709131924.2702"><vh>wget</vh>
-<v t="zoomq.20110727201525.2842"><vh>整站</vh>
-<v t="zoomq.20110711214730.2707"><vh>结果</vh></v>
-</v>
-</v>
-<v t="zoomq.20110801085156.2824" a="E"><vh>vancl</vh>
-<v t="zoomq.20110719082515.2733"><vh>@nosent cvsvancl.py</vh>
-<v t="zoomq.20110719082515.4236"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
-<v t="zoomq.20110721084347.2775"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-<v t="zoomq.20110719082515.4237"><vh>&lt;&lt;define&gt;&gt;</vh>
-<v t="zoomq.20110719082515.4238"><vh>&lt;&lt;configures&gt;&gt;</vh>
-<v t="zoomq.20110727085946.4409"><vh>LOG</vh></v>
-<v t="zoomq.20110720193936.2773"><vh>TPL</vh></v>
-<v t="zoomq.20110720193936.2774"><vh>&lt;&lt;doc_item&gt;&gt;</vh></v>
-<v t="zoomq.20110720193936.2775"><vh>&lt;&lt;doc_foto&gt;&gt;</vh></v>
-</v>
-</v>
-<v t="zoomq.20110720091129.2775"><vh>_popen</vh></v>
-<v t="zoomq.20110719082515.4239"><vh>loadall(cvs)</vh>
-<v t="zoomq.20110721084347.2777"><vh>&lt;&lt;整理入collection&gt;&gt;</vh></v>
-</v>
-<v t="zoomq.20110721084347.2779"><vh>_put_img_gfs(info)</vh>
-<v t="zoomq.20110725090916.4180"><vh>&lt;&lt;可能的其它图片格式&gt;&gt;</vh></v>
-</v>
-<v t="zoomq.20110721084347.2781"><vh>_pick_by_w3m(htm)</vh></v>
-<v t="zoomq.20110720193936.2772"><vh>_pick_table_data(txt)</vh></v>
-</v>
-<v t="zoomq.20110727085946.4416" a="E"><vh>@nosent loadpics.py</vh>
-<v t="zoomq.20110727085946.4417"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-<v t="zoomq.20110801085156.2866"><vh>&lt;&lt;define&gt;&gt;</vh>
-<v t="zoomq.20110801085156.2867"><vh>&lt;&lt;configures&gt;&gt;</vh></v>
-</v>
-<v t="zoomq.20110729105657.4271"><vh>loadpics(pkl,pathpic)</vh>
-<v t="zoomq.20110801085156.2872"><vh>upall</vh></v>
-</v>
-<v t="zoomq.20110801085156.2858"><vh>_put_img_gfs(crtfoto,realpic)</vh></v>
-</v>
-<v t="zoomq.20110801085156.2873"><vh>ERROR</vh></v>
-<v t="zoomq.20110801085156.2851" a="E"><vh>@nosent anapichtm.py</vh>
-<v t="zoomq.20110801085156.2852"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-<v t="zoomq.20110801085156.2853"><vh>anabigpicnames(pathml)</vh>
-<v t="zoomq.20110801085156.2854"><vh>main</vh></v>
-<v t="zoomq.20110801085156.2855"><vh>others</vh></v>
-</v>
-</v>
-<v t="zoomq.20110728084936.4223"><vh>@nosent expuri.py</vh>
-<v t="zoomq.20110728084936.4224"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-</v>
-</v>
-</v>
-<v t="zoomq.20110801085156.2825"><vh>common</vh>
-<v t="zoomq.20110801085156.2827"><vh>@nosent readme.txt</vh></v>
-<v t="zoomq.20110727085946.4412"><vh>@nosent fadutil.py</vh>
-<v t="zoomq.20110727085946.4413"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-<v t="zoomq.20110719082515.4240"><vh>run_time(func)</vh></v>
-</v>
-<v t="zoomq.20110801085156.2831"><vh>@nosent __init__.py</vh></v>
-</v>
-<v t="zoomq.20110718091518.2724"><vh>stuff</vh>
-<v t="zoomq.20110720091129.2773"><vh>@nosent readme.txt</vh></v>
-<v t="zoomq.20110729105657.4269"><vh>@nosent imgurlistr.py</vh>
-<v t="zoomq.20110729105657.4270"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-</v>
-<v t="zoomq.20110726202222.2796"><vh>@nosent mongoltry.py</vh>
-<v t="zoomq.20110726202222.2798"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-<v t="zoomq.20110726202222.2804"><vh>logit()</vh></v>
-</v>
-<v t="zoomq.20110726202222.2815"><vh>@nosent mongolisten.py</vh>
-<v t="zoomq.20110726202222.2816"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
-</v>
-<v t="zoomq.20110709131924.2701"><vh>MongoDB</vh>
-<v t="zoomq.20110718091518.2727"><vh>cvs4vancl</vh>
-<v t="zoomq.20110719082515.2728"><vh>w3m</vh></v>
-</v>
-<v t="zoomq.20110718091518.2726"><vh>安装</vh>
-<v t="zoomq.20110719082515.2729"><vh>gridFS</vh></v>
-<v t="zoomq.20110721084347.2776"><vh>404自动处理</vh></v>
-</v>
-<v t="zoomq.20110714090951.6917"><vh>Mongo工具</vh></v>
-</v>
-</v>
-<v t="zoomq.20110714001632.2710"><vh>API</vh>
-<v t="zoomq.20110720091129.2777"><vh>@nosent readme.txt</vh></v>
-<v t="zoomq.20110714090951.5509"><vh>vancl</vh>
-<v t="zoomq.20110714090951.5514"><vh>图片</vh></v>
-<v t="zoomq.20110714090951.5511"><vh>网店专用</vh>
-<v t="zoomq.20110714090951.5510"><vh>代客下单</vh></v>
-</v>
-<v t="zoomq.20110714090951.5512"><vh>网站专用</vh></v>
-</v>
-<v t="zoomq.20110714090951.5508"><vh>moonbasa</vh>
-<v t="zoomq.20110714090951.5513"><vh>图片</vh></v>
-</v>
-</v>
-</v>
-</v>
 <v t="zoomq.20100903210229.3876"><vh>4lifeHacking</vh>
-<v t="zoomq.20101026092125.2576"><vh>TiLogs</vh>
-<v t="zoomq.20110504084047.2679"><vh>@nosent zq-tilog-1108.txt</vh></v>
+<v t="zoomq.20101026092125.2576" a="E"><vh>TiLogs</vh>
+<v t="zoomq.20120410091323.3828"><vh>@nosent zq-tilog-1303.txt</vh></v>
+<v t="zoomq.20130321103420.5682"><vh>@nosent zq-tilog-1302.txt</vh></v>
+<v t="zoomq.20130219101905.3885"><vh>@nosent zq-tilog-1301.txt</vh></v>
+<v t="zoomq.20130104101214.3882"><vh>@nosent zq-tilog-1212.txt</vh></v>
+<v t="zoomq.20121206102042.3855"><vh>@nosent zq-tilog-1211.txt</vh></v>
+<v t="zoomq.20121101145510.7852"><vh>@nosent zq-tilog-1210.txt</vh></v>
+<v t="zoomq.20121019112704.16225"><vh>@nosent zq-tilog-1209.txt</vh></v>
+<v t="zoomq.20120901151004.6029"><vh>@nosent zq-tilog-1208.txt</vh></v>
+<v t="zoomq.20120727213305.14755"><vh>@nosent zq-tilog-1207.txt</vh></v>
+<v t="zoomq.20120705104153.3834"><vh>@nosent zq-tilog-1206.txt</vh></v>
+<v t="zoomq.20120603183019.7743"><vh>@nosent zq-tilog-1205.txt</vh></v>
+<v t="zoomq.20120423093831.20558"><vh>@nosent zq-tilog-1204.txt</vh></v>
+<v t="zoomq.20120305142323.3820"><vh>@nosent zq-tilog-1202.txt</vh></v>
+<v t="zoomq.20110504084047.2679"><vh>@nosent zq-tilog-1203.txt</vh></v>
+<v t="zoomq.20120203163410.3818"><vh>@nosent zq-tilog-1201.txt</vh></v>
+<v t="zoomq.20120305142323.3821"><vh>2011</vh>
+<v t="zoomq.20111231140207.5336"><vh>@nosent zq-tilog-1112.txt</vh></v>
+<v t="zoomq.20111207090549.3805"><vh>@nosent zq-tilog-1111.txt</vh></v>
+<v t="zoomq.20111103090127.3354"><vh>@nosent zq-tilog-1110.txt</vh></v>
+<v t="zoomq.20111008085807.2965"><vh>@nosent zq-tilog-1109.txt</vh></v>
+<v t="zoomq.20110902084216.4334"><vh>@nosent zq-tilog-1108.txt</vh></v>
 <v t="zoomq.20110802085156.2837"><vh>@nosent zq-tilog-1107.txt</vh></v>
 <v t="zoomq.20110705091223.2700"><vh>@nosent zq-tilog-1106.txt</vh></v>
 <v t="zoomq.20110601083753.2699"><vh>@nosent zq-tilog-1105.txt</vh></v>
@@ -139,12 +41,24 @@
 <v t="zoomq.20110402090250.2620"><vh>@nosent zq-tilog-1103.txt</vh></v>
 <v t="zoomq.20110301085102.3912"><vh>@nosent zq-tilog-1102.txt</vh></v>
 <v t="zoomq.20110104095502.2596"><vh>@nosent zq-tilog-1101.txt</vh></v>
+</v>
+<v t="zoomq.20110809101420.2888"><vh>2010</vh>
 <v t="zoomq.20101228111644.2596"><vh>@nosent zq-tilog-1012.txt</vh></v>
 <v t="zoomq.20101228111644.2594"><vh>@nosent zq-tilog-1011.txt</vh></v>
 <v t="zoomq.20101026092125.2577"><vh>@nosent zq-tilog-1010.txt</vh></v>
 </v>
+<v t="zoomq.20110809101420.2887"><vh>2009</vh>
+<v t="zoomq.20110809101420.2890"><vh>@nosent zq-tilog-0904.txt</vh></v>
+<v t="zoomq.20110809101420.2891"><vh>@nosent zq-tilog-0903.txt</vh></v>
+<v t="zoomq.20110809101420.2892"><vh>@nosent zq-tilog-0902.txt</vh></v>
+<v t="zoomq.20110809101420.2893"><vh>@nosent zq-tilog-0901.txt</vh></v>
+</v>
+<v t="zoomq.20110809101420.2886"><vh>2008</vh>
+<v t="zoomq.20110809101420.2894"><vh>@nosent zq-tilog-0812.txt</vh></v>
+</v>
+</v>
 <v t="zoomq.20100903210229.3843"><vh>misc</vh>
-<v t="zoomq.20100903210229.3844" a="M"><vh>_stuff</vh>
+<v t="zoomq.20100903210229.3844"><vh>_stuff</vh>
 <v t="zoomq.20100903210229.3845"><vh>dict sort</vh></v>
 <v t="zoomq.20100903210229.3846"><vh>dislin-0.py</vh>
 <v t="zoomq.20100903210229.3847"><vh>dislin-0 declarations</vh></v>
@@ -202,12 +116,120 @@
 <v t="zoomq.20100903210229.3894"><vh>expchart()</vh></v>
 <v t="zoomq.20100903210229.3895"><vh>expplot()</vh></v>
 </v>
+<v t="zoomq.20101030170919.2579"><vh>__chaos</vh>
+<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
+<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
+<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
+<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
 </v>
+<v t="zoomq.20121122115015.6168"><vh>scrap2txt4html.py</vh></v>
+<v t="zoomq.20121122115015.6169"><vh>data_uri.py</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3838" a="E"><vh>Livin Hacking</vh>
+<v t="zoomq.20111216202429.3806" a="E"><vh>MBP</vh>
+<v t="zoomq.20111222084842.3812"><vh>@ubuntu</vh></v>
+<v t="zoomq.20130302114851.3888"><vh>TM</vh></v>
+<v t="zoomq.20121217095458.5577"><vh>brew</vh>
+<v t="zoomq.20121217170241.3865"><vh>FFMpeg 1.0</vh>
+<v t="zoomq.20121218093706.3870"><vh>FFMpeg1.0.1</vh></v>
+<v t="zoomq.20121217173705.3868"><vh>121217-mpd+ncmpcpp</vh></v>
+<v t="zoomq.20121217170241.3864"><vh>121217-cmus</vh></v>
+</v>
+<v t="zoomq.20121217095458.5578"><vh>121217-doctor</vh></v>
+</v>
+<v t="zoomq.20130104101214.3880"><vh>mosh</vh></v>
+<v t="zoomq.20111230163611.3820"><vh>git</vh></v>
+<v t="zoomq.20111227095408.9246"><vh>Leo</vh></v>
+<v t="zoomq.20111220092312.3808" a="E"><vh>BXM</vh>
+<v t="zoomq.20130326094120.5692"><vh>Reime</vh></v>
+<v t="zoomq.20130326094120.5693"><vh>$TMPDIR/rime.squirrel.INFO</vh></v>
+</v>
+<v t="zoomq.20111220092312.5316"><vh>htop</vh></v>
+<v t="zoomq.20111227090820.3814"><vh>haskell</vh></v>
+<v t="zoomq.20111227150925.3818"><vh>mocp</vh></v>
+</v>
+<v t="zoomq.20100903210229.3839"><vh>巨坑::</vh>
+<v t="zoomq.20120305142323.3822"><vh>Emacs</vh>
+<v t="zoomq.20120305142323.3823"><vh>base usage</vh></v>
+</v>
+<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh>
+<v t="zoomq.20110411104732.5352"><vh>zhbit</vh>
+<v t="zoomq.20110411194006.3964"><vh>user</vh></v>
+</v>
+<v t="zoomq.20100927113242.2581"><vh>Hg demo</vh></v>
+<v t="zoomq.20101015095808.2582"><vh>Hg 配置</vh>
+<v t="zoomq.20101029104710.3831"><vh>hgrc</vh></v>
+<v t="zoomq.20101019093735.5077"><vh>diff</vh></v>
+<v t="zoomq.20101019093735.5078"><vh>keywords</vh></v>
+</v>
+</v>
+<v t="zoomq.20110523143238.2694"><vh>py.kingsoft.net</vh>
+<v t="zoomq.20110815085436.2906" a="E"><vh>FreeBSD</vh>
+<v t="zoomq.20110902084216.8585"><vh>ports清理</vh></v>
+<v t="zoomq.20110818135824.2913"><vh>nginx</vh></v>
+<v t="zoomq.20110817090724.2911"><vh>moinmoin</vh></v>
+<v t="zoomq.20110816085806.2907"><vh>boost</vh></v>
+<v t="zoomq.20110816085806.11271"><vh>gridFS</vh></v>
+</v>
+<v t="zoomq.20110523143238.2695"><vh>@trac2</vh>
+<v t="zoomq.20110523143238.2696"><vh>110523-升級u+nginx</vh></v>
+<v t="zoomq.20110523143238.2697"><vh>发布u+zqrgen</vh></v>
+</v>
+</v>
+<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh>
+<v t="zoomq.20110902202629.2926"><vh>zoomquiet.no.de</vh>
+<v t="zoomq.20110902202629.2928"><vh>git配置</vh>
+<v t="zoomq.20110902202629.2927"><vh>git push</vh></v>
+</v>
+<v t="zoomq.20110902202629.2929"><vh>npm</vh></v>
+<v t="zoomq.20110902202629.2930"><vh>mongo</vh></v>
+<v t="zoomq.20110902202629.2931"><vh>screen</vh></v>
+</v>
+<v t="zoomq.20101109214756.6989"><vh>zoomquiet.org发布规划</vh>
+<v t="zoomq.20101109214756.6990"><vh>目录</vh></v>
+<v t="zoomq.20101109214756.6991"><vh>域名</vh></v>
+</v>
+<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
+<v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
+<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
+<v t="zoomq.20101104113205.5096"><vh>DouPy</vh></v>
+<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
+</v>
+</v>
+<v t="zoomq.20110325220944.2613"><vh>CPyUG社区</vh></v>
+<v t="zoomq.20101019093735.5079"><vh>Geek</vh>
+<v t="zoomq.20110329090742.2614" a="E"><vh>沈崴-wileishn语录</vh>
+<v t="zoomq.20110329090742.2615" a="E"><vh>110329书</vh>
+<v t="zoomq.20110329090742.2618"><vh>军规:</vh></v>
+<v t="zoomq.20110329090742.2616"><vh>影响力</vh></v>
+<v t="zoomq.20110329090742.2617"><vh>大杀器</vh></v>
+</v>
+</v>
+<v t="zoomq.20101103153946.5095"><vh>CLI</vh></v>
+</v>
+</v>
+<v t="zoomq.20121207162246.5571"><vh>3GLand 主机</vh>
+<v t="zoomq.20121207162246.5572"><vh>42区配置</vh></v>
+</v>
+<v t="zoomq.20111104224345.3355"><vh>techparty.org</vh>
+<v t="zoomq.20111104224345.3356" a="E"><vh>东京Linode</vh>
+<v t="zoomq.20111104224345.3357"><vh>SA@111110 DBA</vh></v>
+<v t="zoomq.20111110211135.6344"><vh>SA@111104 init.</vh></v>
+<v t="zoomq.20111125085606.5232"><vh>111125</vh></v>
+</v>
+<v t="zoomq.20111207090549.5311"><vh>1112zh</vh></v>
+</v>
+<v t="zoomq.20100903210229.3841"><vh>OBP</vh>
+<v t="zoomq.20121116154311.3848" a="E"><vh>TAoC</vh>
+<v t="zoomq.20130307104209.5651"><vh>发布</vh></v>
+</v>
+<v t="zoomq.20110218220319.2595"><vh>2Hg</vh></v>
+<v t="zoomq.20110914214854.2931"><vh>docs.py</vh></v>
 <v t="zoomq.20110218220319.3903"><vh>RWIwPyZh</vh>
-<v t="zoomq.20110322090028.3918" a="E"><vh>翻译</vh>
-<v t="zoomq.20110322090028.9761"><vh>@shadow LINKS.rst</vh></v>
+<v t="zoomq.20110322090028.3918"><vh>翻译</vh>
+<v t="zoomq.20110322090028.9761"><vh>@nosent LINKS.rst</vh></v>
 <v t="zoomq.20110518221155.2680"><vh>ch00</vh>
-<v t="zoomq.20110518221155.2681"><vh>@nosent intro.rst</vh></v>
 <v t="zoomq.20110518221155.2683"><vh>@nosent preface.rst</vh>
 <v t="zoomq.20110518221155.2684"><vh>谁该看这书</vh></v>
 <v t="zoomq.20110518221155.2686"><vh>编程</vh></v>
@@ -232,7 +254,11 @@
 <v t="zoomq.20110407085430.2622"><vh>Python中的对象</vh></v>
 <v t="zoomq.20110407085430.2623"><vh>数据类型</vh>
 <v t="zoomq.20110419090531.8816"><vh>数字数据对象</vh></v>
-<v t="zoomq.20110419090531.8817"><vh>序列对象</vh></v>
+<v t="zoomq.20110419090531.8817"><vh>序列对象</vh>
+<v t="zoomq.20111111090027.11954"><vh>列表</vh></v>
+<v t="zoomq.20111111090027.11955"><vh>字串</vh></v>
+<v t="zoomq.20111111090027.11956"><vh>元组</vh></v>
+</v>
 <v t="zoomq.20110419090531.8818"><vh>字典</vh></v>
 </v>
 <v t="zoomq.20110407085430.2624"><vh>表达式</vh></v>
@@ -299,61 +325,60 @@
 <v t="zoomq.20110727085946.4249"><vh>ch08</vh>
 <v t="zoomq.20110727085946.4250"><vh>@nosent index.rst</vh></v>
 <v t="zoomq.20110727085946.4251"><vh>@nosent 0_intro.rst</vh></v>
-<v t="zoomq.20110727085946.4252" a="E"><vh>@nosent 1_defining_project.rst</vh>
+<v t="zoomq.20110727085946.4252"><vh>@nosent 1_defining_project.rst</vh>
 <v t="zoomq.20110727085946.4317"><vh>需求驱动的设计</vh></v>
 <v t="zoomq.20110727085946.4319"><vh>从需要开始</vh></v>
-<v t="zoomq.20110727085946.4321"><vh>Project Objectives</vh></v>
+<v t="zoomq.20110727085946.4321"><vh>工程目标</vh></v>
 </v>
-<v t="zoomq.20110727085946.4253"><vh>@nosent 2_requirements.rst</vh>
-<v t="zoomq.20110727085946.4323"><vh>Why Requirements Matter</vh></v>
-<v t="zoomq.20110727085946.4325"><vh>Well-Formed Requirements</vh></v>
-<v t="zoomq.20110727085946.4327"><vh>The Big Picture</vh></v>
-<v t="zoomq.20110727085946.4329"><vh>Requirement Types</vh></v>
-<v t="zoomq.20110727085946.4331"><vh>Use Cases</vh></v>
-<v t="zoomq.20110727085946.4333"><vh>Traceability</vh></v>
-<v t="zoomq.20110727085946.4335"><vh>Capturing Requirements</vh></v>
+<v t="zoomq.20110727085946.4253" a="E"><vh>@nosent 2_requirements.rst</vh>
+<v t="zoomq.20110727085946.4323"><vh>为什么需要需求</vh></v>
+<v t="zoomq.20110727085946.4325"><vh>良好(Well-Formed)的需求</vh></v>
+<v t="zoomq.20110727085946.4327"><vh>全景 The Big Picture</vh></v>
+<v t="zoomq.20110727085946.4329"><vh>需求类型</vh></v>
+<v t="zoomq.20110727085946.4331"><vh>用例</vh></v>
+<v t="zoomq.20110727085946.4333"><vh>可追溯性</vh></v>
+<v t="zoomq.20110727085946.4335"><vh>需求捕获</vh></v>
 </v>
-<v t="zoomq.20110727085946.4305"><vh>@nosent 3_designing_software.rst</vh>
-<v t="zoomq.20110727085946.4306"><vh>The Software Design Description</vh></v>
-<v t="zoomq.20110727085946.4337"><vh>Graphics in the SDD</vh>
-<v t="zoomq.20110727085946.4339"><vh>Block diagrams</vh></v>
-<v t="zoomq.20110727085946.4341"><vh>Flowcharts</vh></v>
-<v t="zoomq.20110727085946.4343"><vh>State diagrams</vh></v>
-<v t="zoomq.20110727085946.4345"><vh>Message sequence charts</vh></v>
-<v t="zoomq.20110727085946.4347"><vh>Block diagrams</vh></v>
+<v t="zoomq.20110727085946.4305" a="E"><vh>@nosent 3_designing_software.rst</vh>
+<v t="zoomq.20110727085946.4306"><vh>软件设计说明</vh></v>
+<v t="zoomq.20110727085946.4337" a="E"><vh>SDD的图景</vh>
+<v t="zoomq.20110727085946.4339"><vh>框图</vh></v>
+<v t="zoomq.20110727085946.4341"><vh>流程图</vh></v>
+<v t="zoomq.20110727085946.4343"><vh>状态图</vh></v>
+<v t="zoomq.20110727085946.4345"><vh>消息序列图</vh></v>
 </v>
-<v t="zoomq.20110727085946.4349"><vh>Pseudocode</vh></v>
-<v t="zoomq.20110727085946.4351"><vh>Divide and Conquer</vh></v>
-<v t="zoomq.20110727085946.4353"><vh>Handling Errors and Faults</vh>
-<v t="zoomq.20110727085946.4355"><vh>Identifying potential failures</vh></v>
-<v t="zoomq.20110727085946.4357"><vh>Failure responses</vh></v>
+<v t="zoomq.20110727085946.4349"><vh>伪代码</vh></v>
+<v t="zoomq.20110727085946.4351"><vh>分而治之</vh></v>
+<v t="zoomq.20110727085946.4353" a="E"><vh>处理错误和故障</vh>
+<v t="zoomq.20110727085946.4355"><vh>确定潜在的故障</vh></v>
+<v t="zoomq.20110727085946.4357"><vh>故障响应</vh></v>
 </v>
 </v>
 <v t="zoomq.20110727085946.4309"><vh>@nosent 4_functional_testing.rst</vh>
-<v t="zoomq.20110727085946.4359"><vh>Testing to the Requirements</vh></v>
-<v t="zoomq.20110727085946.4361"><vh>Test Cases</vh></v>
-<v t="zoomq.20110727085946.4363"><vh>Testing Error Handling</vh></v>
-<v t="zoomq.20110727085946.4365"><vh>Regression Testing</vh></v>
-<v t="zoomq.20110727085946.4367"><vh>Tracking Progress</vh></v>
+<v t="zoomq.20110727085946.4359"><vh>为需求而测</vh></v>
+<v t="zoomq.20110727085946.4361"><vh>测试用例</vh></v>
+<v t="zoomq.20110727085946.4363"><vh>测试错误处理</vh></v>
+<v t="zoomq.20110727085946.4365"><vh>回归测试</vh></v>
+<v t="zoomq.20110727085946.4367"><vh>进展追踪</vh></v>
 </v>
-<v t="zoomq.20110727085946.4312"><vh>@nosent 5_implementation.rst</vh>
-<v t="zoomq.20110727085946.4369"><vh>Coding Styles</vh>
-<v t="zoomq.20110727085946.4378"><vh>Why coding style is important</vh></v>
-<v t="zoomq.20110727085946.4380"><vh>Adopting existing coding style guidelines</vh></v>
+<v t="zoomq.20110727085946.4312" a="E"><vh>@nosent 5_implementation.rst</vh>
+<v t="zoomq.20110727085946.4369"><vh>代码风格</vh>
+<v t="zoomq.20110727085946.4378"><vh>为什么编码风格是重要的</vh></v>
+<v t="zoomq.20110727085946.4380"><vh>采用现有的编码风格准则</vh></v>
 </v>
-<v t="zoomq.20110727085946.4371"><vh>Organizing Your Code</vh></v>
-<v t="zoomq.20110727085946.4373"><vh>Code Reviews</vh></v>
-<v t="zoomq.20110727085946.4375"><vh>Unit Testing</vh>
-<v t="zoomq.20110727085946.4388"><vh>Why coding style is important</vh></v>
-<v t="zoomq.20110727085946.4392"><vh>Implementing unit tests</vh></v>
-<v t="zoomq.20110727085946.4394"><vh>assert versus assertEqual() and friends</vh></v>
-<v t="zoomq.20110727085946.4396"><vh>Code coverage</vh></v>
+<v t="zoomq.20110727085946.4371"><vh>组织你的代码</vh></v>
+<v t="zoomq.20110727085946.4373"><vh>代码复审</vh></v>
+<v t="zoomq.20110727085946.4375"><vh>单元测试</vh>
+<v t="zoomq.20110727085946.4388"><vh>定义单元测试</vh></v>
+<v t="zoomq.20110727085946.4392"><vh>执行单元测试</vh></v>
+<v t="zoomq.20110727085946.4394"><vh>断言与assertEqual() 及其朋友们</vh></v>
+<v t="zoomq.20110727085946.4396"><vh>代码覆盖率</vh></v>
 </v>
-<v t="zoomq.20110727085946.4377"><vh>Connecting to the Hardware</vh></v>
-<v t="zoomq.20110727085946.4398"><vh>Documenting Your Software</vh></v>
-<v t="zoomq.20110727085946.4400"><vh>Version Control</vh></v>
-<v t="zoomq.20110727085946.4402"><vh>Defect Tracking</vh></v>
-<v t="zoomq.20110727085946.4408"><vh>User Documentation</vh></v>
+<v t="zoomq.20110727085946.4377"><vh>连接到硬件</vh></v>
+<v t="zoomq.20110727085946.4398"><vh>软件文档化</vh></v>
+<v t="zoomq.20110727085946.4400"><vh>版本控制</vh></v>
+<v t="zoomq.20110727085946.4402"><vh>缺陷跟踪</vh></v>
+<v t="zoomq.20110727085946.4408"><vh>用户文档</vh></v>
 </v>
 <v t="zoomq.20110727085946.4316"><vh>@nosent 6_summary.rst</vh></v>
 <v t="zoomq.20110727085946.4310"><vh>@nosent 7_suggested_reading.rst</vh></v>
@@ -362,99 +387,80 @@
 <v t="zoomq.20110224000107.3905"><vh>配置</vh>
 <v t="zoomq.20110309092312.11334"><vh>Nginx</vh></v>
 </v>
-<v t="zoomq.20110221225054.2597"><vh>报名</vh></v>
-</v>
-<v t="zoomq.20100903210229.3838"><vh>Hacking Life</vh>
-<v t="zoomq.20100903210229.3839"><vh>巨坑分析:</vh>
-<v t="zoomq.20100908091715.2579"><vh>PythoniCamp</vh>
-<v t="zoomq.20110411104732.5352"><vh>zhbit</vh>
-<v t="zoomq.20110411194006.3964"><vh>user</vh></v>
-</v>
-<v t="zoomq.20100927113242.2581"><vh>Hg demo</vh></v>
-<v t="zoomq.20101015095808.2582"><vh>Hg 配置</vh>
-<v t="zoomq.20101029104710.3831"><vh>hgrc</vh></v>
-<v t="zoomq.20101019093735.5077"><vh>diff</vh></v>
-<v t="zoomq.20101019093735.5078"><vh>keywords</vh></v>
+<v t="zoomq.20110221225054.2597"><vh>报名</vh>
+<v t="zoomq.20120901151004.6027"><vh>正式成员</vh></v>
+<v t="zoomq.20120901151004.6026"><vh>现实身份</vh></v>
 </v>
 </v>
-<v t="zoomq.20110325220944.2613"><vh>CPyUG社区</vh></v>
-<v t="zoomq.20110523143238.2694"><vh>py.kingsoft.net</vh>
-<v t="zoomq.20110523143238.2695"><vh>@trac2</vh>
-<v t="zoomq.20110523143238.2696"><vh>110523-升級u+nginx</vh></v>
-<v t="zoomq.20110523143238.2697"><vh>发布u+zqrgen</vh></v>
-</v>
-</v>
-<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh>
-<v t="zoomq.20110414091122.2636"><vh>BBS</vh></v>
-<v t="zoomq.20101227205438.2592"><vh>ml</vh></v>
-<v t="zoomq.20110412144015.3968"><vh>YY</vh></v>
-</v>
-<v t="zoomq.20100903210229.3840"><vh>zoomquiet.org</vh>
-<v t="zoomq.20101109214756.6989"><vh>zoomquiet.org发布规划</vh>
-<v t="zoomq.20101109214756.6990"><vh>目录</vh></v>
-<v t="zoomq.20101109214756.6991"><vh>域名</vh></v>
-</v>
-<v t="zoomq.20101109214756.6992"><vh>scrapbook</vh></v>
-<v t="zoomq.20100925155257.2580"><vh>PyBlosxom</vh></v>
-<v t="zoomq.20100903210229.3842"><vh>WeKnow</vh>
-<v t="zoomq.20101104113205.5096"><vh>DouPy</vh></v>
-<v t="zoomq.20101105113140.2587"><vh>SaaCL</vh></v>
-</v>
-</v>
-<v t="zoomq.20101019093735.5079"><vh>Geek</vh>
-<v t="zoomq.20110329090742.2614"><vh>沈崴-wileishn语录</vh>
-<v t="zoomq.20110329090742.2615"><vh>110329书</vh>
-<v t="zoomq.20110329090742.2618"><vh>军规:</vh></v>
-<v t="zoomq.20110329090742.2616"><vh>影响力</vh></v>
-<v t="zoomq.20110329090742.2617"><vh>大杀器</vh></v>
-</v>
-</v>
-<v t="zoomq.20101103153946.5095"><vh>CLI</vh></v>
-</v>
-</v>
-<v t="zoomq.20100903210229.3841"><vh>OBP</vh>
-<v t="zoomq.20110218220319.2595"><vh>2Hg</vh></v>
-<v t="zoomq.20110218220319.3903"></v>
 </v>
 <v t="zoomq.20100831135717.3642"><vh>WeKnow</vh>
-<v t="zoomq.20100831135717.3643"><vh>可视化</vh>
-<v t="zoomq.20100831135717.4174"><vh>webSequenceDiagram</vh>
-<v t="zoomq.20100831135717.4171"><vh>@nosent getSequenceDiagram.py</vh>
+<v t="zoomq.20100831135717.3643" a="E"><vh>可视化</vh>
+<v t="zoomq.20100831135717.4174" a="E"><vh>webSequenceDiagram</vh>
+<v t="zoomq.20100831135717.4171" a="O"><vh>@nosent getSequenceDiagram.py</vh>
 <v t="zoomq.20100831135717.4172"><vh>declarations</vh></v>
 <v t="zoomq.20100831135717.4173"><vh>getSequenceDiagram()</vh></v>
 </v>
 <v t="zoomq.20100831135717.4195"><vh>demo</vh>
-<v t="zoomq.20100831135717.4178"><vh>@nosent demo0.txt</vh></v>
-<v t="zoomq.20100831135717.4184"><vh>@nosent demo1-activate.txt</vh></v>
-<v t="zoomq.20100831135717.4188"><vh>@nosent demo2-alt.txt</vh></v>
-<v t="zoomq.20100831135717.4190"><vh>@nosent demo3-opt.txt</vh></v>
-<v t="zoomq.20100831135717.4192"><vh>@nosent demo4-note.txt</vh></v>
-<v t="zoomq.20100831135717.4194"><vh>@nosent demo5-participants.txt</vh></v>
-<v t="zoomq.20100831135717.4197"><vh>@nosent demo6-grouping.txt</vh></v>
-<v t="zoomq.20100831135717.4199"><vh>@nosent demo7-lifeline.txt</vh></v>
+<v t="zoomq.20100831135717.4178" a="O"><vh>@nosent demo0.txt</vh></v>
+<v t="zoomq.20100831135717.4184" a="O"><vh>@nosent demo1-activate.txt</vh></v>
+<v t="zoomq.20100831135717.4188" a="O"><vh>@nosent demo2-alt.txt</vh></v>
+<v t="zoomq.20100831135717.4190" a="O"><vh>@nosent demo3-opt.txt</vh></v>
+<v t="zoomq.20100831135717.4192" a="O"><vh>@nosent demo4-note.txt</vh></v>
+<v t="zoomq.20100831135717.4194" a="O"><vh>@nosent demo5-participants.txt</vh></v>
+<v t="zoomq.20100831135717.4197" a="O"><vh>@nosent demo6-grouping.txt</vh></v>
+<v t="zoomq.20100831135717.4199" a="O"><vh>@nosent demo7-lifeline.txt</vh></v>
 </v>
 </v>
 </v>
 </v>
 <v t="zoomq.20100903210229.3896"><vh>KM思绪</vh>
-<v t="zoomq.20100903210229.3897"><vh>@nosent dont-use-wiki.txt</vh>
+<v t="zoomq.20100903210229.3897" a="O"><vh>@nosent dont-use-wiki.txt</vh>
 <v t="zoomq.20110420091053.2640"><vh>陈德志</vh></v>
 </v>
 </v>
-<v t="zoomq.20101030170919.2579"><vh>newHeadline</vh>
-<v t="zoomq.20101030170919.2580"><vh>coffeghost-q-in-py.py</vh>
-<v t="zoomq.20101030170919.2581"><vh>coffeghost-q-in-py declarations</vh></v>
-<v t="zoomq.20101030170919.2582"><vh>main</vh></v>
-<v t="zoomq.20101030170919.2583"><vh>foo</vh></v>
+</v>
+<v t="zoomq.20120913101417.6044"><vh>LieBao</vh>
+<v t="zoomq.20130313104056.3892"><vh>Theme中心</vh></v>
+<v t="zoomq.20130301103428.5639"><vh>DRM</vh></v>
+<v t="zoomq.20101103153946.3839"><vh>code.ijinshan</vh>
+<v t="zoomq.20121219094347.5593" a="E"><vh>gitcafe</vh>
+<v t="zoomq.20121222152911.5596"><vh>cnzz</vh></v>
+</v>
+<v t="zoomq.20121218093706.3871"><vh>1212-Trac</vh>
+<v t="zoomq.20121218093706.3872"><vh>user</vh></v>
+</v>
+<v t="zoomq.20110919090657.2932"><vh>boobooke</vh></v>
+<v t="zoomq.20110414091122.2636"><vh>BBS</vh></v>
+<v t="zoomq.20101227205438.2592"><vh>ml</vh></v>
+<v t="zoomq.20110412144015.3968"><vh>YY</vh>
+<v t="zoomq.20110902084216.8586"><vh>vol.23</vh></v>
 </v>
 </v>
+<v t="zoomq.20120913101417.6045"><vh>chrome21Opt.</vh>
+<v t="zoomq.20120913101417.6046"><vh>新设置</vh></v>
 </v>
-<v t="zoomq.20100903210229.3872"><vh>rc.local</vh>
-<v t="zoomq.20100903210229.3873"><vh>@shadow xinput4bamboo.py</vh></v>
 </v>
+<v t="zoomq.20100903210229.3872"><vh>rc.local</vh></v>
 <v t="zoomq.20100412163057.2814"><vh>Misc任务</vh>
+<v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
+<v t="zoomq.20100827095209.8303"><vh>@nosent manga-zipang12~1.sh</vh></v>
+<v t="zoomq.20111226091956.3810"><vh>@nosent manga.py</vh>
+<v t="zoomq.20100827095209.8301"><vh>manga declarations</vh></v>
+<v t="zoomq.20100827095209.8302"><vh>genUrlist</vh></v>
+</v>
+<v t="zoomq.20111226091956.3813"><vh>@nosent wgetli.py</vh>
+<v t="zoomq.20100827095209.8305"><vh>wgetli declarations</vh></v>
+<v t="zoomq.20100827095209.8306"><vh>genUrlist</vh></v>
+</v>
+</v>
+<v t="zoomq.20100827095209.8299"><vh>清除字幕字体聲明</vh>
+<v t="zoomq.20100827095209.8310" a="EO"><vh>@nosent clfontd4.py</vh>
+<v t="zoomq.20100827095209.8311"><vh>declarations</vh></v>
+<v t="zoomq.20100827095209.8312"><vh>cleaner()</vh></v>
+</v>
+</v>
 <v t="zoomq.20100412163057.2815"><vh>病毒样本对比</vh>
-<v t="zoomq.20100902112115.7756"><vh>@nosent virusampls-ratio.py</vh>
+<v t="zoomq.20100902112115.7756" a="O"><vh>@nosent virusampls-ratio.py</vh>
 <v t="zoomq.20100902112115.7757"><vh>declarations</vh></v>
 <v t="zoomq.20100902112115.7758"><vh>processLogKV</vh></v>
 <v t="zoomq.20100902112115.7759"><vh>processLogRX</vh></v>
@@ -462,30 +468,364 @@
 <v t="zoomq.20100902112115.7761"><vh>finalExport</vh></v>
 </v>
 </v>
-<v t="zoomq.20100122092723.2783"><vh>GrasPic</vh>
-<v t="zoomq.20100827095209.8300"><vh>@file manga.py</vh>
-<v t="zoomq.20100827095209.8301"><vh>manga declarations</vh></v>
-<v t="zoomq.20100827095209.8302"><vh>genUrlist</vh></v>
 </v>
-<v t="zoomq.20100827095209.8303"><vh>@file manga-zipang12~1.sh</vh></v>
-<v t="zoomq.20100827095209.8304"><vh>@file wgetli.py</vh>
-<v t="zoomq.20100827095209.8305"><vh>wgetli declarations</vh></v>
-<v t="zoomq.20100827095209.8306"><vh>genUrlist</vh></v>
+<v t="zoomq.20110709131924.2700"><vh>Yuike</vh>
+<v t="zoomq.20110714090951.4108"><vh>logging</vh>
+<v t="zoomq.20110711214730.4102"><vh>Kanban</vh></v>
+<v t="zoomq.20110709131924.2703"><vh>工作设施</vh>
+<v t="zoomq.20110711090727.6884"><vh>VPS</vh></v>
+<v t="zoomq.20110711090727.6882"><vh>Apple</vh></v>
+<v t="zoomq.20110714090951.6916"><vh>Air</vh></v>
+<v t="zoomq.20110711090727.6883"><vh>Dell</vh></v>
+</v>
+<v t="zoomq.20110921083446.4498"><vh>FreeBSD</vh>
+<v t="zoomq.20110927084702.2941"><vh>inti.</vh></v>
 </v>
 </v>
-<v t="zoomq.20100827095209.8299"><vh>清除字幕字体聲明</vh>
-<v t="zoomq.20100827095209.8310"><vh>@nosent clfontd4.py</vh>
-<v t="zoomq.20100827095209.8311"><vh>declarations</vh></v>
-<v t="zoomq.20100827095209.8312"><vh>cleaner()</vh></v>
+<v t="zoomq.20110713090346.2709"><vh>fadpop</vh>
+<v t="zoomq.20110720091129.2763"><vh>@nosent readme.txt</vh>
+<v t="zoomq.20110817090724.2910"><vh>迁移</vh></v>
+</v>
+<v t="zoomq.20110802085156.2841"><vh>@nosent __init__.py</vh></v>
+<v t="zoomq.20110927084702.4405"><vh>cron</vh>
+<v t="zoomq.20111009085726.4432"><vh>@nosent readme.txt</vh></v>
+<v t="zoomq.20110927084702.4420"><vh>@nosent vancl-csv-walkr.py</vh>
+<v t="zoomq.20110927084702.4421"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20110927084702.4422"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110927084702.4428"><vh>loader()</vh></v>
+</v>
+<v t="zoomq.20111130170058.3742"><vh>@nosent vancl-uri2karait.py</vh>
+<v t="zoomq.20111130170058.3743"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20111130170058.3744"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20111130170058.3745"><vh>loadalluri()</vh></v>
+</v>
+<v t="zoomq.20111009085726.4446"><vh>@nosent vancl-up4info2karait.py</vh>
+<v t="zoomq.20111009085726.4447"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20111009085726.4448"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20111009085726.4449"><vh>upgradbyuri()</vh>
+<v t="zoomq.20111009085726.4450"><vh>统一处理</vh></v>
+</v>
+<v t="zoomq.20110809202237.2909" a="E"><vh>_updateitem()</vh>
+<v t="zoomq.20110809202237.2910"><vh>&lt;&lt;放空价格&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2911"><vh>&lt;&lt;价格抓取&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2912"><vh>&lt;&lt;bread_nav&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2913"><vh>&lt;&lt;attrs_wash&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2914"><vh>&lt;&lt;attrs_color&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2915"><vh>&lt;&lt;comments_unit&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2916"><vh>&lt;&lt;comments_size&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2917"><vh>&lt;&lt;comments_feel&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2918"><vh>&lt;&lt;comments_taker_comment&gt;&gt;</vh>
+<v t="zoomq.20110809202237.2919"><vh>&lt;&lt;comments_taker_comm&gt;&gt;</vh></v>
+<v t="zoomq.20110809202237.2920"><vh>&lt;&lt;comments_taker_ask&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20111011203627.4446"><vh>_loadpics()</vh>
+<v t="zoomq.20111011203627.4447"><vh>up-img-info</vh></v>
+</v>
+<v t="zoomq.20111201085740.5306"><vh>__download_img()</vh></v>
+<v t="zoomq.20111012085658.5918"><vh>_up_shining()</vh>
+<v t="zoomq.20111012085658.5919"><vh>&lt;&lt;晒单更新&gt;&gt;</vh></v>
+<v t="zoomq.20111012085658.5920"><vh>&lt;&lt;详细图片&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20111010171018.2978"><vh>_anabigpicnames()</vh>
+<v t="zoomq.20111010171018.2979"><vh>main</vh></v>
+<v t="zoomq.20111010171018.2980"><vh>others</vh></v>
+</v>
+</v>
+<v t="zoomq.20111013085658.11318"><vh>__urlopen_load_img()</vh></v>
+<v t="zoomq.20111009085726.4438"><vh>@nosent vancl-uri-flush.py</vh>
+<v t="zoomq.20111009085726.4439"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20111009085726.4440"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20111009085726.4441"><vh>loadalluri()</vh></v>
+</v>
+<v t="zoomq.20111201085740.3772" a="E"><vh>@nosent vancl-up-info.py</vh>
+<v t="zoomq.20111201085740.3773"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3774"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3775"><vh>upgradbyuri()</vh>
+<v t="zoomq.20111201085740.3776"><vh>统一处理</vh></v>
+</v>
+<v t="zoomq.20111201085740.3777" a="E"><vh>_up_shining()</vh>
+<v t="zoomq.20111201085740.3778"><vh>&lt;&lt;晒单更新&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3779"><vh>&lt;&lt;详细图片&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20111201085740.3780"><vh>__urlopen_load_img()</vh></v>
+<v t="zoomq.20111201085740.3781"><vh>_loadpics()</vh>
+<v t="zoomq.20111201085740.3782"><vh>upall</vh></v>
+</v>
+<v t="zoomq.20111201085740.3783"><vh>_updateitem()</vh>
+<v t="zoomq.20111201085740.3784"><vh>&lt;&lt;放空价格&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3785"><vh>&lt;&lt;价格抓取&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3786"><vh>&lt;&lt;bread_nav&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3787"><vh>&lt;&lt;attrs_wash&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3788"><vh>&lt;&lt;attrs_color&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3789"><vh>&lt;&lt;comments_unit&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3790"><vh>&lt;&lt;comments_size&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3791"><vh>&lt;&lt;comments_feel&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3792"><vh>&lt;&lt;comments_taker_comment&gt;&gt;</vh>
+<v t="zoomq.20111201085740.3793"><vh>&lt;&lt;comments_taker_comm&gt;&gt;</vh></v>
+<v t="zoomq.20111201085740.3794"><vh>&lt;&lt;comments_taker_ask&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20111201085740.3795"><vh>_anabigpicnames()</vh>
+<v t="zoomq.20111201085740.3796"><vh>main</vh></v>
+<v t="zoomq.20111201085740.3797"><vh>others</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20110718091518.2722" a="E"><vh>parser</vh>
+<v t="zoomq.20110720091129.2765"><vh>@nosent readme.txt</vh>
+<v t="zoomq.20110805090147.2885"><vh>error</vh></v>
+<v t="zoomq.20110928083621.2947"><vh>csv编码</vh></v>
+<v t="zoomq.20110810082729.4308"><vh>monnbasa</vh>
+<v t="zoomq.20110810082729.4310"><vh>&lt;&lt;doc_item&gt;&gt;</vh></v>
+<v t="zoomq.20110810082729.4312"><vh>&lt;&lt;doc_foto&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110810082729.4316"><vh>m18</vh>
+<v t="zoomq.20110810082729.4317"><vh>&lt;&lt;doc_item&gt;&gt;</vh></v>
+<v t="zoomq.20110810082729.4318"><vh>&lt;&lt;doc_foto&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20110804090725.2868" a="EO"><vh>@nosent vanclcsv.py</vh>
+<v t="zoomq.20110804090725.2869"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20110804090725.2870"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110804090725.2878"><vh>loadall(cvs)</vh>
+<v t="zoomq.20110804090725.2879"><vh>&lt;&lt;整理入collection&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110804090725.2880"><vh>_put_img_gfs(info)</vh>
+<v t="zoomq.20110804090725.2881"><vh>&lt;&lt;可能的其它图片格式&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110804090725.2882"><vh>_pick_by_w3m(htm)</vh></v>
+<v t="zoomq.20110804090725.2883"><vh>_pick_table_data(txt)</vh></v>
+</v>
+<v t="zoomq.20110804090725.2871"><vh>&lt;&lt;define&gt;&gt;</vh>
+<v t="zoomq.20110804090725.2872"><vh>&lt;&lt;configures&gt;&gt;</vh>
+<v t="zoomq.20110804090725.2875"><vh>&lt;&lt;doc_item&gt;&gt;</vh></v>
+<v t="zoomq.20110804090725.2876"><vh>&lt;&lt;doc_foto&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20110801085156.2851"><vh>@nosent vanclinfoflush.py</vh>
+<v t="zoomq.20110801085156.2852"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110801085156.2853"><vh>flush_info_one_by_one()</vh></v>
+<v t="zoomq.20110809202237.2922"><vh>_isnorm(htm,sid)</vh></v>
+<v t="zoomq.20110809202237.2924"><vh>_isfound(chksid)</vh></v>
+<v t="zoomq.20110809202237.2909" a="E"></v>
+</v>
+<v t="zoomq.20110929090256.4431"><vh>@nosent vanclhtmitem.py</vh>
+<v t="zoomq.20110929090256.4432"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4433"><vh>graspiteminfo(pathml)</vh></v>
+<v t="zoomq.20110929090256.4434"><vh>_isnorm(htm,sid)</vh></v>
+<v t="zoomq.20110929090256.4435"><vh>_isfound(chksid)</vh></v>
+<v t="zoomq.20110929090256.4436"><vh>_updateitem(htm)</vh>
+<v t="zoomq.20110929090256.4437"><vh>&lt;&lt;放空价格&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4438"><vh>&lt;&lt;价格抓取&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4439"><vh>&lt;&lt;bread_nav&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4440"><vh>&lt;&lt;attrs_wash&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4441"><vh>&lt;&lt;attrs_color&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4442"><vh>&lt;&lt;comments_unit&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4443"><vh>&lt;&lt;comments_size&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4444"><vh>&lt;&lt;comments_feel&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4445"><vh>&lt;&lt;comments_taker_comment&gt;&gt;</vh>
+<v t="zoomq.20110929090256.4446"><vh>&lt;&lt;comments_taker_comm&gt;&gt;</vh></v>
+<v t="zoomq.20110929090256.4447"><vh>&lt;&lt;comments_taker_ask&gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20110804090725.2889"><vh>@nosent vanclhtmbigpic.py</vh>
+<v t="zoomq.20110804090725.2890"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110804090725.2891"><vh>anabigpicnames(pathml)</vh>
+<v t="zoomq.20110804090725.2892"><vh>main</vh></v>
+<v t="zoomq.20110804090725.2893"><vh>others</vh></v>
+</v>
+</v>
+<v t="zoomq.20110804090725.2901"><vh>@nosent vanclpicloader.py</vh>
+<v t="zoomq.20110804090725.2902"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110804090725.2903"><vh>&lt;&lt;define&gt;&gt;</vh>
+<v t="zoomq.20110804090725.2904"><vh>&lt;&lt;configures&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110804090725.2905"><vh>loadpics(pkl,pathpic)</vh>
+<v t="zoomq.20110804090725.2906"><vh>upall</vh></v>
+</v>
+<v t="zoomq.20110804090725.2907"><vh>_put_img_gfs(crtfoto,realpic)</vh></v>
+</v>
+</v>
+<v t="zoomq.20110801085156.2825"><vh>common</vh>
+<v t="zoomq.20110801085156.2827"><vh>@nosent readme.txt</vh></v>
+<v t="zoomq.20110727085946.4412"><vh>@nosent fadutil.py</vh>
+<v t="zoomq.20110727085946.4413"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110922090434.5850"><vh>CCFG</vh>
+<v t="zoomq.20110922090434.5851"><vh>&lt;&lt;configures&gt;&gt;</vh>
+<v t="zoomq.20110804090725.2875"></v>
+<v t="zoomq.20110804090725.2876"></v>
+</v>
+</v>
+<v t="zoomq.20110922090434.7415"><vh>__popen</vh></v>
+<v t="zoomq.20111201085740.5303"><vh>KillThread:</vh></v>
+<v t="zoomq.20111201085740.5304"><vh>Timeout:</vh></v>
+<v t="zoomq.20110929090256.4413"><vh>_up4img2gfs()</vh></v>
+<v t="zoomq.20110719082515.4240"><vh>run_time(func)</vh></v>
+</v>
+<v t="zoomq.20110804090725.2910"><vh>@nosent expuri.py</vh>
+<v t="zoomq.20110804090725.2911"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110801085156.2831"><vh>@nosent __init__.py</vh></v>
+<v t="zoomq.20110804090725.2914"><vh>@nosent mongolisten.py</vh>
+<v t="zoomq.20110804090725.2915"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20110718091518.2721" a="E"><vh>spider</vh>
+<v t="zoomq.20110720091129.2767"><vh>@nosent readme.txt</vh>
+<v t="zoomq.20110811160257.2904"><vh>union VACNL</vh></v>
+<v t="zoomq.20110811160257.2905"><vh>== JS 解析 ==</vh>
+<v t="zoomq.20110830090738.5015" a="E"><vh>BSD 安装</vh>
+<v t="zoomq.20110830090738.5017"><vh>xorg-server-1.7.7_2,1</vh></v>
+<v t="zoomq.20110830090738.5021"><vh>x11-fonts</vh></v>
+<v t="zoomq.20110830090738.5018"><vh>xorg-vfbserver</vh></v>
+<v t="zoomq.20110830090738.5019"><vh>Firefox 3.6</vh></v>
+<v t="zoomq.20110830090738.5020"><vh>PyPhantomJS</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20110819082933.2914"><vh>@nosent graspage.js</vh>
+<v t="zoomq.20110902084216.7167"><vh>&lt;&lt;hold tip&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110902084216.7166"><vh>@nosent graspage1.2.js</vh></v>
+<v t="zoomq.20110801085156.2824"><vh>vancl</vh>
+<v t="zoomq.20110802085156.2839"><vh>@nosent readme.txt</vh></v>
+<v t="zoomq.20110728084936.4223" a="E"><vh>@nosent shineinfo.py</vh>
+<v t="zoomq.20110728084936.4224"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110921083446.4495" a="E"><vh>up_shines_info()</vh>
+<v t="zoomq.20110922090434.7416"><vh>晒单更新</vh></v>
+<v t="zoomq.20110922090434.7417"><vh>详细图片</vh></v>
+</v>
+<v t="zoomq.20110921083446.4497"><vh>_up4img2gfs()</vh></v>
+</v>
+<v t="zoomq.20110801085156.2873"><vh>ERROR</vh></v>
+<v t="zoomq.20110719082515.2733" a="E"><vh>cvsvancl.py</vh>
+<v t="zoomq.20110719082515.4236"><vh>&lt;&lt;changelog&gt;&gt;</vh></v>
+<v t="zoomq.20110721084347.2775"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110719082515.4237"><vh>&lt;&lt;define&gt;&gt;</vh>
+<v t="zoomq.20110719082515.4238"><vh>&lt;&lt;configures&gt;&gt;</vh>
+<v t="zoomq.20110727085946.4409"><vh>LOG</vh></v>
+<v t="zoomq.20110720193936.2773"><vh>TPL</vh></v>
+<v t="zoomq.20110720193936.2774"><vh>&lt;&lt;doc_item&gt;&gt;</vh></v>
+<v t="zoomq.20110720193936.2775"><vh>&lt;&lt;doc_foto&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20110720091129.2775"><vh>_popen</vh></v>
+<v t="zoomq.20110719082515.4239" a="E"><vh>loadall(cvs)</vh>
+<v t="zoomq.20110721084347.2777"><vh>&lt;&lt;整理入collection&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110721084347.2779"><vh>_put_img_gfs(info)</vh>
+<v t="zoomq.20110725090916.4180"><vh>&lt;&lt;可能的其它图片格式&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110721084347.2781"><vh>_pick_by_w3m(htm)</vh></v>
+<v t="zoomq.20110720193936.2772"><vh>_pick_table_data(txt)</vh></v>
+</v>
+<v t="zoomq.20110727085946.4416"><vh>loadpics.py</vh>
+<v t="zoomq.20110727085946.4417"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110801085156.2866" a="E"><vh>&lt;&lt;define&gt;&gt;</vh>
+<v t="zoomq.20110801085156.2867"><vh>&lt;&lt;configures&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110729105657.4271" a="E"><vh>loadpics(pkl,pathpic)</vh>
+<v t="zoomq.20110801085156.2872"><vh>upall</vh></v>
+</v>
+<v t="zoomq.20110801085156.2858"><vh>_put_img_gfs(crtfoto,realpic)</vh></v>
+</v>
+<v t="zoomq.20110802085156.2847"><vh>anapichtm.py</vh>
+<v t="zoomq.20110802085156.2848"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110802085156.2849" a="E"><vh>anabigpicnames(pathml)</vh>
+<v t="zoomq.20110802085156.2850"><vh>main</vh></v>
+<v t="zoomq.20110802085156.2851"><vh>others</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20110709131924.2702"><vh>wget</vh>
+<v t="zoomq.20110804090725.2916"><vh>配合</vh></v>
+<v t="zoomq.20110727201525.2842"><vh>整站</vh>
+<v t="zoomq.20110711214730.2707"><vh>结果</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20110718091518.2723"><vh>queues</vh>
+<v t="zoomq.20110720091129.2769"><vh>@nosent readme.txt</vh></v>
+</v>
+<v t="zoomq.20110718091518.2724"><vh>_stuff</vh>
+<v t="zoomq.20110709131924.2701"><vh>MongoDB</vh>
+<v t="zoomq.20110718091518.2727"><vh>cvs4vancl</vh>
+<v t="zoomq.20110719082515.2728"><vh>w3m</vh></v>
+</v>
+<v t="zoomq.20110718091518.2726" a="E"><vh>安装</vh>
+<v t="zoomq.20110719082515.2729"><vh>gridFS</vh></v>
+<v t="zoomq.20110721084347.2776"><vh>404自动处理</vh></v>
+</v>
+<v t="zoomq.20110714090951.6917"><vh>Mongo工具</vh></v>
+</v>
+<v t="zoomq.20110720091129.2773"><vh>@nosent readme.txt</vh></v>
+<v t="zoomq.20110729105657.4269"><vh>@nosent imgurlistr.py</vh>
+<v t="zoomq.20110729105657.4270"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20110726202222.2796"><vh>@nosent mongoltry.py</vh>
+<v t="zoomq.20110726202222.2798"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+<v t="zoomq.20110726202222.2804"><vh>logit()</vh></v>
+</v>
+<v t="zoomq.20110726202222.2815"><vh>@nosent mongolisten.py</vh>
+<v t="zoomq.20110726202222.2816"><vh>&lt;&lt;imports&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20110718091518.2725"><vh>test</vh>
+<v t="zoomq.20110720091129.2771"><vh>@nosent readme.txt</vh></v>
+</v>
+<v t="zoomq.20110714001632.2710"><vh>API</vh>
+<v t="zoomq.20110720091129.2777"><vh>@nosent readme.txt</vh>
+<v t="zoomq.20110817090724.2909"><vh>原型</vh></v>
+<v t="zoomq.20110818135824.2912"><vh>sleepy</vh></v>
+</v>
+<v t="zoomq.20110714090951.5509" a="E"><vh>vancl</vh>
+<v t="zoomq.20110714090951.5514"><vh>图片</vh></v>
+<v t="zoomq.20110714090951.5511" a="E"><vh>网店专用</vh>
+<v t="zoomq.20110714090951.5510"><vh>代客下单</vh></v>
+</v>
+<v t="zoomq.20110714090951.5512"><vh>网站专用</vh></v>
+</v>
+<v t="zoomq.20110714090951.5508"><vh>moonbasa</vh>
+<v t="zoomq.20110714090951.5513"><vh>图片</vh></v>
+</v>
 </v>
 </v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="zoomq.20091008173724.1">'/home/zoomq/workspace/3hg/zqlib-hg/tangle/hackliving.leo'</t>
+<t tx="zoomq.20091008173724.1">'/home/zoomq/workspace/3hg/zqlib-hg/tangle/hackliving.leo'
+
+
+
+Leo Log Window
+Leo 4.9.1 devel, build 4897, 2011-12-21 06:58:03 -0500
+Python 2.7.1, qt version 4.8.0
+darwin
+setting leoID from os.getenv('USER'): 'zoomq'
+load dir: /opt/bin/leo-editor-snapshot-20111222/leo/core
+global config dir: /opt/bin/leo-editor-snapshot-20111222/leo/config
+home dir: /Users/zoomq
+reading settings in /opt/bin/leo-editor-snapshot-20111222/leo/config/leoSettings.leo
+reading settings in /Users/zoomq/.leo/myLeoSettings.leo
+reading settings in /Users/zoomq/.leo/workbook.leo
+Warning: shortcut conflict for &lt;Alt+W&gt;
+           propagate-key-event in   all from myleosettings.leo
+                extend-to-word in   all from myleosettings.leo
+reading: /Users/zoomq/.leo/workbook.leo
+reading: @shadow xinput4bamboo.py
+can not open @shadow  /home/zoomq/.zoomq/rc.local/xinput4bamboo.py
+exception creating directory: /home/zoomq
+Traceback (most recent call last):
+  File "/opt/bin/leo-editor-snapshot-20111222/leo/core/leoGlobals.py", line 2189, in makeAllNonExistentDirectories
+    os.mkdir(path)
+OSError: [Errno 45] Operation not supported: '/home/zoomq'
+not written: /home/zoomq/.zoomq/rc.local/.leo_shadow/xxinput4bamboo.py directory not found
+not written: /home/zoomq/.zoomq/rc.local/xinput4bamboo.py directory not found</t>
 <t tx="zoomq.20100122092723.2783">@path _stuff/manga
 #media/manga</t>
-<t tx="zoomq.20100412163057.2814">@path /home/zoomq/</t>
+<t tx="zoomq.20100412163057.2814">@path ~/</t>
 <t tx="zoomq.20100412163057.2815">@path ssp-zoom.quiet/virusampls-ratio
 #/home/zoomq/Desktop/KiS/zoom.quiet/100412-virus-sample-selector
 #/home/zoomq/vbox2win/0day/zoom.quiet/100412-virus-sample-selector
@@ -509,25 +849,6 @@ sed/awk 都不能直接识别出 {.+} 这种模式，特别是在 utf-8 环境�
 
 cat 06-Justice_Michael.Sandel-HARVARD.srt | cut --delimiter="}" -f2 | cut --delimiter="{" -f1 &gt; 06-Justice_Michael.Sandel-HARVARD.srt.srt
 </t>
-<t tx="zoomq.20100827095209.8300">@language python
-@tabwidth -4
-@others
-if __name__ == "__main__":
-    if 4 != len(sys.argv):
-        print """ %s usage::
-        $ python manga.py bookName(e.g zipang) bookID(e.g 002) maxPage(e.g 196) 
-        """ % VERSION
-    else:
-        begin = time.time()
-        urlmark = "http://251.99770.com:9977/ok-comic06/c/cyjd_771/%03d/%03d.jpg\n"
-        bookName = sys.argv[1]
-        bookId = sys.argv[2]
-        maxPage = sys.argv[3]
-        genUrlist(urlmark,bookName,bookId,maxPage)
-        end = time.time()
-        print 'usedTime::', end - begin
-
-</t>
 <t tx="zoomq.20100827095209.8301"># -*- coding: utf-8 -*-
 # Name: manga.py
 # Desc: gen. grasp comics pics url files
@@ -546,8 +867,7 @@ import os,sys,time,datetime
     open(expF,'w').write(urlist)
 
 </t>
-<t tx="zoomq.20100827095209.8303">@ignore
-@language shell
+<t tx="zoomq.20100827095209.8303">@language shell
 #!/bin/sh
 
 wget -nv -t 3 -P 012 -i manga-zipang-012.txt &amp;
@@ -562,24 +882,6 @@ wget -nv -t 3 -P 004 -i manga-zipang-004.txt &amp;
 wget -nv -t 3 -P 003 -i manga-zipang-003.txt &amp;
 wget -nv -t 3 -P 002 -i manga-zipang-002.txt &amp;
 wget -nv -t 3 -P 001 -i manga-zipang-001.txt &amp;
-
-</t>
-<t tx="zoomq.20100827095209.8304">@language python
-@tabwidth -4
-@others
-if __name__ == "__main__":
-    if 3 != len(sys.argv):
-        print """ %s usage::
-        $ python manga.py bookName(e.g zipang) maxPage(e.g 196) 
-        """ % VERSION
-    else:
-        begin = time.time()
-        urlmark = "http://tulaoya.cn/photo/x1/%03d.jpg\n"
-        bookName = sys.argv[1]
-        maxPage = sys.argv[2]
-        genUrlist(urlmark,bookName,maxPage)
-        end = time.time()
-        print 'usedTime::', end - begin
 
 </t>
 <t tx="zoomq.20100827095209.8305"># -*- coding: utf-8 -*-
@@ -1485,11 +1787,40 @@ MAILTO=liulei@staff.sina.com.cn,zhangchao@staff.sina.com.cn,zhouqi@staff.sina.co
 8 18 * * * zoomq /home/zoomq/zqdev/YKSEO/doykseoPM.sh &gt; /var/log/YKSEO/ykseo.log
 
 </t>
-<t tx="zoomq.20100903210229.3872">@path /home/zoomq/.zoomq/rc.local</t>
-<t tx="zoomq.20100903210229.3876">@path ~/2matter4peg/tangle/zoom.quiet/4lifeHacking
+<t tx="zoomq.20100903210229.3872">@path ~/.zoomq/rc.local</t>
+<t tx="zoomq.20100903210229.3876">@path ~/Works/3hg/bitbucket.org/4ZqHacking/hackminds/4lifeHacking
+#~/2matter4peg/tangle/zoom.quiet/4lifeHacking
 时间帐单处置辅助
 
-黄瓯: 手机号：13823008842  邮箱：huangou@gmail.com</t>
+# 120920 ZQ111216MBP in ~ 
+$ du -hs *
+4.0K	4SAMatters
+ 48K	Applications
+1.4M	CmapToolsLogs
+1.8G	Desktop
+ 15G	Documents
+9.3G	Downloads
+2.3G	Dropbox
+9.5G	Library
+ 52G	Movies
+ 27G	Music
+ 77G	Pictures
+  0B	Public
+ 40G	Records
+ 11G	Sites
+ 11G	VirtualBox VMs
+4.0K	Volumes
+ 11G	Works
+3.6G	_stuff
+ 20K	acme-home
+455M	mnt
+4.0K	opt
+4.0K	umbrella0.log
+4.0K	usr-local
+ 12G	zData
+4.0K	zoomquiet.leo2hg4zqlib
+4.0K	zq.pyblosxom
+</t>
 <t tx="zoomq.20100903210229.3877">@path tpl</t>
 <t tx="zoomq.20100903210229.3878">dsfadsf
 dasfa
@@ -2034,7 +2365,20 @@ Revision = {node|short}
     +-- blogger.com 发布?
 </t>
 <t tx="zoomq.20101026092125.2576">@path data
-date 收集
+
+时间帐单 收集
+date
+,tI     输入
+,tO     输出
+,tC     交流
+,tM     杂务
+,tF     家庭
+,tS     睡眠             
+
+Pt      蕃茄
+,Pd     DONE蕃茄钟
+,Pl     LOST任务
+,Po     OUT蕃茄钟
 
 </t>
 <t tx="zoomq.20101026092125.2577">date,tI,tO,tC,tM,tF,tS
@@ -2089,7 +2433,8 @@ Id = {file|basename},v {node|short} {date|utcdate} {author|user}
 Revision = {node|short}
 
 </t>
-<t tx="zoomq.20101030170919.2579"></t>
+<t tx="zoomq.20101030170919.2579">其它各种小作为
+</t>
 <t tx="zoomq.20101030170919.2580">@language python
 @tabwidth -4
 # -*- coding: utf-8 -*-
@@ -2174,7 +2519,13 @@ import os
     +-- 对内部 hadson
     +-- 对pyk的 Bitten ~ #先得恢复 pyk!
 +-- py.k 配合宣传
-</t>
+
+
+&gt; 网站名称：学盟编程论坛
+&gt; 链接网站地址 http://www.stuhack.net
+&gt; 站长名字：陈铭
+&gt;        邮箱：164201737@qq.com
+&gt;        电话：13574056770</t>
 <t tx="zoomq.20101103153946.5095">+-- #OhLife CLI
 +-- 常好CLI 技巧:
     +-- history
@@ -2295,6 +2646,12 @@ CNAME Record	zqlib.zoomquiet.org	ghs.google.com	Edit | Delete</t>
         + 3级索引不限制
     + 默认说明页面 readme.html
     + 所有页面,增补原始URL旁注!
+
+3.9G	ZqFLOSS
+208M	ZqKss
+2.3G	ZqSKM
+322M	ZqWks
+224M	ZqXes
     </t>
 <t tx="zoomq.20101227205438.2592">邮件来自 Google Groups:"ks-deve"金山开源社区技术邮件列表
 讨论: ks-deve@googlegroups.com
@@ -2424,7 +2781,10 @@ Use this command to anonymously check out the latest project source code:
 # Non-members may check out a read-only working copy anonymously over HTTP.
 svn checkout http://openbookproject.googlecode.com/svn/trunk/ openbookproject-read-only 
 </t>
-<t tx="zoomq.20110218220319.3903">Table of Contents
+<t tx="zoomq.20110218220319.3903">急事儿助理:
+    黄爱萍 huangaip@phei.com.cn
+
+Table of Contents
 Chapter 1 Introduction to Instrumentation
     Data Acquisition
     Control Output
@@ -2530,38 +2890,7 @@ Colophon</t>
   * 2010年新鲜毕业的研究生，作XML查询引擎，JAVA 工作是数据库开发，C 有一定的C语言基础，有并行程序的经验硬件接触的少（也就是上学时）有一定的英文阅读能力，曾经翻译过英文论文（XML流处理相关）对开源、开发有激情
   * 每天1-2个小时？也许周末能多点儿,要是能在手机上弄，也许更多一些吧
   * 对于未来的版权收益有什么特殊要求? 这个不懂，求指教... 
- # Grissiom &lt;chaos.proton@gmail.com&gt; / 15901033820
-  * *bitbucket ID:* `grissiom`
-  * http://grissiom.blogspot.com (life), http://blog.csdn.net/grissiom (tech)
-  * 北京海淀区知春路大运村 1 号楼 1305 邮编 100191
-  * 现在研一，大二的时候自学的 python，以后只要能用 python 的地方就用 python。C 语言也会，写过 51 的程序。 本科毕设做的是 pyqt+pyserial 的拉伸机测控系统。实验室做一些小的材料测控仪器。上个学期学过一点控制论。 我看目录里也有控制系统的内容。英语水平是 CET-6，平时常在英文网站上瞎逛。技术书籍有原版不读译本。
-  *  2011 年的课程应该不紧。基本应该是在实验室做项目吧。估计每周应该有四个晚上可以掺和，呵呵
-  * 对于未来的版权收益有什么特殊要求?
-   * 以前只给 KDE 翻译过几个 po，第一次参与这种翻译，不知道行规怎么样的。图学习，不图收益，呵呵
- # 小马xiaoma &lt;cnxiaoma@gmail.com&gt; / 13311664600
-  * 自用Blog    在建中...
-  * 15年开发经验，其中:5年MIS开发(VB, PB, Sybase)/5年Web开发(PHP,Mysql,ASP,Java)/5年嵌入式（RFID）开发(C)/对数据库，互联网,嵌入式有一定了解。
-  * 2011 很忙，但是仍然能抽出一定的时间。目前正在翻译《REST in Practice》 其中6,7,8章（150多页），4人合译，计划3月完稿，6月可以出版。4月份后可以抽出时间，平均一天一页应该没问题。
-    * http://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829
-  * 对于未来的版权收益有什么特殊要求?只要求有署名权，其他有最好，没有也无所谓，就当是为社区做贡献。
- # kermit.mei@gmail.com / 13428780315
-  * *bitbucket ID:* `kermitmei`
-  * http://www.zeuux.org/home/kermit.mei/
-  * 邮寄地址
-  * 目前从事嵌入式Linux下C/C++软件开发，主要是以Qt为主的嵌入式Linux应用开发，2年工作经验;以前做过智能遥控器，多款数码电子产品；现在工作内容是开发一个基于嵌入式的精简Web引擎，包括html解析和界面生成等功能。对C/C++ 以及Qt架构灰常熟悉，目前靠这个吃饭；熟悉Linux操作系统;熟悉Python/Perl/Bash等脚本语言(主要用于测试和辅助编程)；对计算机硬件有一定了解，并有浓厚兴趣。
-  * 换工作了，从不加班，所以不算忙，至少保证：
-   * 1.每天能够查收并处理邮件；
-   * 2.每周至少贡献一天(周六或者周日)来完成社区任务；
-  * 所有收益均愿意贡献给Zeuux。当然，如果能在扉页中属个名字最好，以帮助我以后找工作时吹吹牛；若无则也罢。
-  * 参与目的：
-   # 这个工作量不算大，按照一年的计划完成C部分翻译和语法润色应该没有问题。
-   # 希望为社区力所能及地贡献一点儿力量。
-   # 最重要的是，我本身也希望阅读此书，并进一步学习社区中的“协同作战“。
-   # 另外，除了C部分的翻译(因为这部分内容确实很少)，如果时间确实是1年，那我觉得我还有时间担任其他章节的校验工作。
- # 孙伟 / sagasw@gmail.com / 13840885742
-  * http://sunxiunan.com
-  * 目前主要从事Windows桌面下Visual C++开发，爱好Python和Lua。8年工作经验。
-  * 报名参加C相关章节翻译。每周可保证至少有6个小时。
+ 
  # Alan Zheng &lt;machinecat1666@gmail.com&gt; / 13764183786
   * *bitbucket ID:* `AlanZheng`
   * http://blog.microsuncn.com
@@ -2569,27 +2898,24 @@ Colophon</t>
   * 3D图形，Linux(Fedora) C/C++, MIPS embedded system, Python, RHCEr, etc.
   * 周六周日基本都有时间
   * 对于未来的版权收益有什么特殊要求? ：方便介绍一下通常是怎么处理的吗？
+ 
  # jl y &lt;newpublic01@gmail.com&gt; /  13764860916
   * *bitbucket ID:* `newpublic01`
   * 邮寄地址:  租房, 到时候联系, OK?!
   * 技术积累:  c, python (自我感觉还需要大幅度提高)
   * 2011 是否忙,每周可以挤出多少时间掺合:  忙也得挤时间啊(目前比较空闲)
   * 对于未来的版权收益有什么特殊要求:    我觉得, 既然是 linux 环境下的, 就应该支持一下 GPL, 但不是说主张盗版啥的, 只是说能让更多的人读到就好. 况且, 说句不太中听的话, 要想拿这个收益改变生活水平啥的, 我觉得八成不靠谱, 还不如支持一下开源, 呵呵
+ 
  # hu peter &lt;hulwyx@gmail.com&gt;/ 13929554974
   * 自用Blog：无
   * 广州市前进路161号
   * 技术积累：？？？？ 本人专业是工程类的，不过对外语比较感兴趣，有兴趣参加。目前就职中交第四航道勘察设计院，08年就被派驻一个援外港口建设项目（安哥拉），外语还行，我想试试看，能否帮上你的忙！
   * 工作比较空闲，时间较多。
   * 对于未来的版权收益有什么特殊要求?           ：没有特殊要求。
- # Atommann &lt;atommann@gmail.com&gt; / 13590240120
-  * *bitbucket ID:* `atommann`
-  * http://www.atommann.com
-  * 深圳市南山区南光村龙泰轩A501 邮编：518054
-  * 在一家生产工业过程控制器的厂家做文档员。业余时间爱好开源硬件。
-  * 每天至少 1 个小时用于翻译。
-  * 对于未来的版权收益有什么特殊要求?
-   * 学习，有收益更好
-   </t>
+
+
+
+ </t>
 <t tx="zoomq.20110224000107.3905">*HI*UI**+ '可以链式clone传递'
 + '事务邮件通告:'
     commits-noreply@bitbucket.org&gt;
@@ -2616,7 +2942,7 @@ Getting Private key
     atommann
     pgf00a
     grissiom
-    xiaoma
+    xiaoma 
     kermitmei
     sagasw
     AlanZheng
@@ -2685,7 +3011,7 @@ Configuration summary
   nginx http uwsgi temporary files: "/usr/local/nginx/tmp/uwsgi_temp"
   nginx http scgi temporary files: "/usr/local/nginx/tmp/scgi_temp"
 </t>
-<t tx="zoomq.20110322090028.3918">@path ~/workspace/OBP.b/RWIwPy/source/
+<t tx="zoomq.20110322090028.3918">@path ~/Works/OBP/RWIwPy/source/
 
 $ hg log -M --template "{author}\n" | sort | uniq -c | sort -nr 
      52 Grissiom &lt;chaos.proton@gmail.com&gt;
@@ -2699,7 +3025,8 @@ $ hg log -M --template "{author}\n" | sort | uniq -c | sort -nr
 </t>
 <t tx="zoomq.20110322090028.3919">@path ch03</t>
 <t tx="zoomq.20110322090028.3920">@language rest
-Python编程语言
+
+第3章: Python编程语言
 ============================================
 
 
@@ -2730,7 +3057,7 @@ Python编程语言
     I just want to go on the record as being completely opposed to computer languages. Let
     them have their own language and soon they’ll be off in the corner plotting with each other!
 
-    我认为就算完全禁止研发计算机语言,他们依然会各自拥有自个儿的开发语言,并立即悄鸟儿的退到各自角落中自娱自乐去了.
+    我认为就算完全禁止研发计算机语言,他们依然会各自拥有自个儿的开发语言,并立马悄悄的躲回各自角落中自娱自乐去了.
 
     —Dr. Steven D. Majewski
 
@@ -2940,6 +3267,7 @@ http://diveintopython3.org
 .. note:: (~_~)
 
     - 也有人指出,这书研究Python 的方式有些太学术化了,根本不实用
+    - 译者私人推荐包含在Python 发行版文档中的教程,这是Python 创始人 Guido 唯一发布的正式图书了.
 
 
 http://effbot.org 
@@ -2950,6 +3278,42 @@ http://effbot.org
 .. seealso:: (^.^)
 
     - `ElementTree &lt;http://effbot.org/zone/element-index.htm&gt;`_  的作者! Python 世界里最好的 XML 解析模块!
+
+</t>
+<t tx="zoomq.20110322090028.9761">.. 图书链接统一定义文件!
+
+.. 外部链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _Python: http://python.org
+.. _Pythonic: http://wiki.woodpecker.org.cn/moin/PythonIc
+.. _Python website: http://www.python.org
+.. _Python官网: http://www.python.org
+.. _PEP-8:  http://www.python.org/dev/peps/pep-0008/
+
+.. _stdyun.com: http://stdyun.com/vhost
+.. _KTRAC: http://py.kingsoft.net/
+
+.. _官方图书许可: http://web2py.com/book/default/section/0/0
+.. _Artistic License 2.0: http://www.opensource.org/licenses/artistic-license-2.0.php
+.. _reSTsections: http://sphinx.pocoo.org/rest.html#sections
+
+.. 图片链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+.. 成员相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _Zoom.Quiet: http://code.google.com/p/openbookproject/wiki/ZoomQuiet
+
+.. OBP相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _OBP工程: http://code.google.com/p/openbookproject
+.. _OBP流程: http://code.google.com/p/openbookproject/wiki/FlowSphinx
+.. _OBP参与: http://code.google.com/p/openbookproject/wiki/HowtoJoin
+
+.. _翻译团队: http://code.google.com/p/openbookproject/wiki/RwIwPyZh#%E7%BB%84%E7%BB%87
+.. _Liz: http://code.google.com/u/shengyan1985/
+
+
+
 
 </t>
 <t tx="zoomq.20110325220944.2613">Cpython-cn   群組建立以來
@@ -3059,7 +3423,7 @@ eurasia 现在利用 pypy 技术发展的版本，速度比 纯python 和 c 版�
 </t>
 <t tx="zoomq.20110329090742.2618">Pythonic 军规:
 1、code review 的必须很快,代码排版到能够扫一眼文件就知道有没有 bug 和设计问题
-2、当无法起出一个漂漂的变量名时，已经有设计问题了
+2、当无法起出一个漂亮的变量名时，已经有设计问题了
 </t>
 <t tx="zoomq.20110402090250.2620">date,tI,tO,tC,tM,tF,tS
 110301,0.00,2.50,2.50,4.00,2.50,7.50
@@ -3531,9 +3895,7 @@ Python的模块通过导入语句,即可使用其他模块的功能.
 
 
 
-(1)
-
-    字串的 join() 方法和 map() 函式在此用以创建输出字串并写入图片文件
+(1) 字串的 join() 方法和 map() 函式在此用以创建输出字串并写入图片文件
 
 
 这是个非常值得回味的程序.
@@ -3605,7 +3967,7 @@ bug 最可能潜伏其中,做到被真正调用,才显化.
 基于同样的理由也不建议把列表作为参数使用.
 
 
-函式返回值 Function return values
+函式返回值
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 元组是一个方便的形式,可以从函数返回多个值.
@@ -3613,19 +3975,12 @@ bug 最可能潜伏其中,做到被真正调用,才显化.
 使用时,通过审查状态码确认函数是否成功，如果是 OK,余下就是得到的数据值.
 
 
-思考模块作为对象 Think of modules as objects
+模块作为对象
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Of course, in Python a module actually is an object (everything is, as you may recall), but
-the tendency seems to be to treat a module as something akin to a source code module
-in C or C++. One can achieve some neat and tidy data encapsulation using just a module
-with nothing in it but assignment statements to associate names with values. Here is part
-of a module that contains nothing but event ID values for use with a wxPython GUI, which
-we will get to in a later chapter
 
 在Python 中模块当然也是个对象(记得嘛,在Python 世界一切都是对象),
 但是在C或是C++ 倾向将模块视作源代码块,
-除了比较整洁的组织一些数据封装没有其它作用.
+除了比较整洁的组织一些数据封装之外,并没有其它作用.
 下面是 wxPython GUI的一个模块(进一步的事件ID含义将在以后章节讨论)::
 
     # ResourceIDs.py
@@ -3993,13 +4348,27 @@ int整型数对象的帮助内容 ::
 
 .. image:: ../_static/figs/rwip_0301.pdf.png
 
-
 插图 3.1. 数字数据类型
 
+::
+
+    some_var = 5
+    创建类型为int 值为 '5'的对象,
+    并将名字 "some_var" 绑定到对象
+
+    nuther_var = some_var
+    新名字"nuther_var" 绑定到已有整数对象
+    
+    some_vat = 6
+    新创建整数值为 '6' 的对象,
+    并绑定名字 'some_var'
+
+    
 
 要适应Python中变量皆对象这一事实的确得花点儿时间.
 但这却正是Python强大特性之一，而且因为你可以选择性的忽略这一特性，所以，
 在一切皆对象的Python中，依然可以创建出过程语言风格的程序.
+
 
 
 </t>
@@ -4052,280 +4421,13 @@ Python的序列对象分可变或不变.
 
 
 
+@others
 
-列表
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-列表是Python中最接近数组的对象，但是它拥有一些技巧，是在C或是Pascal中的数组无法实现的.
-列表是一个有序序列，任何元素可以包含或是被替换成不同的对象.
-新元素添加到一个列表使用其append方法（还有一个 pop 方法，这意味着列表可以当成堆栈或是队列来用），
-列表的内容可以就地被排序.
-列表中的每个元素实际上是一个对象引用，就象一个数字数据变量名称是作为对一个对象的数字数据的引用.
-事实上，列表可以包含任何有效的Python对象的引用. 考虑以下代码::
 
-    &gt;&gt;&gt; import random
-    &gt;&gt;&gt; alist = []
-    &gt;&gt;&gt; alist.append(4)
-    &gt;&gt;&gt; alist.append(55.89)
-    &gt;&gt;&gt; alist.append('a short string')
-    &gt;&gt;&gt; alist.append(random.random)
 
 
-现在 alist 包含四个元素，一个整数，一个浮点数，一个字符串，一个Python的随机数模块的方法，
-足够演示了，（我们将在import语句后更详细的讨论随机模块）.
-现在我们可以检查 alist 的每个成员元素::
 
-    &gt;&gt;&gt; alist[0]
-    4
-    &gt;&gt;&gt; alist[1]
-    55.890000000000001
-    &gt;&gt;&gt; alist[2]
-    'a short string'
-    &gt;&gt;&gt; alist[3]
-    &lt;built-in method random of Random object at 0x00A29D28&gt;
-
-
-如果我们想要一个随机数，仅需要调用alist[3](),即 random()::
-
-    &gt;&gt;&gt; alist[3]()
-    0.87358651337544713
-
-
-我们可以对 alist 中的元素简单的进行赋值来变更::
-
-    &gt;&gt;&gt; alist[2]
-    'a short string'
-    &gt;&gt;&gt; alist[2] = 'a better string'
-    &gt;&gt;&gt; alist[2]
-    'a better string'
-
-
-插图  3.2, “列表对象的内部组织” 展示了在 alist 中发生了什么.
-
-.. image:: ../_static/figs/rwip_0302.pdf.png
-
-插图 3.2. “列表对象的内部组织”
-
-我们可以用一个列表对象来体验Python的面向对象的基本性质,尝试在Python提示符中输入以下命令，并观察结果::
-
-    &gt;&gt;&gt; list_name = []
-    &gt;&gt;&gt; list_name.append(0)
-    &gt;&gt;&gt; list_name.append(1)
-    &gt;&gt;&gt; list_name
-    [0, 1]
-    &gt;&gt;&gt; var_one = list_name
-    &gt;&gt;&gt; var_two = list_name
-    &gt;&gt;&gt; var_one
-    [0, 1]
-    &gt;&gt;&gt; var_two
-    [0, 1]
-    &gt;&gt;&gt; list_name[0] = 9
-    &gt;&gt;&gt; var_one
-    [9, 1]
-    &gt;&gt;&gt; var_two
-    [9, 1]
-
-由于名称 var_one和var_two 都指向最初列表对象,即绑定为名称 list_name的列表，
-那么当list_name改变后，其内容变化其他变量名都是能“看到”的.
-
-正如其它Python 中的对象,列表也有一系列方法.
-除前述的索引方法外还有很多.列表可以依次头尾连接在一起像这样::
-
-    &gt;&gt;&gt; alist1 = [1,2,3,4,5]
-    &gt;&gt;&gt; alist2 = [6,7,8,9,10]
-    &gt;&gt;&gt; alist1 + alist2
-    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-
-查找列表中指定偏移量的项，可以用 index() 方法::
-
-    &gt;&gt;&gt; alist2.index(8)
-    2
-
-
-我们也可以反转列表::
-
-    &gt;&gt;&gt; alist1.reverse()
-    &gt;&gt;&gt; alist1
-    [5, 4, 3, 2, 1]
-
-同样能排序列表::
-
-    &gt;&gt;&gt; slist = [8,22,0,5,16,99,14,-6,42,66]
-    &gt;&gt;&gt; slist.sort()
-    &gt;&gt;&gt; slist
-    [-6, 0, 5, 8, 14, 16, 22, 42, 66, 99]
-
-
-以上两个例子美妙之处在于是"就地"修订的.
-一个新的对象不是创建出来的,而是列表本身直接反转或是排序了.
-即,列表是可变的.
-
-
-字串
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-字符串是有序的字节值的字符序列.
-字符串是不可改变的（不像在C或C++），意思是无法象对待数组一样使用索引来修订内容.
-为了修改一个字符串，必须创建一个新的字符串对象.
-不过类似列表，字符串的内容能够通过其索引引用.
-
-
-这有几个字串的例子::
-
-    &gt;&gt;&gt; astr1 = 'This is a short string.'
-    &gt;&gt;&gt; astr2 = "This is another short string."
-    &gt;&gt;&gt; astr3 = "This string has 'embedded' single-quote chracters."
-    &gt;&gt;&gt; astr4 = """This is an example
-    ... of a multi-line
-    ... string.
-    ... """
-    &gt;&gt;&gt;
-
-虽然不能使用一个索引值改变一个字符串的内容，
-但是字串数据可以使用索引来读取，Python提供的能力来提取字符串中的特定部分
-（或称为“切片“）.
-其结果是一个新的字符串对象.
-如下代码将读取字符串变量astr1前四个字符，从第零位到第四位(不包含第5个字符)::
-
-    &gt;&gt;&gt; print astr1[0:4]
-    This
-
-我们也可以不写起始范围值0，Python会自动假定::
-
-    &gt;&gt;&gt; print astr1[:4]
-    This
-
-这种形式告诉Python提取字符串从开始到第四位的所有字符.
-我们还可以摄取从第四位到行尾::
-
-    &gt;&gt;&gt; print astr1[4:]
-    is a short string.
-
-
-或是获取中间部分::
-    &gt;&gt;&gt; print astr1[10:15]
-    short
-
-
-插图 3.3, “字串索引” 展示了Python 中索引怎么工作的
-
-.. image:: ../_static/figs/rwip_0303.pdf.png
-
-插图 3.3, “字串索引”
-
-字串对象还包含了一系列方法，如大写,定心，统计等等,基本上都返回一个新的字符串对象.
-
-类似列表,使用 + 运算符来连结::
-
-    &gt;&gt;&gt; str_cat = astr1 + " " + astr2
-    &gt;&gt;&gt; print str_cat
-    This is a short string. This is another short string.
-
-
-其结果正如所期望的现在得到一个新的字符串对象.
-幸运的是，Python采用垃圾收集机制，当对象不再绑定到一个名字时，将悄悄地消失，
-原先所用内存将返回到共享池以待再用.
-这是一件好事，否则内存会迅速被废弃数据对象填满::
-
-    &gt;&gt;&gt; the_string = "This is the string."
-    &gt;&gt;&gt; the_string = the_string[0:4]
-    &gt;&gt;&gt; the_string
-    'This'
-
-在这种情况下，最初的名称the_string绑定的对象，内容是：“This is the string.“
-当一个字串对象的初始部分被拉出，一个新的对象被创建并这个名字重新分配给它.
-原来的对象没有绑定后就回收.
-然而，如果一个对象有两个或多个名称共享，只要还有名称在绑定,就不会被回收.
-这样在程序生命期间对象总是可以使用.
-
-字符串有方法允许你到左或右对齐字符串，替换字符串中的一个字，或转换为字符串中的字符的大小写.
-下面是一些例子:
-
-upper() 方法,转换所有字符为大写::
-
-    &gt;&gt;&gt; print astr1.upper()
-    THIS IS A SHORT STRING.
-
-
-find() 返回第一次匹配搜索模式的字串索引::
-
-    &gt;&gt;&gt; print astr1.find('string')
-    16
-
-replace() 方法根据搜索模式生成完成替换后的新字串::
-
-    &gt;&gt;&gt; print astr1.replace('string', 'line')
-    This is a short line.
-
-rjust() 方法
-（及其对应的，ljust（））将一个字串重整为指定宽度的新字串::
-
-    &gt;&gt;&gt; print astr1.rjust(30)
-    This is a short string.
-
-默认的填充字符是空格,但是可以在第二参数中指定一个特殊字符作为填充::
-
-    &gt;&gt;&gt; print astr1.rjust(30,'.')
-    .......This is a short string.
-
-在Python 指示符环境中,可以通过输入help(str)获知所有字串支持的操作
-
-
-
-
-元组 
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-元组是一种有趣的数据对象.
-类似列表它是一个有序集可以包含零个或多个项目，但它是不可改变的.
-元组一旦创建就不能直接修改.
-元组通常由所包含的项目数来提及.
-例如，一个2元组，如您所料，包含两个数据对象.
-一个对任何规模的元组都适用的速记法是“n元组”
-Python 中"0元组"是允许的，虽然不怎么有趣和有用，但也许可以作为一个占位符.
-
-
-Python中列表用方括号作分界符，元组使用括号::
-
-    &gt;&gt;&gt; tuple2 = (1,2)
-    &gt;&gt;&gt; tuple2
-    (1, 2)
-
-元组的内容可以通过索引读取,这点和列表和字串相同::
-
-    &gt;&gt;&gt; tuple4 = (9, 22.5, 0x16, 0)
-    &gt;&gt;&gt; tuple4
-    (9, 22.5, 22, 0)
-    &gt;&gt;&gt; tuple4[2]
-    22
-    &gt;&gt;&gt; tuple4[0]
-    9
-
-
-类似列表和字串,元组可以合并(通过创建了新元组)::
-
-    &gt;&gt;&gt; tuple2
-    (1, 2)
-    &gt;&gt;&gt; tuple4
-    (9, 22.5, 22, 0)
-    &gt;&gt;&gt; tuple6 = tuple2 + tuple4
-    &gt;&gt;&gt; tuple6
-    (1, 2, 9, 22.5, 22, 0)
-
-如上,可见我们创建了一个新元组.
-
-一个元组不能进行排序，但它可以被统计在内。
-想了解元组包含多少特定值对象时，我们可以使用count（）方法::
-
-    &gt;&gt;&gt; tpl = (0, 0, 2, 2, 6, 0, 3, 2, 1, 0)
-    &gt;&gt;&gt; tpl.count(0)
-    4
-    &gt;&gt;&gt; tpl.count(2)
-    3
-    &gt;&gt;&gt; tpl.count(6)
-    1
-
-因为元组的每个内容项实际上是对象的引用，所以元组可以包含任意组合的有效Python对象,这点和列表相同.
 
 
 
@@ -4903,7 +5005,10 @@ Python的身份运算符（表3.10所示，“身份运算符“）
 
 .. topic:: 译注
 
-    这一设计恰恰是Python 同时赢得拥趸以及招致反对的核心特性! 喜欢的人爱得发疯,反感的人恨到恶心.笔者认为,这一设计虽然引发了一定编辑环境的配置争议,但是从根本上引入了代码形式和功能必须同时追求优美的开发文化,是一创举,应该得到推广.
+    这一设计恰恰是Python 同时赢得拥趸以及招致反对的核心特性!
+    喜欢的人爱得发疯,反感的人恨到发疯.
+    笔者认为,这一设计虽然引发了一定编辑环境的配置争议,
+    但是从根本上引入了代码形式和功能必须同时追求优美的开发态度,是一创举,应该得到推广.
 
 
 例如，在C中，人们这样写 if-else ::
@@ -5626,12 +5731,8 @@ try语句用以捕获和处理异常，它类似于C++或Java中的try-catch结�
 因为实际上并没有将字符串对象赋值给新的名字，
 只是Python在打印时应用了格式.
 
-Lastly, Python provides a set of so-called escape characters for use with strings. These are
-special two-character codes composed of a backslash followed by a character, as shown in
-Table 3.19, “String escape sequences”.
-
-最后，Python支持字串应用中的所谓的义字符集.
-都是由一个反斜杠字符接一个特殊字符,组成的代码，
+最后，Python支持字串中包含所谓的转义字符.
+这是种由一个反斜杠字符接一个特殊字符,组成的双字串码，
 如表3.19，“字符串转义序列”。
 
 
@@ -5717,6 +5818,35 @@ Table 3.19, “String escape sequences”.
 
 插图3.6，Python的名称空间
 
+::
+
+    内建
+    (Python执行环境)
+    内建-
+        全局--
+            本地---
+    
+    Module
+    全局变量
+    
+    Function
+    本地变量
+    
+    Function
+    本地变量
+    
+    Class
+    类变量
+    
+    Method
+    本地变量
+    
+    Method
+    本地变量
+    
+    
+    
+
 @others
 </t>
 <t tx="zoomq.20110428091054.4008">本地作用域
@@ -5730,6 +5860,23 @@ Table 3.19, “String escape sequences”.
 插图3.7，"名称空间的搜索等级" 展示了这一搜索原则
 
 .. image:: ../_static/figs/rwip_0307.pdf.png
+
+::
+
+    
+    内建
+    (Python执行环境)
+    
+    Module
+    全局变量
+    
+    Function
+    本地变量
+    - 本地引用
+    - 全局引用
+    - 内建引用
+    
+
 
 插图3.7，名称空间的搜索等级
 
@@ -6160,13 +6307,9 @@ pass语句使脚本可用,只要我们导入此代码,就可溶性使用 ``help(
 <t tx="zoomq.20110428091054.4015">导入处理
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Because Python executes any import statements that are not within the scope of a function
-immediately when a module is imported, it will descend through the import statements
-in each module in a depth-first fashion until all imports have been processed. Figure 3.9,
-“Module import sequence” shows graphically how this works.
 
 因为Python一遇到 ``import``语句就会立即执行,
-并会追踪所有 ``import`` 语句,根据深度优先的方式来逐一导入,直到所有涉及的模块导入被处理.
+并会追踪所有 ``import`` 语句,以深度优先的方式来逐一导入,直到所有涉及的模块都被处理.
 
 插图3.9，“模块导入序列”图形化显示导入是如何工作的
 
@@ -6246,11 +6389,7 @@ Python提供了raw_input()来作这事儿.
     Cool. Welcome.
 
 
-The raw_input() function accepts an optional prompt string and always returns the data
-from stdin as a string. If the program is looking for a numeric value, it will need to be
-converted. A safe way to do this is by using the try-except construct. Here is getInfo2.py
-with the try-except modification
-raw_input()函数接受一个可选的提示字符串,将从stdin获取的数据作为字符串返回.
+raw_input()函数接受一个可选的提示字符串,并将自stdin获取的数据总是作为字符串返回.
 如果程序期待数值，就需要转换.一种安全的方式是使用 try-except 来处理,这是getInfo2.py的 try-except 修订::
 
     def ask2():
@@ -6445,16 +6584,11 @@ open() 方法用以创建一个文件对象实例::
 <t tx="zoomq.20110429085924.2674">控制台的打印输出
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-We’ve already seen Python’s print function in action. Its primary purpose is to send
-output to whatever is currently defined as stdout (standard output). The print function is
-capable of handling conversions between numeric types and strings for console output in a
-transparent fashion. The string formatting discussed earlier works with the print statement
-to create nicely formatted output.
 
 我们已经看到了Python的 print 函式的输出.
-其主要功能就是发送结果到任何当前定义为STDOUT(标准输出)的通道中,
+其主要功能就是发送结果到当前定义为STDOUT(标准输出)的通道中,
 print函式可以透明的处理数字类型和字符串之间的转换,以便在控制台输出.
-先前章节已经讨论过字串格式化,配合print 可以很好的完成格式化输出.
+先前有关章节已经讨论过字串格式化,配合print 可以很好的完成格式化输出.
 
 </t>
 <t tx="zoomq.20110429085924.2675">重定向打印
@@ -6605,33 +6739,36 @@ Boa, Idle, Eclipse, 和 WingIDE工具都包含了调试器.
 以及Python 本身还内置了一个命令行界面的调试器 PDB.
 
 </t>
-<t tx="zoomq.20110504084047.2679">odate,tI,tO,tC,tM,tF,tS                 Pt,Pd,Pl,Po
-110801,1.50,4.00,1.50,2.50,6.00,9.00    6,5,1,+1
+<t tx="zoomq.20110504084047.2679">date,tI,tO,tC,tM,tF,tS                              Pt,Pd,Pl,Po
+120301,3.75,4.50,2.00,3.50,4.25,6.00    6, 0, 3, 6
+120302,5.75,2.25,0.00,3.00,5.00,6.00    6, 0, 3, 6
+120305,0.00,8.75,1.00,3.25,6.00,6.00    6, 0, 3, 6
+120306,4.00,1.25,2.00,4.00,6.50,6.00    6, 0, 3, 6
+120307,2.00,5.50,1.00,4.00,5.00,6.00    6, 0, 3, 6
+120308,0.75,6.00,5.00,3.00,2.50,6.00    6, 1, 1, 4
+120309,0.00,7.50,1.74,1.75,4.50,6.00    6, 1, 1, 2
+120312,2.50,2.50,1.00,5.75,4.00,6.00    6, 1, 2, 5
+120213,1.75,3.00,6.25,4.75,0.75,6.00    6, 1, 2, 4
+120314,0.00,4.75,1.25,5.25,4.50,6.00    6, 0, 3, 6
+120315,0.00,2.00,0.50,7.50,2.50,6.00    6, 1, 2, 4
+120316,2.00,5.00,0.00,5.75,4.50,7.00    6, 1, 2, 5
+120319,0.00,3.00,2.00,6.00,4.50,6.00    6, 2, 2, 7
+120320,1.00,7.00,2.50,3.50,4.50,7.00    6, 1, 1, 8
+120321,0.00,4.25,1.25,7.00,4.00,7.00    6, 2, 1, 6
+120322,1.50,2.75,3.00,8.00,2.25,7.00    6, 0, 3, 6
+120323,1.00,5.00,0.00,7.00,4.50,7.00    6, 1, 1, 4
+120326,2.75,1.00,0.00,8.00,7.00,7.00    6, 0, 2, 6
+120327,1.00,8.00,2.00,1.25,3.00,7.00    6, 0, 2, 6
+120328,0.00,7.25,0.00,1.50,9.50,6.00    6, 1, 1, 5
+120329,4.00,0.00,2.75,3.75,8.00,5.00    6, 0, 3, 6
+120330,6.00,1.50,0.00,4.50,8.50,6.00    6, 0, 3, 6
+120331,6.25,1.00,0.00,4.25,7.00,6.00    4, 0, 0, 4
+
+
+
 
 </t>
 <t tx="zoomq.20110518221155.2680">@path ch00</t>
-<t tx="zoomq.20110518221155.2681">@language rest
-前言
-===============
-
-
-简介：
----------------------------
-
-这是本非常有趣的书...
-
-
-感谢：
----------------------------
-
-- 编辑
-- 团队
-- 环境
-- 社区
-
-
-
-</t>
 <t tx="zoomq.20110518221155.2683">@language rest
 序言
 ===============
@@ -6909,7 +7046,13 @@ Rachel Head,勤奋的文字编辑，忍受我滥用英语,
 
 
 </t>
-<t tx="zoomq.20110523143238.2694">对外 py 服务资源</t>
+<t tx="zoomq.20110523143238.2694">对外 py 服务资源
+
+http://py.kingsoft.net:8080/rwiwpyzh/
+访问帐号是:
+User: obp
+Paass: RWIwPyZh
+</t>
 <t tx="zoomq.20110523143238.2695"># 当前主力资源发布主机
 </t>
 <t tx="zoomq.20110523143238.2696">部署 zqrgen 时，发现 nginx 异常，所以!
@@ -6996,7 +7139,7 @@ Configuration summary
 
 
 </t>
-<t tx="zoomq.20110705091223.2700">odate,tI,tO,tC,tM,tF,tS
+<t tx="zoomq.20110705091223.2700">date,tI,tO,tC,tM,tF,tS
 110601,0.00,2.75,1.00,6.00,5.75,10.0
 110602,1.00,2.00,3.00,8.50,1.00,6.50
 110603,1.00,2.50,2.00,6.50,4.00,7.50
@@ -7114,10 +7257,29 @@ wget -c -nv -P 20110709_nvzhuang_bigpic --cookies=off -w 3 --random-wait -t 7 --
 
 wget -c -nv -P 20110709_nvzhuang_htm --cookies=off -w 3 --random-wait -t 7 --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -i taobao_Week_20110709_nvzhuang_htm.uri
 
-使用 
-python anabigpic.py ../../_stuff/4vancl/taobao_Week_nvzhuang/20110709_nvzhuang_bigpic &gt; 20110709_nvzhuang_bigpic.dl.uri
-然后:
-wget -x -c -nv  --cookies=off  -t 3 --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -i 20110709_nvzhuang_bigpic.dl.uri</t>
+
+wget -S http://images.vancl.com
+'''
+--2011-08-04 19:51:18--  http://images.vancl.com/
+正在解析主机 images.vancl.com... 119.147.105.159, 121.14.235.123, 121.14.234.202, ...
+正在连接 images.vancl.com|119.147.105.159|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 
+  HTTP/1.0 403 Forbidden
+  Content-Type: text/html
+  Server: Microsoft-IIS/7.5
+  X-Powered-By: ASP.NET
+  Date: Thu, 04 Aug 2011 11:52:30 GMT
+  Content-Length: 1157
+  X-Cache: MISS from vanclimg-squid-admin
+  Via: 1.0 vanclimg-squid-admin (squid/3.1.12)
+  Powered-By-ChinaCache: MISS from CHN-TJ-2-389
+  Cache-Control: max-age=43200
+  Powered-By-ChinaCache: MISS from CHN-DG-1-37a
+  Connection: close
+2011-08-04 19:51:18 错误 403：Forbidden。
+'''
+
+</t>
 <t tx="zoomq.20110709131924.2703">人体工学电脑椅选购建议 | 潘魏增
 http://panweizeng.com/chairs.html
 
@@ -7249,9 +7411,27 @@ Size:
 
 
 </t>
-<t tx="zoomq.20110713090346.2709">@path /home/zoomq/workspace/yuike/fadpop-src
+<t tx="zoomq.20110713090346.2709">@path /home/zoomq/workspace/yuike/fadpop
+#   /home/zoomq/workspace/yuike/fadpop
+#   /home/zoomq/mnt/kup.pyk/fadpop
+#   /home/zoomq/mnt/kup.common/fadpop
 
-是也乎,是也乎,服务端...</t>
+是也乎,是也乎,服务端...
+
+经常性的超时:
+
+Traceback (most recent call last):
+  File "vancl-up4info2karait.py", line 197, in _loadpics
+    open(realpic,'wb').write(urllib2.urlopen(foto['uri']).read())
+  File "/usr/local/lib/python2.7/socket.py", line 351, in read
+    data = self._sock.recv(rbufsize)
+  File "/usr/local/lib/python2.7/httplib.py", line 561, in read
+    s = self.fp.read(amt)
+  File "/usr/local/lib/python2.7/socket.py", line 380, in read
+    data = self._sock.recv(left)
+KeyboardInterrupt
+        None
+</t>
 <t tx="zoomq.20110714001632.2710">@path api
 zq：关于如何从商家获得返利佣金，请参考：51fanli，qq返利，360返利等网站，通过查看他们的导向商家URL，一看便知，进而可以找到电商的WEB API列表，一般都很简单。
 
@@ -7309,7 +7489,10 @@ http://union.vancl.com/register_webUnion.aspx
     U:  fadpop
     P:  Fad@un10n
 
-</t>
+
+#110804 vim :set fileencoding
+fileencoding=utf-16le
+?!?!</t>
 <t tx="zoomq.20110714090951.5510">绑定凡客购物账户教程：
 
 1. 注册凡客购物账户http://www.vancl.com/login/Reg.aspx
@@ -7432,14 +7615,14 @@ Apply indexes yourself
 
 
 </t>
-<t tx="zoomq.20110718091518.2721">@path crawl</t>
-<t tx="zoomq.20110718091518.2722">@path analyzer
+<t tx="zoomq.20110718091518.2721">@path spider</t>
+<t tx="zoomq.20110718091518.2722">@path parser
 
 分析器</t>
-<t tx="zoomq.20110718091518.2723">@path queue
+<t tx="zoomq.20110718091518.2723">@path queues
 
 </t>
-<t tx="zoomq.20110718091518.2724">@path stuff
+<t tx="zoomq.20110718091518.2724">@path _stuff
 </t>
 <t tx="zoomq.20110718091518.2725">@path test</t>
 <t tx="zoomq.20110718091518.2726">默认32位的 mongod
@@ -7554,13 +7737,6 @@ $ python /path/2/cvsvancl.py /path/2/taobao_Week_20110709_nvzhuang.csv
 依赖:
     + PIL
     + PyMongo &gt; 1.11
-数据处理链:
-    cvsvancl.py -&gt; 获得基本商品信息和中等图片
-    expuri.py -&gt; 导出大图以及商品页面url 列表
-        + 使用 wget 批量下载
-    anapichtm.py -&gt; 分析大图首页 生成大图下载链接和商品图片对应 dict 序列数据文件
-        + 使用 wget 批量下载图片
-    loadpics.py -&gt; 导入所有图片数据到对应的商品文档中
 '''
 </t>
 <t tx="zoomq.20110719082515.4237">class Borg():
@@ -7639,7 +7815,7 @@ def loadall(cvsfile):
         passtime = time.time() - start
         # 在结果输出追加计时信息
         #print "\n\t&lt;!-- %s GONE~= %.5f ms --&gt;" % (func.__name__, passtime*1000)
-        LOG.info("\n\t%s() RUNed~ %.5f ms" % (func.__name__, passtime*1000))
+        CCFG.LOG.info("\n\t%s() RUNed~ %.5f ms" % (func.__name__, passtime*1000))
         # 返回结果
         return result
     # 返回重新装饰过的函数句柄
@@ -7658,7 +7834,19 @@ def loadall(cvsfile):
     + 尽可能文本流化
     + 小即是美!
 
+== 发布 ==
+py.kingsoft.net:
+    9007-&gt;common:27017  monogod
+    9008-&gt;common:28017  rest http
+    9017-&gt;common:27117  mongod
+    9018-&gt;common:28117  rest http
+
+== 运维 ==
+@others
+
 == Changelog ==
+110927 进行串联化自动化,从远程主机对MongoDB 主机进行操作,,,
+    - PhantomJS 部属要大量时间,,,
 
 110713  ZQ 完成自动化抓取/分析/入库和提取API 的设计,工作量估计:
     + .5d  API 设计
@@ -7676,9 +7864,31 @@ def loadall(cvsfile):
     ~ 6.5d 左右完成可演示原型
 </t>
 <t tx="zoomq.20110720091129.2765">= fadpop分析器 =
+== 依赖 ==
+以下扩展模块:
+    Image
+    pymongo(gridfs)
+    mongolog
+    pyquery
+
+== 当前 ==
+
+=== 凡客专用处理 ===
+数据处理链:
+    # vanclcsv.py -&gt; 获得联盟用户使用的 cvs 中基本商品信息和中等图片
+        loadall() RUNed~ 133503.31306 ms
+        5031 loaded as 4819件 4819图片
+    common.expuri -&gt; 导出大图以及商品页面url 列表
+        + 使用 wget 批量下载,使用 split 进行分批并发下载
+        # vanclhtmbigpic.py -&gt; 分析大图首页 生成大图下载链接和商品图片对应 dict 序列数据文件
+            + 使用 wget 批量下载图片
+            #vanclpicloader.py -&gt; 导入所有图片数据到对应的商品文档中
+            10分钟    暂时仅仅 1.99G 15350张图片
+            共有 5G图片
+        # vanclhtmitem.py -&gt; 逐一分析已经下载的商品页面,完成信息的增补
+            1014730.72386 ms 完成所有静态页面的分析和提交
 
 == TODO ==
-
 数据源分析:
 - 不同电商的网页数据识别和过滤
     - vancl
@@ -7690,8 +7900,19 @@ def loadall(cvsfile):
 
 运行性能分析:
 - MongoDB 运行时效率分析
-- GridFS 运行时响应效率</t>
+- GridFS 运行时响应效率
+
+== Logging ==
+Vacnl:
+    http://item.vancl.com/0002079.html 已售罄 样例
+    http://item.vancl.com/0002655.html 数据齐全
+
+== ERROR ==
+@others
+</t>
 <t tx="zoomq.20110720091129.2767">= fadpop爬虫 =
+
+@others
 
 == TODO ==
 
@@ -7703,6 +7924,13 @@ def loadall(cvsfile):
     - MQ協同
 </t>
 <t tx="zoomq.20110720091129.2769">= fadpop队列 =
+根据:
+    Kiwipycon2011 async-with-gevent-redis
+        http://www.slideshare.net/alexdong/kiwipycon2011-asyncwithgeventredis
+    gevent+redis(HotQueue)
+配合工具可以远程清查:
+    hotwatch --host py.kingsoft.net --port 9079 myqueue
+分布式部属 redis 在 pyk 主机
 
 == TODO ==
 
@@ -7762,6 +7990,8 @@ Fiddler
 逐步测试和发布接口用
 api.yuike.com
 
+@others
+
 == TODO ==
 
 - 先CLI 可查询!
@@ -7820,18 +8050,18 @@ TPL_VANCL_MFOTO = "http://images.vancl.com/product/%(dirurl)s/%(goodsid)s/mid/%(
 TPL_VANCL_BFOTO = "http://images.vancl.com/product/%(dirurl)s/%(goodsid)s/Big/%(fotoid)s.%(imgex)s"
 </t>
 <t tx="zoomq.20110720193936.2774">DOC_ITEM = {"uri":""
-    #, "com":"VANCL"                 # 电商名
+    #, "com":"VANCL"                # 电商名
     , "brand":"VANCL 凡客诚品"      # 品牌名
     , "sid":""                      # 编号
     , "store":0                     # 库存数量
     , "saled":0                     # 已售出
-    , "prix":""                     # 价格(原价+各种优惠价格)
+    , "prix":""                     # 价格(原价+各种优惠价格) | saleout 已售罄
     , "agio":""                     # 折扣
     , "vip":""                      # 优惠价格
     , "attrs":{"name":""            # 品名
-        , "class":""                # 分类
-        , "color":""                # 顔色
-        , "cons":""                 #   constituent 成分
+        , "class":[]                # 分类
+        , "color":""                # 顔色们
+        , "cons":""                 # constituent 成分
         , "wash":""                 # 洗涤要求
         , "descs":{                 # 描述
             "txt":""                # 读本描述
@@ -7848,11 +8078,20 @@ TPL_VANCL_BFOTO = "http://images.vancl.com/product/%(dirurl)s/%(goodsid)s/Big/%(
         , "size":""                 # 尺码 2% 的用户认为实际尺码[偏大],,,
         , "taker":{                 # 购买者评论
             "total":0               # 留言总数
+            ,"totalask":0           # 疑问总数
             , "comment":{           # 评注
                 "name":""
                 , "date":""
+                , "title":""        # 标题
                 , "cont":""
                 , "hold":""         # 拥有的商品描述
+                }# comment
+            , "ask":{               # 回答
+                "name":""
+                , "date":""
+                , "title":""        # 标题
+                , "issue":""        # 问题
+                , "reply":""        # 回答
                 }# comment
             } # taker
         , "shiner":{                # 晒单图文
@@ -7901,6 +8140,7 @@ import logging
 
 import Image
 
+# import PyMongo
 from pymongo import Connection
 from pymongo import errors as ERR
 import gridfs
@@ -7908,8 +8148,8 @@ import gridfs
 from mongolog.handlers import MongoHandler
 
 # import original mod.
-sys.path.append(os.path.abspath("../../"))
-from common.fadutil import run_time, LOG
+sys.path.append(os.path.abspath("../../../"))
+from fadpop.common.fadutil import run_time, LOG
 
 </t>
 <t tx="zoomq.20110721084347.2776">    location  /thumb/
@@ -8140,7 +8380,7 @@ from mongolog.handlers import MongoHandler
 <t tx="zoomq.20110727085946.4249">@path ch08</t>
 <t tx="zoomq.20110727085946.4250">@language rest
 
-Getting Started
+第8章: 开始吧
 ============================================
 
 
@@ -8166,13 +8406,8 @@ Getting Started
 
 .. epigraph::
 
-    The secret of getting ahead is getting started. The secret
-    of getting started is breaking your complex overwhelm-
-    ing tasks into small manageable tasks, and then starting
-    on the first one.
-
-    领先的秘密是得开始干,开始干的秘密在于放弃复杂设计转变成一系列可受控的小任务,
-    并按递这就开干!
+    领先的秘密是开始干,开始干的秘密在于放弃复杂设计转变成一系列可受控的小任务,
+    并按次序,就地开工!
 
     —Mark Twain
 
@@ -8230,14 +8465,14 @@ Getting Started
 但是多数人在这上面花的精力并不比会上下意识的随手涂鸦更多.
 缺少确实的需求分析和将需求转化为能用的代码的计划是大部分软件工程失败的原因.
 (当前,所有重大项目工程中约50%到70% 是失败的--这取决于你如何定义"失败")
-试试搜索 "脑残需求分析 失败的软件"(poor requirements software failures)
+试试搜索 "需求脑残 软件失败"(poor requirements software failures)
 就能知道到有多少文章在写这种事儿了.
 
 
 所有的项目都是由某种 **需求陈述** 开始的.
 它可以是一个非正式的想法，或者是电子邮件里的一个请求.
 当然也可以是正式的文档.
-从这时刻开始，项目的目标就以 **工作说明书**(statement of work,SOW) 的形式开始发展了.
+从这时刻开始，项目的目标就以 **工作说明**(statement of work,SOW) 的形式开始发展了.
 工作说明书有需求陈述所不具备的细节.
 接着各种具体要求就聚集过来，最后才能得到软件设计指标
 (design specification) 插图 8-1
@@ -8245,7 +8480,7 @@ Getting Started
 
 
 需求在每一阶段都得到进一步细化.
-细节最后在 设计说明书(software design description,SDD)
+细节最后在 软件设计文档(software design description,SDD)
 当中得到最终陈述.
 (理想中)说明书包含足够的信息来促成满足要求的软件的诞生.
 在接下来的小节里我们将逐一体会迈向 设计说明书 的每一步.
@@ -8256,30 +8491,55 @@ Getting Started
 <t tx="zoomq.20110727085946.4253">@language rest
 .. include:: ../LINKS.rst
 
-Requirements
+需求(Requirements)
 ===============================================================================
 
-Requirements come in many levels of detail. The next level after the SOW might be
-high-level project objectives, science requirements, operational requirements, and so
-on, descending in ever-increasing levels of detail until finally arriving at the software
-implementation requirements contained in the SDD.
+需求来自很多层级的细节.
+SOW(statement of work,工作清单)之后的层级,
+可能是高阶工程目标,科学需求,操作需求,等等,
+通过逐层递进的细节积累,最终将软件的主要需求包含在SDD(Software Design Document,软件设计文档)中.
 
-Figure 8-3. Statement of work
 
-Lower levels of requirements are derived from the requirements above them, in a top-
-down fashion. At each level more details emerge and are incorporated into the require-
-ments set in a process known as requirements decomposition, which is a part of the
-requirements analysis activity. How much time and effort one spends doing require-
-ments decomposition depends on the type of project; some projects are simple enough
-that a basic set of testable functional requirements will suffice, while others (like the
-full-authority digital engine controls on jet aircraft, or the guidance and propulsion
-control systems on spacecraft) might require extensive requirements analysis and
-decomposition to ensure that all the relevant requirements have been captured, all the
-off-nominal conditions have been accounted for, and all the low-level implementation
-requirements necessary to build and program the system are defined and reviewed. The
-requirements documents for these types of projects can easily run to hundreds of pages.
-One of the trickier parts of the requirements analysis activity is knowing when enough
-is enough, and when to keep going to fill in necessary details.
+.. image:: ../_static/figs/rwip_0803.pdf.png
+
+插图 8-3. 工作清单
+
+::
+
+    工作清单
+    
+    试验组需要一种自动交流电源控制系统,以监察燃烧室.
+    系统应该达成以下特性:
+    1.  可基于目前的交流电控制装置支持64种设备(UUT,被测单元)
+    2.  可用软件控制任意一个设备可用或反之
+    3.  可接收测试监控系统的状态数据, 并能立即停止UUT 以免造成灾难性伤害
+    4.  可在预订的时间点完成电源开关处置
+    5.  可感知UUT在电源关闭后的状态,并在UUT出错时自行决定处置方案
+    6.  可在图形界面中实时展示所有电源通路的状态
+    
+    该系统应包括可安装在机架的AC电源控制单元和一个专用机架式控制PC配液晶显示器.
+    交流电源控制单元可使用RS - 232串口,USB或GPIB(两者都是最便宜的)接口.
+    接入其他测试系统的控制和数据可以是RS - 232或以太网.
+    
+    系统必须能完成无监控的7*24小时运行.
+    一但检测到异常,必须有能力从本地或通过网络提醒操作员.
+    系统必须有能力分辨异常警报的严重级别,以尽量减少警报.
+    
+
+.. the system should consist of rack-mounted AC power control units and a dedicated rack-mounted control PC with LCD monitor. the control interface for the AC power vontrol nunits may be RS-232 serial, USB or GPIB(whichever is the least costly). the control and data interface to other test systems may be either RS-232 or Ethernet.
+    the system must be capable of operationg 24 hours a day, seven days a week, without operator supervision, it must have the ability to alert an operator, either locally or via a network connection, should an anomaly be detected. the system must have the ability to assign levels of severity to anomalies in alerts to minimize alerts from mon-critical event.
+
+
+
+较低层次的需求都来源于他们的要求，自上而下的方式
+在自上而下的方式(瀑布(waterfall)模型)中,各层需求分解自高层需求.
+每层都需要进行需求分析，以得出足够的细节来指导实施.
+究竟这种分解活动要用多少时间，依工程类型而定.
+有些足够简单的，一个可测试的功能需求就好了,
+而有特殊状况都已经包含，
+所有底层实现的界定和审查都有对应系统的必要指标和方案.
+这种工程的需求文档能轻易超过数百页。
+需求分析的难点之一，就是对所有部分的了解必然保持更新，不断增补细节.
 
 
 
@@ -8287,17 +8547,14 @@ is enough, and when to keep going to fill in necessary details.
 
 </t>
 <t tx="zoomq.20110727085946.4305">@language rest
-
-Designing the Software
+.. include:: ../LINKS.rst
+设计软件 Designing the Software
 ===============================================================================
 
-
-Now that you have some functional requirements, in whatever format, it’s time to think
-about designing the software to meet those requirements. How much latitude is avail-
-able in the design will depend on how detailed the functional requirements happen to
-be. If they are extremely detailed, you won’t have as much leeway as with a loose set
-of functional requirements.
-
+现在，你有一些功能需求(可以是任何格式记述的)，
+是时候开始思考设计软件来满足这些要求了.
+设计有多少自由度,取决于功能需求对目标的描述有多详细.
+如果每条需求都设定的非常详细，即使面对一个松散的需求集,你也不会多少回旋余地.
 
 
 
@@ -8308,145 +8565,136 @@ of functional requirements.
 
 
 </t>
-<t tx="zoomq.20110727085946.4306">The Software Design Description
+<t tx="zoomq.20110727085946.4306">软件设计说明 (The Software Design Description,SDD)
 -------------------------------------------------------------------------------
-In Figure 8-4 the last thing in line before the software is the software design description,
-also known as the SDD. The SDD is, in effect, a set of low-level implementation re-
-quirements. Often the SDD is written in a more narrative form than the functional-level
-requirements. It typically contains things like definitions of return code values, flow-
-charts, block diagrams, inheritance diagrams, message sequence charts, and so on. The
-SDD is the theory of operation document for the system to be built, and it should
-contain enough details such that a programmer can translate it directly into working
-code. Typically, the SDD is organized along the same lines as the software. In other
-words, there might be a section describing data acquisition, another dealing with data
-processing, one that describes the user interface, and so on. A comprehensive SDD may
-also contain one or more introductory overview sections that reiterate the SOW in a
-more technical context and lay the groundwork for the detailed descriptions in subse-
-quent sections of the document.
+
+插图8-4中指出在开发流程中,获得最终软件的前一件事情就是SDD(软件设计说明,Software Design Description)，
+实际上 SDD(软件设计说明,Software Design Description) 是底层的实现要求.
+通常情况下,SDD(软件设计说明,Software Design Description) 描述了比功能需求更多的细节.
+通常包含包含返回值，流程图，框图，继承图，消息序列图，等等. 
+SDD(软件设计说明,Software Design Description) 是用以构建目标系统的系统性理论读本,
+应该包含足够的细节,可以支持程序员直接转化为工作代码.
+SDD(软件设计说明,Software Design Description) 也遵循经典的软件工程路线来完成.
+一个完备的 SDD(软件设计说明,Software Design Description) 
+可能包含一个或多个概要介绍部分,来说明在SOW(statement of work,工作清单)中指出的开发任务的技术实现细节,
+可能有 数据采集或是数据处理以及用户界面等等.
+
+对于小型项目SDD(软件设计说明,Software Design Description)也许没有必要,
+但除非工程中只有你这唯一的人,
+否则,为了确保每个参与者,都明确什么是必要的需求,以及软件如何来满足这些需求;
+那么,SDD(软件设计说明,Software Design Description)是最合适的载体,
+可以同时用来驱动软件和单元测试的开发.
+
+面对SDD(软件设计说明,Software Design Description)要保持头脑清醒的事情是，
+SDD仅能由对应需求驱动产生,
+每个条目必须可追溯对应到一个或多个功能需求.
 
 
-For small projects an SDD may not even be necessary, but unless you are the only person
-who will be working on the software it is essential to make sure everyone involved
-understands what is required and how the software will meet the requirements. The
-SDD fulfills that role, and serves as the implementation requirements for creating both
-the software and the unit tests.
+在RDD(Requirements-Driven Design,需求驱动的设计)开发模式中，
+如果有什么东西不能追溯到更高级别的需求,那它不用设计.
+如果事情真的需要设计，但没有对应的需求,那么,必须为之建立派生需求.
 
-An important thing to keep in mind regarding the SDD is that it is driven by the re-
-quirements preceding it, not the other way around. Each distinct descriptive item in
-the SDD must be traceable back to one or more of the functional-level requirements.
 
-In an RDD development model, if something can’t be traced back to a higher-level
-requirement, it doesn’t belong in the design. If something really needs to be in the
-design, but there is no requirement for it, a derived requirement must be created to
-cover it.
-
-If nothing else, the presence of an SDD shows that some thought went into the design
-of the software—i.e., it wasn’t just pulled full-grown from some nebulous place and
-assumed to be complete and accurate. Such an assumption is seldom, if ever, borne out.
+无论如何,SDD的存在表明了人们想把什么加到软件中去,
+即，它是无法从含混不清的地方拉出来,并假设成完整和准确的描述.
 
 </t>
 <t tx="zoomq.20110727085946.4309">@language rest
-
-Functional Testing
+.. include:: ../LINKS.rst
+功能测试
 ===============================================================================
 
-We now have some requirements and hopefully a design document, but before the first
-line of code is written we need to think about testing. Here I am referring to functional
-testing, as opposed to unit testing; they are very different things, with different objec-
-tives and methods. We’ll get to unit testing in just a bit, but for now, let’s look at
-functional testing and see why it’s an essential (and arguably the only) method for
-verifying compliance with the requirements.
+现在我们的设计文件中包含了一些要求和希望，
+但在第一行代码写下之前，我们还需要认真思考有关测试.
+这里我指的是功能测试，而不是单元测试，
+这两种测试的目标和方法不能混为一谈.
+单元测试在之后的章节将提及,
+但现在，让我们来看看功能测试，
+看看为什么说它是检验需求的基本方法(可以说是唯一的).
+
 
 @others
 </t>
 <t tx="zoomq.20110727085946.4310">@language rest
+.. include:: ../LINKS.rst
 
 推荐阅读
 ===============================================================================
 
-There are hundreds of good books available on the topics we’ve covered in this chapter,
-but in the interest of keeping things brief I’ll list a few that I particularly like:
+涵盖本章主题内容的好书,数以百计.
+在此我只能推荐特别喜欢的:
 
 
 Code Complete, Second Edition. Steve McConnell, Microsoft Press, 2004.
-    I have both the first and second editions of this book, and I think they’re both
-    excellent. McConnell does a good job of laying out the steps necessary to success-
-    fully define and implement quality software, and he does it in a semiformal way
-    that’s engaging and enjoyable to read. I can only hope to encourage more people
-    to read and apply the material in his book.
+    我有这本书的第一版和第二版，我认为他们都是很优秀的.
+    麦康奈尔出色的指出了成功界定或实施高质量软件的必要步骤.
+    我只能鼓励更多的人来阅读和应用他的著作中指出的各种材料在.
 
 Software Requirements: Objects, Functions and States, 2nd ed. Alan Davis, Prentice Hall,1993.
-    This is one of my favorite books on the subject of software requirements. I’ve been
-    known to take it with me to meetings and quote from it now and again. The author
-    discusses different approaches to requirements analysis and capture in a clear and
-    lucid style, and also includes useful examples of different approaches. An extensive
-    list of references provides numerous paths for further exploration and discovery.
+    这是有关软件需求本质的书籍中我最喜欢的一本.
+    我总是带着这本书参加会议反复引用关键语句.
+    作者以清晰的风格,明确讨论了分析和捕获需求的各种方法,还包括了各种方法的实用案例.
+    书中的引用列表提供了丰富的路径进一步探索和发现.
 
 Software Testing. James McCaffrey, Booksurge, 2009.
-    This book provides a good overview of the skills and techniques directly applicable
-    to software testing, gleaned by the author from interviews and conversations with
-    test managers in a number of settings. Short, simple, and to the point, it is a good
-    starting place for someone new to software testing, and a useful quick refresher for
-    the seasoned practitioner.
+    作者通过亲身访谈一些测试经理,针对软件测试的技能和技巧整理出一个很好的概览.
+    章节内容精巧,对软件测试新人而言是很好的开始,还可以当成经验丰富的医生随时查询.
 
 Writing Effective Use Cases. Alistair Cockburn, Addison-Wesley, 2001.
-    A well-written guide for writing well-written use cases, this book describes what
-    constitutes a good use case and points out some of the pitfalls one might encounter
-    while collecting the information necessary to craft a useful description of the in-
-    tended behavior of the software. While I’m not a big fan of use cases (I prefer formal
-    hierarchical requirements), if you are planning to employ use cases, you owe it to
-    yourself to read this book.
+    如何编写好测试用例的易用指南.
+    这本书介绍了良好的用例由什么构成,
+    指出在制作好案例的过程中可能遇到到什么陷井.
+    虽然我并不热衷于用户案例(我更喜欢需求分层),
+    如果你在规划用户案例，应该先读一下这本书.
+
 
 Essential CVS, Second Edition. Jennifer Vesperman, O’Reilly, 2006.
-    This book starts with an introduction to the basic concepts behind CVS and builds
-    from there, with discussions of tagging, branching, merging, and logging, among
-    other topics. It helps to fill the gaps in the formal reference documentation found
-    in CVS’s online documentation, and to clarify some of the more opaque features
-    and functions of CVS.
+    这本书介绍背后CVS的基本概念，并从那里开始讨论
+    标记，分支，合并和日志等其他议题.
+    有助于填补正规的CVS在线参考文档空白，并澄清一些尖端的CVS特殊功能.
 
 
-    When it comes to online resources, well, they are legion. Entering the phrase “software
-requirements” will provoke Google into returning something like 1 million hits. Here
-are a few from my own bookmarks that I think are noteworthy:
+    谈及网上资源，在Google 中输入"软件需求"会返回"百万点击率"之类的东西.
+这里,从自己的书签分享几个我认为是值得注意:
 
 
 http://software.gsfc.nasa.gov
-    NASA has many documents available online in the Process Assets Library at the
-    Goddard Space Flight Center. While a lot of these will be far too complex and
-    detailed for the typical small project, the overall concepts and methods are uni-
-    versally applicable. It’s worth a look to see if there’s something here that you can
-    apply to your own activities.
+    在戈达德太空飞行中心的美国宇航局,其过程资产库发布到了网络中.
+    虽然相对典型的小项目,其过程过于复杂，但是整体观念和方法是普遍适用的.
+    这是值得一试，看看是否有东西在这里你可以用于你自己的开发活动.
 
 http://www.techwr-l.com/techwhirl/magazine/writing/softwarerequirementspecs.html
-    TECHWR-L, a website oriented toward technical communicators, hosts this over-
-    view of what is entailed in writing a software requirements specifications
-    document.
+    ``TECHWR-L`` 是面向技术交流的网站,
+    包含了各种讨论如何编写需求规模说明等等相关文章.
 
 http://www.aspera-3.org/idfs/APAF_SRS_V1.0.pdf
-    This is the SRS for the Aspera-3 project (part of the Mars Express mission) from
-    the Swedish Institute of Space Physics. It’s not often that one gets to see what a
-    real SRS looks like (particularly not from recent NASA projects, thanks to ITAR),
-    but here is one you can examine at your leisure.
+    这是来自瑞典空间物理研究所的Aspera-3项目的SRS(“火星快车”任务的一部分).
+    真正的SRS并不是经常都能看
+    (感谢ITAR,特别是最近美国宇航局的项目就是没有)，
+    但在这里您可以休闲的查阅.
 
 
 
 </t>
 <t tx="zoomq.20110727085946.4312">@language rest
+.. include:: ../LINKS.rst
 
-Implementation
+实施
 ===============================================================================
 
-Now, at last, we come to the fun part: writing the software. We’ve covered require-
-ments, the design, and the functional tests, so now we can turn our attention to some
-of the activities that go into creating the code.
+现在，终于，我们来到最有趣的部分：编写软件.
+我们已经讨论了需求，设计，和功能测试，
+现在我们总算可以把注意力转向代码的创建活动.
 
-What the code should do should already have been defined by the requirements and
-the SDD. This section deals with how it is organized, formatted, reviewed, and tested
-using unit test methods. These aspects are sometimes overlooked or pushed aside as
-trivial matters, but that is a mistake that can come back to haunt the developer months
-or even years later. Careless programming can also make life miserable for those who
-come along after the code has been written and released, if there is a need to do main-
-tenance or just to try to understand what the software really does.
+代码应该做什么，
+已经在SDD(Software Design Description,软件设计说明)中被详细定义了.
+本节讨论如何对代码进行组织，格式化，审查，并使用单元测试进行测试.
+这些细节,有时会被忽视，当作鸡毛蒜皮的小事，
+但这是错误的，很可能埋下问题,直到开发完成几个月甚至几年后爆发.
+漫不经心的编程，
+造就了那些悲惨生活,
+即使软件已经发布,但是,一但有需要你还是得独自回来重新理解你自己写的漫不经心的代码.
+
 
 @others
 
@@ -8455,27 +8703,22 @@ tenance or just to try to understand what the software really does.
 
 </t>
 <t tx="zoomq.20110727085946.4316">@language rest
-
+.. include:: ../LINKS.rst
 小结
 ===============================================================================
 
-In this chapter we’ve covered requirements, design, implementation, testing, and doc-
-umentation. It should be obvious now why a software project without requirements is
-a like a ship without a rudder. Without at least some basic requirements, it’s all too
-easy to create something that doesn’t do what was originally intended, or doesn’t work
-correctly at all. We have also seen how testing, when done to the requirements, not
-only helps to identify defects in the code, but also helps to ensure that the code stays
-on track and meets the requirements. Writing, in the form of documentation, has been
-stressed throughout the discussion, and in all honesty, if you aspire to achieve recog-
-nition for your work you need to document it so that others (who may not have your
-depth of understanding) can readily understand and appreciate it. However, the main
-point in this chapter isn’t about rigorous adherence to a particular process or life-cycle
-model, nor is it about creating massive tomes of technical details. It’s about knowing
-where you want to go by knowing what you need to do in order to get there, knowing
-when you’ve arrived, and creating a map of your journey in the form of documentation
-so that others can follow the path.
+
+在这一章中，我们论述了软件需求，设计，实施，测试，和文件.
+需求在软件工程中就象舵之与船,没有最基础的需求,总是很轻易的能创造出点东西,但是并不会按照预期来工作,甚至于根本不能正常工作.
+在完成需求的功能后,通过测试来检验,不仅有助于找出代码中潜在缺陷,而且还能确保代码在吻合需求的路线上稳固发展.
+如果你诚心渴望获得认同,就得形成文件,以便他人容易理解和欣赏你的成果(可能无法达到您理解的深度).
+然而,本意的核心要点,并不是要求严格遵守特定的过程或是生命周期的模式,
+也不是如何创造包含大量技术细节的文档.
+而是大致指出软件开发的过程,以便读者明确当前处于什么位置,还需要作什么来达成目标;
+以及给出整体图景,分享文档的组织结构,以便读者可以参考.
+
 </t>
-<t tx="zoomq.20110727085946.4317">需求驱动的设计 Requirements-Driven Design
+<t tx="zoomq.20110727085946.4317">需求驱动的设计(Requirements-Driven Design)
 -------------------------------------------------------------------------------
 
 如果你学习过相关课程,应该反应过来了,寻求项目定义的过程,正好和所谓的"瀑布式"(waterfall) 软件开发模式相吻合.
@@ -8494,6 +8737,19 @@ so that others can follow the path.
 
 插图 8-1. 需求的进化
 
+::
+    
+    需要陈述
+    
+    项目对象(SOW)
+    - 功能需求
+    - 性能需求
+    - 安全需求
+    - 失误容忍需求
+    等等..
+    
+    软件设计说明
+     
 
 
 在整本书中我始终运用的是所谓 需求驱动设计(RDD)的模式.
@@ -8504,8 +8760,6 @@ so that others can follow the path.
 在我们的场景中,则多数是类似 "黑盒子" 的商用接口和控制协议,
 都是专门用来完成反复进行的简单任务,除非硬件磨损或是电源关闭,否则不会出现变更;
 主要的挑战在于如何确保所有部件可靠的结合在一起,并明确收集的数据是什么.
-
-
 
 软件开发模式就象工具箱中的工具:
 你总是想(我假设)要使用适当的工具完成手头的工作.
@@ -8520,7 +8774,7 @@ so that others can follow the path.
 
 
 </t>
-<t tx="zoomq.20110727085946.4319">从需要开始Stating the Need
+<t tx="zoomq.20110727085946.4319">从需要开始
 -------------------------------------------------------------------------------
 
 无论采用哪种开发東西方,建立需要陈述(statement of need)是一切的开端.
@@ -8549,143 +8803,142 @@ so that others can follow the path.
 
 .. image:: ../_static/figs/rwip_0802.pdf.png
 
-插图 8-2. 需求说明
+插图 8-2. 需要陈述
 
-</t>
-<t tx="zoomq.20110727085946.4321">Project Objectives
--------------------------------------------------------------------------------
+.. the test group needs a way to automaticall control the AC power to various units under test in the burn-in room, the current method of manually controlling the power at predetermined intervals is both cumbersome and prone to error, for 24-hour (or longer) test cycles it also means that an operator must be on duty during the entire test period. an automated system would allow the testing to go on unattended during evening hours.
 
-The next level of detail lays out the project objectives, also known as the statement of
-work. These still aren’t requirements in the strictest sense, but rather definite goals that
-can be translated into requirements. For example, the project objectives for our hypo-
-thetical AC control system might look like the statement of work shown in Figure 8-3.
-The primary thing to notice here is that the objectives still don’t contain any definite
-values for parameters such as time durations, what constitutes an anomaly, or data
-communication protocols. What they do contain are specific statements about the de-
-sired high-level functional characteristics of the finished system (i.e., the general be-
-havior), and those are what the specific functional requirements will be derived from.
-The SOW defines what will be the basis for determining the ultimate success or failure
-of the project from an end user’s point of view (or from your point of view, if you
-happened to write the SOW for your own project).
+::
 
-</t>
-<t tx="zoomq.20110727085946.4323">Why Requirements Matter
--------------------------------------------------------------------------------
-Without requirements, or at least a statement of work, there is really no way to get a
-clear idea of exactly what the end result is supposed to be or how it should behave.
-Sure, there might be some vague notion of what the system is supposed to do, but it is
-only that—a vague notion—and it’s a sure bet that your vague notion isn’t going to be
-the same as someone else’s vague notion. A doodle on a napkin during lunch is not a
-requirement, and neither are the notes jotted down on a whiteboard during a meeting.
-These types of things are insufficient as requirements, not only because they don’t meet
-the criteria for verifiability, but also because they are only the tops of the waves in what
-might actually be a very deep ocean.
-
-Requirements, even a minimal set, allow us to define what is desired in clear and specific
-terms. A good set of requirements is something that everyone should be able to agree
-on. They are also the yardstick against which the behavior of the finished product is
-measured to verify success, or perhaps failure.
+    需要陈述
+    
+    试验组需要一种可以自动呼叫的交流电源测试系统, 以便监察各测试单元所在的燃烧室,
+    目前在预选约定的固定时刻进行的手工控制方法既繁琐且易出错,涉及24小时(或更长)的测试周期时,
+    就意味着要有运营组在整个测试期间进行值守. 自动化系统将允许测试期间无人值守.
+    
 
 
-
-
-.. topic:: A True Requirements Story
-
-    Once upon a time I was tasked with creating a real-time filter array data acquisition
-    system for a large radio telescope. The filter array was an old thing that someone had
-    hauled out of storage, but it had 640 discrete channels, each narrowly tuned to a specific
-    frequency. My job was to obtain a set of high-speed analog-to-digital converters for
-    acquiring data from each channel, integrate various pieces of new hardware with the
-    old filter array system, and then program the whole thing using a real-time operating
-    system. An RF engineer was lined up to tune the beast once it was running. All good
-    so far. The fun started when I tried to get the person who was to be in charge of operating
-    the filter array to agree to any specific requirements.
-
-    “What is the maximum allowable conversion time for each channel?” I asked. “Well,
-    as fast as possible,” was the response. That wasn’t going to work, so I tried again by
-    rephrasing the question. Still the vague answer. Things went on like this for at least 30
-    minutes, with me getting more frustrated and the other person getting increasingly
-    annoyed at my attempts to pin down some actual numbers. I finally did manage to get
-    a few basic numbers to work with, but I still had to interpolate some of the missing
-    values and just make educated guesses at the others.
-
-    In the end, the resulting system met, and even exceeded, the timing and stability ex-
-    pectations. In fact, it did its job a little too well. The first time we tried to run it at full
-    speed and stream all 640 channels’ worth of data into the telescope’s control and data
-    processing system, we managed to crash it. The entire multimillion-dollar radio
-    telescope was dead. It took something like two hours for the operators to bring it all
-    back up again. Fortunately it happened during allocated engineering time, otherwise
-    we would probably have had to deal with an irate scientist. The moral of the story:
-    don’t ever assume that the person who needs to supply the baseline values for the
-    requirements actually knows the answers (and is willing to admit he doesn’t know). Be
-    prepared to fill in the blanks yourself and double-check your assumptions. It’s also a
-    good idea to give the people from whom you need answers some advance warning as
-    to the type of information you will be looking for. At least that way they can’t reasonably
-    accuse you of springing a pop quiz on them.
 
 
 
 </t>
-<t tx="zoomq.20110727085946.4325">Well-Formed Requirements
+<t tx="zoomq.20110727085946.4321">工程目标
 -------------------------------------------------------------------------------
 
-A requirement describes, in a clear, precise, and unambiguous manner, what charac-
-teristics something must possess and what behaviors it must demonstrate in order to
-meet one or more project objectives. A requirement almost always contains the word
-“shall.” Here is an example of a functional requirement statement::
+工程目标是下一级详细设计阶段,也被称为工作清单(statement of work,SOW).
+这些仍然不是严格意义上的需求(requirements)，
+但已经相当明确的定义了如何达成需求的具体目标.
+例如，我们的假设的交流控制系统的工作清单可能如 插图8-3所示的说明.
 
-    The system shall be capable of detecting a nonresponsive UUT within 100 milliseconds
-    after AC power is commanded to the ON state for any particular UUT.
+要注意的是,这里的目标仍然不包含任何明确定义的参数,例如工期,特例，或数据通信协议.
+只包含最终系统高层次的功能特性(即一般行为(behavior)),
+以及这些功能需求从哪儿衍生出.
+
+工作清单(statement of work,SOW)定义了从最终用户视角来判定工程是否成败的基础标准.
+(或从你的角度来看，如果这是为你自己的工程在写的SOW)
+</t>
+<t tx="zoomq.20110727085946.4323">为什么需要需求 Why Requirements Matter
+-------------------------------------------------------------------------------
+
+没有需求或是工作清单,
+那是没办法对最终的结果形成清晰的思路，来明确如何行事的.
+当然，有时系统应该作什么只是一些模糊的概念,
+模糊的概念终究只是一个模糊的概念,
+肯定是不和其它人模糊的概念相同的.
+午餐期间餐巾纸上的涂鸦不是需求，
+会议期间草草记在白板上的也不是.
+类似的东西都不是明确的需求,
+不仅因为他们不符合可核查的标准，
+而且还因为他们只是些浪花儿，而实际上其下面可能是非常深的海沟！
 
 
-One key characteristic of a good requirement is that it is verifiable. In other words, it
-defines specific values for rates, limits, and exceptions (if any) that can be verified by
-testing. The preceding example functional requirement is testable—it states a specific
-event and a time interval. However, it is easy to write a requirement that is not testable,
-even if it does contain the word “shall.” For example::
-
-    The system shall incorporate the ability to detect and handle invalid data appropriately.
+即使是最小的需求集合，也足以引导我们定义出明确和具体实现要求.
+那种可以令所有人认同的就是好需求.
+同时，好需求还可以对成品的成败给出明确的测量.
 
 
-By itself, this requirement isn’t really a requirement; it’s a desirement. For instance,
-what exactly does it mean? What is “invalid data”? What does “handle” mean? What
-is appropriate? There are no definitions, so therefore there is nothing specific to test
-for. The bottom line is that this “requirement” is not a requirement, and it cannot be
-verified.
+.. topic:: 需求故事真实一则 A True Requirements Story
 
-There are basically five essential characteristics of a well-formed requirement, and these
-are listed in Table 8-1.
+    很久以前,我负责为一个大型射电望远镜系统的过滤器阵列建立实时数据采集系统.
+    该过滤器阵列是遗留设备,其存储单元甚至要人工拖出来,而且有640个独立通道,各自对应到一个特定的频率.
+    我的工作是要将高速模拟数字转换器和旧的过滤器阵列系统整合起来,通过实时操作系统获得每个通道的数据.
+    射频工程师(RF engineer)也时刻准备好了,
+    一切都很靠谱,直到我向过滤器阵列负责人咨询有什么特殊需要时,开启了一段奇幻之旅...
+
+    我问:"每个通道的转换时间最大可容忍多少？"
+    回答:"嗯嗯嗯，尽可能的快"，
+    这明显是谱的，所以我尝试换种方式再问,仍然收到模糊的回答.
+    一来一去,就这样至少30分钟，我越来越沮丧,而其他人越来越恼火,认为我只是企图制造一些数字.
+    最终我总算挤出了一点儿基本的数值来开展工作，
+    但仍然不得不用乱猜的方式来弥补一些"失踪"的数值.
+
+    最终，系统满足，甚至超过了对其稳定性的期望.
+    事实上，它确实有点太清楚它的工作.
+    我们第一次尝试让它在全速度下运行,
+    对望远镜所有640通道的控制和数据流进行处理,
+    于是崩溃了,,结果整个价值数百万美元的无线电望远镜也死了.
+    用了两个小时才重新激动整个系统.
+    幸运的是，这发生在预定的工程时间之内，
+    否则我们可能不得不面对一堆愤怒的科学家.
+
+    这个故事的寓意是:
+    永远不要假设用户能够提供需求中正确的基准值
+    (并愿意承认他的确不知道).
+    你得作好准备自行填空，并仔细检查你的假设.
+    这其实是个好主意，让你需要的答案从必须监控的报警中自己跳出来.
+    至少这样，他们无法指责你总是要拷问他们.
 
 
-Table 8-1. Essential requirements characteristics
 
-.. list-table:: Table 8-1. Essential requirements characteristics
+</t>
+<t tx="zoomq.20110727085946.4325">良好(Well-Formed)的需求
+-------------------------------------------------------------------------------
+
+需求的描述，必须是清晰，准确，和毫不含糊的的，
+所有特性必须指出具备什么行为来满足一个或多个项目目标.
+每条需求的文本总会包含"应......"的句式,
+这里有个例句::
+
+    该系统应能对任何指定的待测物,
+    在100毫秒内感知AC电源无UUT响应并切换到ON的状态.
+
+靠谱的需求具有一个非常明显的特性:它是可验证的.
+换句话说，一定定义了可以用测试来验证特性能力的具体数值，限制和例外(如果有的话).
+前例中的功能要求就是可测试的，因为提供了精确的事件和时间要求.
+但是，即使包含字"应......"的句式，人们也很容易写出无法测试的需求描述,例如::
+
+    该系统应能够及时发现并妥善处理无效数据
+
+
+就行文本身而言，这不是个真正的需求;
+只算个要求.
+例如, 什么是“无效数据”？什么是“处理”？怎么算是否合适？
+什么都没有定义，因此无法进行有效的​​测试.
+是否算需求的底线是，这个"需求"是否能被验证!
+
+基本上有五个基本点可以促成靠谱的需求,在表8-1中列出.
+
+
+表 8-1. 需求的必要元素
+
+.. list-table:: 表 8-1. 需求的必要元素
    :widths: 10 40
    :header-rows: 1
 
-   * - Characteristic 
-     - Description
-   * - Necessary  
-     - Requirements must only address the functionality or characteristics necessary in order for the system to meet
-the objectives defined in the SOW. In other words, there should be no “bells and whistles” requirements.
-   * - Unambiguous  
-     - A requirement may have only one possible interpretation. Requirements with multiple possible interpretations
-may result in a system that does not meet the SOW objectives. Requirements must be clear and concise.
-   * - Consistent  
-     - Requirements must not introduce conflicting objectives, parameters, or functionality. Within the requirements
-set for a project, requirements must support one another.
-   * - Traceable  
-     - Every requirement must have a reason to exist, and traceability establishes that reason. It defines the link
-between a requirement and the higher-level item that it was derived from, which may itself be a requirement
-or an element in the SOW. In other words, requirements flow downward, and traceability flows upward.
-   * - Verifiable  
-     - A requirement must be capable of being verified by testing, analysis, inspection, or, in some cases, demon-
-stration. A requirement that cannot be verified cannot be implemented with confidence, because there will
-be no way to know for sure that the software is in compliance.
+   * - 元素 
+     - 描述
+   * - 必需的  
+     - 需求只应该提供足以达成在SOW(statement of work,工作说明)中定义目标的基础功能和特性就好,换言之,不得有"花里胡哨"的想象
+   * - 明确的  
+     - 每条需要只能有唯一的一种阐述.对需求多种可能的解释将导致系统无法满足SOW(statement of work,工作说明)中定义的目标,需求必须简洁明确.
+   * - 一致的  
+     - 需要绝不能引入相互冲突的目标，参数或功能. 项目范围内的需求,必须能互相支撑.
+   * - 可追踪的 Traceable  
+     - 每条需要必须有一个可追溯的成立理由.这确立了需求或是SOW(statement of work,工作说明)中定义目标间的关联并支撑起高级别的需求项. 换言之，需求能够向下传递并向上追踪.
+   * - 可验证的 Verifiable  
+     - 每条需要，必须能够进行测试，分析，检查，或(在某些情况下)演示来验证是否成功.一个无法验证的需求是无法实现的，因为有没有办法明确该软件是否达成承诺.
 
 
-There are other criteria in use, but these five are usually considered to be the most
-important.
+当然还有其它标准，但是这五个通常被认为是最重要的。
 
 
 
@@ -8695,181 +8948,200 @@ important.
 
 
 </t>
-<t tx="zoomq.20110727085946.4327">The Big Picture
+<t tx="zoomq.20110727085946.4327">全景 The Big Picture
 -------------------------------------------------------------------------------
 
-Now that we’ve examined the basics of requirements, this would be a good time to see
-how things fit in with the software development and verification activities. Figure 8-4
-shows how requirements progress from the SOW (project description and objectives)
-through to the actual software, and also how testing is dependent on requirements.
-
+探讨了需求基本要求之后,
+我们才能更好的理解什么是合适的软件开发和核查.
+图8-4 显示了如何从SOW(项目描述和目标)到达可用的软件，
+以及如何依据需求设立测试.
 </t>
-<t tx="zoomq.20110727085946.4329">Requirement Types
+<t tx="zoomq.20110727085946.4329">需求类型
 -------------------------------------------------------------------------------
 
-Let’s discuss Figure 8-4 a little, since there’s a lot going on here, and we’ll be referring
-back to it later. We already know about the SOW (“Project Description and Objec-
-tives”), so we can move past that. If we follow the flow, the next thing we encounter
-are three primary types of requirements in a box, labeled “Integration,” “Performance,”
-and “Functional.” These are all closely related, and may even appear together in the
-same document. There is also something hovering up above called “Derived Require-
-ments.” Let’s take a closer look at these different types of requirements:
+我们已经明确了SOW(项目描述和目标)，在讨论插图8-4之前,根据的流程，
+接下来我们会在需求集合中遇到三个不同类型的要求:“一体化”，“性能”和“功能”.
+这些都是可能出现在相同文档中密切相关的要求.
+(也有基于以上被称为"派生需求"的)让我们仔细看看在这些不同类型的要求::
 
 
-Functional requirements
-    Functional requirements, and any associated performance and integration require-
-    ments, typically deal with the overt external behavior of a device or system. Or, to
-    put it another way, they deal with what should happen when the power switch is
-    set to “On” and the system is stimulated with some type of input. Functional re-
-    quirements can be defined as the required behaviors of a system or device from a
-    “black box” perspective. In other words, for any given input it must generate a
-    specific output. Exactly how it does this is not within the scope of the functional
-    requirements; that is covered by the implementation requirements in the SDD.
+功能需求 :
+    功能以及任何相关的性能和集成需求,
+    通常指对外部设备和系统的行为.
+    换句话说,他们响应电源设置为“开”或是接受某种输入,系统应该作什么.
+    功能需求可以定义为将系统或是设备视作"黑盒子"时应有的行为,
+    换句话说,对于任何给定的输入，必须生成特定的输出.
+    至于如何实现，这不在功能范围内,那是由SDD(software design description,软件设计文档)实施的.
+
+
+性能需求 :
+    性能需求描述系统必须有多出色.
+    通常涉及类似如速度(即，单位时间内完成传输的数据)，容量(可存储多少数据)，
+    实时显示更新率(视频直播，实时数据图形显示等)相关的指标.
+    性能需求一般是对功能需求的补充,所以,两者有时会合并成同一需求文件.
+
+集成需求 :
+    集成需求定义了系统如何同其它系统交互.
+    关注类似通信协议,命令,数据格式以及物理接口.
+    有时这类需求也附有性能需求.
+    另外，集成需求可能包含在单独的接口控制文件(Interface Control Document,ICD)中
+
+
+衍生需求:
+    派生需求是没有在规定功能中被明确要求但是包含在需求分析和设计文档中的性能或集成性需求.
+    例如，系统可能需要有通信接口错误检测报告功能,
+    虽然没有在其它地方明确指出,但是考虑到底层开发的便利,应该包含进来.
+    可以这么说派生需求就是"查遗补缺",为其它高层需求提供可追溯的设计元素.
+
+
+多数情况下，需求是要求着眼于我们将作什么，有时这被称为合同风格的需求要求.
+即，每个需求须是包含"应..."句式的书面语句,
+形成明确的可核查的有组织有次序的僵硬的正式文档.
+直至今日特别是在航空航天和国防行业，这都是标准的需求捕捉和记录格式.
+然而，目前商业软件的需求工程中,已经有趋势在逃离这一模式,
+用户故事或其它技术正在兴起.
+插图8-5显示了新风格需求记录的例子.
+在下一节我们就来看看使用情况下.
+
+对于小需求集(20条到50条之间的),其实用什么形式真的没什么大不了的.
+但是当需求集变得非常大时，形式就成为问题了.
+因为,合同形式的记录趋于抽象远离SOW(项目描述和目标)其他原始，
+所以,要求上下文格式可能造成很难察觉出需求如何关系到另一个.
 
 
 
-Performance requirements
-    Performance requirements describe how well a system must perform. Typically
-    these requirements are concerned with characteristics such as speed (i.e., amount
-    of data transferred per some unit of time), capacity (how much data can be stored),
-    and real-time display update rates (live video, live data graph displays, etc.), among
-    other things. Performance requirements complement the functional requirements,
-    and the two are sometimes merged into a single requirements document.
-
-
-Integration requirements
-    Integration requirements define how the system will interact or interoperate with
-    other systems. These requirements deal with things like communications proto-
-    cols, command and data formats, and physical interfaces. Sometimes requirements
-    of this type are contained in the functional requirements document along with the
-    performance requirements. Alternatively, the integration requirements may be in
-    a separate Interface Control Document (ICD).
-
-
-Derived requirements
-    A derived requirement is a requirement that was not explicitly stated in the func-
-    tional, performance, or integration requirements, but was instead derived during
-    the requirements analysis or perhaps during the creation of the design documen-
-    tation. For example, a communications interface may need to have error detection
-    and reporting capabilities that are not explicitly captured anywhere else, but that
-    need to be taken into account when the low-level design is developed. A derived
-    requirement “plugs the hole,” so to speak, in the other high-level requirements and
-    provides a traceable justification for a design element.
-
-
-For the most part, the example requirements we’ll be looking at are what are sometimes
-known as contract-style requirements. That is, each requirement is a single statement
-containing a “shall,” and each is written in a rather stiff and formal style intended to
-be concise, unambiguous, and verifiable. They are organized such that they form a sort
-of checklist. For many years this was the standard way to capture and document re-
-quirements, and it is still in use today, particularly in the aerospace and defense indus-
-tries. However, current trends in requirements engineering for commercial software
-and systems have moved away from this model in favor of use cases and other techni-
-ques. Figure 8-5 shows an example of this type of requirements style. We’ll look at use
-cases in the next section.
-
-For a small set of requirements (between, say, 20 and 50), there is really nothing wrong
-with the contract style. It is when the requirements set becomes very large that it can
-become a problem. For one thing, a set of contract-style requirements tends to abstract
-the requirements away from the SOW and other sources that originally drove them, so
-the context can get lost and it can be difficult to perceive how the requirements relate
-to one another.
 
 
 </t>
-<t tx="zoomq.20110727085946.4331">Use Cases
+<t tx="zoomq.20110727085946.4331">用例 Use Cases
 -------------------------------------------------------------------------------
 
-Contract-style requirements are not the only way to capture requirements. In addition
-to the issues already mentioned, contract-style requirements tend to get a bit unwieldy
-when dealing with things like graphic user interfaces or other aspects of human-
-machine interaction. The use case type of requirement definition may be more appro-
-priate for some aspects of a system’s requirements.
 
-Figure 8-4. Software requirements in the development flow
+合同式需求不是唯一的需求捕获方法.
+此外已经提及,对于图形用户界面或是其它人机交互的需求细节,合同式就变得很笨拙.
+这时,用例式需求可能就更加合适.
 
+
+.. image:: ../_static/figs/rwip_0804.pdf.png
+
+插图 8-4. 开发流程中的软件需求
+
+::
+
+    start - 开始
+    Project Description and Objectives - 项目描述和目标
+    Requirements:   需求
+        - Intenration   集成
+        - Performance 性能
+        - Functional    功能
+    Derived Requirements - 设置需求 
+    Software Design Description - 软件设计描述
+    Trace - 追踪
+    Functional Tests - 功能测试 
+    Unit testes - 单元测试
+    Software - 软件
+    Test - 测试
+    Fail - 失败
+    pass - 通过
+    Review/Revise - 复审/修正
+    Final product - 最终成品
+    Delivery - 交付
+    
 
 .. note:: (~_~)
 
-    Conversely, use cases are not well suited to capturing things like
-    algorithmic or mathematical requirements, nor do they work well for
-    nonfunctional characteristics such as performance, timing, or safety
-    requirements.
+    类似算法和数学方面的需求就不适合用例式的需求捕获.
+    其它非功能性特征如性能,定时,或是安全要求也同样不适用.
 
 
-Figure 8-5. Contract-style requirements
+.. image:: ../_static/figs/rwip_0805.pdf.png
 
-    Use cases were invented in 1986 by Ivar Jacobson as a way to model the interactions
-between a system and the user or users of the system (which might be real people or
-other systems) in order to accomplish a specific task. Use cases treat the system as a
-black box and focus solely on input and output actions. In this sense, use cases are
-functional requirements. They may not be appropriate for use as low-level implemen-
-tation descriptions, although some people have tried to coerce use cases into the SDD
-role. Use-case methodology was integrated into the Unified Modeling Language (UML)
-paradigm in the late 1990s.
-
-In its simplest form, a use case has four primary features: the actor, the system, a goal
-for what the actor needs to accomplish using the system, and the steps necessary to
-achieve the goal. Use cases can refer to other use cases in a hierarchical arrangement,
-starting with a set of general high-level use cases and descending into greater levels of
-detail. A use case can also refer to other use cases at the same level when two or more
-use cases are necessary to describe the actions required to meet a common goal.
+插图 8-5. 合同式需求
 
 
-Figure 8-6 shows an (admittedly somewhat contrived) example of a use case for a hy-
-pothetical greenhouse control system. In this example the use case has six elements,
-which are listed in Table 8-2.
+::
+
+    1.1 the data acquisition subsystem software shall be capable of acquiring and converting analog data as 16-bit signed data samples at a sustained rate of 1000 samples pre second
+        数据采集子系统软件应能够获取和持续率在1000个样本前第二的模拟数据转换为16位有符号数据样本
+    
+    1.2 the data acquisition subsystem software shall generate values between -32768 and +32768 scross a nominal input range of -10 to +10 V with an accuracy of +/- 1bit
+        数据采集子系统软件将产生值在-32768和32768 scross之间的标称输入电压范围为-10至+10 V，精度为+ / - 1位
+    
+    1.3 the data acquisition subsystem software shall detect both positive and negative voltage input over-range conditions in the conversion hardware, set a software status bit to indicate the condition, and return the maximum possible or negative digital value depending on the sign of the over-range condition.
+        应检测数据采集子系统软件的正面和负面的电压输入转换硬件条件超范围，设置软件状态位指示的条件，并返回最大可能的或负的数字值超范围的标志条件。
+    
+    1.4 the data acquisition subsystem software shall incorporate the ability to set upper and lower limits for acceptable input values via a configuration parameters file.
+        数据采集子系统软件应纳入的能力，为可接受的输入值，通过配置参数文件上限和下限。
+    
+    1.5 in the event of an input beyond the configurable range limits, the data acquisition subsystem software shall set a  status bit to indicate the condition, and return the actual value of the conversion.
+        超出配置的范围限制输入时，数据采集子系统软件应设置一个状态位来表示的条件，并返回实际值的转换。
+    
+    1.6 the data acquisition subsystem software shall incorporate the ability to detect a failure in the data conversion hardware, set a status bit to indicate the condition, and return an error code value in lieu of valid data.
+        应纳入数据采集子系统软件的能力，在数据转换的硬件检测失败，设置一个状态位来表示条件，代替有效的数据，返回一个错误代码值。
+        
+
+伊瓦.雅各布森(Ivar Jacobson)在1986年发明了用例,作为一种模型,
+描述系统和一个或是多个用户系统(可以是真实的人或其他系统)
+之间为完成特定任务的相互作用.
+用例将系统视作一个"黑盒子",只关注重点输入输出操作.
+从这个角度看,用例是种功能需求.
+所以,用例可能不适合作为底层执行的情况说明方式，
+尽管有些人也试图在SDD 中强行尝试用例形式.
+在20世纪90年代末用例方法被纳入了统一建模语言(UML).
 
 
-Table 8-2. Basic use case elements
+用例最简单的形式中,有四个主要的元素：角色，系统，目标，和实现目标必要的步骤.
+用例可以通过分层的组织形式来定义其它用例,一般从高层次的用例开始,并逐级引入细节.
+也可以通过关联同级的其它用例来一起描述为完成共同目标的必要步骤.
 
-.. list-table:: Table 8-2. Basic use case elements
+
+插图8-6展示一个假想的温室控制系统的使用情况(诚然有点做作).
+在这个例子中使用有6个元素，逐一在表8-2中列出.
+
+
+表 8-2. 用例基础元素
+
+.. list-table:: 表 8-2. 用例基础元素
    :widths: 10 40
    :header-rows: 1
 
-   * - Element 
-     - Description
-   * - Identification  
-     - A unique identifier for the use case. May be whatever format makes sense for the project, just so long as it can be used to unambiguously refer to a specific use case.
-   * - Title  
-     - A title for the use case. This, along with the identification, might appear in a listing of use cases for the project,so the title should be short yet descriptive.
-   * - Description  
-     - lso known as the “goal” of the use case. This describes, briefly and at a high level, what the use case is
-   attempting to define.
-   * - Actors 
-     - The agents (biological or otherwise) that need to accomplish the goal or goals stated in the description.
-   * - System 
-     - The thing that will respond to the actor(s) to allow for the realization of the goal.
-   * - Assumptions 
-     - The conditions that must exist in order in order for the goal to be accomplished.
-   * - Steps  
-     - The sequence of events (which may be just one) that must occur to accomplish the goal.
+   * - 元素
+     - 描述
+   * - 身分标识 Identification  
+     - 一个用例的唯一标识. 在项目的整个生命周期中,用以明确的指代特定的用例.
+   * - 标题 Title  
+     - 用例标题. 和身份标识绑定在一起,在整个项目周期中用以简要的说明用例.
+   * - 描述 Description  
+     - 也被称为用例的"目标".试图在较高层次定义用例的企图.
+   * - 角色 Actors 
+     - 在描述中指出的需要完成的目标或目标的代理(人或其他对象)
+   * - 系统 System 
+     - 响应角色来实现目标的事物.
+   * - 假设 Assumptions 
+     - 为了目标的可达成,而设定的必须条件.
+   * - 步骤 Steps  
+     - 为了完成目标所必须完成的事件序列(可能只有一个)
 
 
-     If you’ve had only limited exposure to use cases, you might think they are just the
-cartoons known as “use-case diagrams.” They are not. Use-case diagrams are intended
-as a way to present a high-level view of how a system will be used and by whom; they
-are not intended to define functional requirements. What is shown in Figure 8-6 is
-typically referred to as a formal use case, or sometimes as a traditional or concrete use
-case.
+如果只接触用例,你可能认为他们只是漫画,被称作"用例图"而已.
+其实不是,
+用例图的目的不是为了定义功能要求,而是提供一种视图,可以从高层次表述系统将由谁怎么使用,
 
-Another thing to note about use cases is that the criteria we looked at for well-written
-requirements also apply to use cases. They are, after all, requirements. In fact, a formal
-use case is somewhat like a set of one or more contract-style requirements grouped
-under a single heading, the goal.
+插图 8-6 展示了一个典型的正式用例，有时也叫传统用例 或者具体用例.
 
+另一件需要注意的是,
+良好的需求标准也同时适用与用例.
+毕竟到最后都是为了需求描述而服务的.
+事实上，一个正式的用例图,根本就是一个或一组合同式要求对单一目标的可视化描述.
 
-The finer points of use-case generation and organization are outside the scope of this
-book, so if you’re interested I would suggest that you look into some of the titles in the
-“Suggested Reading” section at the end of this chapter, or just peruse the Web. Wiki-
-pedia has a good introduction at http://en.wikipedia.org/wiki/Use_case.
+用例的生成和组织的细节是此书范围以外的了，
+如果你有进一步的兴趣,我会建议参考本章结束时的"推荐阅读"一节,
+或者也可以钻研互联网上的资料.
+维基百科有一个很好的介绍，在http://en.wikipedia.org/wiki/Use_case
 
-I would recommend using plain ASCII text files for use cases, because you can place
-text files under version control using a tool like CVS or Subversion. Both CVS and
-Subversion have the ability to automatically modify specially tagged lines in the files to
-note things like the last author, the version number, and the date of the last check-in.
-
-
+我会建议使用ASCII纯文本文件来组织用例，
+因为你可以把文本使用类似CVS或Subversion的版本工具进行控制.
+CVS和Subversion的有能力自动追踪文件的修改到特殊标记的行,最后的作者，版本号，上次检查的日期等等.
 
 
 
@@ -8878,900 +9150,1155 @@ note things like the last author, the version number, and the date of the last c
 
 
 </t>
-<t tx="zoomq.20110727085946.4333">Traceability
+<t tx="zoomq.20110727085946.4333">可追溯性
 -------------------------------------------------------------------------------
 
-Traceability refers to the linkage that must exist between a requirement and whatever
-drove it to exist in the first place. It doesn’t matter what form the requirement takes,
-be it contract-style or use case, it must still have a reason to exist.
+可追溯性是指需求和其它关联事务间存在的先决条件问题.
+不论以合同式或是用例什么形式记录都得说明需求存在的理由.
 
-Figure 8-7 is a graphical illustration of traceability, starting with the SOW, then the
-functional and derived requirements, on to the SDD, and finally the software itself.
-This is also indicated in Figure 8-4 by the dashed lines labeled “Trace.”
-
-Figure 8-6. Example formal use case
+插图8-7是展示了可追溯性的图景，从SOW开始，
+然后派生出功能和需求，再到SDD，最后是软件本身。
+在插图8-4 中也用虚线标示出了这一"追溯"关系
 
 
-Figure 8-7. Requirements traceability
+.. image:: ../_static/figs/rwip_0806.pdf.png
 
-Establishing traceability is essential for verifying that there is “requirements coverage”
-at each level. In other words, do the functional and derived requirements cover every-
-thing in the SOW? Does the SDD cover everything in the functional and derived
-requirements? Without traceability it might be impossible to know for certain, partic-
-ularly in cases where there are more than just a few requirements to deal with.
-
-A requirements traceability matrix like the one shown in Table 8-3 is a document that
-shows exactly how each functional requirement is mapped to the SDD. A similar table,
-called the verification matrix, is used to map the requirements to the tests used to verify
-each one.
+插图 8-6. 正式使用案例范例 Example formal use case
 
 
-.. list-table:: Table 8-3. Requirements traceability matrix
+::
+
+    title: obtain periodic temperature data from the greenhouse control system
+
+    description: a monitor system(the actor) periodically queries the control system and obtains temperature data for display with a gui. the transactions between the control system and the monitor system are accomplished using a custom communications protocol over a network connection
+    
+    actors: one actor consisting of an outboard computer system used to monitor the primary control system and display data such as temperature over time and error notification using a gui
+    
+    system: a dedicated control system for control of temperature, humidity, watering and illumination within the greenhouse.
+    
+    assumptions: the communications protocol used to exchange commands and fate between the actor and the system is defined in the project icd, and implemented in both the monitor and control systems.
+    
+    the control system is powered on and running correctly
+    the monitor sysytem is powered on and running correctly
+    an ethernet connection has been established between the control and monitor systems
+    
+    stepd:
+    1. actor sends query to system requesting current greenhouse temperature
+    2. contriol system responds with a string of ascii characters as define in the icd
+    Interface Control Document 接口控制文件
+    3. actor parses the response from the system and either plots a new data point or displays an error message, as appropriate
+    4. if the control system is nonresponsive then the monitor displays an appropriate error message.
+    
+    
+    标题：定期获得温室控制系统的温度数据
+    
+    描述：监控系统（演员）定期查询控制系统，并获得GUI显示的温度数据。控制系统和监控系统之间的交易是通过网络连接使用一个自定义的通信协议完成
+    
+    演员：演员组成一个外置的计算机系统，用于监视主控制系统和显示数据，如温度随着时间的推移和错误通知使用GUI
+    
+    系统：控制温室内的温度，湿度，浇水和照明的专用控制系统。
+    
+    假设：通信协议用于交换命令和命运之间的演员和系统的定义是在该项目ICD中，监测和控制系统的实施。
+    
+    控制系统供电和运行正常
+    监察sysytem通电和运行正常
+    以太网连接之间已建立的控制和监视系统
+    
+    stepd：
+    1。演员向系统发送查询请求目前的温室温度
+    2。 contriol系统响应与ASCII字符的字符串定义在ICD
+    接口控制文件接口控制文件
+    3。演员分析系统的响应，要么给出一个新的数据点，或显示适当的错误消息，
+    4。如果控制系统没有响应，然后在显示器上显示相应的错误
+
+
+
+.. image:: ../_static/figs/rwip_0807.pdf.png
+
+插图 8-7. 需求的可追溯性
+
+::
+
+    SOW     功能和关联需求     SDD =&gt; 软件
+
+
+在每个级别,可追溯性对于"需求范围"的核实至关重要.
+换句话说，功能和派生需求是否已经涵盖所有SOW要求的事情?
+SDD是否已经涵盖所有功能和派生需求?
+没有可追溯性，可能无法明确以上基础问题,尤其是在需求复杂的案例中.
+
+核实有“要求的覆盖范围，建立可追溯性是必不可少的”
+在每个级别。换句话说，功能和派生的要求涵盖所有
+在荒野的事情？是否在功能和派生的SDD面面俱到
+要求是什么？没有可追溯性，它可能无法肯定知道，尤其是在那里有超过短短几年的要求处理的案件。
+
+
+一个需求追踪矩阵如 
+表格8-3所示需求追踪矩阵,展现了各基础需求是如何被映射到每个功能的.
+类似的有所谓"验证矩阵"，用于将测试映射到对应的需求.
+
+
+.. list-table:: 表格 8-3. 需求追踪矩阵 
    :widths: 5 40 5
    :header-rows: 1
 
-   * - FR ID 
-     - Requirement 
-     - SDD ref.
+   * - 功能(FR,FunctionalRequirement) 编号 
+     - 需求
+     - SDD 定义
    * - 1.1
-     - The data acquisition subsystem software shall be capable of acquiring and converting analog data as 16- 
-bit signed data samples at a sustained rate of 1,000 samples per second. 
+     - 数据采集子系统软件应能够以每秒1000个样本的速率,接收并转换模拟信号为16位符号数据样本
      - 3.2.1
    * - 1.2
-     - The data acquisition subsystem software shall generate values between –32,768 and +32,767 across a 
-  nominal input range of –10 to +10 V with an accuracy of +/– 1 bit. 
+     - 数据采集子系统软件应产生-32,768到+32767之间的值,输入精度为+ /-10至+10 V的输入电压对应 +/- 1位.
      - 3.2.2
    * - 1.3
-     - The data acquisition subsystem software shall detect both positive and negative voltage input over-range 
-conditions in the conversion hardware, set a software status bit to indicate the condition, and return the 
+     - 数据采集子系统软件应能对超出硬件检测范畴的正负电压设置一个软件的状态位
      - 3.3.1
    * - 
-     - maximum possible positive or negative digital value depending on the sign of the over-range condition. 
+     - 以特定软件状态位作条件,根据约定的范围条件返回最大或是最低值.
      - 3.7.3
    * - 1.4
-     - The data acquisition subsystem software shall incorporate the ability to set upper and lower limits for 
-acceptable input values via a configuration parameters file. 
+     - 数据采集子系统软件应通过配置参数文件,调节输入可接受的上下限数值
      - 3.3.2
    * - 1.5
-     - In the event of an input beyond the configurable range limits, the data acquisition subsystem software 
+     - 在实际输入超出配置限定范围时，数据采集子系统软件应设置一个条件状态位
      - 3.4.1
    * - 
-     - shall set a status bit to indicate the condition, and return the actual value of the conversion.  
+     - 并返回转换后的实际数值
      - 4.2.4
    * - 1.6
-     - The data acquisition subsystem software shall incorporate the ability to detect a failure in the data 
+     - 数据采集子系统的软件应能够检测到数据转换硬件的失败
      - 3.4.2
    * - 
-     - conversion hardware, set a status bit to indicate the condition, and return an error code value in lieu of 
-valid data. 
+     - 用一个条件状态位来标识，并返回一个错误代码值代替有效的数据
      - 4.2.5
 
-In Table 8-3, the entire text of the original requirements is shown. If the requirements
-had titles, just having those would be sufficient. You should also be aware that I just
-pulled the SDD section references out of the air for the purpose of filling in the table.
+表格8-3中，条目使用了需求的原始文本,其实只用需求标题的也足够了.
+
+
+
+
+
+
+
+
 
 
 
 
 </t>
-<t tx="zoomq.20110727085946.4335">Capturing Requirements
+<t tx="zoomq.20110727085946.4335">需求捕获
 -------------------------------------------------------------------------------
 
-Capturing requirements can be a daunting task, especially if the people with a vested
-interest in the outcome don’t know the answers themselves. In a research environment
-this is actually more often the case than not, mainly because the principal stakeholders
-(the principal investigator, the department head, etc.) are likely to be more interested
-in the data the project will generate than in how it does it. They really don’t care all
-that much about the details of how a device does what it does, so long as it does it
-reliably and accurately, so asking specific questions about data conversion rates, bit
-resolution, over-voltage limits, and so on, is often not a very productive exercise.
+捕获正确需求可能是个艰巨的任务，
+特别是如果用户自身并不知道答案时.
+在研究环境中这实际上是常态,
+因为主要用户(首席研究员，部门主管等)
+对项目可产生的数据远比明确系统如何工作要更有感兴趣.
+他们真的不在乎所有设备的详细信息,能作什么,是否可靠和准确,
+数据转换率,电压限额，等等具体问题，
+所以,从他们心中捕获需求往往难以高效达成.
 
-A similar situation can exist in a commercial setting where requirements for a product
-are driven by marketing desirements. The folks in the marketing department may know,
-in general functional terms, what features the product needs in order to be competitive,
-but asking them specific low-level questions is typically not appropriate or fruitful.
+在商业环境中,如果软件产品的需求是营销部门主导时,也有类似情况.
+营销部门对包含什么功能才能形式有竞争力的产品更加有兴趣,
+但具体底层细节，咨询他们通常是疾而终的.
 
-Of course, there are situations where specific requirements for functionality, perform-
-ance, error handling, and so on, have already been worked out in advance to some level
-of detail. This is common in the aerospace and defense industries, and in some indus-
-trial processing situations, but outside of these domains it is more the exception than
-the rule. Even in cases where detailed requirements are provided, they should not be
-blindly accepted. Someone will need to review them for consistency and feasibility, as
-they will be a major driver in determining the level of effort, and hence the cost, of the
-project.
+当然在在航空航天和国防工业和一些工业领域,
+有些特定需求在高层级就已能得出,例如:性能，错误处理，等等.
+但这些领域外，这类需求更多被归类成异常规则.
+即使己有详细规定，这类需求也不应盲目接受.
+必须有人将审查的必要的一致性和可行性，
+而且他们的努力将成为控制项目成本的主要动力.
 
-What this really boils down to is that in most situations, if you want to have solid
-requirements to work from (and this is something you really should want), you will
-need to help create them. To this end, you may need to conduct interviews with the
-various stakeholders to determine what their primary objectives are for the project. If
-a statement of need does not exist, it should be created, and everyone with a vested
-interest will need to agree to it (or, in biz-speak, you will need to get “buy-in”). Once
-that key piece is in place, the rest of the requirements-creation effort is a matter of
-defining successively greater levels of detail until there is enough to design, build, and
-test the desired system.
+综上，多数情况下，如果您想有扎实的需求来展开工作
+(意思说,你真的渴望要这东西)，
+你就得去帮助用户创建需求.
+为此，您可能需要进行的采访所有相关人士，
+明确他们对项目的真实期待.
+如果发现还末支持的需要,立即建立一条需求,
+并获得所有相关人的同意
+(在商务用语中,您需要得到"买进"的许可).
+一旦关键需求部分到位，
+接下来就是按照层次先后进行细节的推敲,直到足够指引设计，建造，测试所需的系统.
 
 
-When attempting to capture low-level details, it is a good idea to write up a list of
-questions and provide it in advance to the people whom you will be interviewing to
-obtain the answers. If you think you already know some of the answers, or they can be
-surmised from information already on hand, you should also write up your deductions
-and assumptions and provide those as well.
 
-While there are specialized commercial tools available for formal requirements capture
-and documentation, a word processor or even a spreadsheet is often more than suffi-
-cient for most small- to medium-size projects. If you elect to use another approach,
-such as use cases, there are open source tools available to help with that too, but a
-decent word processor will again work pretty well.
+要试图捕捉到底层细节，
+起草问题清单是个好方法，
+清单中要包含你会采访的人,以及获取的答案;
+以及从回答中推断出的停息;
+最好也包含你扣除的需要,以及假设和对应提供者.
+
+
+
+对于需求捕获和文档,虽然有专门的商业工具,
+但是,通常一个字处理甚至电子表格软件,往往足以满足大多数小到中等规模项目的需求管理.
+如果您选择使用其他方法，如用例，也有可用的开放源码工具，
+但一般文字处理软件真的足够用了.
+
+
+
+
+
 </t>
-<t tx="zoomq.20110727085946.4337">Graphics in the SDD
+<t tx="zoomq.20110727085946.4337">SDD的图景
 -------------------------------------------------------------------------------
 
-An SDD can be a simple thing with only a few pages, but it can help make things clearer
-if there is something graphical for a reader (maybe you, at some later date) to illustrate
-some of the key aspects of the architecture of the software. Graphical representations
-also allow you, the designer, to see your design from new angles. It’s not uncommon
-for the designer to discover that the approach originally adopted won’t work as inten-
-ded when it’s modeled using some type of diagramming methodology. Not only do
-graphical representations and models help make problems in the design more visible,
-they can also help identify inefficiencies and suggest better ways of doing things.
 
-This section is by no means a tutorial on any of the graphical representation and mod-
-eling techniques presented here. It is an overview, and I am assuming that the reader
-will be able to infer how these tools are used from the material presented in this book.
-There is also a vast amount of information freely available on the Web. The main point
-here is to introduce the terms and concepts.
-
-@others
-</t>
-<t tx="zoomq.20110727085946.4339">Block diagrams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A block diagram is intended to show how different functional sections of a system—
-be it software, hardware, or both—relate to one another. In fact, we have already seen
-a lot of block diagrams in this book. Figure 8-4 is a block diagram, for instance (actually,
-it’s something of a hybrid that combines elements of both a block diagram and a flow-
-chart). If done correctly, a block diagram can convey a tremendous amount of infor-
-mation in a very compact format.
-
-A block diagram showing an overview of the system to be built is a good starting point
-for writing an SDD. In fact, a good block diagram, along with a page or two of text,
-might make up the entire SDD for a simple project.
-
-</t>
-<t tx="zoomq.20110727085946.4341">Flowcharts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The concept of the flowchart is older than computers themselves, and predates the
-advent of programming languages by at least 30 years. Flowcharts were originally de-
-veloped to represent and model the flow of activities in industrial processes. At IBM
-around 1947 Herman Goldstine and John von Neumann created what we know today
-as the software flowchart. The ISO standard 5807:1985 contains the latest definitions
-for flowcharts; unfortunately, ISO wants over $100 for it, but an older document from
-IBM (GC20-815-1, “Flowcharting Techniques,” 1969) can be found online without
-too much searching and downloaded for free.
+SDD(Software Design Description,软件设计说明) 可以简单到只有几页文字,
+但如果有图形,可以帮助读者(这可能就是日后的你自己)更好的理解
+软件中一些体系结构的关键环节.
+图形表示也可以让您和设计师，从新的角度来理解软件.
+原先方法无法工作时,使用其它类型的图表理解后就成功的情况并不少见.
+图形不仅仅用来表示模式,帮助设计识别问题所在,
+还可以提高沟通效率,得出更好的做事方式.
 
 
-Figure 8-8 shows a simple flowchart for a simple controller. The flowchart not only
-shows the essential functionality of the algorithm, but also shows where there might
-be some room for improvement. Notice, for example, that there is no provision to
-handle an error from Sensor 1. There is also no check to determine if the Output
-(whatever that might be) is actually responding.
-
-Figure 8-8. Example flowchart
-
-Some people may scoff at flowcharts and claim they are obsolete, but in reality flow-
-charts are very much alive and well. In UML the equivalent to a flowchart is called an
-activity diagram. A flowchart is an effective way to visualize decision paths through a
-program, but it starts to become bogged down when dealing with control flow con-
-structs such as switches or loops. Still, a flowchart can illustrate a section of program
-logic in a visually intuitive fashion, and should not be overlooked if it will benefit the
-SDD.
-</t>
-<t tx="zoomq.20110727085946.4343">State diagrams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A state diagram is a powerful tool for modeling state changes. In fact, state diagrams
-have evolved to the point where there are tools available that can translate a state dia-
-gram directly into program code ready for compilation. In addition, a tool of this type
-can usually create a simulation based on the state diagram and execute it to allow the
-developer to observe its behavior.
-
-Figure 8-9 shows the state diagram for a simple on-off control. The channel might be
-an AC power control, or it could be a relay. From the diagram we can see that the
-control will accept three types of input: an ON command, an OFF command, and a
-RESET command. You might also notice that if an error occurs due to something not
-working correctly, the logic will ignore any further incoming commands except for a
-RESET.
-
-Figure 8-9. Example state diagram
-
-</t>
-<t tx="zoomq.20110727085946.4345">Message sequence charts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The message sequence chart (MSC) is defined by the guidelines document Z.120, main-
-tained by the International Telecommunication Union (ITU). In its current form, an
-MSC is a powerful tool for modeling command-response transactions between multiple
-entities. The UML equivalent of the MSC is the sequence diagram. A simple MSC is
-shown in Figure 8-10.
-
-Figure 8-10. MSC example
-
-    An MSC models the transactions that may occur between entities such as users, pro-
-cesses, or services. The transactions typically involve exchanges in the form of requests,
-commands, or data. In the simple MSC shown in Figure 8-10 there are four processes:
-a remote system, the primary system monitor, a logging subsystem, and the data ac-
-quisition hardware (represented by the interface API process). When the remote system
-wants to obtain data, it sends a request to the system monitor. This, in turn, passes a
-command to the interface API, which then interacts with the hardware and returns the
-data requested. The system monitor logs the response from the interface API and com-
-pletes the transaction cycle by responding to the remote system’s original request.
-
-    Even with a simple MSC like that shown in Figure 8-10 there are some things that may
-have caught your eye. First, a status request takes a finite amount of time to process.
-What the MSC does not show is just how long that finite amount of time might be. In
-a more detailed MSC this could be indicated as an upper limit on acceptable response
-time. Secondly, our simple MSC doesn’t show the alternate scenario where an error
-occurs at the interface API level, although it could have done so if the full syntax for an
-MSC had been used.
-
-    The latest revision of Z.120 contains a large amount of detail on the syntax of MSCs,
-and if you’re interested in using them it’s worth looking through it to get an idea of just
-what these diagrams are capable of. There are also various tools available for creating
-MSC diagrams, both commercial and open source.
-
-
-</t>
-<t tx="zoomq.20110727085946.4347">Block diagrams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A block diagram is intended to show how different functional sections of a system—
-be it software, hardware, or both—relate to one another. In fact, we have already seen
-a lot of block diagrams in this book. Figure 8-4 is a block diagram, for instance (actually,
-it’s something of a hybrid that combines elements of both a block diagram and a flow-
-chart). If done correctly, a block diagram can convey a tremendous amount of infor-
-mation in a very compact format.
-A block diagram showing an overview of the system to be built is a good starting point
-for writing an SDD. In fact, a good block diagram, along with a page or two of text,
-might make up the entire SDD for a simple project.
-
-</t>
-<t tx="zoomq.20110727085946.4349">Pseudocode
--------------------------------------------------------------------------------
-
-OK, so perhaps you’re not visually inclined and prefer to deal with text. There’s a
-modeling and representation technique for that, too: it’s called pseudocode.
-
-Pseudocode is a human-readable description of what a computer program or algorithm
-must do, written using a formalized style in some natural language (it doesn’t matter
-which one, actually, so long as it supports the necessary technical vocabulary, but
-English does seem to show up a lot). Pseudocode typically uses the structural conven-
-tions of a programming language, such as indentation, if statements, and so on, but it
-is not intended to serve as a programming language.
-
-There is currently no standard form for pseudocode, but in general it borrows from the
-syntax of an existing programming language, with C being a common choice. Elements
-such as variable declarations are usually omitted, and things such as function calls or
-blocks of code within loop structures are replaced with one or two sentences of natural-
-language description. The main intent is to capture the functionality of an algorithm
-or program, not the low-level nitty-gritty details of how it will be implemented, al-
-though in some cases it might make sense to include some details as well.
-
-In practice, pseudocode may vary widely in style, depending on who is writing it and
-the environment in which it is used. It can range from something that looks like a real
-programming language at one extreme, to a description approaching something like
-an essay at the other. Ideally the writer should strive to strike a balance somewhere in
-between.
-
-Figure 8-11 shows a sample of pseudocode for a function to read analog data from a
-lower-level function. As you can see, the main intent of ReadAnalog is to wrap the lower-
-level function ReadAnalogChan with parameter checking, and also replace the return
-code from the driver API with something the higher-level program can understand
-(actually, it simplifies the return code, because some API calls might return 20 or 30
-different values primarily of interest to hardware engineers, depending on what went
-wrong with the hardware).
-
-Pseudocode should be detailed enough to capture the essential functionality of a pro-
-gram or algorithm, but still be easily readable by someone who is not familiar with the
-programming language that will be used to implement it. This allows it to be inspected
-and reviewed as a way to ensure that the final program will meet design specifications,
-and that there are no lurking deficiencies that the original author may have overlooked
-(which happens all the time, since humans tend to overlook errors in their own writing).
-</t>
-<t tx="zoomq.20110727085946.4351">Divide and Conquer
--------------------------------------------------------------------------------
-Now that we’ve looked at some of the tools available for creating an SDD, let’s look at
-how an SDD might be organized. Figure 8-12 shows how we can use a high-level block
-diagram of a system to create the outline structure for an SDD.
-
-Figure 8-11. Pseudocode example
-
-    The idea here is very simple: just write a section for each major functional block in the
-system diagram. You will also need some words and maybe a diagram or two describing
-how the functional blocks integrate into the overall system. The integration details can
-be included in the appropriate sections, or they might be a section of their own; that’s
-up to you.
-
-    As I stated earlier, the SDD doesn’t need to be a tome of detailed minutiae, but it does
-need to have enough information to allow someone reading it to understand how to
-implement the software, and why the software was written the way it was. It also dem-
-onstrates that the software was planned, rather than just being hacked into existence.
-This, by the way, isn’t just a “warm and fuzzy” sort of thing. Should something not
-work as planned, or if a problem should occur months, or even years, after the software
-was created, the SDD will be invaluable in helping to determine why the problem oc-
-curred and what options might be available to deal with it. If the software is generating
-data for research purposes, it can also come in handy should a question ever arise as
-to the accuracy of the data and the methods used to process it. Should you ever find
-yourself defending the data generated by software that you wrote, an SDD could be
-worth its weight in gold.
-
-</t>
-<t tx="zoomq.20110727085946.4353">Handling Errors and Faults
--------------------------------------------------------------------------------
-
-Unfortunately we don’t live in a perfect world, and I’ve yet to meet a perfect software
-developer, so a design document must plan for the unexpected and describe how the
-software will deal with errors or faults, should they occur. And it’s a safe bet that even
-if the obvious bugs in the software are found and dealt with, nonobvious things like
-off-nominal input values, hardware errors, or unplanned sequences of events can still
-occur when least expected.
-
-Figure 8-12. SDD organization
+本节绝不是任何图形表示或建模技术的教程.
+只是相关概览，我期望读者可以根据实际情况自主使用书中所提及的工具.
+另外这里介绍的各种术语和概念在在网络中都免费提供有大量的信息可供参考.
 
 
 @others
 </t>
-<t tx="zoomq.20110727085946.4355">Identifying potential failures
+<t tx="zoomq.20110727085946.4339">框图
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-One way to identify potential failures is by doing a basic failure analysis. A failure
-analysis is a simple and effective way to list all of the possible ways a system might fail,
-and then identify how the software might deal with the failures. It is, in essence, a set
-of “what if?” questions, along with your best attempt at a reasonable answer for each.
-Table 8-4 shows a simple failure analysis table.
+框图一般用以表述系統中不同功能区，软件，硬件，或之间相互的关系.
+事实上，本书已经展示了很多框图.
+例如插图8-4就是框图
+(实际上，它是种混合图,既是框图，也是个流图表）.
+其实,如果设计得当,框图能以非常紧凑的的形式传达大量信息.
+
+为了编写SDD, 从描述目标系统的概览框图是开始,是一个很好的方法.
+事实上，一个良好的框图，配合伴随着一两页文本或是网页,就可以是一个简单的项目的整个SDD.
 
 
-.. list-table:: Table 8-4. Simple failure analysis
+</t>
+<t tx="zoomq.20110727085946.4341">流程图 Flowcharts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+流程图的概念可是比电脑本身年龄都大了，
+至少比编程语言问世要早30年!
+最初流程图用以表示工业生产中活动流程和和模型.
+1947年左右在IBM由赫尔曼(Herman Goldstine)和冯.诺伊曼(John von Neumann)创造了今天
+我们熟知的软件流程图.
+ISO标准5807:1985包含最新的流程图定义;
+不幸的是，必须上缴 $100 才能看到原文;
+不过,有篇从IBM流传出来的老文件
+(GC20- 815- 1，"流程图技术"1969年)可以在网上找到并免费下载.
+
+插图8-8展示了一个简单控制器的流程图.
+流程图不仅显示了该算法的基本功能，
+也表明那里有余地可改进.
+例如，没有规定处理传感器1的输出错误.
+也没有约定如何检查以确定输出(任何可能)是否为响应.
+
+.. image:: ../_static/figs/rwip_0808.pdf.png
+
+插图 8-8. 流程图例子
+
+::
+
+    进入
+    -&gt; 从传感器1读入电压
+    -&gt; v &gt; 最大值?
+        是 -&gt; 不能输出
+    否 -&gt; v &lt; 最小值?
+        是 -&gt; 能输出
+    否-&gt; 返回
+
+
+
+有些人可能会对流程图嗤之以鼻，并声称他们已经过时，
+但在现实中流程图的运用是非常活跃和良好的.
+在UML中流程图相当于"活动图".
+流程图是程序逻辑路径的有效的可视化形式.
+虽然在复杂控制流(如交换机或循环)的表述中,流程图有些力不从心.
+尽管如此，流程图作为程序段逻辑的直观说明方式，在SDD 中就不应该被忽视.
+</t>
+<t tx="zoomq.20110727085946.4343">状态图
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+状态图是对状态变化进行建模的强大工具.
+事实上，状态图已发展到通过专用工具可以将状态图直接转化成程序代码进行编译地步.
+此外，这种类工具通常可以创建基于状态图的模拟图示并能执行,以便在开发过程中观察其行为.
+
+
+插图 8-9 展示了一个简单开关的控制状态图.
+该通道可能是交流电也可能是中继电路.
+从图中我们可以看到，控制器接受三种类型的输入:
+ON命令，关闭命令，和一个复位(RESET)命令.
+您可能还注意到，如果出现错误，或有什么未正常工作时，
+逻辑会忽略除了复位命令之外的任何输入.
+
+.. image:: ../_static/figs/rwip_0809.pdf.png
+
+.. image:: rwipy-fig-8-9.png
+
+插图 8-9. 状态图示例
+
+</t>
+<t tx="zoomq.20110727085946.4345">消息序列图
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+消息序列图(The message sequence chart,MSC)
+由国际电信联盟(International Telecommunication Unio,ITU)维护的Z.120文件定义.
+以目前的形式,消息序列图(MSC)是对多个实体间指令-响应式交互进行建模描述的强大工具.
+
+UML中的序列图相当于消息序列图(MSC).
+插图8-10展示了一个简单的消息序列图(MSC).
+
+
+.. image:: ../_static/figs/rwip_0810.pdf.png
+
+插图 8-10. 消息序列图(MSC)示例
+
+::
+
+    远程系统        系统监控        日志子系统       界面接口
+    -&gt;状态请求
+                                    -&gt; 数据读取
+                                    输入数据&lt;-
+                                    -&gt;日志传输
+    状态数据&lt;-
+
+
+
+
+MSC模型中的实体，是指可能产生交互的实体,如用户，流程或服务.
+交互通常涉及各种形式的交流如请求，指令或数据.
+在插图8-10所示的简单消息序列图(MSC)中四个流程：
+远程系统，主系统监控，日志记录子系统，数据采集硬件(接口API的过程代表).
+当远程系统要获取数据时，它向系统监视器发出一个请求.
+由命令接口API解析返回系统指令，然后与硬件进行交互，
+最终返回请求的数据.
+系统监视器在交易周期内记录所有接口API的响应和远程系统的原始请求.
+
+
+即便像图8-10所示如此简单的消息序列图(MSC),依然可以令你快速注意到一些东西.
+首先，一个状态请求需要一个有限的时间来处理.
+消息序列图(MSC)并没有显示有限的时间究竟是多长.
+在更详细的消息序列图(MSC)中可以表示成可接受的响应时间上限.
+其次，简单消息序列图中不显示在接口API级别出错时的备用响应方案.
+当然完整语法的消息序列图(MSC)是可以有效表述出的.
+
+Z.120的最新修订版,包含大量消息序列图(MSC)语法上的细节,
+如果对此有兴趣,绝对值得研究通过使用这些图示可以表达什么.
+当然的,有各种商业或是开源工具可以辅助创建 消息序列图(MSC).
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20110727085946.4349">伪代码
+-------------------------------------------------------------------------------
+
+OK，也许你对图形没感觉,宁愿处理文本.
+那么,有种建模称为伪代码(Pseudocode)。
+
+伪代码是用自然语言书写而成,基于某种样式将程序或算法描述成人直接可读的文本.
+(不论哪种语言,只要支持必要的技术词汇就可以，但似乎多数情况都是用英语).
+通常伪代码使用编程语言的结构约定，如缩进,if语句，等等，
+但它并不打算成为真正的编程语言.
+
+目前还没有标准的伪代码格式，
+但一般是借用现有的编程语言，C语言成为通用的语法选择.
+有些语法元素一般会省略,
+比如变量声明，函数调用或循环结构内的代码块会被替换为一个或两个自然语言的描述语句.
+伪代码主要目的是记录算法的功能或程序，
+而不是低层如何实施的细节，
+虽然在某些情况下包含一些细节可能更有用.
+
+
+在实践中，伪代码随着作者和环境的不同可能有风格的很大差异.
+它可以看起来极端像一个真正的编程语言,也可以近似一篇散文.
+理想情况下，作者应该努力在两种风格间取得平衡.
+
+
+图8-11显示了伪代码示例:一个从底层功能读取模拟数据的函式.
+正如你所见. ``ReadAnalog`` 的主要意图是包装底层 ``ReadAnalogChan`` 的参数检查，
+并取代从驱动API返回的代码,将其转化成高级别的程序可以理解的事物
+(实际上，它简化了返回代码，因为某些API调用可能会返回20或30种不同的数值，
+都是些只有硬件工程师有兴趣的各种硬件错误警告).
+
+
+伪代码应足够详细，以记录程序或算法的基本功能，
+同时还得确保对编程不熟悉的人也可以容易阅读.
+这使依法办事代码具备可审查性，以确保最终方案将满足设计规范,
+是否潜伏的缺陷，是否忽略了原作者的意图.
+(因为人们往往忽略了自己的写作中的错误).
+
+
+
+
+</t>
+<t tx="zoomq.20110727085946.4351">分而治之
+-------------------------------------------------------------------------------
+
+我们已考察过一些创建SDD可用的工具,
+现在让我们来看看如何真正组织一个SDD.
+插图8-12展示了如何根据高层次系统框图创建SDD的大纲.
+
+
+.. image:: ../_static/figs/rwip_0811.pdf.png
+
+插图 8-11. 伪代码示例
+
+
+
+
+这里的思想很简单：只为系统框图中的主要功能块撰写章节.
+需要增补的,可能是两个图示,或是描述如何将功能模块融入整个系统.
+详细描述,可以包含在适当章节中,或是每个模块有自个儿的章节,这由你定.
+
+
+正如之前所述,SDD不必包含所有细节的大部头文章,
+但应该包含足够的细节,以便读者可以了解如何实现软件.
+还展示了软件的开发计划,而不仅仅是不管不顾的开发(hacked)出来.
+
+顺便说一下,开发计划绝对不应是"粉饰太平"之类的表面文章.
+如果不按照计划进行,软件很可能在几个月或是几年后出问题,
+通过SDD 的帮助,我们可以事先明确为什么发生问题,并指定数个方案应对.
+
+如果软件是产生用以研究的数据,SDD 也可以在数据的准确性不断出现问题时,
+事先给出方法来处理.
+
+SDD超值发挥之时,就是你在捍卫由软件生成的数据之时.
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20110727085946.4353">处理错误和故障
+-------------------------------------------------------------------------------
+
+不幸的是，我们没有生活在完美的世界，
+我也没有达到完美的软件开发者報界，
+所以,设计文档必须考虑到意外,并说明错误或故障一旦发生,软件将如何处置.
+这是个有关安全的赌注，
+即使在软件中对明显的错误都进行了处理,
+例如:发现和处理超标输入，硬件错误，或计划外的事件序列,
+到最后,仍然会有意外发生.
+
+.. image:: ../_static/figs/rwip_0812.pdf.png
+
+插图 8-12. 组织SDD 
+
+::
+
+                    用户界面
+                    /       V ^
+    错误句柄        数据处理
+            \            //          \\
+            硬件界面        远程界面
+
+    1.0 系统概述
+    1.1     系统说明
+    1.2     系统框图
+    
+    2.0 硬件界面
+    2.1     API扩展
+    2.2     串口界面
+    
+    3.0 数据处理
+    3.1     控制算法
+    3.2     趋势监控
+    3.3     参数读/写
+    
+    4.0 用户界面
+    4.1     图形架构
+    4.2     菜单项
+    4.3     数据显示
+    4.4     状态展示
+    
+    5.0 远程界面
+    5.1     TCP/IP 套接服务
+    5.1.1       命令协议
+    5.1.2       数据格式
+    5.2     串口界面
+    5.2.1       命令协议
+    5.2.2       数据格式
+    
+    6.0 错误响应
+    6.1     失败分析
+    6.2     错误句柄
+    
+    7.0 验证集
+
+
+
+@others
+</t>
+<t tx="zoomq.20110727085946.4355">确定潜在的故障
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+找出潜在的故障的方法之一,就是通过做基本的的故障分析.
+失败分析是种简单而有效的方式,
+先列出所有的系统可能会失败的途径，
+然后识别软件会如何处理.
+在本质上，它是一套 "这是什么?"的问题，
+你最好尝试给每个问题一个合理的答案.
+
+表8-4显示了一个简单的故障分析表。
+
+
+.. list-table:: 表 8-4. 简单故障分析
    :widths: 10 20 20
    :header-rows: 1
 
-   * - Failure 
-     - Cause 
-     - Response
-   * - Input hardware error  
-     - Invalid input channel specified  
-     - Notify user and log error. System does not halt.
+   * - 故障
+     - 原因
+     - 对策
+   * - 硬件输入错误
+     - 无效的输入通道
+     - 通知用户并记录.系统不会停止
    * - 
-     - Invalid input port specified 
-     - Notify user and log error. System does not halt.
+     - 无效的输入端口
+     - 通知用户并记录.系统不会停止
    * - 
-     - Hardware nonresponsive  
-     - Notify user and halt system.
-   * - Output hardware error 
-     - Invalid output channel specified  
-     - Notify user and log error. System does not halt.
+     - 硬件无响应
+     - 通知用户.系统终止
+   * - 硬件输出错误
+     - 无效的输出通道
+     - 通知用户并记录.系统不会停止
    * - 
-     - Invalid input port specified   
-     - Notify user and log error. System does not halt.
+     - 无效的输出端口
+     - 通知用户并记录.系统不会停止
    * - 
-     - Hardware nonresponsive 
-     - Notify user and halt system.
-   * - Invalid user input
-     - User-supplied parameter or command code is invalid 
-     - Notify user and log error. System does not halt.
+     - 硬件无响应
+     - 通知用户.系统终止
+   * - 无效的用户输入
+     - 用户提供的参数或命令代码是无效的
+     - 通知用户并记录.系统不会停止
 
-This type of analysis can easily be done using a spreadsheet. With a little thought (and
-a real system to work from), Table 8-4 could most likely be expanded to cover more
-possible failure cases, but the idea here is that for every possible failure listed, a response
-is defined. You should also be aware of the temptation to say, “Nah, that could never
-possibly happen” when reviewing potential failures. Such assumptions have resulted
-in some spectacular software failures over the years.
+这种类型的分析使用电子表格可以很容易地进行.
+随着一步步的增补(系统开始真正工作),
+表8-4有可能被扩大，以涵盖更多可能的失败的案例，
+但这里的思路是，
+只要每种错误都能列出来,那么响应策略就可以被定义.
+审查潜在的故障时你可能会说:"不,这种情况不可能出现!"
+正是这种假设，导致多年来各种壮观的软件故障.
+
+
+
+
 
 </t>
-<t tx="zoomq.20110727085946.4357">Failure responses
+<t tx="zoomq.20110727085946.4357">故障响应
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Failure conditions can generally be categorized into three groups: fatal, nonfatal, and
-trivial. It is important to plan out how the system will respond to each class of failure.
-For example, should a fatal error occur, will the system try to shut itself down gracefully,
-or will it just drop dead (i.e., crash)? If a nonfatal error crops up, what functionality, if
-any, will or should be disabled? Will the system still be usable? And what of trivial
-failures? Should the system try to send some type of notification, silently log the event
-for later review, or just ignore it completely? These are the kinds of things you should
-consider when formulating your responses.
+失败条件一般可以分为三组：致命的，非致命性，微不足道的.
 
+重要的是要规划出系统应该如何处理每一类的故障.
+
+例如，当出现致命的错误时，系统会优雅的尝试自行关闭，还是直接死掉(​​即崩溃)?
+如果出现非致命的错误，是个别功能还是所有功能应该被禁用?
+系统仍然是可用的嘛? 怎么算是细小的错误?
+沉默地记录事件以后,系统应该尝试发送哪种形式的通知? 或者只是完全忽略它?
+
+等等所有这些事情,在制订对策时,都应该考虑到.
 </t>
-<t tx="zoomq.20110727085946.4359">Testing to the Requirements
+<t tx="zoomq.20110727085946.4359">为需求而测 Testing to the Requirements
 -------------------------------------------------------------------------------
 
-A functional test, as the name implies, tests the functionality of a system against the
-requirements that defined the system in the first place. Creating functional test cases
-from the requirements is actually very straightforward. A well-written requirement
-should contain all the information necessary for the test case. For example, assume we
-have a requirement that reads::
+功能测试，顾名思义，摆在首位的是对系统能否达成需求的功能的测试.
+建立功能测试用例的要求其实很简单.
+良好的需求设计已经包含了所有必要的测试案例的信息.
+例如，假设我们有这样一个需求::
 
-    The data acquisition subsystem software shall be capable of acquiring and converting
-    analog data as 16-bit signed data samples at a sustained rate of 1,000 samples per second.
+    数据采集子系统软件应能够获取和转换
+    以每秒1000个样本为速率的16位有符号整型数.
 
 
-    From this we can see that we’ll need an input that will result in the system generating
-values between –32,768 and 32,767. We will also need to be able to count the samples
-generated in a one-second window. If the software has the ability to determine its actual
-sample rate in real time and display it (or at least record it), we’re basically done. If it
-doesn’t, maybe this is something that should go into a derived requirement and then
-into the SDD (this example is one way that derived requirements are discovered).
+由此可以得出，
+我们需要输入模拟，以便触发系统生成-32,768和32,767之间的值数据.
+我们还需要能够对一秒钟内生成的样本进行计数.
+如果软件有能力来实时确定其实际采样率，并显示它(或至少记录)，我们基本上完成了.
+如果它无法作到，也许这就是应该收录为一条派生需求，
+然后进入SDD
+(这也是需求如何被发现的例子).
 
-    But even without a new derived requirement, it may still be possible to determine the
-sample rate. Perhaps the system saves data samples, along with timestamps, to a buf-
-fered file. It doesn’t have to save each sample, but perhaps it will save data every 100
-samples. If a logging capability is incorporated into the software, it may be possible to
-obtain the necessary verification data that way. Finally, it may be possible to connect
-instrumentation to the hardware and observe the timing of the data acquisition and
-conversion pulses while it is running.
+但是，即使没有新派生需求，仍然是可以确定采样率的.
+也许系统可以伴有时间戳来保存数据样本到一个缓冲的文件.
+也许不用保存每个样品，但也许会保存每100样本数据.
+如果日志记录功能纳入到软件中，就可能获得必要的核查数据的方式.
+最后，它可能会连接仪器的硬件,结合数据采集的时间,换算成运行时的转换速率.
 
-    This, by the way, is why it’s a Good Idea to start working on the functional tests before
-the coding starts. In the process of designing the test cases it is very possible that defi-
-ciencies in the design will become apparent, and now is the time to deal with them, not
-later, when the code is already written. Writing the test cases before the code can illu-
-minate dark corners and stimulate thinking in ways that will save time (and probably
-money) later on in the development process.
 
+顺便说一下，这也就是为什么说,在开始编码前要进设计功能测试.
+在测试用例的设计过程中，原有的缺陷就可能忽然明显起来,
+那么这时修订,远比代码全部完成了再改要优雅得的多.
+在代码之前编写测试案例，可以照亮思维的暗角，刺激思维方式，终将在后期开发过程中节省时间
+(也可能是钱).
 </t>
-<t tx="zoomq.20110727085946.4361">Test Cases
+<t tx="zoomq.20110727085946.4361">测试用例
 -------------------------------------------------------------------------------
 
-A functional test case describes the context and procedures necessary to test a particular
-aspect of the system against a particular requirement. Requirements drive test cases,
-and test cases in turn are used to define or generate the methods that will actually
-perform the tests. A functional test case may also be part of a use case, but in this book
-I will treat use cases and functional tests as two separate entities.
+功能测试用例描述介绍必要的场景,
+以便测试系统对特定的要求，在特定的环境中如何响应。
+需求驱动的测试用例，却是反过来，通过实际的测试执行来定义或是生成功能。
+功能测试的情况也可以是用例的一部分，
+但在本书，我们将以两个独立实体来分享讨论用例和功能测试。
 
 
-The block diagram in Figure 8-13 shows the relationship between a test case and the
-requirement that drives it, along with the procedures that will execute it, and finally
-the data that is used to determine the pass/fail status of the test.
+插图8-13 用框图形式，展示了需求驱动的测试用例之间的关系，
+让程序执行，根据测试数据的通过/失败状态来最终确定需求是否达成.
 
-Figure 8-13. Requirement and test case relationship
+.. image:: ../_static/figs/rwip_0813.pdf.png
+
+插图 8-13. 需要和测试用例关系
+
+::
+
+    需求
+    =&gt; 测试用例:
+        测试编号
+        测试标题
+        测试目标
+        测试步骤
+        测试过程
+        通过/失败 条件
+
+    =&gt; 执行测试
+        人工测试
+        自动测试
+
+    =&gt; 测试数据
 
 
-In some environments one might hear of “test procedures,” or perhaps a “test proce-
-dures document.” These are just the “scripts,” or series of actions, that need to occur
-in order to perform the tests. They might actually be something like a script that an
-actor (the tester) would follow (e.g., Step 1, Step 2, Step 3, etc.), or they could be scripts
-in the sense of being some type of programmatic test procedure (e.g., a Python script,
-say, or a control script for a communications simulator). This would be the box labeled
-“Automated Test” in Figure 8-13.
 
 
-Separating out the tests into two separate but related documents, cases and procedures,
-is not really necessary in most situations. However, with some projects the level of
-complexity may be such that it makes sense to separate the nonexecutable description
-of the test (the test case) from the executable portion (the test procedure) for verification
-and tracking purposes. Abstracting out the test cases from the procedures makes it
-possible to independently write, verify, execute, and modify the procedures without
-disturbing the associated test cases any more than is absolutely necessary. This also has
-the effect of adding more effort (and cost) to the whole process, because now there are
-two documents to manage instead of one. But regardless of how the tests are structured,
-it is the test procedure that is “buying off” the requirement, because it is the test pro-
-cedure alone that determines if the test is marked as a pass or fail.
+在某些场景中,你可能会听到"测试程序"，或者"测试程序文档"
+这就是"脚本"，或是说为了测试要完成的一系列行动.
+实际也像演员(测试仪)要遵循的脚本(例如，第1步，第2步，3步，等)，
+或是说某种类型方案的测试程序
+(例如，一个Python脚本，或者一个通讯模拟器的控制脚本).
+这些构成插图8-13中指出的"自动测试".
 
-A template for a test case is shown in Figure 8-14. In this example, as in Figure 8-13,
-the test case incorporates the procedure as part of the body of the test case.
 
-Figure 8-14. Generic test case template
+将测试分离分为两个独立但相关的文件，用例和程序,多数情况并不是真的有必要.
+然而，随着项目复杂程度的增补,
+将测试分成可执行的(测试程序)以及不可执行的(测试用例)两个部分,
+就很有必要.
+因为抽象出来的测试案例以及程序,都可以独立编写,互不干挠,
+面对成批的相关测试时,这么安排绝对有必要.
+当然这么作,也相应增加了精力和成本,毕竟现在有两个文件要维护.
 
-Also notice that the template in Figure 8-14 has a little something extra up at the top.
+然而,不论怎么组织,测试都是来"买通"需求的,
+即,根据通过或失败的测试状态来独立判定成果.
 
-    I like to put a block at the top of each of my test cases that shows, in a nutshell, what
-type of test it is and what it needs in the way of a script or program if it happens to be
-scripted (i.e., automatic). The summary block also states whether the test is valid with
-the software running in a simulation mode, or if it needs the actual hardware in order
-to be executed. Note that it is possible to have a “Yes” for “Valid with Simulator” and
-a “No” for “Valid with Hardware.” This scenario can arise when the software’s internal
-simulation capabilities, if it has any, allow some functionality to be exercised that can-
-not be performed on a live system (e.g., during error-handling tests that use fault in-
-jection). Next, if an automated script is used, it is named here. Lastly, if an external
-source of commands and/or control signals is utilized for the test, that is noted here.
 
-    Test cases may reside in a larger document as subsections, or they might be single
-entities created as text files. Both approaches have their pros and cons. One large
-document puts everything in one convenient place. Separate text files allow the test
-cases to easily be placed under version control and revised independently.
-You will need some way to record the pass/fail status of each test case, along with the
-date on which it was last executed. A spreadsheet works well for this, as does a printed
-listing of the test case IDs along with space to record the test results.
+插图 8-14展示了测试用例的模板.
+类似插图 8-13 中所示,测试用例中的测试过程就是案例的一部分.
+
+.. image:: ../_static/figs/rwip_0814.pdf.png
+插图 8-14. 通用测试用例模板
+
+::
+
+    测试_id 功能测试标题
+    
+        测试类型:   人工测试?脚本?扩展驱动?
+        模拟用值:   是否在虚拟模式中测试?
+        硬件用值:   是否在真实硬件中运行?
+        脚本带宽:   如果是自动化测试,哪些脚本要使用?
+        C扩展/源码:如果测试有支持命令/控制资源,它们在哪?
+        
+    目标:
+        此处叙述要进行此项测试的理由,以及测试人员须知.不用定义如何算通过/失败
+    
+    预测步驟:
+    
+        定义测试准备工作,说明所有在测试开始前应该准备好的各方面事物
+        
+        A. 步骤
+        B. 步驟
+        C. 步驟
+            (追加必要条目)
+    
+    测试过程:
+        
+        此处详进说明测试环节.每一环节可以包含多个步驟.每一步骤都应该是可检验的行动
+        (比如说:"将开关s1置为开启,并确认通路1的灯点亮" 或是 "启动测试脚本,并确认在脚本运行期间没有错误信息抛出")
+    
+        A. 步骤描述
+        B. 步骤描述
+        C. 步骤描述
+        D. 步骤描述
+            (追加必要步骤)
+    
+    通过/失败:
+        
+        此节定义测试通过/失败标准. 
+        测试的通过, 应表现出的行为类似,不超过定义的指标范围或限制.或测试执行期间没有生成任何错误.
+        测试的失败标准,可能是函式执行的输出值过高或过低, 或是在测试过程中发生任何错误,从而抛出错误消息, 这都是明显的失败表现.
+
+
+.. a test that passes would exhibit the behavior define by the requirement without exceeding nominal ranges or limits. or generation any errors during the execution of the test. a test failure might be a value that is too high or too low or a function taking too long to execute. any error that occurred during the test resulted in an error message is an obvious failure.
+
+
+
+同时,注意,模板头部附加了一点东西.
+
+我喜欢在每一个测试案例头部追加一个概要,说明
+是什么类型的测试，需要开发还是脚本(即自动化脚本).
+摘要还指出测试是否需要在模拟模式下运行软件，或者必须以实际的硬件来执行.
+请注意，如果"模拟器检验"为"是","硬件检验"为"否".
+这时意味着,该软件内部包含仿真功能，有些功能可能无法和运行态系统一样执行
+(例如，使用故障注入来测试错误处理).
+其次，如果有配套的自动化脚本,将在此进行命名.
+最后，如果有外部信号源进行命令或控制,也在这里指出.
+
+测试用例可以作为大文档中的章节内容,
+也可以收集在单独的文件中.
+这两种方法各有利弊.
+大文件方便统一查阅.
+单独文本,允许和测试案例一起置于版本管理中进行追踪和修订.
+您将需要一些方法来记录每个测试用例的通过/失败状态，
+并标上执行日期.
+电子表格可以很好的管理这些,
+打印时,记得在用例ID号前留点空间,以便记录执行结果.
+
+
+
+</t>
+<t tx="zoomq.20110727085946.4363">测试错误处理 Testing Error Handling
+-------------------------------------------------------------------------------
+
+测试中常常被忽视的方面是故障检测和错误处理。
+之前我们讨论故障分析时简要谈及了一点,
+现在，我们将论述，为什么不仅仅要对功能的正确响应进行测试，
+更要测试系统没按期待执行时将如何应对.
+软件错误处理的测试往往比测试成功要更加困难.
+例如，如何在通信频道里策动故障?
+如何能在模拟器中引发模拟数字转换器的故障?
+
+测试错误处理中常用的方法被称为"故障注入".
+顾名思义，这涉及在代码中纳入某些功能，以允许测试可达，
+简单的说，就是设置会引起故障的内部变量.
+
+做到这点的方法之一,就是通过网络套接字连接，
+在连接前,必须通过配置参数才可以启用这种专用通道.
+串口连接也可担任这个角色.
+如果测试涉及到外部设备，只需拔下它就等于注入了故障，
+但只能引发一种类型的故障.
+这种做法将不会注入因数据损坏而造成的错误，它只会模拟通信的缺失.
+
+
+重要的是牢记，测试系统错误的响应目的,
+不是来模拟错误条件自身,
+而是激发对应处理错误的代码.
+我发现创建全局状态变量集很有用,
+这个集合可以内置在记录软件执行错误的条件模块.
+例如,底层硬件数据读取模块中,
+在其成功或失败时可记录对应全局状态变量，它不应该覆盖现有的错误指示.
+然后可以检查代码的错误状态,以便进一步从硬件获取数据,
+如果出现错误,则触发相应的行动.
+
+在这种方案中就可以简单地通过修改全局变量的设置来引发对应的错误条件.
+底层代码不会屏蔽它，而上级代码，将看到并在发生了错误时回应.
+只有最底层的代码部分无法通过这种方法进行测试，
+但它们可以被分开处理，使用其他测试技术进行测试.
+
+错误处理和错误注入先讲这么多，稍后有关章节再探讨.
+当然要注意:
+总是会有不不止一种方法去作,
+这里我描述的只是其中的一个办法.
+
+
+
+
 
 
 </t>
-<t tx="zoomq.20110727085946.4363">Testing Error Handling
+<t tx="zoomq.20110727085946.4365">回归测试 Regression Testing
 -------------------------------------------------------------------------------
 
-One aspect of testing that too often gets overlooked is fault detection and error han-
-dling. We touched on this briefly earlier when we discussed failure analysis, and here
-we’ll see why it’s essential not only to test for correct functionality, but also to test for
-the appropriate responses when things don’t go as planned.
+回归测试背后的想法很简单：关注的问题是
+"近期的变化是否破坏了什么?"
+任何时候，你对代码进行了更改，不论是为了修复一个现有问题，或是实现新的功能，
+你都应该做回归测试。
 
-The problem with testing error handling in software is that it is often much harder to
-do than success testing. How, for instance, does one instigate a fault condition in a
-communications channel? And how can a fault be simulated in the interface between
-the software and an analog-to-digital converter? These are the types of errors that can,
-and will, rear their ugly heads when least expected, so it’s to everyone’s benefit to test
-them before the software is turned loose on the world.
+为了执行回归测试，通常对修改后的软件运行部分或全部现有的功能测试.
+局部回归测试将侧重于变化中的特定软件功能.
+一个完整的回归测试将执行所有可用的功能测试.
 
-A common approach to testing error handling is called “fault injection.” As the name
-implies, this involves incorporating some functionality into the code that will allow the
-tester to reach inside, so to speak, and set an internal variable that will induce the fault.
 
-One way to do this is via a network socket connection that is used only for this purpose
-and must be specifically enabled via a configuration parameter before it will commu-
-nicate. A serial port connection can also serve in this role.
-If the test involves an external device, just disconnecting it will inject a fault, but only
-one type of fault. This approach won’t inject errors arising from corrupted data; it will
-only simulate a complete lack of communications.
+对软件进行更改必然会频繁地引入缺陷，这是既定事实.
+可能是激发了先前处于休眠状态的错误，
+或是由于创建了新的执行路径从而包含了以前未知的缺陷.
+"修复"行为本身总是不尽如人意.
+感觉软件发"脆",那是因为软件总是有没有考虑到的超标,不正常,非期待的输入.
+回归测试可以帮助发现这类问题,以便在它们变得更加混乱或是发布出去前及时被修订.
 
-It is important to remember that the purpose of testing the system’s response to error
-conditions isn’t necessarily to simulate the errors themselves, but rather to stimulate
-the code that is supposed to handle the errors. An approach that I’ve found useful is
-to create a collection of global state variables, perhaps in their own module, that are
-used to record error conditions as the software executes. For example, the low-level
-function that reads data from some hardware might record its success or failure in the
-set of global state variables, and it should not overwrite an existing error indication.
-The error state can then be checked by code further up that needs to obtain the data
-from the hardware, and if an error is indicated it will initiate the appropriate action.
 
-With a scheme like this it is possible to simply set the error condition by modifying
-the appropriate global variable externally. The low-level code won’t override it, and
-the upper-level code will see it and respond as if an actual error had occurred. Only the
-lowest-level portions of the code will not be tested by this approach, but they can be
-handled separately using other testing techniques.
-
-We will leave error handling and fault injection at that for now, but we’ll return to it
-later on. Of course, the usual caveat applies: there’s more than one way to get there
-from here, and what I’ve described here is just one way to do it.
+回归测试不仅只能同功能测试结合.
+它也适用于单元测试.
+回归测试在多数情况下,是可以自动运行的,
+这意味着回归测试可以作为完整的测试套件反复运行.
+比如说,在每晩的自动构建中,
+这样一来,每日清晨,第一件事就是查阅测试简报,明确当天要修订什么.
 
 </t>
-<t tx="zoomq.20110727085946.4365">Regression Testing
+<t tx="zoomq.20110727085946.4367">进展追踪 Tracking Progress
 -------------------------------------------------------------------------------
 
-The idea behind regression testing is simple: the question to ask is “Did any recent
-changes break anything?” Any time you make a change to the code, whether to fix an
-existing problem or to implement new functionality, you should do regression testing.
-In order to perform regression testing, you would typically take some or all of the
-existing set of functional tests and run them again on the modified software. A partial
-regression test will focus on the functionality in the software where changes have oc-
-curred. A full regression test will execute all available functional tests.
+如果在整个项目生命周期中，对功能测试结果进行追踪,
+你可能获得类似插图8-15 的图形.
+这是相当典型的依赖功能测试验证成效的项目，
+开始时软件有点粗糙，然后随着项目的进展不断改善.
+如果该项目的开发活动还包括广泛的单元测试和代码复审，
+这种情况可以得到改善，
+功能测试整体失败率水平,
+应比这里显示的要呈现更快的下降趋势.
+但是，在任何情况下，最终目标都是追求在项目结束时,
+达到测试的零失败和100％的需求覆盖.
 
-It is a well-established fact that changes to software will frequently introduce defects,
-perhaps by allowing a previously dormant bug to manifest itself, or perhaps by creating
-a new execution path that contains previously unknown defects. There is always the
-possibility that the “fix” won’t turn out to be as good as hoped. Maybe it’s “brittle”
-because it doesn’t account for things like range errors or off-nominal and unexpected
-inputs. Regression testing can help uncover these and other problems before they be-
-come unwieldy or, worse, before they escape into the wild as part of the released
-software.
 
-Regression testing isn’t, and shouldn’t be, just something one does with functional
-tests. It also applies to unit tests, which we will get to shortly. Regression testing is also
-something that can be automated in many cases, which means that it’s possible, and
-often practical, to run a full suite of tests on the software overnight on a daily basis. A
-quick review of the test results first thing in the morning will let you know if there’s
-something from the day before that needs attention.
-
+.. image:: ../_static/figs/rwip_0815.pdf.png
+插图 8-15. 功能测试失败与通过率的变迁
 </t>
-<t tx="zoomq.20110727085946.4367">Tracking Progress
+<t tx="zoomq.20110727085946.4369">代码风格
 -------------------------------------------------------------------------------
 
-If you were to track the results from each round of functional testing over the life of the
-project, you would probably end up with something like the series of bar graphs shown
-in Figure 8-15. This is fairly typical for projects that rely heavily on functional testing
-for verification, in that things start out a little rough and then start to improve as the
-project progresses. If the project activities also include extensive unit testing and code
-reviews, this scenario can be improved, and the overall level of functional test failures
-should drop toward zero much sooner than what is shown here. But, in any case, the
-ultimate objective is to have zero test failures and 100% requirements coverage by the
-time the project wraps up.
+几乎每种编程语言都有自己的代码风格.
+有时同一编程语言可以有不同的风格.
+甚至于不同的公司，政府机构，研究团体，开源项目，以及个别开发商也都有自己的代码风格.
+在某些情况下代码风格可能是正式的文件，
+而在多数情况中,代码风格只是随着时间的推移和发展被反复使用最终成为习俗的东西.
 
-Figure 8-15. Functional testing pass versus fail results over time
-</t>
-<t tx="zoomq.20110727085946.4369">Coding Styles
--------------------------------------------------------------------------------
-
-A coding style has been created for almost every programming language. Sometimes
-there are different styles for the same programming language. It’s not uncommon to
-find that different companies, government agencies, research groups, open source
-projects, and individual developers have their own styles. In some cases the coding
-might be formalized in a document, whereas in other cases it’s just something that
-evolved over time and has been used so often that it has simply become a habit.
-
-In some cases the coding style may be enforced by a set of verifiable coding require-
-ments. This is typical in environments that produce high-reliability or safety-critical
-software. There are tools available that can analyze the source code against a set of
-coding rules and generate messages when the software deviates from those rules. I don’t
-feel it’s necessary to advocate that level of rigor for the projects in this book, but I do
-think it’s important to define or adopt a good coding style, establish some basic rules,
-and then stick to them consistently.
+在某些情况下编码风格可能被当成一组可核查的编码要求来执行.
+这在高可靠性或安全性软件的生产过程中是典型要求.
+己有各种工具，可以根据一组编码规则分析源代码并在代码偏离规则时生成消息.
+对于这本书中涉及项目的严谨程度而言,我不觉得有必要提倡使用工具.
+但是,我认为定义或通过一个良好的编码风格，建立一些基本规则，然后坚持贯彻很重要.
 
 
 @others
 </t>
-<t tx="zoomq.20110727085946.4371">Organizing Your Code
+<t tx="zoomq.20110727085946.4371">
+组织你的代码 Organizing Your Code
 -------------------------------------------------------------------------------
 
-If you have a good SDD to start with, the organization of the code should be obvious
-from the organization presented in the SDD. Applying some basic guidelines can also
-help keep things neat, tidy, and easy to read.
+如果你有一个良好的SDD来开始，
+那么代码显而易见的应该根据SDD来组织.
+当然，也有一些基本的方针可以运用，使代码保持整齐，整洁，便于阅读.
 
-First off, avoid the temptation to wedge everything into a single source module. There
-is no penalty for having multiple modules, each containing functions or classes with
-related functionality. This is a good thing because it helps keep things comprehensible,
-and it can help make it easier to change something without impacting other parts of
-the code. So, even if the SDD implies that 20 different functions (for example) could
-reside in the same module, you might want to consider having two, three, or four
-modules instead, each containing closely related functions.
+首先，要拒绝将一切塞入一个文件的诱惑.
+划分成多个只包含相关功能或类的模块不会被被罚款，
+其实这样组织是好事，因为有助于理解软件.
+而且也令改变更加容易,因为在修订相关模块时,并不会影响其它部分的代码.
+所以，即使SDD暗示20不同的功能要安置在同一个模块，
+你可能也要考虑应该分解成两个，或是四个模块，
+每个模块只包含紧密关联的功能.
 
-Python’s concepts of packages and modules help to keep things neatly organized, and
-you should take a little time and read up on them if you aren’t already familiar with the
-concepts. C has no corresponding source code organization, but it too can easily be
-modularized into header files, source files, and library modules.
+Python 内置有包和模块的组织方式，
+可以协助确保代码的齐整,
+如果你不熟悉相关概念,应该花一点时间阅读相关文档.
+C没有相应的源代码组织方式，
+但它也可以很容易地将代码模块到，头文件，源文件或是库模块中.
 
-Figure 8-16 shows a block diagram of just one way that the source code for an instru-
-mentation application might be organized. This is only one way to do it, and other
-approaches are certainly possible. The main point here is that the code is divided into
-levels based on functionality, and each block in the diagram pertains to a particular
-group or class of functions.
 
-Figure 8-16. Code organization example
+插图8-16用框图展示了仪器应用系统的代码组织方式.
+其中的要点是,代码依据水平切分的功能来组织,
+图中每个块,仅涉及到指定的群体或是阶段的功能.
 
-</t>
-<t tx="zoomq.20110727085946.4373">Code Reviews
+.. image:: ../_static/figs/rwip_0816.pdf.png
+插图 8-16. 代码组织案例
+
+::
+
+    程序开始-&gt;主模块-&gt;程序终止
+    
+    主功能:
+        用户界面 | 数据处理 | 远程接口 | 数据保存/载入
+        
+    支持和工具函式:
+        工具函式 | 串口I/O接口 | 仪器接口 | 网络接口 | 数据格式化 | 文件 I/O
+    
+    操作系统
+    (服务,驱动,等等.)
+        
+        
+        
+        
+        
+        
+        
+        </t>
+<t tx="zoomq.20110727085946.4373">代码复审
 -------------------------------------------------------------------------------
 
-Code reviews can be incredibly useful, particularly for helping to maintain stylistic
-consistency and for spotting errors that the original author of the code may have con-
-tinually overlooked, or just not been aware of. Code reviews cannot, however, take the
-place of testing—the two activities are the opposite sides of the same coin.
-
-Code reviews can also be a monumental chore if they aren’t done correctly. I once
-participated in a series of code reviews that lasted for almost eight days. Why? Because
-the other people participating in the review hadn’t bothered to read through the code
-beforehand or review the SDD, so they didn’t know the structure, didn’t know the
-intent of the functionality, and had to be walked through it line by line and have every
-little detail explained to them as if it was a detailed design walk-through. The really
-aggravating part was that this was code we’d all seen before, so there was really no
-excuse for the waste of time.
-
-A code review can be as simple as two people going over the code, or as formal as a
-meeting with a moderator, a secretary, several reviewers, and the author of the software.
-It all depends on the complexity of the software, how critical it is, and how complete
-the SDD is from the outset. For most of the projects in this book, just having someone
-else look it over will be very useful. Even if you have to walk the other person through
-it (maybe she’s not a programmer), the activity of verbalizing what you’ve done can
-often shed light on things you might have overlooked before.
-
-Here are some ground rules for code reviews that I’ve found useful:
-
-- Everyone should have at least skimmed through the code beforehand. If someone
-shows up who hasn’t read through the code, call off the review and reschedule it,
-or just carry on without that person (if possible).
-- Everyone participating in the code review should have read the relevant parts of
-the SDD before showing up.
-- Focus on the things that are best suited for a code review: stylistic consistency,
-obvious logical errors (a problem with an if-elif-else structure, for example),
-uninitialized variables, a mismatched number of malloc and free calls (for C code),
-or improper placement of class variables in module scope (and vice versa) are just
-some examples.
-- Use a checklist and try to stick to it. A code review checklist should contain the
-key things to look for during the review. Try not to deviate too far from the check-
-list, as this could end up wasting time better spent somewhere else.
+代码审查非常有用，尤其是在帮助团队维持代码和文档一致性时,
+因为原作者的代码可能被不断忽视，或包含尚未意识到的错误。
+但是，代码审查，不能替代测试，这两项活动好象同枚硬币的两面.
 
 
-The last item is particularly important. A basic checklist can save time and effort by
-helping to focus attention and effort during the review, and it provides a convenient
-way to keep track of results from the review. A minimal checklist might look something
-like Figure 8-17.
+如果处理不当,代码复查也可能是一项艰巨的苦差事.
+有一次，我参加了一系列的代码复查，竟然历时近八天.
+为什么呢？因为在参加复审前,其它人并没有事先查阅对应的SDD,
+所以他们不知道结构，不知道功能的意图，为什么要这么开发,
+等等,所有小细节都要逐一向他们解释，就好像重新进行一回详细设计.
+好在毕竟都是我们必须回顾的代码,总体而言也不算浪费时间.
 
+
+当仅有两个人写代码时,复审可以很简单，
+也可以成为正式的会议,包含主持人，一名秘书，一些评论，加上软件的作者来推进.
+这一切都取决于软件的复杂度,重要程度有多少,以及是否一开始就有SDD(Software Design Description,软件设计说明).
+对于本书中大部分项目,其实只要有人认真看一下代码,就足够了.
+即使你已离开,其他人(可能都不是名程序员)，
+也可以轻易理解你可能忽略了什么事情.
+
+
+.. note:: 译者按
+
+    除了项目足够简单之外, Python 代码行文如此象自然英语也是有这种效果的重要保证.
+    另外,Python 使用缩进,而不是其它语言选择特殊的字符来划分语法结构,
+    也使代码更加直觉,干净,有层次感,有助于理解!
+    当然,这种设计也招至大量非意,不过,仁者见仁智者见智,译者本身感受是非常舒服的.
+
+这有一些我认为进行代码复审要注意的几条非常有用的规则:
+
+- 每位参与者都应该事先熟悉过代码.如果有人没有作到,取消复审资格.
+- 每位参与者都应该事先查阅代码对的SDD章节.
+- 关注适合进行代码复查的方面:风格一致性，明显的逻辑错误(例如:if-elif-else结构问题)，未初始化的变量，不匹配的malloc和free调用（C代码），或放置不当的类模块的范围变量(反之亦然)等等,这只列举几个例子,具体的应该在对应项目中事先约定.
+- 统一到一个清单尽量坚持记录.代码复审清单应包含所有关键信息，在复审期间,尽量不要偏离检查列表太远，因为这会浪费时间.
+
+
+最后一点尤为重要:
+一个基本的清单，可以节省时间和精力,帮助审查期间集中注意力，
+它提供了一个方便的方法来保持跟踪审查结果。
+一个最小的清单看起来可能像插图8-17。
+
+.. image:: ../_static/figs/rwip_0817.pdf.png
+
+插图 8-17. 最小复审检查列表
+
+::
+
+    1. 是否按照SDD设计进行了正确实施? 
+    2. 是否有任何明显的拼写错误和错别字? 
+    3. 软件是否遵守项目的编码准则和公约?
+    4. 各种注释有意义吗?都有必要吗?注释足够或太多? 
+    5. 数据对象被充分定义了嘛(例如，结构，字典，数组等)? 
+    6. 如果变量根据字面含义来使用,是否正确? 
+    7. 在多个地方被使用的同一常数，是否将他们统一在共同位置定义?
+    8. 是否有代码重复明显的部分? 是否可以封装为函式或方法?
+    9. 是否有代码永远不会被执行?
+    10. 所有定义过的变量和常量都真正使用了嘛?
+    
+
+
+让我们进一步理解插图8-17 揭示的条目含义:
 Let’s look at the items in Figure 8-17 a bit more closely:
 
-1. Has the design been correctly implemented in accordance with the SDD?
-    The code must follow the SDD to the maximum extent possible (this depends, of
-    course, on how well defined the SDD happens to be). Assuming that the intent is
-    to comply with the requirements (initial or derived), code that does not follow the
-    SDD is most likely not in compliance with the requirements. Bells and whistles
-    may be cool and all that, but if there’s no requirement for them, at best the pro-
-    grammer has wasted time building them into the software. At worst, undocumen-
-    ted, noncompliant features may introduce all sorts of evil defects into the code that
-    unit testing may not catch.
+1. 是否按照SDD设计进行了正确实施? 
+    代码必须尽最大可能遵循SDD的设计
+    (当然这取决于，SDD本身有多靠谱).
+    假设我们的目的是符合需求(初始或派生)，
+    代码不遵循SDD是最有可能造成需求不被吻合的原因.
+    不论怎么花里胡哨或是耍酷,只要没有吻合用户的需求,最好的结局也是浪费程序员时间开发出无用的软件.
+    在最坏的情况下，无证，不符合需求的特性,可能会向代码引入各种邪恶的缺陷,即使单元测试也无法发觉.
 
-Figure 8-17. Minimal review checklist
 
-2. Are there any obvious misspellings and typos?
-    While unit testing may catch some misspelled variable names, it won’t catch all of
-    them, especially with a language like Python that allows the code to create variables
-    dynamically. A variable may have been defined at the start of a module, function,
-    or method and then misspelled further down, and the code might still pass a unit
-    test. This is something to watch for if a module or class has a variable that is used
-    to track some internal state, and that variable is only set inside the code and only
-    read by code somewhere outside of the class or module. It might never change if
-    it’s misspelled, and the external caller will never know the difference.
+2. 是否有任何明显的拼写错误和错别字? 
+    虽然单元测试可能发觉一些拼写错误的变量名，
+    但是无法捕获所有类似错误,
+    特别是像Python这种允许代码来动态创建变量的语言.
+    一个变量可能已在另一模块，函数或方法中被定义，
+    即使拼写错误代码仍可能通过单位测试.
+    比如说,在模块或是类中有变量只用以追踪内部状态,
+    而且只能通过类或是模块之外的代码进行读取和设置,
+    如果拼写错误,那么它可能永远不会被改变,然而外部调用者也永远意识不到其中的问题.
 
-3. Does the software follow the project coding guidelines and conventions?
-    This one is rather obvious, and it’s even more obvious during a review. If a coding
-    style is going to be used, it should be used consistently.
+3. 软件是否遵守项目的编码准则和公约?
+    这是相当明显的，并在审查期间将更加明显.
+    如果团队选择了一个编码风格，那么它应该始终用以保持一致性。
 
-4. Do the comments make sense? Are they necessary? Are there enough comments, or too many?
-    Comments are sometimes used as a way to cover up poor coding (perhaps there
-    was a lack of understanding, or a section of code was a bit of a stretch when it was
-    written). They can also be overused (commenting a line like a += 1, for example—
-    it happens quite often, actually). Comments should only appear when necessary
-    to explain something that might not otherwise be obvious, including what a func-
-    tion or method is supposed to do.
-5. Are data objects (e.g., structures, dictionaries, arrays, etc.) adequately defined?
-    All data objects should have a comment unless their use is immediately obvious.
-    This is especially true for compound objects like Python’s dictionaries or structures
-    in C. A variable used as a simple index counter in a loop probably doesn’t need a
-    comment.
-6. If literal constant values are used, are they the correct values?
-    Whenever a literal constant value is used it is “cast in stone,” so to speak, so it
-    really needs to be right from the outset. Mistyping a value can result in some de-
-    cidedly unwanted behavior on the part of the software.
-7. Are the same constant values used in multiple places when they should be defined
-    in a common location?
-    If the same literal value is used in two or more places, it should be converted into
-    a global literal of some form and its name should be used in the code instead of the
-    “naked number.” This allows it to be changed in just one place, and that change
-    will then take effect wherever the name appears. The alternative is to try to track
-    down every place where it appears, and as the number of occurrences increases,
-    so too does the chance that it will be missed somewhere and will cause grief later.
-8. Are there any obvious repeated sections of the code that could be encapsulated as
-    a function or method?
-    If the code contains what essentially amounts to the same functionality repeated
-    in multiple locations, that functionality should probably be a function or method
-    that can be called whenever it is needed.
-9. Is there any code that, just on inspection, appears that it will never be executed?
-    So-called “dead code” is something to be avoided. It clutters up the software,
-    making it difficult to determine what it is really supposed to do. It might also be
-    inadvertently activated later by someone who doesn’t fully understand why it’s
-    there, or through an untested path that occurs only under very unique circum-
-    stances. In other words, it presents a risk and a potential place for bugs to lurk. If
-    it’s not used, take it out. To really ensure that all the code is executed you need to
-    use a code coverage tool, but catching the obvious during a review is a good start.
-10. Are all the variables and constants defined in the code actually used in the code?
-    If a module, function, method, or class defines variables, it should be used. If it is
-    not used, like sections of dead code, it should be removed.
+4. 各种注释有意义吗?都有必要吗?注释足够或太多? 
+    注释有时被用来掩盖糟糕的编码
+    (或许还没有理解代码的含义,或代码写得有点夸大当它被).
+    注释也常常被滥用(例如注释 a +=1 ，实际上这种情况很常见).
+    注释只应出现在需要解释的地方，包括功能或是方法应该作什么.
 
-You could, of course, have a checklist with many more items than this, but I feel that
-this is a good place to start. It’s short enough that you could feasibly review your own
-code (if there is no one else available to review it with you), although having a second
-pair of eyes (or more) is always better.
+5. 数据对象被充分定义了嘛(例如，结构，字典，数组等)? 
+    所有数据对象都应该有一个注释，除非它们的使用是显而易见的.
+    尤其是对于Pythonf中字典或复合结构的对象.
+    用在循环中当成简单索引计数器的变量可能并不需要一个注释.
+
+6. 如果变量根据字面含义来使用,是否正确? 
+    文本常量的值应该"一成不变"的来使用.
+    所以需要从一开始就正确,错误的键入可能导致软件严重的意外行为.
+
+7. 在多个地方被使用的同一常数，是否将他们统一在共同位置定义?
+    如果同一常量在两个或两个以上的地方被使用，就应该转换成名字具有全局唯一性标识的变量,
+    而不是"赤裸裸的数据".
+    这使得开发者能够在一个地方进行修订,所有使用的地方都得到统一变更.
+    另一种方式,是尝试人工追踪常量可能出现的每一个地方,
+    随着数量的增加,总是会有错过的现象,从而引发无数悲痛.
+
+8. 是否有代码重复明显的部分? 是否可以封装为函式或方法?
+    如果代码中在多个地点重复包含本质上相同的功能代码,
+    那么,该功能应该是一个可以随时调用的函式或是方法.
+
+9. 是否有代码永远不会被执行?
+    所谓的"死码"正是要避免的东西.
+    很难确定它真正应该做什么,
+    有可能后来有人无意间激活了这段代码,即使完全不理解它为什么存在,从而混乱了软件.
+    或是为了一个只有在非常独特的情况下才可能发生的,设置了这一未经考验的执行路径.
+    如果不准备使用它，就清除它.
+    要真正确保所有的代码执行需要使用代码覆盖工具，
+    不过在复审期间人工可以注意到这种"死码"，是一个良好的开端.
+
+10. 所有定义过的变量和常量都真正使用了嘛?
+    如果一个模块，函数，方法或类中定义了变量，它就应该被使用.
+    如果从始致终都没有使用过,那就像死代码段，就应该被清除.
+
+当然，你可以使用比这个清单更多检查条目，
+但我觉得这是一个足够好的开端.
+它足够短，但已经可以切实检查自己的代码(如果没有其它人来作复审)，
+当然有第二双眼睛(或更多)总是更好的.
 
 
 
 
 
 </t>
-<t tx="zoomq.20110727085946.4375">Unit Testing
+<t tx="zoomq.20110727085946.4375">单元测试 Unit Testing
 -------------------------------------------------------------------------------
 
-The intent of unit testing is to exercise the functionality of a small portion of the overall
-software. A unit might be a function, a class, or a single method within a class. It is
-typically the smallest possible logical unit of code capable of execution on its own. For
-example, a function that accepts a raw binary data value from an external instrument,
-performs some scaling and range checking, and returns a binary value along with a
-return code would be a unit. It can be tested by supplying it with both nominal and
-off-nominal input values. While a Python unit is being tested, the code coverage can
-also be determined. This is a bit more difficult in C, particularly if the code is part of a
-low-level extension module, but it is doable. However, we’ll stick to Python unit testing
-in this book.
+
+单元测试的目的是为通过锤炼软件每一小功能的质量从而确保整体的.
+单元可以是一个函式，一个类，或在类中的单个方法.
+这是通常是可执行代码的最小逻辑单元.
+例如，有个函式，
+它接受一个从外部仪器采集到的原始二进制数据，
+执行一些扩展和范围检查，并由返回代码返回一个二进制值,
+这就可以作为一个单元,用合理和超标的输入值来完成测试.
+当单元被测试时，代码覆盖率也就可确定了.
+这在C语言较困难，
+特别是当代码作为低层扩展模块时,但它是可行的.
+
+不过，在本书中，我们将坚持Python单元测试.
+
 
 @others
 </t>
-<t tx="zoomq.20110727085946.4377">Connecting to the Hardware
+<t tx="zoomq.20110727085946.4377">连接到硬件
 -------------------------------------------------------------------------------
 
-There comes a point during the development of software when you will need to see if
-it will actually play nice with the hardware. Hopefully this point will come sooner rather
-than later, because what you really don’t want is to get close to the end of the effort
-and then discover that the hardware doesn’t really work like you thought it did, or that
-your code has a bug—or two, or more—that doesn’t appear until the interface is active
-(I’ve been faced with both of these situations in the past, and they weren’t the least bit
-fun). These types of bugs typically involve things like data representation, bit order,
-timing, or some other subtle thing that unit testing may have a hard time catching. It
-is even possible that the hardware has a problem, and you really don’t want to be on
-the phone at the eleventh hour trying to get your hardware repaired or replaced after
-it’s been sitting on a shelf for months waiting for you to use it.
 
-Start with small, manageable low-level modules and build on them. In other words, if
-your application uses a serial port to communicate with an external device, first test
-just the serial interface module with the hardware (or a simulator, which we will discuss
-in Chapter 10). Once that is working correctly, add on more functionality. One of the
-biggest mistakes people make when attempting to implement a new system is to
-immediately throw all of the software at the hardware in one go. If you’re really lucky
-it might work, but the odds are good that it won’t. The real problem with the all-or-
-nothing approach is that you might have more than one thing going wrong at once,
-and it can be very difficult to determine what is causing which error because they can
-mask one another. Worse yet, there may be nothing wrong with the individual units
-of the software, but there may be some major issues when you attempt to integrate
-them all at once.
+要想和硬件良好共舞,软件本身靠谱是整个工程中必经的一个点.
+越跨越这点越好,因为你肯定不愿意到最后才发现硬件并没有按照你的设想工作,
+或是你的代码总是有这儿那儿的问题,直到接口终于激活
+(我曾经一直面对这类问题,实话说它们一点也不好玩).
+都是些类似数据表述,位顺序,时间值或是其它琐碎的问题,
+你绝对不想花11个小时好容易将手机硬件调配好后,再不得不等一个月,才能真正使用它.
 
 
-You may need to do things a little differently in your project, but here’s one suggested
-integration order:
+从体积小易管理的底层模块开始创建.
+换句话说，若应用通过串行端口与外部设备进行通信,
+那么应该第一时间测试硬件接口
+(或​​模拟器的串行接口模块，我们将在第10章讨论).
+确认正常工作之后,再添加更多的功能.
+人们最常犯的最大错误就是在开发新系统时,试图一次性将所有功能都作出来.
+如果你人品真的很牛,可能会运行起来,
+但是绝大多数情况是相反.
+这种全好或是全坏的开发方式,
+真正的问题在于,你可能作错了不只一件事,
+但是错误可能相互掩盖,导致你无法发觉.
+更加糟糕的是,个别单元独立运行时没有问题,但是当你尝试整合其它单元时,立即引发严重的问题.
 
-1. Low-level extensions (driver wrappers and such)
-2. Communications (serial interface handlers and remote communications, for
-example)
-3. Utility functions and classes (like the InputUtils.py module we saw earlier)
-4. Data-processing and error-handling functionality
 
-In other words, start integrating the software to the hardware, and to itself, from the
-bottom up. The following is a summary of the benefits of early integration:
+这是一份推荐的开发顺序,在你的具体工程中可能略有不同，但是宏观上建议这么来推进::
 
-• Low-level supporting functionality is tested and verified first, providing a solid
-foundation on which to add more complex functionality.
-• If the code is correctly and sufficiently modular, the low-level (and even some of
-the mid-level) modules can go into your “software parts box” for possible reuse on
-future projects.
-• Errors can be easily identified and resolved while they are small and manageable,
-hopefully before they appear and propagate anomalous behavior throughout the
-rest of the software.
+    1. 底层扩展(驱动器之类)
+    2. 通讯(例如:串行接口处理和远程通讯支持)
+    3. 实用工具类 (如我们前面看到的InputUtils.py模块)
+    4. 数据处理和错误响应
 
-Once you have all the underlying functionality in place, the last steps involve integrating
-the upper-level functionality, such as the data-processing and user interface, with the
-modules that have already been tested and verified.
+
+
+换句话说，软件集成以自下而上的顺序,从硬件到本身来实现,
+这样实施的好处是
+::
+
+    • 先对底层的配套功能进行测试和验证,为以后增加复杂的功能,提供了坚实的基础
+    • 如果代码是正确的并足够的模块化,底层模块(甚至一些中层模块),可收入你的 ``软件零件盒`` 在未来的项目中复用
+    • 在软件很小时,错误能轻易被识别和解决,从而令异常传播到整个软件前,得到有效的管理
+
+
+
+一旦所有基本功能都完成,最后一个步骤才是配合测试和验证模块整合所有上层功能,
+例如,数据处理和用户界面.
+
 
 
 </t>
-<t tx="zoomq.20110727085946.4378">Why coding style is important
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-One benefit of consistently following a particular coding style is that it will result in
-software that is stylistically consistent, preferably with a clear and easy-to-comprehend
-format. This typically isn’t done just for aesthetic reasons. It’s done so that the code
-can be read and reviewed by someone other than the original author with a minimum
-of effort.
-
-Another benefit is that it defines a programming style that avoids potentially dangerous
-features in the language. In the C language, for example, one can use pointers to directly
-reference memory that has been allocated to the program. That may be fine for many
-applications, but when the software is running on a memory-constrained embedded
-system, the coding rules will usually prohibit the use of dynamic memory allocation in
-order to avoid fatal pointer errors and memory “leaks.” In an embedded system, with
-no one around to push a reset button, these situations can produce effects that are much
-worse than just having the program crash. As another example, the Python language
-allows the programmer to create dictionary objects on the fly, pass them around as
-both parameters and return values, and modify them dynamically along the way. After
-a dictionary object has been tweaked by multiple functions or methods, it can become
-difficult to know just what’s in it, where it came from, and what it does.
-</t>
-<t tx="zoomq.20110727085946.4380">Adopting existing coding style guidelines
+<t tx="zoomq.20110727085946.4378">为什么编码风格是重要的
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The good folks at Python.org have documents available online that define a set of basic
-coding style guidelines. The primary document is PEP-8, “Style Guide for Python
-Code”; PEP-257, “Docstring Conventions,” also contains useful information.
+始终遵循一个特定编码风格的一个好处是，
+它会导致软件代码将拥有清晰和易于理解的格式，形成一致的风格.
+通常这并不只是为了美观，它使完成的代码除原作者以外的人，也可以轻易读懂和降低审查的成本.
 
-Style is about consistency, primarily in the layout, names, and organization of your
-code. To quote from PEP-8: “A style guide is about consistency. Consistency with this
-style guide is important. Consistency within a project is more important. Consistency
-within one module or function is most important.”
+另一个好处是，它定义的编程风格可以避免语言潜在的危险的功能.
+例如,在C语言中可以使用指针参数直接使用已分配给该程序的内存.
+这对很多应用软件而言是好技巧,
+但当软件运行在内存受限的嵌入式系统时，
+编码规则通常会禁止使用动态内存分配,
+以避免致命的指针错误和内存"泄漏".
+在嵌入式系统里运行，周围不会总有人来推复位按钮，
+所以,这些情况可以引发的问题绝不仅仅是程序崩溃了.
+另一个例子是，Python语言允许程序员动态创建字典对象，
+并通过参数和返回值，可以随时动态修改它们.
+结果在字典对象经过多个函数或方法调整后，
+字典实际已经很难确认它是从哪里来的，以及它在做什么.
 
-If you’re new to Python, or programming in general, I would suggest that you stick to
-PEP-8 as much as possible. This is the best way to find out what works, and what
-doesn’t. After you’ve gained more experience, or if you already have a lot of experience,
-you might be in a position to make a case for using your own variations.
-
-While there are some guidelines for C programming style floating around, there also
-seem to be a large number of variations. Some programmers use the K&amp;R “ANSI C”
-reference book as their style guide. In other cases, a style guide might already exist, or
-there may be explicit coding style requirements. Regardless of the style you select, be
-consistent with it.
 
 </t>
-<t tx="zoomq.20110727085946.4388">Defining a unit test
+<t tx="zoomq.20110727085946.4380">采纳现有的编码风格准则
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A unit test doesn’t necessarily map directly to a requirement, but it does map directly
-to the SDD. Assume the SDD defines a function that scales the data. It might look like
-this somewhat trivial example::
+Python.org的好人们,已经发布了在线文档,
+定义了一套基本的编码风格准则.
+主文档为 `PEP-8`_ ,"Python代码风格指南";
+ `PEP-257`_ ,"Docstring公约"也包含有用的信息.
+
+
+风格主要是有关布局，名称和代码组织的一致性约定.
+引用 `PEP-8`_ :
+"风格指南事关一致性.
+一致性对于风格指南是重要的.
+在一个项目内保持一致性更加重要.
+在模块或功能内部保持一致性则是最重要的事!"
+
+如果你是Python新手，
+我建议你尽可能的坚守 `PEP-8`_ 的约定.
+想明确什么有用什么没用,这是最好的办法.
+当你获得或是拥有了足够的经验时，
+你可能会使用自己定制的合理风格准则了.
+
+虽然总是有一些C编程风格准则不断漂出来，而且看起来都有很大变化.
+但是,有些程序员总是使用古老的 K＆R"的ANSI C"参考书作为自己的风格指南.
+在其他情况下，风格指南可能已经存在，或可能有明确的编码风格的要求.
+那么,请确保您选择的风格，与现行的保持一致.
+</t>
+<t tx="zoomq.20110727085946.4388">定义单元测试 Defining a unit test
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+单元测试并不一定直接映射到一个需求，
+但它是对 SDD 的直接映射.
+假设SDD定义了一个数据衡量函式,代码类似 ::
 
     def ScaledInput(data):
         rc = NO_ERR
@@ -9789,83 +10316,84 @@ this somewhat trivial example::
         return (rc, scaled_data)
 
 
-For our purposes, we can assume that data_scale and data_offset are set elsewhere
-(perhaps when the software initializes itself). DATA_MIN, DATA_MAX, SCALE_MIN, SCALE_MAX,
-NO_ERR, ERR_MAXSCALE, and ERR_MINSCALE are “constants” that do not change during
-program execution and that have hardcoded values, perhaps in another module where
-such things reside by themselves.
+对于我们而言，可以假设data_scale和data_offset是在其它地方设置的
+(也许是软件初始化时).
+DATA_MIN，DATA_MAX，SCALE_MIN，SCALE_MAX, NO_ERR，ERR_MAXSCALE，以及ERR_MINSCALE是"常量",
+都是硬编译的数值，并在执行过程中不发生改变,
+当然，也可能在另外的模块中，会有变动.
 
-Lastly, note that the data return value is initialized to the value of the raw input data.
-Should an input range error occur, the function will still return data, but it won’t be
-scaled or otherwise adjusted. If a scaling error occurs, the data returned will be either
-the scaled maximum possible or the minimum. It is the responsibility of whatever called
-this function to check the return code (rc) portion of the returned 2-tuple to see if an
-error has occurred.
-
-A unit test is constructed such that all possible inputs are used to force the execution
-to traverse all possible paths. One way to achieve this is to create a test table. In the
-case of ScaledInput(), we can see that there are three obvious input cases: too low, too
-high, and within range. Table 8-5 shows these three test cases for this function.
+最后，请注意，返回的数据值是由原始输入的值初始化而成的.
+如果发生值范畴错误时，该函式将依然有数据返回,
+但它不会对数据进行缩放或以其他方式调整.
+如果发生缩放错误，返回的数据将是最大或最低允许值.
+这也是为什么返回的是2元组,包含用以进行功能检查的返回码(RC),来识别发生了什么.
 
 
+单元测试构造所有可能的输入用于强制遍历所有可能的执行路径.
+实现这一目标的方法之一是创建一个测试数据表.
+在 ``ScaledInput()`` 的情况下，我们可以看到，有三个明显的输入案例:
+太低，太高，范围之内.
+表8-5显示了此函式对应的三个测试用例:
 
 
-.. list-table:: Table 8-5. ScaledInput() test cases
+
+.. list-table:: 表 8-5. ScaledInput() 测试用例
    :widths: 5 20 5 20
    :header-rows: 1
 
-   * - Test  
-     - Input
-     - RC
-     - Output
+   * - 测试
+     - 输入
+     - RC(返回码)
+     - 输出
    * - 1  
      - data &lt; DATA_MIN 
      - ERR_OVER 
-     - Raw input data
+     - 原始输入数据
    * - 2  
-     - Input
      - data &gt; DATA_MAX 
-     - Raw input data
+     - ERR_OVER 
+     - 原始输入数据
    * - 3  
      - min &lt;= data &lt;= max 
      - NO_ERR 
-     - Processed data
+     - 处理后数据
 
 
-This is a good start, but it’s incomplete: there are no tests for the cases where
-scaled_data might exceed the scaling limits, so there are paths in the code that may not
-be exercised by the original three test cases. We need something more. Table 8-6 shows
-the complete suite of test cases for this deceptively simple function.
+
+这是个很好的开始,但它的确不完整:
+没有测试 ``scaled_data`` 可能超过比例变换的限制,
+所以有原有的三个测试用例无法覆盖到有的执行习路径.
+表8-6显示了这个看似简单的功能所需要的完整测试用例.
 
 
-.. list-table:: Table 8-6. ScaledInput() test cases (complete)
+.. list-table:: 表 8-6. ScaledInput() 测试用例(完整)
    :widths: 5 10 5 5 10 10
    :header-rows: 1
 
-   * - Test  
-     - Input
-     - data_scale 
-     - data_offset
-     - RC
-     - Output
+   * - 测试
+     - 输入
+     - 数据缩放 data_scale 
+     - 数据偏移 data_offset
+     - RC(返回码)
+     - 输出
    * - 1
      - data &lt; DATA_MIN 
      - 1.0
      - 0.0
      - ERR_OVER 
-     - Raw input data
+     - 原始输入数据
    * - 2
      - data &gt; DATA_MIN 
      - 1.0
      - 0.0
      - ERR_OVER 
-     - Raw input data
+     - 原始输入数据
    * - 3
      - min &lt;= data &lt;= max 
      - 2.0
      - 0.0
      - NO_ERR 
-     - Processed data
+     - 处理后数据
    * - 4
      - min &lt;= data &lt;= max 
      - 10.0
@@ -9892,40 +10420,39 @@ the complete suite of test cases for this deceptively simple function.
      - SCALE_MIN
 
 
-The actual values for data_scale and data_offset would, of course, depend on the
-values of SCALE_MAX and SCALE_MIN, but for our purposes here we can assume that they
-are appropriate for the results defined in the table of test cases. This also applies to
-DATA_MIN and DATA_MAX.
-
-Although it might be argued that the last two cases aren’t really necessary, they do
-provide complete coverage of all possible inputs to the function. I should also point
-out that the table describes the expected behavior, which includes the cases where rc
-contains something other than NO_ERR. In a unit test a failure would be any result that,
-given the specified inputs, does not conform to the table, not just the presence of an
-error value in the return code. A unit test case document should contain a table like
-Table 8-6 for every unit test to be performed. It would also define any necessary con-
-ditions for the tests.
+data_scale和data_offset的实际值，当然取决于SCALE_MAX和SCALE_MIN值，
+但对于我们,可以假设他们都应匹配表中定义的测试用例结果.
+这点也适用于DATA_MIN和DATA_MAX.
 
 
 
+虽然看起来最后两个案例真的没必要,
+他们只是补全了所有可能的值来覆盖函式功能.
+我想指出的是,
+表格也描述了函式预期的行为，其中包括 ``RC`` (返回码)不是 ``NO_ERR`` 的情况.
+一个单元测试只要返回值不吻合表中的期待值就是算失败,不仅仅是 RC 有返回错误码.
+每个单元测试用例文档,都应该包含类似 表8-6 来所有测试成功的必要条件组合.
 
-.. topic:: Creative Time Wasting—Testing Without Justification
 
-    Even though unit tests do not necessarily map directly to driving requirements in the
-    same way that functional tests do, they still need to have some kind of documentation
-    to describe what they are intended to demonstrate and how to execute them. Imple-
-    menting any tests, either unit or functional, without some kind of justification for their
-    existence and a description of the pass/fail criteria is usually just a waste of time, even
-    if it’s just a simple test. If you don’t know what a test is supposed to demonstrate, how
-    can you tell if it really succeeds or not?
 
-    It is also worthwhile to consider this tidbit of wisdom: code that includes undocumen-
-    ted tests is actually worse than code that includes no tests at all. Why? Well, with
-    untested code you can be fairly certain that it has bugs, whereas code that contains
-    meaningless tests may lull you into a false sense of security, even though the odds of
-    the code containing serious defects remains high. Or, to put it in a nutshell (and repeat
-    what has been said many times before by many others): testing badly done is worse
-    than no testing at all.
+
+.. topic:: 无正当理由,纯粹浪费时间的创意测试 Creative Time Wasting—Testing Without Justification
+
+    单元测试，即使没有同功能测试一样直接映射到对应的需求,
+    仍需要有某种文件来形容它们的目的是展示和如何达成.
+    无论是单元或功能测试,没有对应的存在理由和通过/失败标准描述,通常只是浪费时间,
+    即使只是最简单的测试.
+    如果你不知道一个测试应该证明什么,那你怎么能判定运行是否成功?!
+
+    这有个值得重视的箴言: ``包含无文档的测试的代码,比根本不包含测试代码的代码,要更加烂!``
+    为什么呢? 未经测试的代码，你可以相当肯定，它可能含有错误, 
+    而代码包含无意义的测试可能会令你麻痹,
+    即使代码含有严重缺陷的可能性仍然很高,你也有种虚假的安全感.
+    简而言之(其它许多人多次重复说过类似的):
+    ``为测试而测试比没有测试还要糟``
+
+
+
 
 
 
@@ -9935,29 +10462,30 @@ ditions for the tests.
 
 
 </t>
-<t tx="zoomq.20110727085946.4392">Implementing unit tests
+<t tx="zoomq.20110727085946.4392">执行单元测试
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-With a table of test cases, we can now write the actual unit test. Fortunately, Python
-includes a built-in unit test facility, and code coverage capability as well (as the Python
-folks say: batteries included). The following is a module called InputUtils.py contain-
-ing just one function, ScaledInput(). There is no reason it couldn’t contain more utility
-functions for input verification and processing, but for now, this is it.
+有了测试用例表，现在我们可以编写本单元的实际测试了.
+幸运的是，Python包括一个内置的单元测试模块，甚至包含代码覆盖能力
+(正如Python的乡亲们常说的:电池内置).
+下面是一个模块，称为InputUtils.py只包含一个函数，ScaledInput（）.
+我们没有理由不包含更多的实用函式来进行更好的输入验证和处理功能，
+但现在，先这样就好.
 
-The return code “constants” used by ScaledInput() are defined within the same mod-
-ule, although in reality you would probably want to put them in a module by themselves
-(and with nothing else) so they can easily be imported and used by other parts of your
-application. Because we know that using a wildcard import is generally to be avoided,
-I haven’t put leading underscore characters on any of the variable names, but in practice
-it would be a good idea to do so because you don’t know what someone may decide
-to do with your code at a later date.
+``ScaledInput()`` 使用的"常量"在同一模块定义,
+虽然在现实中，你可能会希望封装到一个单纯的定义模块,
+使他们可以轻易的在其它应用程序中导入.
+虽然我们知道，通配符导入一般是要避免的使用，
+但是,在这里,我没有对所有变量名使用下划线前缀，
+但在实践中这样做是个好主意，
+因为你不知道的后人会怎么使用你的代码.
 
-That said, let’s take a look at the module code::
+先来看一下模块代码::
 
     """ InputUtils.py
-        A collection of input verification and processing functions.
+        收集各种输入验证和处理函式
 
-        Just have one (ScaledInput) for now.
+        目前仅有ScaledInput()
     """
     NO_ERR = 0
     ERR_OVER = −1
@@ -9988,12 +10516,13 @@ That said, let’s take a look at the module code::
             rc = ERR_OVER
         return (rc, scaled_data)
 
-Now we just need some way to exercise ScaledInput() using the test parameters listed
-in Table 8-6. Python’s unittest facility is the tool of choice for this.
-As with just about everything else in Python, there are several ways to use the Python
-unittest facility, and this is just one of them. I prefer this approach because it’s
-straightforward and (at least to me) rather obvious. Let’s look at the code, which resides
-in the module test_001.py, and then we’ll walk through it and see what it does::
+
+现在我们只需以某种方式运用表8-6列出的所有测试参数来执行 ScaledInput().
+Python的单元测试库是首选工具.
+在Python中包含了所有相关库, 甚至于有几种方法进行单元测试,
+这只展示其中一种.
+我喜欢比较这种方法，因为它的简单直白(至少对我来说).
+让我们来看看代码，它位于 ``test_001.py`` 然后我们将运行它，看看能做什么::
 
     import unittest
     import InputUtils as UUT
@@ -10055,24 +10584,24 @@ in the module test_001.py, and then we’ll walk through it and see what it does
     unittest.TextTestRunner(verbosity=3).run(suite)
 
 
+首先要注意的是，它仅导入了两个模块:单元测试库( ``unittest`` )和目标模块 ``InputUtils`` (以别名 UUT)就能进行测试.
+然后,是声明继承自通用测试的类作为测试用例模板.
+在这个新的类中，我们创建了七个成员方法的，
+每一个方法对应表8-6中设定的测试案例.
 
-The first thing to notice is that it imports only two things: the unittest library from
-Python and the module to be tested, InputUtils, which is aliased to the name UUT. The
-next step is to declare a class that inherits from the generic test case template,
-TestCase. Within this new class we create seven member methods, one for each of the
-test cases in Table 8-6.
+每个测试案例方法接受类似的一组参数:数据,缩放,偏移.
+变量 ``data_scale`` 和 ``data_offset`` 驻留在UUT模块中，
+而输入的数据在每个测试案例方法中都直接传递到 ``ScaledInput()`` .
 
-Each test case method is identical with the exception of the data, scale, and offset
-parameters. The variables data_scale and data_offset reside in the UUT module,
-whereas the input data is passed directly to the function ScaledInput() by each test case
-method.
 
-After a test case method sets up the initial conditions, it calls ScaledInput(). The return
-code and the processed data are captured in the variables rc and sdata, respectively.
+测试用例的方法在初始条件设置之后,调用 ``ScaledInput()`` .
+返回代码和处理后的数据,捕获为 RC和SDATA.
 
-The returned values are then tested using Python’s assert statement. If the expression
-is True, the assertion passes; both assertions in each test case method must be True for
-the test case to pass. The resulting output looks like this::
+
+使用Python的断言语句返回测试结果.
+如果表达式为 ``True``，则断言通过;
+只有案例有所有方法的断言都为真的情况下测试才算通过.
+输出结果看起来像这样::
 
     &gt;&gt;&gt; import test_001
     test_001_UT_01 (test_001.test_001_UT)
@@ -10108,13 +10637,13 @@ the test case to pass. The resulting output looks like this::
 
 
 </t>
-<t tx="zoomq.20110727085946.4394">assert versus assertEqual() and friends
+<t tx="zoomq.20110727085946.4394">断言与assertEqual() 及其朋友们
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The unittest library has its own collection of assert-type methods in the TestCase class
-that have been tailored specifically to unit testing. Two of the more commonly used
-are assertEqual() and assertNotEqual(). As an example, we can rewrite
-test_001_UT_07 using these methods to look like this::
+单元测试库( ``unittest`` )，专门针对单元测试使用其TestCase类中的断言类型方法来收集测试结果.
+两个最常用的方法是 ``assertEqual()`` 和 ``assertNotEqual()`` .
+作为示例，我们可以用这些方法来重写 ``test_001_UT_07()``
+::
 
     def test_001_UT_07(self):
         UUT.data_scale = 1.0
@@ -10124,13 +10653,14 @@ test_001_UT_07 using these methods to look like this::
         self.assertEqual(rc, UUT.ERR_MINSCALE)
         self.assertEqual(sdata, UUT.SCALE_MIN)
 
+为什么用 ``assertEqual()`` 而不是单纯的 ``assert`` ?
+有两个可能的原因:
+- 第一，如果代码运行时启用优化(- O命令行开关)，assert语句会被忽略;
+- 第二，``assertEqual()`` 可会产生一些 ``assert`` 不会反馈的额外信息 (至少,没有一些额外的工作，我们将演示这种情况)
 
-Why use assertEqual() and not just assert? There are two possible reasons: first, if the
-code is run with optimization enabled (the -O command-line switch), assert statements
-are ignored; second, the assertEqual() method generates some additional information
-that assert does not (at least, not without some extra work, as we’ll see shortly). Let’s
-say that test case 07, using the vanilla assert statement, encounters an error and the
-last assertion fails. Here’s what the output of the test run would look like::
+让我们来观察测试用例07，使用普通的 ``assert`` 语句，
+遇到一个错误导致最终断言失败时,运行的输出会是这样子的
+::
 
     &gt;&gt;&gt; import test_001
     test_001_UT_01 (test_001.test_001_UT)
@@ -10169,10 +10699,11 @@ last assertion fails. Here’s what the output of the test run would look like::
     FAILED (failures=1)
 
 
-While this does indicate that test 7 failed, it doesn’t tell us why. If we replace the
-assert statements with assertEqual() and run the test again, it will still fail, but the
-assertEqual() method will display the values of the two variables that failed the equality
-check::
+
+虽然这表明测试案例7失败了，但它不会告诉我们为什么.
+如果我们使用 ``assertEqual()`` 断言语句，并再次运行测试，它仍然会失败，
+但 ``assertEqual()`` 方法会显示失败时两个变量的值以协助检查
+::
     &gt;&gt;&gt; import test_001
     test_001_UT_01 (test_001.test_001_UT)
     test_001_UT_02 (test_001.test_001_UT)
@@ -10210,34 +10741,34 @@ check::
     FAILED (failures=1)
 
 
-Here we can plainly see what caused the problem, and on what line it occurred.
+现在我们可以看到具体哪儿出问题，并确切到是哪一行的代码.
+
 
 .. seealso:: (^.^)
 
-    To be fair, I should point out that I rigged this test to illustrate a
-    test failure by comparing the processed data value from the
-    ScaledInput() function to the original data input parameter, not to
-    UUT.ERR_MINSCALE, which is what it actually is.
+    公平起见，我得指明，制造这个测试，说明了
+    ``ScaledInput()`` 对原始输入数据和处理值进行比较可引发错误,
+    不是因为 ``UUT.ERR_MINSCALE`` ,而是探测究竟什么产生了错误.
 
 
 
-There have been arguments made about the merits of assert versus assertEqual(),
-some better than others, but I think that in the end it comes down to what you need
-to accomplish with your unit testing and what makes sense for you. If you are never
-planning to run your unit tests under optimization, and you don’t have a compelling
-need to see the test parameters for every failure, go ahead and use the plain old vanilla
-assert statement. That being said, there is a way to see what failed; it just requires a
-bit more typing. I should point out that I’m showing you this just to be complete—it’s
-not something I think you should actually do on a regular basis.
+
+虽然目前已指出 ``assertEqual()`` 代替原生断言的好处,
+但我认为，归结到最终还是要看你需要怎么样来完成您的单元测试.
+如果你是从未准备根据单元测试来优化你的代码,
+或对于你来说看到每次失败的具体参数并不是令人信服的需求,
+那么,继续使用原始 ``assert`` 语句吧.
+虽说只是一种观察失败的形式,只是需要多打一点字,就可以获得更多,何乐而不为?
 
 
-The formal syntax for assert (as stated in Section 6.3 of the Python 2.6.5 documenta-
-tion) is::
+
+正式的断言语法是(在Python2.6.5文档6.3节所述)::
 
     assert_stmt ::= "assert" expression ["," expression]
 
-The second expression can be used to append a message to the exception’s output, like
-so::
+
+第二个表达式可用于消息追加到异常的输出，如
+::
     &gt;&gt;&gt; var1 = 1
     &gt;&gt;&gt; var2 = 2
     &gt;&gt;&gt; assert var1 == var2, "%s != %s, at least not in this universe!" % (var1, var2)
@@ -10246,71 +10777,74 @@ so::
     AssertionError: 1 != 2, at least not in this universe!
 
 
+以上只算一次简单的鸟瞰,展示单元测试可以做什么,
+当然，Python文档中还有更多关于单元测试和它的方法的信息.
+希望大家明白,单元测试是作为正常的软件开发是应做的事.
 
-This is just a bird’s-eye view of what unittest can do, but we’ll leave it at that for now.
-And, of course, there is much more information about unittest and its methods in the
-Python documentation.
-Unit testing is something that should be done as a normal part of software development.
 
-As soon as a new function or method is complete you should create a unit test for it,
-and then run it often. In some environments other people may be responsible for cre-
-ating the functional tests and setting up the test environment, but the person who wrote
-the code is uniquely qualified to create the unit test. This is also more efficient than
-having someone try to figure out what the code does and then create the tests for it
-after the fact.
+每当完成了新函式或是方法,都你应该立即为之创建对应的单元测试,
+并经常运行.
+在某些环境中可能会设专人维护功能测试和测试环境，
+但代码作者是唯一有资格创建单元测试的人.
+这比其它人来揣摩代码之后,再为之创建测试案例要靠谱的多.
+
+
 
 </t>
-<t tx="zoomq.20110727085946.4396">Code coverage
+<t tx="zoomq.20110727085946.4396">代码覆盖率
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-While unit testing is good for performing basic low-level tests, it can also serve another
-equally important purpose: code coverage analysis.
+虽然单元测试是用于执行基本的底层测试，
+它也可以同时达到另一个同样重要的目的:代码覆盖分析.
 
-If you’re not familiar with code coverage analysis, the idea is actually very simple. Every
-line of code in a program must be executable. Or, to put it another way, you don’t want
-any “dead code” in your software that might come back to haunt you later. Code cov-
-erage analysis also tells you if your unit tests are complete. Incomplete unit tests can
-leave dark corners in the software where evil things may be lurking, so you really want
-to touch everything while you’re testing.
+如果你不熟悉代码覆盖率分析不用担心，这个想法其实很简单.
+就是要求每行程序代码必须是可执行的.
+或者，换句话说，不希望在软件代码中存在任何将来会出问题的 "死码".
+代码覆盖分析还能告诉你，单元测试是否是完整的.
+不完整的单元测试可能在你的软件中遗漏包含邪恶东西的暗角,
+所以测试时,你就得想办法确保触摸到一切.
 
-Figure 8-18 shows the flowchart for the ScaledInput() function. If you compare this to
-the test cases listed in Table 8-6, you should be able to readily identify the paths of
-execution that each of the test cases will follow (just look for the return codes). I’ve
-changed some of the variable names so things will fit nicely.
 
-As we discussed earlier, one way to find dead code is through code reviews. Another
-way is to use a tool that can follow along with the execution of the software and keep
-track of which statements have been executed and which have not. I recommend the
-coverage package from Ned Batchelder, which is available at http://nedbatchelder.com/
-code/coverage/.
+插图 8-18 展示了 ``ScaledInput()`` 函数的流程图.
+如果和表8-6列出的测试情况对比,
+你应该能够很容易地识别的每个测试用的执行路径(只要根据返回代码).
+为了漂亮些,我改变了一些变量名.
 
-Figure 8-18. ScaledInput() flowchart
+正如我们前面讨论过，发现 ``死码`` 的方式之一是通过代码复审.
+另一个方法是使用工具，监察软件的执行，
+并跟踪报表记录哪些已执行,哪些还没有.
+我推荐使用 Ned Batchelder 发布的代码覆盖测试工具: ``coverage.py``:
+http://nedbatchelder.com/code/coverage/ 
 
-Once you’ve installed it, you can run it by simply typing coverage along with a com-
-mand parameter and a source filename at the command prompt (note, not python
-coverage, just coverage). This command will execute the specified program module and
-generate some coverage statistics. Using our example unit test, we would enter::
+.. image:: ../_static/figs/rwip_0818.pdf.png
+
+插图 8-18. ScaledInput() 流程图
+
+
+一旦安装完成，启动测试,只需在命令提示符下键入 ``coverage`` 参数并指定源文件名
+(注意，不是 ``python coverage`` ,只是 ``coverage`` 命令).
+此命令将执行指定的程序模块和输出覆盖率统计数据. 
+例如使用我们的示例单元测试，输入::
 
     coverage -x test_001.py
 
 
-The -x command-line switch tells coverage to execute the program and collect coverage
-data. The newer run parameter is also available. Type coverage help at the command
-line to see what the newer-style parameters look like, and coverage help classic to see
-alternate older-style command-line parameters. I prefer the older style, myself. The
-output should look exactly like what you would expect to see when running the
-unittest module as we did previously, but coverage has generated something extra for
-us: a coverage metrics data file.
+``-x`` 命令行开关告诉 ``coverage`` 执行程序并收集覆盖数据.
+也可用新的 ``run`` 参数.
+在命令行输入 ``coverage help`` 可以查阅新风格参数的样子，``coverage help classic``
+则是查阅旧式的命令行参数.
+我个人喜欢旧风格的参数.
+一般输出是象以往我们单元测试运行时直接到标准输出,
+但是 ``coverage`` 为我们生成外部文件 ``覆盖度量数据文件`` 来记录汇报.
 
 
-Using coverage’s report function, we can see the code coverage data in a nice tabular
-format. The -m switch tells coverage to also show the line numbers of code that wasn’t
-executed::
+使用 ``coverage`` 的报告功能，就可以看到一个很不错的代码覆盖率数据表格.
+ ``-m`` 开关参数控制是否显示没有执行的代码行数统计::
 
     coverage report -m
 
 
-The output looks like this::
+输出如下::
 
 Name        Stmts   Exec Cover  Missing
 ------------------------------------------
@@ -10320,10 +10854,12 @@ test_001    54      54      100%
 TOTAL       77      77      100%
 
 
-This demonstrates that all of the statements in ScaledInput() are executed by the test
-cases, and that every possible path in Figure 8-18 has been taken. No dead code here!
-coverage has also tracked the execution of the test_001 wrapper, but you can exclude
-that from the analysis if you wish, as explained in the documentation for coverage.
+
+这表明，对于 ``ScaledInput()`` 在图8-18中的每一个可能的路径都覆盖的情况下,
+所有代码都得到测试.
+所以,这里没有 ``死码``!
+``coverage`` 甚至于还追踪了测试包本身(test_001),
+当然你可以在分析中忽略这部分,具体的参考 ``coverage`` 的文档.
 
 
 
@@ -10331,24 +10867,30 @@ that from the analysis if you wish, as explained in the documentation for covera
 
 
 </t>
-<t tx="zoomq.20110727085946.4398">Documenting Your Software
+<t tx="zoomq.20110727085946.4398">软件文档化 Documenting Your Software
 -------------------------------------------------------------------------------
 
-While the SDD may constitute a plan for your software, it doesn’t necessarily take the
-place of code-level documentation. Depending on the level of detail in the SDD, it may
-describe the architecture of the application only in general terms, without specific de-
-tails such a function or method parameters, global variables, and so on. In fact, it typ-
-ically makes sense to not put an excessive amount of detail into the SDD, because
-invariably things will change as result of unit testing and integration activities. So where
-do we put things like descriptions of function parameters? In the code, of course.
+虽然SDD(Software Design Description,软件设计说明)
+可作为软件的开发计划，
+不是代码级文档存在的地方.
+就SDD(Software Design Description,软件设计说明)的详细水平而言,
+至多笼统的描述应用程序的架构,不会涉及函数或方法参数,全局变量等等具体细节.
+事实上，
+不在SDD(Software Design Description,软件设计说明)投入过多的细节是有道理的，
+因为根据单元测试和集成活动的结果,架构总是在频繁的变动.
+那么，我们把类似功能参数的描述放在哪里?
+当然是在代码中!
 
-Python includes the embedded documentation concept known as the docstring. My
-recommended tool for extracting docstrings and generating nicely formatted and
-indexed HTML pages of code documentation is the Epydoc tool from Edward Loper.
-You can download it from http://epydoc.sourceforge.net.
 
-To illustrate how it works, here is the InputUtils module again, only this time I’ve
-added docstrings and renamed it to InputUtils2.py::
+Python包括嵌入式文档的概念，被称为 ``docstring`` (文档字串).
+对于自动提取注释并生成漂亮的含有索引的HTML格式文档,
+我推荐来自爱德华.洛珀(Edward Loper) 的 ``Epydoc`` 工具.
+可以从 http://epydoc.sourceforge.net 下载.
+
+
+为了说明它是如何工作的，再次引用 ``InputUtils`` 模块，
+只是这一次我添加了文档字串的，并更名为 ``InputUtils2.py``
+::
 
     """ InputUtils.py
         A collection of input verification and processing functions.
@@ -10408,109 +10950,132 @@ added docstrings and renamed it to InputUtils2.py::
         return (rc, scaled_data)
 
 
-Epydoc generates a set of HTML files by default. If we open the top-level file,
-index.html, the result looks like Figure 8-19. Notice that the module global variables
-are also documented.
-
-Figure 8-19. Example Epydoc output
-
-Epydoc is a very useful and powerful tool. For C or C++ there is a similar tool, Doxygen,
-by Dimitri van Heesch, that also generates HTML output and uses markup tags in the
-comment text. It is available from SourceForge at http://sourceforge.net/projects/doxy
-gen/.
+``Epydoc`` 将默认生成一组 HTML 文件.
+如果打开顶层的 index.html ,看起来像插图8-19.
+请注意，模块的全局变量也进行了文档化.
 
 
+.. image:: ../_static/figs/rwip_0819.pdf.png
 
-</t>
-<t tx="zoomq.20110727085946.4400">Version Control
--------------------------------------------------------------------------------
-Version control is a critical part of any design and development activity. A good version-
-control tool allows you to track changes and maintain a history for a particular file. It
-also gives you a way to “step back” to an earlier revision if you find that something
-didn’t work quite as planned. Even if you are the only software developer, having a
-version-control tool available can make the difference between wails of anguish and
-“Oh, no problem, I’ll just go back to the previous version.”
+插图 8-19. Epydoc 输出示例
 
 
-My tool of choice for version control is CVS. Granted, it’s starting to show its age, but
-it’s still in widespread use. Newer tools, such as SubVersion, have appeared, but I go
-back far enough to remember learning to use RCS and SCCS, so I just happen to feel
-more comfortable with CVS (which, by the way, is descended from RCS). I advocate
-using it for any text file, be it source code, use cases, or HTML files. It doesn’t work
-quite as well with binary or mixed-mode files, such as those generated by Word, but
-there are open source tools available that can handle Word and Excel documents and
-maintain a version history.
+``Epydoc`` 是个非常有用并强大的工具.
+对于C或C++ 语言有个同类工具: ``Doxygen`` ，
+由迪米特.冯.黑森(Dimitri van Heesch)开发，
+同样根据注释中的约定标注生成html 文档.
+可从 SourceForge 访问: http://sourceforge.net/projects/doxygen/ .
 
-There is much that can be said about version control, and whole books have been
-written about it. This book is not one of those, but I would encourage you to seek them
-out and read them. The book Essential CVS, by Jennifer Vesperman (O’Reilly), is an
-excellent place to start. The home of CVS is http://www.nongnu.org/cvs/, and of course
-Wikipedia has a write-up on it, which is located at http://en.wikipedia.org/wiki/Concur
-rent_Versions_System.
 
-Lastly, I have found that the manpages for CVS on most Linux installations have a
-massive amount of well-organized information. In fact, my favorite CVS “manual” is a
-binder with a printout of the CVS manpages and a few extra pages of notes.
+
+.. note:: (~_~)
+
+    实现上 Doxygen 还可以输出 pdf/rdf/chm 等等格式文档;
+    而且 Doxygen 支持多种注释形式,也可以兼容 Python 脚本等等.
+
 
 </t>
-<t tx="zoomq.20110727085946.4402">Defect Tracking
+<t tx="zoomq.20110727085946.4400">版本控制
 -------------------------------------------------------------------------------
 
-Bug-tracking tools, also known as defect trackers, are essential in a team environment,
-where one person (a tester, perhaps) may be finding defects that another person (usually
-the person who wrote the code) will then attempt to resolve. For a one-person project,
-a full-on defect tracker might not be necessary if you are good at taking notes and
-keeping track of your “to-do” items, and you use a version-control tool. Because the
-focus of this book is on small projects with one or perhaps two software developers, I
-won’t spend a lot of time on defect tracking. I will, however, try to provide enough
-information to give you an idea of what is involved, and provide some URLs you can
-check out for more information and software packages.
+版本控制是任何设计和开发活动的重要组成部分.
+一个良好的版本控制工具可以让您跟踪特定的文件的更改和维护历史.
+如果发现有不如意的,
+版本控制系统也提供方法,可以方便的回退到指定的较早版本.
+即使你是唯一的软件开发人员，
+在版本控制工具帮助下,可随时说:"哦，没问题，我退回以前的版本就好."
+其实就是哀号和安心间的的差异.
 
-The idea behind a defect tracker is simple. First, a defect is discovered. It is then entered
-into the system, and the resulting “ticket” is assigned to someone. The defect entry then
-goes through a series of states, typically along the lines of unread, working, testing,
-verified, and resolved. It might also transition from working to testing and back to
-working again a few times before it is finally ready to be verified and marked as resolved.
 
-Most open source defect trackers utilize a web-based interface, and some require a web
-server. I happen to prefer the Roundup tool, which is available on SourceForge, because
-it’s simple to set up, easy to use, and it doesn’t require a web server (although you can
-use it with one, if you want to). It’s also written entirely in Python.
+我选择的版本控制工具是CVS.
+虽然CVS 已经很有年头了,但是依然在被广泛的使用.
+已经出现各种颠覆性的新工具，
+但我感觉还是 CVS 最舒服 (顺便说一下，CVS 其实算RCS的后裔).
+我主张尽量使用纯文本文件，比如说:源代码，用例，或HTML文件.
+尽量不和其它二进制文件混合使用，比如:Word文档，
+虽然有可用的开源工具,进行处理 Word/Excel 文档,保存版本历史.
 
-If you want to learn more about Roundup, you can check out its home page: http://
-roundup.sourceforge.net.
 
-Finally, Steve McConnell has an interesting paper on how defect tracking can be used
-to determine if software is really ready for release. It is available at http://www.stevemc
-connell.com/ieeesoftware/bp09.htm.
+对于版本控制有太多可以说的了,一整本书都不够容纳的.
+本书内容重点不是这个,但我会鼓励你继续探索.
+由珍妮弗.威斯波曼(Jennifer Vesperman)撰写的 "CVS基础" (O'Reilly出版) 开始就非常好.
+当然维基百科上也有记载: http://en.wikipedia.org/wiki/Concurrent_Versions_System
+
+
+
+最后，我发现，CVS在大多数Linux安装的联机帮助页中有大量组织良好的信息.
+事实上，我最喜欢的CVS"手册是"就是打印输出的CVS的联机帮助页和一些额外的提示页面.
+
+
+.. note:: (~_~)
+
+    实现上对于小型团队,特别是分布式合作的团队,当前各种分布式版本控制系统比CVS 这种集中式的要好,
+    比如说 Python 工程自身使用的 Mercurial(Hg),以及 Linux 内核团队使用的 git.
 
 </t>
-<t tx="zoomq.20110727085946.4408">User Documentation
+<t tx="zoomq.20110727085946.4402">缺陷跟踪
+-------------------------------------------------------------------------------
+
+
+BUG跟踪又称缺陷跟踪，在团队环境中是必不可少的工具，
+当某人(也许是位测试工程师)发现可能的缺陷时，
+通常由另一个人(问题代码的作者)来试图解决问题.
+当然对于单人的项目，可能没必要配备完整的缺陷跟踪系统，
+只要善用版本控制工具,确保用笔记或是其它方式来跟踪你的"待办"任务,就足够了.
+由于本书的重点是小项目，在一到两个人的小团队中追踪问题,不会花费太多时间.
+不过，我会尽量提供足够的信息包括网址和软件包,以便你来判定是否有更好的解决方案.
+
+
+缺陷跟踪系统背后的想法很简单.
+首先，发现缺陷.
+然后录入到系统，并对应产生"传票"分配给某人.
+然后缺陷条目就可以通过设定好的流程进行处置,比如:非读,修订中,测试中,已核实,已解决.
+条目也可能在测试和修订环节中往复几次,才能最终标定为已解决.
+
+
+大多数开源缺陷跟踪系统利用Web界面，
+有的需要专门的Web服务器.
+我偏爱 ``Roundup`` ,
+它简单易用,而且可以部署在SourceForge上，并不需要Web服务器
+(尽管如果你愿意,也可以部署到专用主机中).
+当然,它是完全Python实现的.
+
+如果你想进一步研究 ``Roundup``, 请访问主页:
+http://roundup.sourceforge.net .
+
+最后推荐，史蒂夫.麦康奈尔(Steve McConnell)发布的一篇有趣文章,阐述缺陷跟踪如何协助软件发布.
+访问地址是: http://www.stevemcconnell.com/ieeesoftware/bp09.htm。</t>
+<t tx="zoomq.20110727085946.4408">用户文档
 ===============================================================================
 
-At some point, your project will (hopefully) be done. All the requirements have been
-defined, the SDD is complete, the code is written and the testing is finished, and it all
-seems to work as intended. If everything has gone according to plan, you should have
-working software as the end result of your hard work and diligent attention to detail.
-But there is one last step that needs to be completed before it is really done: the user
-documentation.
+在某个时间点,你的项目将完成(严正期望).
+所有需求已被定义,SDD(Software Design Description,软件设计说明)也已完成,
+代码编写和测试也完成了,而且一切看起来工作良好.
+如果一切都顺利按计划一丝不苟的达成了，
+可运行的软件就是你兢兢业业辛勤工作的成果.
+但是,还必须完成真正的最后一步:用户文档.
 
-Even if you’ve created something primarily for your own use, you still should have some
-kind of documentation that describes how to use your creation. For projects with a
-limited distribution, I often use a three-ring binder and clear sheet protectors. I print
-out key procedures, parameter values, error codes, and other essential information on
-single sheets and slip them into the protectors. In essence, this is a highly condensed
-version of what a full-on user manual might contain. The advantage to this approach
-is that I can create each page as it’s needed, put them into the notebook as they become
-available, and easily replace them if things change (as they almost always will). The
-binder then lives in the lab with the system so that anyone, including myself, who might
-need a quick refresher on how to use it can grab the binder and look it up.
+即使你已经创建了主要供自己使用的文档，
+但是,还应该有一些介绍如何使用你的软件的文档.
+对于范畴有限的项目，我常在三孔活页夹中使用横格纸.
+将主要程序段,参数表,错误码和其它必要信息打印成单页,追加到活页夹中.
+从本质上讲，这就是完整用户手册的一个高度浓缩的版本.
+这种方法的优点是,我可以随时创建每个页面,
+根据需要丢入活页夹中,一但事情发生变化(几乎总是会变化)替换它们也非常容易.
+这样活页夹就生活在实验室中了,任何人,包括我自己,
+都需要这样一个活页夹,以便随时更新并查阅系统相关信息.
+
+如果系统涉及范畴足够复杂时,你就得要考虑创建实际的用户手册了.
+这听起来令人生畏，但参考其它系统的用户手册是种靠谱的开始方法.
+哪种手册你喜欢(或不喜欢)?以及为什么?
+选择一两个你认为写得很好，参照着来就成.
 
 
-If the system is intended for broad distribution, though, you’ll need to consider creating
-an actual user manual for it. This may seem daunting, but a good place to start is to
-look at other user manuals. Which ones do you like (or not like), and why? Pick one
-or two that you think are well written and model your documentation on those.
+.. note:: (~_~)
+
+    实现上对于小型团队,特别是分布式合作的团队,使用维基系统,跟随开发进度,随手完成关键信息的组织,
+    本身就是一个可维护可交付的用户手册.当然,最好事先,根据喜欢的用户手册内容,规划好章节结构和层次.
+    http://www.wikimatrix.org/ 列出了几乎所有维基引擎系统,译者推荐纯Python 实现的,不依赖数据库的MoinMoin.
 
 </t>
 <t tx="zoomq.20110727085946.4409">LOG = logging.getLogger('cvs')
@@ -10523,7 +11088,7 @@ LOG.addHandler(MongoHandler.to(db='mongolog', collection='log', host='127.0.0.1'
 # -*- coding: utf-8 -*-
 '''fadpop 常用工具集
 '''
-VERSION = "fadutil.py v11.07.27"
+VERSION = "fadutil.py v11.09.22"
 
 &lt;&lt;imports&gt;&gt;
 
@@ -10535,14 +11100,23 @@ from fadutil import run_time
         """ % VERSION
 
 </t>
-<t tx="zoomq.20110727085946.4413">import time
-
+<t tx="zoomq.20110727085946.4413">import os
+import sys
+import time
+import hashlib
 import logging
+import subprocess
+import threading
+
+import Image
+
+# import PyMongo
+from pymongo import Connection
+from pymongo import errors as ERR
+import gridfs
+
 from mongolog.handlers import MongoHandler
 
-LOG = logging.getLogger('fadloc')
-LOG.setLevel(logging.DEBUG)
-LOG.addHandler(MongoHandler.to(db='mongolog', collection='log', host='127.0.0.1', port=27117,))
 </t>
 <t tx="zoomq.20110727085946.4416">@language python
 @tabwidth -4
@@ -10592,8 +11166,8 @@ from pymongo import errors as ERR
 import gridfs
 
 # import original mod.
-sys.path.append(os.path.abspath("../../"))
-from common.fadutil import run_time, LOG
+sys.path.append(os.path.abspath("../../../"))
+from fadpop.common.fadutil import run_time, LOG
 
 </t>
 <t tx="zoomq.20110727201525.2842">wget -m -c -nv --reject=gif -p --cookies=off -w 3 --random-wait -t 7 --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" --referer="http://s.vancl.com/3360.html" http://www.vancl.com/map/default.aspx
@@ -10616,57 +11190,45 @@ http://www.m18.com/
 @tabwidth -4
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-VERSION = "expuri.py v11.08.1"
-
+'''vancl shining info. grasp:
+    need:
+        phantomjs
+'''
+VERSION = "shineinfo.py v11.09.29"
 
 &lt;&lt;imports&gt;&gt;
 
 @others
 
-@run_time
-def exp_all_sid_in_tpl(cursor, uritpl):
-    loop = 0
-    while cursor.alive:
-        try:
-            print uritpl % cursor.next()['sid']
-            loop += 1
-        except:
-            break
-    LOG.info("exp. all as:%s"% loop)
 
 if __name__ == "__main__":
-    if 7 != len(sys.argv):
-        print """ %s 根据条件将指定仓库.集合中的文档内容用URI模板输出到 STDOUT usage::
-$ python /path/2/expuri.py host port db collection {'sid':1,'_id':0} "http://..."
-                 |                |    |   |    |           |           +- URI模板字串
-                 |                |    |   |    |           +- 过滤条件
-                 |                |    |   |    +- 集合名
-                 |                |    |   +- 仓库名
-                 |                |    +- 端口
-                 |                +- 主机IP
-                 +- 指向本脚本
-        """ % VERSION
-        # localhost 27017 fad_docs vancl_items "{'sid':1,'_id':0}" "http://item.vancl.com/%s.html"
+    if 2 != len(sys.argv):
+        print """ %s 根据条件将指定商品的晒单信息/图片更新到仓库 usage::
+$ python /path/2/shineinfo.py {凡客商品号} [0002655]
 
+        """ % VERSION
     else:
-        FADDB = Connection(sys.argv[1], int(sys.argv[2]))[sys.argv[3]]
-        FADCOLL = FADDB[sys.argv[4]]
-        #print sys.argv[-1]
-        CURSOR = FADCOLL.find({}, eval(sys.argv[-2]))
-        exp_all_sid_in_tpl(CURSOR, sys.argv[-1])
+        SID = sys.argv[1]
+        LERR, SERR, LOUT, SOUT = __popen("/usr/local/bin/phantomjs /data/apps/fadpop/spider/graspage.js http://item.vancl.com/%s.html"% SID)
+        up_shines_info(SOUT, SID)
+
 </t>
 <t tx="zoomq.20110728084936.4224">import os
 import sys
-#import time
+import time
+import urllib2
+import hashlib
 #import traceback
-from pymongo import Connection
+#from pymongo import Connection
 #from pymongo import errors as ERR
+from pyquery import PyQuery as pq
 
+import Image
 
-
-# import original mod.
-sys.path.append(os.path.abspath("../../"))
-from common.fadutil import run_time, LOG
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, __popen, run_time, _up4img2gfs
 
 </t>
 <t tx="zoomq.20110729105657.4269">@language python
@@ -10764,6 +11326,10 @@ def loadpics(pkl, pathpic):
 
 收集各种通用工具类函式,定义,参数
 
+== mongolog ==
+init. as:
+    &gt; use mongolog
+    &gt; db.createCollection('log', {capped:true, size:100000})
 
 == TODO ==
 </t>
@@ -10779,146 +11345,75 @@ def loadpics(pkl, pathpic):
 @tabwidth -4
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-VERSION = "anapichtm.py v11.08.1"
-
-
+VERSION = "vanclinfoflush.py v11.09.29"
 &lt;&lt;imports&gt;&gt;
-
-TPL_VANCL_SFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Small/%(foto)s"
-TPL_VANCL_MFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/mid/%(foto)s"
-TPL_VANCL_BFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Big/%(foto)s"
-DOC_FOTO = {                # 图片
-        "uri":""            # URI
-        , "filename":""     # 文件名
-        , "imgtype":""      # gif jpg png ...
-        , "showas":""       # thumb|mid|big
-        , "asmain":False    # true|flase 标识是否作为题头图
-        , "size":[]         # 图片尺寸 长，宽
-        , "atta":""         # 附加信息
-}
+DLERRORS = []
 
 @others
 
 if __name__ == "__main__":
-    if 2 != len(sys.argv):
+    if 1 != len(sys.argv):
         print """ %s 
-对统一下载的 http://item.vancl.com/Styles/BigImg.mvc?ProductCode={sid} 页面html代码分析出sid 对应的所有大图名
-输出到 STDOUT usage::
-$ python /path/2/anabigpic.py /path/2/BigImg.mvc?ProductCode
-                 |               +- 页面文件目录
+对指定主机和端口的Mongo 扫描全部Vancl 商品信息并更新 usage::
+$ python /path/2/vanclinfoflush.py
+                 |                
                  +- 指向本脚本
         """ % VERSION
     else:
-        anabigpicnames(sys.argv[1])
+        flush_info_one_by_one()
 </t>
 <t tx="zoomq.20110801085156.2852">import os
 import sys
 import fnmatch
 #import time
-#import traceback
+import traceback
 #import urllib
 import pickle
-from copy import copy
+#from copy import copy
 
 #import Image
 
 from pyquery import PyQuery as pq
-from lxml import etree
+#from lxml import etree
 
 #from pymongo import Connection
 #from pymongo import errors as ERR
 
-# import original mod.
-sys.path.append(os.path.abspath("../../"))
-from common.fadutil import run_time, LOG
-
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+from fadpop.common.fadutil import CCFG, __popen, run_time, _up4img2gfs
 </t>
-<t tx="zoomq.20110801085156.2853">@run_time
-def anabigpicnames(pathml):
-    ibgpics = {}
-    for file in os.listdir(pathml):
-        if fnmatch.fnmatch(file, 'BigImg.mvc*'):
-            sid = file.split("=")[1]
-            ibgpics[sid] = []
-            dirurl = "/".join(sid[:3])
-            d = pq(filename="%s/%s" % (pathml, file), parser='html')
-            @others
-    output = open('20110709_nvzhuang_bigpic.pkl', 'wb')
-    pickle.dump(ibgpics, output)
-    output.close</t>
-<t tx="zoomq.20110801085156.2854">foto = d('#large').find('img').attr('src').split("/")[-1]
-print TPL_VANCL_BFOTO % locals()
-print TPL_VANCL_MFOTO % locals()
-print TPL_VANCL_SFOTO % locals()
-bfoto_big = {                # 图片
-        "uri":TPL_VANCL_BFOTO % locals()           # URI
-        , "filename":foto.split(".")[0]     # 文件名
-        , "imgtype":foto.split(".")[1]      # gif jpg png ...
-        , "showas":"big"       # thumb|mid|big
-        , "asmain":True    # true|flase 标识是否作为题头图
-        , "size":[]         # 图片尺寸 长，宽
-        , "atta":""         # 附加信息
-}
-ibgpics[sid].append(bfoto_big)
-sfoto_big = {                # 图片
-        "uri":TPL_VANCL_MFOTO % locals()           # URI
-        , "filename":foto.split(".")[0]     # 文件名
-        , "imgtype":foto.split(".")[1]      # gif jpg png ...
-        , "showas":"thumb"       # thumb|mid|big
-        , "asmain":False    # true|flase 标识是否作为题头图
-        , "size":[]         # 图片尺寸 长，宽
-        , "atta":""         # 附加信息
-}
-ibgpics[sid].append(sfoto_big)
-mfoto_big = {                # 图片
-        "uri":TPL_VANCL_SFOTO % locals()           # URI
-        , "filename":foto.split(".")[0]     # 文件名
-        , "imgtype":foto.split(".")[1]      # gif jpg png ...
-        , "showas":"mid"       # thumb|mid|big
-        , "asmain":False    # true|flase 标识是否作为题头图
-        , "size":[]         # 图片尺寸 长，宽
-        , "atta":""         # 附加信息
-}
-ibgpics[sid].append(mfoto_big)
-</t>
-<t tx="zoomq.20110801085156.2855">for foto in d('#thumbnail').find('img'):
-    #print foto.get('src').split("/")[-1]   #.base_url()
-    foto = foto.get('src').split("/")[-1]
-    print TPL_VANCL_BFOTO % locals()
-    print TPL_VANCL_MFOTO % locals()
-    print TPL_VANCL_SFOTO % locals()
-    bfoto_big = {                # 图片
-            "uri":TPL_VANCL_BFOTO % locals()           # URI
-            , "filename":foto.split(".")[0]     # 文件名
-            , "imgtype":foto.split(".")[1]      # gif jpg png ...
-            , "showas":"big"       # thumb|mid|big
-            , "asmain":False    # true|flase 标识是否作为题头图
-            , "size":[]         # 图片尺寸 长，宽
-            , "atta":""         # 附加信息
-    }
-    ibgpics[sid].append(bfoto_big)
-    sfoto_big = {                # 图片
-            "uri":TPL_VANCL_MFOTO % locals()           # URI
-            , "filename":foto.split(".")[0]     # 文件名
-            , "imgtype":foto.split(".")[1]      # gif jpg png ...
-            , "showas":"thumb"       # thumb|mid|big
-            , "asmain":False    # true|flase 标识是否作为题头图
-            , "size":[]         # 图片尺寸 长，宽
-            , "atta":""         # 附加信息
-    }
-    ibgpics[sid].append(sfoto_big)
-    mfoto_big = {                # 图片
-            "uri":TPL_VANCL_SFOTO % locals()           # URI
-            , "filename":foto.split(".")[0]     # 文件名
-            , "imgtype":foto.split(".")[1]      # gif jpg png ...
-            , "showas":"mid"       # thumb|mid|big
-            , "asmain":False    # true|flase 标识是否作为题头图
-            , "size":[]         # 图片尺寸 长，宽
-            , "atta":""         # 附加信息
-    }
-    ibgpics[sid].append(mfoto_big)
+<t tx="zoomq.20110801085156.2853">#@run_time
+def flush_info_one_by_one():
+    for fad in CCFG.FAD.find(fields={'_id':0,'uri':1}):
+        print fad['uri']
 
-
+    return
+    if ".html" == pathml[-5:]:
+        print "esp page..."
+        qhtm = pq(filename=pathml, parser='html')
+        chksid = pathml.split("/")[-1].split(".")[0]
+        print chksid
+        if not _isnorm(qhtm, chksid):
+            return
+        if not _isfound(chksid):
+            return
+        _updateitem(qhtm, chksid)
+    else:
+        for htmfile in os.listdir(pathml):
+            if fnmatch.fnmatch(htmfile, '*.html'):
+                chksid = htmfile.split(".")[0]
+                print chksid
+                qhtm = pq(filename="%s/%s" % (pathml, htmfile), parser='html')
+                if not _isnorm(qhtm, chksid):
+                    continue
+                if not _isfound(chksid):
+                    continue
+                _updateitem(qhtm, chksid)
+                #return
+    output = open('20110713_nvzhuang_all_downloaderrors.pkl', 'wb')
+    pickle.dump(DLERRORS, output)
+    output.close
 </t>
 <t tx="zoomq.20110801085156.2858">@run_time
 def _put_img_gfs(fotoinfo,pathpic):
@@ -11020,7 +11515,7 @@ anapichtm.py 中
     ibgpics = 开始是 copy(DOC_FOTO)
     TMD 导致部分元键不是有效值!
 </t>
-<t tx="zoomq.20110802085156.2837">odate,tI,tO,tC,tM,tF,tS                 Pt,Pd,Pl,Po
+<t tx="zoomq.20110802085156.2837">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
 110701,0.00,11.5,0.00,2.50,4.00,7.50
 110704,3.00,0.00,1.75,4.75,6.75,8.00
 110705,1.00,0.50,7.75,1.50,5.25,7.50
@@ -11036,10 +11531,5649 @@ anapichtm.py 中
 110720,0.00,6.75,0.00,4.50,4.50,7.50
 110721,0.00,5.25,4.50,3.00,2.50,7.00
 110725,2.50,3.50,1.00,3.00,6.00,7.50
-110726,1.50,4.25,0.00,1.00,9.75,7.50    8,6,1,+2
-110727,4.50,2.50,0.00,4.00,5.00,7.50    8,5,2,+2
-110728,4.25,1.75,2.50,5.50,2.00,7.50    8,3,2,+5
-110729,0.00,3.50,0.00,6.00,5.75,7.50    6,5,2,+1
+110726,1.50,4.25,0.00,1.00,9.75,7.50    8, 6, 1, 4
+110727,4.50,2.50,0.00,4.00,5.00,7.50    8, 5, 2, 8
+110728,4.25,1.75,2.50,5.50,2.00,7.50    8, 3, 2, 5
+110729,0.00,3.50,0.00,6.00,5.75,7.50    6, 5, 2, 5
 </t>
+<t tx="zoomq.20110802085156.2839">= fadpop凡客专用处理 =
+
+== 当前 ==
+
+数据处理链:
+    cvsvancl.py -&gt; 获得联盟用户使用的 cvs 中基本商品信息和中等图片
+    expuri.py -&gt; 导出大图以及商品页面url 列表
+        + 使用 wget 批量下载
+    anapichtm.py -&gt; 分析大图首页 生成大图下载链接和商品图片对应 dict 序列数据文件
+        + 使用 wget 批量下载图片
+    loadpics.py -&gt; 导入所有图片数据到对应的商品文档中
+
+</t>
+<t tx="zoomq.20110802085156.2841">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+'''fadpop 常用工具集
+'''
+
+</t>
+<t tx="zoomq.20110802085156.2847">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION = "anapichtm.py v11.08.1"
+
+
+&lt;&lt;imports&gt;&gt;
+
+TPL_VANCL_SFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Small/%(foto)s"
+TPL_VANCL_MFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/mid/%(foto)s"
+TPL_VANCL_BFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Big/%(foto)s"
+DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+
+@others
+
+if __name__ == "__main__":
+    if 2 != len(sys.argv):
+        print """ %s 
+对统一下载的 http://item.vancl.com/Styles/BigImg.mvc?ProductCode={sid} 页面html代码分析出sid 对应的所有大图名
+输出到 STDOUT usage::
+$ python /path/2/anabigpic.py /path/2/BigImg.mvc?ProductCode
+                 |               +- 页面文件目录
+                 +- 指向本脚本
+        """ % VERSION
+    else:
+        anabigpicnames(sys.argv[1])
+</t>
+<t tx="zoomq.20110802085156.2848">import os
+import sys
+import fnmatch
+#import time
+#import traceback
+#import urllib
+import pickle
+from copy import copy
+
+#import Image
+
+from pyquery import PyQuery as pq
+from lxml import etree
+
+#from pymongo import Connection
+#from pymongo import errors as ERR
+
+# import original mod.
+sys.path.append(os.path.abspath("../../../"))
+from fadpop.common.fadutil import run_time, LOG
+</t>
+<t tx="zoomq.20110802085156.2849">@run_time
+def anabigpicnames(pathml):
+    ibgpics = {}
+    for file in os.listdir(pathml):
+        if fnmatch.fnmatch(file, 'BigImg.mvc*'):
+            sid = file.split("=")[1]
+            ibgpics[sid] = []
+            dirurl = "/".join(sid[:3])
+            d = pq(filename="%s/%s" % (pathml, file), parser='html')
+            @others
+    output = open('20110709_nvzhuang_bigpic.pkl', 'wb')
+    pickle.dump(ibgpics, output)
+    output.close</t>
+<t tx="zoomq.20110802085156.2850">foto = d('#large').find('img').attr('src').split("/")[-1]
+print TPL_VANCL_BFOTO % locals()
+print TPL_VANCL_MFOTO % locals()
+print TPL_VANCL_SFOTO % locals()
+bfoto_big = {                # 图片
+        "uri":TPL_VANCL_BFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"big"       # thumb|mid|big
+        , "asmain":True    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(bfoto_big)
+sfoto_big = {                # 图片
+        "uri":TPL_VANCL_MFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"thumb"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(sfoto_big)
+mfoto_big = {                # 图片
+        "uri":TPL_VANCL_SFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"mid"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(mfoto_big)
+</t>
+<t tx="zoomq.20110802085156.2851">for foto in d('#thumbnail').find('img'):
+    #print foto.get('src').split("/")[-1]   #.base_url()
+    foto = foto.get('src').split("/")[-1]
+    print TPL_VANCL_BFOTO % locals()
+    print TPL_VANCL_MFOTO % locals()
+    print TPL_VANCL_SFOTO % locals()
+    bfoto_big = {                # 图片
+            "uri":TPL_VANCL_BFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"big"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(bfoto_big)
+    sfoto_big = {                # 图片
+            "uri":TPL_VANCL_MFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"thumb"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(sfoto_big)
+    mfoto_big = {                # 图片
+            "uri":TPL_VANCL_SFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"mid"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(mfoto_big)
+
+
+</t>
+<t tx="zoomq.20110804090725.2868">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+&lt;&lt;changelog&gt;&gt;
+VERSION = "vanclcsv.py v11.10.26"
+&lt;&lt;imports&gt;&gt;
+PATH_CVS_PIC = ""
+
+@others
+
+if __name__ == "__main__":
+    if 2 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/vanclcsv.py /path/2/taobao_Week_20110709_nvzhuang.csv
+                 |             +-- taobao 联盟用户的相关商品数据文件
+                 +- 指向本脚本
+        """ % VERSION
+    else:
+        CVS = sys.argv[1]
+        loadall(CVS)
+
+</t>
+<t tx="zoomq.20110804090725.2869">'''vancl cvs data file push into Mongo
+    - 单进单线,批量 vancl 联盟用户cvs数据导入
+    - 自动抓取相关图片到 gFS
+依赖:
+    + PIL
+    + PyMongo &gt; 1.11
+'''
+</t>
+<t tx="zoomq.20110804090725.2870">import os
+import sys
+import time
+import codecs
+#import csv
+#import csv, codecs, cStringIO
+#import unicodecsv
+#from cStringIO import StringIO
+from copy import deepcopy as copy
+import subprocess
+import traceback
+import logging
+import hashlib
+#   3party mod.s
+#import chardet
+import Image
+
+# import PyMongo
+from pymongo import Connection
+from pymongo import errors as ERR
+import gridfs
+
+from mongolog.handlers import MongoHandler
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+from fadpop.common.fadutil import CCFG, _up4img2gfs, __popen
+
+
+</t>
+<t tx="zoomq.20110804090725.2871">class Borg():
+    '''base http://blog.youxu.info/2010/04/29/borg
+        - 单例式配置收集类
+    '''
+    __collective_mind = {}
+    def __init__(self):
+        self.__dict__ = self.__collective_mind
+
+    &lt;&lt;configures&gt;&gt;
+
+# init all cfg. var
+CF = Borg()
+
+</t>
+<t tx="zoomq.20110804090725.2872">#path
+PATH_CVS_PIC = ""
+#"/home/zoomq/workspace/yuike/_stuff/4vancl/taobao_ALL_nvzhuang/taobao_ALL_20110713_nvzhuang"
+#"/home/zoomq/workspace/yuike/_stuff/4vancl/taobao_Week_nvzhuang/taobao_Week_20110709_nvzhuang"
+
+#   shell call
+SHM = "/mnt/shm/%s.html"    #"/dev/shm/%s.html"
+#W3M = "/usr/local/bin/w3m -dump %s"
+W3M = "/usr/local/bin/w3m -T text/html %s"
+
+
+@others
+
+&lt;&lt;doc_foto&gt;&gt;
+&lt;&lt;doc_item&gt;&gt;
+</t>
+<t tx="zoomq.20110804090725.2875">TPL_VANCL_URITEM = "http://item.vancl.com/%s.html"
+TPL_VANCL_URIPIC = "http://item.vancl.com/Styles/BigImg.mvc?ProductCode=%s"
+DOC_ITEM = {"uri":""
+    #, "com":"VANCL"                # 电商名
+    , "brand":u"VANCL 凡客诚品"      # 品牌名
+    , "sid":""                      # 编号
+    , "store":0                     # 库存数量
+    , "saled":0                     # 已售出
+    , "prix":""                     # 价格(原价+各种优惠价格) | saleout 已售罄
+    , "agio":""                     # 折扣
+    , "vip":""                      # 优惠价格
+    , "attrs":{"name":""            # 品名
+        , "class":[]                # 分类
+        , "color":""                # 顔色们
+        , "cons":""                 # constituent 成分
+        , "wash":""                 # 洗涤要求
+        , "descs":{                 # 描述
+            "txt":""                # 读本描述
+            ,"size":[]              # 尺寸(码表)矩阵
+            ,"others":{}            # 其它各种属性
+            }
+        ,"fotos":[]                 # 图片集，DBref-&gt;DBGFS.fs.files.
+        } # attrs
+    ,"comments":{                   # 评议集
+        "feel":""                   # 整体很舒服（45%）、透气性适中（53%）...
+        , "unit":""                 # 綜合
+        , "noma":""                 # 外观
+        , "bask":""                 # 舒适
+        , "size":""                 # 尺码 2% 的用户认为实际尺码[偏大],,,
+        , "taker":{                 # 购买者评论
+            "total":0               # 留言总数
+            ,"totalask":0           # 疑问总数
+            , "comment":[{           # 评注
+                "name":""
+                , "date":""
+                , "title":""        # 标题
+                , "cont":""
+                , "hold":""         # 拥有的商品描述
+                }]# comment
+            , "ask":[{               # 回答
+                "name":""
+                , "date":""
+                , "title":""        # 标题
+                , "issue":""        # 问题
+                , "reply":""        # 回答
+                }]# comment
+            } # taker
+        , "shiner":{                # 晒单图文
+            "total":0               # 总数
+            , 'bask':[{"name":""    # 晒单
+                , "uri":""          # 达人
+                , "title":""
+                , "cont":""
+                , "foto":[]         # 图片集，DBref-&gt;DBGFS.fs.files.
+                }# shine
+                ]
+            } # taker
+        }   # comments
+    }   # TPL
+
+</t>
+<t tx="zoomq.20110804090725.2876">TPL_VANCL_SFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Small/%(foto)s"
+TPL_VANCL_MFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/mid/%(foto)s"
+TPL_VANCL_BFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Big/%(foto)s"
+DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+FOTO_SIZE = {'thumb':"Small"
+    ,'mid':"mid"
+    ,'big':"Big"
+    }
+
+'''取用
+from pymongo import Connection
+import gridfs
+fs = Connection('localhost', 27017).static_files
+fs = gridfs.GridFS(fs)
+
+In [71]: gfs.get(v.find_one({},{"attrs.fotos":1,'_id':0})['attrs']['fotos'][0])
+Out[71]: &lt;gridfs.grid_file.GridOut object at 0x91adf8c&gt;
+
+就可以:
+    gfs.get(v.find_one({},{"attrs.fotos":1,'_id':0})['attrs']['fotos'][0]).uri
+
+'''
+</t>
+<t tx="zoomq.20110804090725.2878">def loadall(cvsfile):
+    '''解析 taobao cvs 数据，摄取可用部分，填入 mongo
+
+so to open a file, process its contents, and make sure to close it, you can simply do:
+with open("x.txt") as f:
+    data = f.read()
+    do something with data
+    '''
+    cvsls = open(cvsfile).readlines()
+    #print os.path.exists(os.path.abspath(cvsfile[:-9]))
+    PATH_CVS_PIC = cvsfile[:-9]
+    #print 'PATH_CVS_PIC::', PATH_CVS_PIC
+    count = 0
+    skiped = 0
+    for idata in cvsls[1:]:
+        info = idata.split('\t')
+        #print len(info)
+        if 45 != len(info):
+            skiped += 1
+            print "^"*79, "SKIPED bad cvs data::", skiped
+            break
+        else:
+            #continue
+            count += 1
+            CCFG.LOG.debug("loaded:%s"% count)
+            &lt;&lt;整理入collection&gt;&gt;
+            print "+"*79, "loaded:", count
+            #break
+
+</t>
+<t tx="zoomq.20110804090725.2879"># 因为 Borg(),所以,要对单例类的对象进行复制,否则 insert() 知道是同一对象不进行插入的...而且要进行深复制!否则...
+item = copy(CCFG.DOC_ITEM)
+#print "id(CF.DOC_ITEM)",id(CF.DOC_ITEM),"id(item)",id(item)
+#print "\n\t\t attrs.fotos:", item["attrs"]['fotos']
+#print id(item["attrs"]['fotos'])
+sid = info[40][1:-1]
+item["sid"] = sid
+item["uri"] = CCFG.TPL_VANCL_URITEM % sid
+item["prix"] = info[7]#.decode('utf-8')
+item["store"] = info[9]#.decode('utf-8')
+item["attrs"]['name'] = info[0][1:-1]#.decode('utf-8')#.encode('utf-8')
+#print item["attrs"]['name']
+#break
+# 111025 cancel exist insert
+if CCFG.FAD.find_one({'sid':sid}, {'_id':1}):
+    continue
+else:
+    #print sid, CCFG.FAD.find_one({'sid':sid}, {'_id':1})
+    attr_desc_txt, attr_descs_others, attr_desc_size = _pick_by_w3m(info[24])
+    #print attr_desc_txt, attr_descs_others, attr_desc_size
+    #return
+    item["attrs"]['descs']['txt'] = attr_desc_txt#.encode('unicode_escape').decode('string_escape')#.decode("utf-8")
+    #'utf-8').encode('utf-8')
+    #attr_desc_txt#.encode('utf-8')#.encode('utf-8')
+    item["attrs"]['descs']['size'] = attr_desc_size#.decode('utf-8')#.encode('utf-8')
+    item["attrs"]['descs']['others'] = attr_descs_others#.decode('utf-8')#.encode('utf-8')
+    # DBref -&gt; GFS foto collections 无法跨DB 进行!??! 使用普通硬关联
+    foto_id = _put_img_gfs(info,PATH_CVS_PIC)
+    item["attrs"]['fotos'].append(foto_id)
+    #print item
+    try:
+        # bson.errors.InvalidStringData: strings in documents must be valid UTF-8
+        this_id = CCFG.FAD.insert(item, safe=True)
+        print "\t CF.FAD.insert ed:: ", this_id
+    except ERR.DuplicateKeyError:
+        print "\t safe=True BROKENNN! by pymongo.errors.DuplicateKeyError"
+        continue
+
+
+</t>
+<t tx="zoomq.20110804090725.2880">def _put_img_gfs(info, path2foto):
+    '''为 DBref 将图片统一丢到 static_files.fs.files,返回文档对象
+    '''
+    sid = info[40][1:-1]
+    #foto_filename = info[35].split(":")[0][1:]
+    foto_filename = info[35].split(":")[0][1:]
+    dirurl = "/".join(sid[:3])
+    goodsid = sid
+    # 处理,可能的其它图片格式现象
+    &lt;&lt;可能的其它图片格式&gt;&gt;
+    foto = "%s.%s"% (fotoid, imgex)
+    imguri = CCFG.TPL_VANCL_MFOTO % locals()
+    #print sid, imguri
+    #main_mid_pic = "%s/%s.%s"% (PATH_CVS_PIC, fotoid, locex)
+    main_mid_pic = "%s/%s.%s"% (path2foto, fotoid, locex)
+    #print "PATH_CVS_PIC", path2foto
+    print main_mid_pic
+    if os.path.exists(main_mid_pic):
+        if CCFG.GFS.exists({'uri':imguri}):
+            existimg = CCFG.FSFILE.find_one({'uri':imguri}, {'_id':1,'filename':1})
+            img_id = existimg['_id']
+            print "..",imguri[-56:], "\t&lt;&lt;&lt; HAD PUTed!\t", img_id
+            #print CF.FSFILE.find_one({'uri':imguri}, {'_id':1})['_id']
+            #return img_id
+            return existimg['filename']
+        else:
+            # make time+uri as inter. filename
+            crtfoto = "%.4f;%s"%(int(time.time()),imguri)
+            urifoto = hashlib.sha224(crtfoto).hexdigest()
+            img = CCFG.GFS.put(open(main_mid_pic,'rb').read()
+                , uri = imguri
+                , filename = urifoto    #fotoid
+                , imgtype = imgex
+                , showas = 'mid'
+                , asmain = True
+                , size = Image.open(main_mid_pic).size
+                )
+            #return img
+            return urifoto
+    else:
+        print "the %s NOT exists!!" % main_mid_pic
+        sys.exit(1)
+
+
+
+
+
+</t>
+<t tx="zoomq.20110804090725.2881">try_other_img_type = foto_filename.split(".")
+if 1 &lt; len(try_other_img_type):
+    fotoid = try_other_img_type[0]
+    imgex = try_other_img_type[1]
+    locex = imgex
+else:
+    fotoid = foto_filename
+    imgex = 'jpg'
+    locex = 'tbi'
+
+</t>
+<t tx="zoomq.20110804090725.2882">def _pick_by_w3m(htm):
+    '''动用 w3m 集中处理 vancl cvs 数据中的html 片段
+    '''
+    ELINKS = "/usr/local/bin/elinks -force-html -dump-charset utf8 -dump %s"
+    try:
+        shmtmp = "%s/%s.htm"% (CCFG.SHM, str("%.4f"% time.time()) )
+        open(shmtmp,"w").write(htm)
+        dumptxt = ELINKS % shmtmp
+        #CCFG.W3M % shmtmp
+        #print htm
+        #print "dumptxt", chardet.detect(dumptxt)
+        err_li, err_st, out_li, out_st = __popen(dumptxt)
+        #print out_st#.decode('windows-1252')#.encode('utf-8')
+        #print chardet.detect(out_st)    #out_st,err_st
+        #print "out_st", chardet.detect(out_st.decode('windows-1252').encode('utf-8'))
+        #return
+        os.remove(shmtmp)
+        return _pick_table_data(out_li)
+    except:
+        print "_pick_by_w3m() BROKENNN!\n\t", traceback.print_exc()
+        sys.exit(1)
+
+
+
+
+
+</t>
+<t tx="zoomq.20110804090725.2883">def _pick_table_data(txt):
+    '''处理 w3m dump 出来的页面 中表格 片段 成为 Mongo 的多重数组:
+        [[,,,]
+        ,[,,,]
+        ,[,,,]
+        ]
+    '''
+    attr_descs_others = []
+    attr_desc_size = []
+    attr_desc_txt = ""
+    besize = 0
+    for line in txt:
+        #line = textli.decode('windows-1252').encode('utf-8')
+        if "[]" in line or "[service" in line:
+            continue
+        #elif "─┼─" in line or "┌─" in line or "└─" in line:
+        elif "--+--" in line or "+--" in line or "--+" in line:
+            continue
+        #elif "  •" in line:
+        elif " * " in line:
+            #as attr.desc.cut...
+            #desc = line.split("•")[1].split("：")
+            desc = line.split("*")[1].split(":")
+            attr_descs_others.append([desc[0],":".join(desc[1:])])
+        elif "尺码" in line:
+            besize = 1
+            attr_desc_size.append(line.replace("│", "").split())
+        else:
+            if 0 == besize:
+                #as attr.desc.txt
+                attr_desc_txt += line
+            else:
+                #as attr.desc.size
+                if 2 &lt; len(line):
+                    # cancel null data lines
+                    attr_desc_size.append(line.replace("│", "").split())
+    return attr_desc_txt, attr_descs_others, attr_desc_size
+
+
+</t>
+<t tx="zoomq.20110804090725.2889">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION = "anapichtm.py v11.08.1"
+
+
+&lt;&lt;imports&gt;&gt;
+
+TPL_VANCL_SFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Small/%(foto)s"
+TPL_VANCL_MFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/mid/%(foto)s"
+TPL_VANCL_BFOTO = "http://images.vancl.com/product/%(dirurl)s/%(sid)s/Big/%(foto)s"
+DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+
+@others
+
+if __name__ == "__main__":
+    if 2 != len(sys.argv):
+        print """ %s 
+对统一下载的 http://item.vancl.com/Styles/BigImg.mvc?ProductCode={sid} 页面html代码分析出sid 对应的所有大图名
+输出到 STDOUT usage::
+$ python /path/2/anabigpic.py /path/2/BigImg.mvc?ProductCode
+                 |               +- 页面文件目录
+                 +- 指向本脚本
+        """ % VERSION
+    else:
+        anabigpicnames(sys.argv[1])
+</t>
+<t tx="zoomq.20110804090725.2890">import os
+import sys
+import fnmatch
+#import time
+#import traceback
+#import urllib
+import pickle
+from copy import copy
+
+#import Image
+
+from pyquery import PyQuery as pq
+from lxml import etree
+
+#from pymongo import Connection
+#from pymongo import errors as ERR
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, __popen, run_time
+</t>
+<t tx="zoomq.20110804090725.2891">@run_time
+def anabigpicnames(pathml):
+    ibgpics = {}
+    for file in os.listdir(pathml):
+        if fnmatch.fnmatch(file, 'BigImg.mvc*'):
+            sid = file.split("=")[1]
+            ibgpics[sid] = []
+            dirurl = "/".join(sid[:3])
+            d = pq(filename="%s/%s" % (pathml, file), parser='html')
+            @others
+    output = open('110713_nvzhuang_all_bigpic.pkl', 'wb')
+    pickle.dump(ibgpics, output)
+    output.close
+
+</t>
+<t tx="zoomq.20110804090725.2892">foto = d('#large').find('img').attr('src').split("/")[-1]
+print TPL_VANCL_BFOTO % locals()
+print TPL_VANCL_MFOTO % locals()
+print TPL_VANCL_SFOTO % locals()
+bfoto_big = {                # 图片
+        "uri":TPL_VANCL_BFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"big"       # thumb|mid|big
+        , "asmain":True    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(bfoto_big)
+sfoto_big = {                # 图片
+        "uri":TPL_VANCL_MFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"thumb"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(sfoto_big)
+mfoto_big = {                # 图片
+        "uri":TPL_VANCL_SFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"mid"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(mfoto_big)
+</t>
+<t tx="zoomq.20110804090725.2893">for foto in d('#thumbnail').find('img'):
+    #print foto.get('src').split("/")[-1]   #.base_url()
+    foto = foto.get('src').split("/")[-1]
+    print TPL_VANCL_BFOTO % locals()
+    print TPL_VANCL_MFOTO % locals()
+    print TPL_VANCL_SFOTO % locals()
+    bfoto_big = {                # 图片
+            "uri":TPL_VANCL_BFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"big"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(bfoto_big)
+    sfoto_big = {                # 图片
+            "uri":TPL_VANCL_MFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"thumb"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(sfoto_big)
+    mfoto_big = {                # 图片
+            "uri":TPL_VANCL_SFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"mid"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(mfoto_big)
+
+
+</t>
+<t tx="zoomq.20110804090725.2901">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION = "vanclpicloader.py v11.08.18"
+
+&lt;&lt;imports&gt;&gt;
+&lt;&lt;define&gt;&gt;
+
+FOTO_SIZE = {'thumb':"Small"
+    ,'mid':"mid"
+    ,'big':"Big"
+    }
+@others
+
+if __name__ == "__main__":
+    if 3 != len(sys.argv):
+        print """ %s 
+进一步处理anapichtm.py生成的大图对应字典,将实际下载的各种图片加载到 Mongo 中
+usage::
+$ python /path/2/vanclpicloader.py /path/2/*_bigpic.pkl /path/2/images.vancl.com
+                 |               |                      +- 镜像的图片目录入口(注意!不应该有最后的/)
+                 |               +- 字典对象序列化文件
+                 +- 指向本脚本
+        """ % VERSION
+    else:
+        loadpics(sys.argv[1], sys.argv[2])
+</t>
+<t tx="zoomq.20110804090725.2902">import os
+import sys
+#import fnmatch
+import time
+import types
+import traceback
+#import urllib2
+import hashlib
+import pickle
+#from copy import copy
+
+import Image
+
+#from pyquery import PyQuery as pq
+#from lxml import etree
+
+from pymongo import Connection
+from pymongo import errors as ERR
+import gridfs
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, __popen, run_time
+
+</t>
+<t tx="zoomq.20110804090725.2903">class Borg():
+    '''base http://blog.youxu.info/2010/04/29/borg
+        - 单例式配置收集类
+    '''
+    __collective_mind = {}
+    def __init__(self):
+        self.__dict__ = self.__collective_mind
+    &lt;&lt;configures&gt;&gt;
+    NOEXISTS = []
+
+# init all cfg. var
+CF = Borg()
+
+</t>
+<t tx="zoomq.20110804090725.2904">#path
+#PATH_CVS_PIC = "/home/zoomq/workspace/yuike/_stuff/4vancl/taobao_Week_nvzhuang/taobao_Week_20110709_nvzhuang"
+
+# db connection names
+DBGFS = "static_files"
+DBFAD = "fad_docs"
+#   为每个电商使用专用的 Coolection
+COFAD = "vancl_items"
+try:
+    CONNFAD = Connection('localhost', 27017)
+except:
+    print "couldn't connect: be sure that Mongo is running on localhost:27017", traceback.print_exc()
+    sys.exit(1)
+'''
+try:
+    CONNGFS = Connection('localhost', 27217)
+except:
+    print "couldn't connect: be sure that Mongo is running on localhost:27217", traceback.print_exc()
+    sys.exit(1)
+'''
+FAD = CONNFAD[DBFAD][COFAD]
+FAD.create_index("uri", unique=True)
+GFS = gridfs.GridFS(CONNFAD[DBGFS])
+FSFILE = CONNFAD[DBGFS].fs.files
+</t>
+<t tx="zoomq.20110804090725.2905">@run_time
+def loadpics(pkl, pathpic):
+    dictpic = pickle.load(open(pkl, 'rb'))
+    #print dictpic.keys()
+    total = 0
+    for sid in dictpic.keys():
+        try:
+            for foto in dictpic[sid]:
+                dirurl = "/".join(sid[:3])
+                asize = FOTO_SIZE[foto['showas']]  # 翻译TMD实际目录
+                filename = foto['filename']
+                imgtype = foto['imgtype']
+                realpic = "%(pathpic)s/product/%(dirurl)s/%(sid)s/%(asize)s/%(filename)s.%(imgtype)s"% locals()
+                #print sid,realpic
+                @others
+                #print CF.FAD.find({'sid':sid})[0]['attrs']['fotos']
+                total += 1
+        except :
+            print "loadpics(pkl,pathpic) BROKENNN!\n\t", traceback.print_exc()
+            #sys.exit(1)
+            continue
+        print "\n\t &gt;&gt;&gt; %s fotos loaded !&lt;&lt;&lt;\n"% total
+
+    output = open('110713_nvzhuang_all_lostpics.pkl', 'wb')
+    pickle.dump(CF.NOEXISTS, output)
+    output.close
+    print "\n\t &gt;&gt;&gt; wget losted pics ~==",len(CF.NOEXISTS)
+
+
+</t>
+<t tx="zoomq.20110804090725.2906">try:
+    this_item = CF.FAD.find({'sid':sid})
+    fotoid =  _put_img_gfs(foto,realpic)
+    if fotoid:
+        fotos = this_item[0]['attrs']['fotos']
+        if fotoid in fotos:
+            print fotoid,"\t atta.ed inthe sid::",sid
+            pass
+        else:
+            fotos.append(fotoid)
+            CF.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':fotos}})
+    else:
+        # wget is not completed!
+        continue
+except :
+    print "loadpics(pkl,pathpic) BROKENNN!\n\t", traceback.print_exc()
+    #sys.exit(1)
+    continue
+
+
+</t>
+<t tx="zoomq.20110804090725.2907">#@run_time
+def _put_img_gfs(fotoinfo,pathpic):
+    '''为 DBref 将图片统一丢到 static_files.fs.files,返回文档对象
+    '''
+    if os.path.exists(pathpic):
+        if CF.GFS.exists({'uri':fotoinfo['uri']}):
+            existimg = CF.FSFILE.find_one({'uri':fotoinfo['uri']}, {'_id':1,'filename':1})
+            img_id = existimg['_id']
+            #img_id = CF.FSFILE.find_one({'uri':fotoinfo['uri']}, {'_id':1})['_id']
+            print fotoinfo['uri'], "&lt;------ HAD PUTed!\t", img_id
+            #print CF.FSFILE.find_one({'uri':imguri}, {'_id':1})['_id']
+            return existimg['filename'] #img_id
+        else:
+            # make time+uri as inter. filename
+            crtfoto = "%.4f;%s"%(int(time.time()),fotoinfo['uri'])
+            urifoto = hashlib.sha224(crtfoto).hexdigest()
+            img = CF.GFS.put(open(pathpic,'rb').read()
+                , uri = fotoinfo['uri']
+                , filename = urifoto    #fotoinfo['filename']
+                , imgtype = fotoinfo['imgtype']
+                , showas = fotoinfo['showas']
+                , asmain = fotoinfo['asmain']
+                , size = Image.open(pathpic).size
+                )
+            return urifoto  #img
+    else:
+        print "\tNOT exists!!!  %s " % pathpic
+        CF.NOEXISTS.append(pathpic)
+        return None
+        #sys.exit(1)
+
+
+
+
+
+</t>
+<t tx="zoomq.20110804090725.2910">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION = "expuri.py v11.08.1"
+
+&lt;&lt;imports&gt;&gt;
+
+@others
+
+@run_time
+def exp_all_sid_in_tpl(cursor, uritpl):
+    loop = 0
+    while cursor.alive:
+        try:
+            print uritpl % cursor.next()['sid']
+            loop += 1
+        except:
+            break
+    CCFG.LOG.info("exp. all as:%s"% loop)
+
+if __name__ == "__main__":
+    if 7 != len(sys.argv):
+        print """ %s 根据条件将指定仓库.集合中的文档内容用URI模板输出到 STDOUT usage::
+$ python /path/2/expuri.py host port db collection {'sid':1,'_id':0} "http://..."
+                 |                |    |   |    |           |           +- URI模板字串
+                 |                |    |   |    |           +- 过滤条件
+                 |                |    |   |    +- 集合名
+                 |                |    |   +- 仓库名
+                 |                |    +- 端口
+                 |                +- 主机IP
+                 +- 指向本脚本
+localhost 27017 fad_docs vancl_items "{'sid':1,'_id':0}" "http://item.vancl.com/{sid}.html"
+localhost 27017 fad_docs vancl_items "{'sid':1,'_id':0}" "http://item.vancl.com/Styles/BigImg.mvc?ProductCode={sid}"
+        """ % VERSION
+        # localhost 27017 fad_docs vancl_items "{'sid':1,'_id':0}" "http://item.vancl.com/%s.html"
+
+    else:
+        FADDB = Connection(sys.argv[1], int(sys.argv[2]))[sys.argv[3]]
+        FADCOLL = FADDB[sys.argv[4]]
+        #print sys.argv[-1]
+        CURSOR = FADCOLL.find({}, eval(sys.argv[-2]))
+        exp_all_sid_in_tpl(CURSOR, sys.argv[-1])
+</t>
+<t tx="zoomq.20110804090725.2911">import os
+import sys
+#import time
+#import traceback
+from pymongo import Connection
+#from pymongo import errors as ERR
+
+
+
+# import original mod.
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, __popen, run_time
+
+</t>
+<t tx="zoomq.20110804090725.2914">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION = "mongolisten.py v11.07.26"
+
+&lt;&lt;imports&gt;&gt;
+
+@others
+
+if __name__ == "__main__":
+    if 5 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/mongolisten.py host port db collection
+                 |                |    |   |    +-- 集合名
+                 |                |    |   +- 仓库名
+                 |                |    +- 端口
+                 |                +- 主机IP
+                 +- 指向本脚本
+将每一秒钟给抓出尾消息
+$ python mongolisten.py py.kingsoft.net 9017 mongolog log
+        """ % VERSION
+    else:
+        #host = sys.argv[1]
+        #port = sys.argv[2]
+        #db = sys.argv[3]
+        #coll = sys.argv[4]
+        db = Connection(sys.argv[1], int(sys.argv[2]))[sys.argv[3]]
+        print db.collection_names()
+        coll = db[sys.argv[4]]
+        print coll.count()
+        cursor = coll.find(tailable=True)
+        while cursor.alive:
+            try:
+                doc = cursor.next()
+                print "%s [% 8s](%s) %s by:%s @%s %s %s l:%s" % (doc["time"]
+                    ,doc["level"]
+                    ,doc["name"]
+                    ,doc["msg"]
+                    ,doc["user"]
+                    ,doc["host"]
+                    ,doc["file"]
+                    ,doc["funcname"]
+                    ,doc["line_no"]
+                    )
+            except StopIteration:
+                time.sleep(1)
+
+</t>
+<t tx="zoomq.20110804090725.2915">import os
+import sys
+import time
+import traceback
+from pymongo import Connection
+from pymongo import errors as ERR
+
+import logging
+from mongolog.handlers import MongoHandler
+</t>
+<t tx="zoomq.20110804090725.2916">使用 
+python anabigpic.py ../../_stuff/4vancl/taobao_Week_nvzhuang/20110709_nvzhuang_bigpic &gt; 20110709_nvzhuang_bigpic.dl.uri
+然后:
+wget -x -c -nv  --cookies=off  -t 3 --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -i 20110709_nvzhuang_bigpic.dl.uri
+
+中断后...
+wget -x -c -nc -nv --cookies=off  -t 3 --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -i pics110713-nvzhuang.dl.aa
+
+
+2011-08-04 20:02:06 URL:http://images.vancl.com/product/0/0/1/0013484/Big/2010_10_8_13_50_15_9936.jpg [226291/226291] -&gt; "images.vancl.com/product/0/0/1/0013484/Big/2010_10_8_13_50_15_9936.jpg" [1]
+下载完毕 --2011-08-04 20:02:07--
+下载了：2385 个文件，0s (301919790 GB/s) 中的 155M
+
+
+in ~/workspace/3hg/bitbucket.org/Yuike/_stuff/4vancl 
+$ du -hs *
+284K	110713_nvzhuang_bigpic.uri
+7.0M	110713_nvzhuang_dl_pic.uri
+168K	110713_nvzhuang_items.uri
+5.5G	images.vancl.com
+    # 可能超出 32 系统的数据上限...
+20M	nvzhuang_bigpic.dl
+825M	nvzhuang_htm
+....</t>
+<t tx="zoomq.20110805090147.2885">    , size = Image.open(pathpic).size
+  File "/usr/local/lib/python2.6/dist-packages/gridfs/__init__.py", line 116, in put
+    grid_file.close()
+  File "/usr/local/lib/python2.6/dist-packages/gridfs/grid_file.py", line 220, in close
+    self.__flush()
+  File "/usr/local/lib/python2.6/dist-packages/gridfs/grid_file.py", line 202, in __flush
+    root=self._coll.name)["md5"]
+  File "/usr/local/lib/python2.6/dist-packages/pymongo/database.py", line 293, in command
+    msg, allowable_errors)
+  File "/usr/local/lib/python2.6/dist-packages/pymongo/helpers.py", line 126, in _check_command_response
+    raise OperationFailure(msg % response["errmsg"])
+OperationFailure: command SON([('filemd5', ObjectId('4e3bb0381702fe2103006740')), ('root', u'fs')]) failed: exception: chunks out of order
+	None
+loadpics(pkl,pathpic) BROKENNN!
+Traceback (most recent call last):
+  File "vanclpicloader.py", line 100, in loadpics
+    sys.exit(1)
+SystemExit: 1
+	None
+
+</t>
+<t tx="zoomq.20110809101420.2886"></t>
+<t tx="zoomq.20110809101420.2887"></t>
+<t tx="zoomq.20110809101420.2888"></t>
+<t tx="zoomq.20110809101420.2890">date,tI,tO,tC,tM,tS
+090402,0,4,3.5,8,7
+090403,0,2.5,6.5,10,6
+090407,0,17,1,5,0
+090408,0,5,2,8,5
+090409,0,4,4,9,7
+090413,0,7.5,2.5,7,7
+090414,0,9.5,1,7.5,6
+090415,0,4.5,4,7,5.5
+090416,0,6,2,9,7
+090417,0,2,6,9,7
+090420,0,6,5,5,6
+090421,0,5,5,6,5.5
+090422,0,6,3,4.5,5.5
+090423,1,4.5,3,8,6
+090424,0,5,2,9,6
+090427,0,6,1.5,7,7
+090428,0,6.5,1.5,8,7
+090429,0,5,1.5,9.5,7
+</t>
+<t tx="zoomq.20110809101420.2891">date,tI,tO,tC,tM,tS
+090302,0,4.5,5,4,6.5
+090303,0,5.5,3,3,6
+090304,4.5,4.5,2,3,8
+090305,1,3.5,3.5,4,6
+090306,0,9.5,1.5,5.5,6
+090309,0,6,4,5,6
+090310,0,5.5,4,5,7
+090311,0,4,6,6,8
+090312,1,6.5,3,3,7
+090313,0,7.5,3.5,7,6
+090316,0,10,4,5,6
+090317,0,9.5,2,4,5
+090318,2,3.5,1.5,6,7
+090319,0,3.5,3,11.5,6.5
+090320,0,5,4,6,5
+090323,2.5,3.5,2.5,8,7
+090324,0,6,2.5,9,6
+090325,0,5,2,9,5
+090330,0,13,1,3,6
+090331,0,9,3.5,6,7
+</t>
+<t tx="zoomq.20110809101420.2892">date,tI,tO,tC,tM,tS
+090202,1,0,5.5,7,7
+090203,0,3,4.5,8.5,7
+090204,2,0,7,7.5,5.5
+090205,0,7.5,1.5,7,5.5
+090206,0,2,4,8,6
+090209,0,4.5,4.5,4.5,5.5
+090210,0,4,2.5,8,6.5
+090211,0,6.5,1.5,7,7
+090212,0,7.5,1.5,7,7
+090213,0,0,0,16,6.5
+090216,0,7.5,1.5,8.5,6
+090217,0,4.5,3.5,7,6.5
+090218,0,9.5,1,6.5,7.5
+090219,0,10,1,7,6.5
+090220,1.5,1.5,4.5,3,6.5
+090223,0,2.5,6,8,6.5
+090224,0,2.5,6.5,5.5,7.5
+090225,0,4,4,8,6
+090226,1.5,0,7,7.5,6
+090227,0,8,3.5,5.5,6.5
+</t>
+<t tx="zoomq.20110809101420.2893">date,tI,tO,tC,tM,tS
+090104,0,4.5,4.5,4.5,9
+090106,0,5.5,3,8,6.5
+090107,1.5,3.5,4,4,6
+090108,2.75,3.5,2.5,5.5,6.5
+090109,3.5,5.5,1.5,6,6
+090112,0.5,5,5,6,7
+090113,0,5,2,6.5,6.5
+090114,2,4.5,3,7,6
+090115,2.5,1.5,2.5,6,6.5
+090116,1,7,3,6.5,8
+090119,0,4,3,6,8.5
+090120,0,5.5,0,7,7
+</t>
+<t tx="zoomq.20110809101420.2894">date,tI,tO,tC,tM,tS
+081204,1,3,3,0,5
+081205,2,3,2,6,5
+081208,0,5,3,4,6
+081209,4.5,1.5,2,1,7
+081210,2.5,7,3,1,6
+081211,3,5,4,2,5
+081212,1,2.5,3,7.5,6
+081215,0,3,6.5,4,7
+081216,0,4.5,1.5,8.5,6
+081217,0,7.5,0.5,6.5,5
+081218,2.5,2.5,3.5,7,6.5
+081219,0,6,2.5,5.5,9
+081222,0,1.5,8,5,9
+081223,2,3.5,5,6,6
+081224,0,4,1,7,6
+081225,0,3,5,5,6
+081226,1,2,5,7,7
+081229,2.5,5,5.5,4,7
+081230,2.5,3.5,3,6,6.5
+081231,1.5,3,3,1,5.5
+</t>
+<t tx="zoomq.20110809202237.2909">def _updateitem(htm, sid):
+    if htm('#saleout').attr('href'):
+        # 已售罄
+        &lt;&lt;放空价格&gt;&gt;
+    else:
+        &lt;&lt;价格抓取&gt;&gt;
+
+    &lt;&lt;bread_nav&gt;&gt;
+    &lt;&lt;attrs_wash&gt;&gt;
+    &lt;&lt;attrs_color&gt;&gt;
+    &lt;&lt;comments_unit&gt;&gt;
+    &lt;&lt;comments_size&gt;&gt;
+    &lt;&lt;comments_feel&gt;&gt;
+    &lt;&lt;comments_taker_comment&gt;&gt;
+
+    CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.class':bread_nav
+                , 'attrs.wash':attrs_wash
+                , 'attrs.color':attrs_color
+                , 'comments.unit':comments_unit
+                , 'comments.noma':comments_noma
+                , 'comments.bask':comments_bask
+                , 'comments.size':comments_size
+                , 'comments.feel':comments_feel
+                , 'comments.taker.total':comments_taker_total
+                , 'comments.taker.totalask':comments_taker_totalask
+                , 'comments.taker.comment':comments_taker_comment
+                , 'comments.taker.ask':comments_taker_ask
+                }
+            }
+        )
+
+</t>
+<t tx="zoomq.20110809202237.2910">prix = "saleout"
+CCFG.FAD.update({'sid':sid}, {"$set":{'prix':prix}})
+
+
+</t>
+<t tx="zoomq.20110809202237.2911">prix_agio = htm('.MSpriceArea').find('strong').text()
+prix_vip = htm('.cuxiaoPrice').find('strong').text()
+prix_vip += ","
+prix_vip += ",".join([vip_rice.text_content() for vip_rice in htm('.vipPrice').find('span')[1:]])
+CCFG.FAD.update({'sid':sid}, {"$set":{'agio':prix_agio, 'vip':prix_vip}})
+</t>
+<t tx="zoomq.20110809202237.2912">bread_nav = []
+for bread in htm('.breadNav').find('a'):
+    bread_nav.append(bread.get('title'))
+
+
+</t>
+<t tx="zoomq.20110809202237.2913">attrs_wash = {}
+for attricon in htm('.attricon'):
+    icon = attricon.find('img')
+    iconkey = icon.get('src').split("/")[-1].split(".")[0]
+    attrs_wash[iconkey] = icon.get('alt')
+</t>
+<t tx="zoomq.20110809202237.2914">attrs_color_id = []
+for color in htm('.selColor').find('li'):
+    if color.get('name'):
+        sid_color = color.get('name').split("&amp;")[0].split("=")[1]
+        if sid == sid_color:
+            pass
+        else:
+            attrs_color_id.append(sid_color) 
+attrs_color = []
+for relsid in attrs_color_id:
+    cursor_item = CCFG.FAD.find({'sid':relsid})
+    if 0 &lt; cursor_item.count():
+        # NULL relation collors
+        attrs_color.append(cursor_item[0]["_id"])
+
+</t>
+<t tx="zoomq.20110809202237.2915">try:
+    pingfen = htm('.pingfen').find('li').text().split()
+    comments_unit = pingfen[:6]
+    comments_noma = pingfen[6:-6]
+    comments_bask = pingfen[-6:]
+except:
+    print "还没有人打分!\n\t", traceback.print_exc()
+    comments_unit = ""
+    comments_noma = ""
+    comments_bask = ""
+</t>
+<t tx="zoomq.20110809202237.2916">comments_size = htm('.sizePingjia').find('li').text()
+</t>
+<t tx="zoomq.20110809202237.2917">comments_feel =  htm('.voteArea').find('p').text()
+
+</t>
+<t tx="zoomq.20110809202237.2918">for tabmenu in htm('.RsetTabMenu').find('li'):
+    if "item-buyfeedback" == tabmenu.get('name'):
+        comments_taker_total = tabmenu.text_content().split("(")[1][:-1]
+    if "item-quiz" == tabmenu.get('name'):
+        comments_taker_totalask = tabmenu.text_content().split("(")[1][:-1]
+
+&lt;&lt;comments_taker_ask&gt;&gt;
+&lt;&lt;comments_taker_comm&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20110809202237.2919">comments_taker_comment = []
+for urcomment in htm('#styleAssesseslist').find('div'):
+    askuser = urcomment.find_class('area2Head')
+    if len(askuser) &gt; 0:
+        comments_taker_comment_name = askuser[0].find_class('area2HeadCenter')[0].text_content().strip()[3:]
+        comments_taker_comment_title = askuser[0].find_class('area2HeadLeft')[0].text_content().strip()
+        comments_taker_comment_date = askuser[0].find_class('area2HeadRight')[0].text_content().strip()
+    askcnt = urcomment.find_class('area2ConP')
+    if len(askcnt) &gt; 0:
+        comments_taker_comment_cont = askcnt[0].text_content().strip()
+    else:
+        comments_taker_comment_cont = ''
+
+    askhold = urcomment.find_class('selCS')
+    if len(askhold) &gt; 0:
+        userhold = "".join(askhold[0].text_content().replace('\r','').split("\n")[2:])
+    else:
+        userhold = ""
+
+    comments_taker_comment.append({'data':comments_taker_comment_date
+            , 'name':comments_taker_comment_name
+            , 'title':comments_taker_comment_title
+            , 'issue':comments_taker_comment_cont 
+            , 'userhold':userhold
+            }
+        )
+</t>
+<t tx="zoomq.20110809202237.2920">comments_taker_ask = []
+for question in htm('#stylequestionslist').find('.area3Con'):
+    userq = question.findall('div')[:2]
+    userqa = userq[0].text_content().replace('\r','').strip().split("\n")
+    comments_taker_ask_name = userqa[0].strip()
+    comments_taker_ask_title = userqa[1].strip()[2:]
+    comments_taker_ask_date = userqa[-1].strip()
+    comments_taker_ask_issue = userq[1].text_content().strip()
+    comments_taker_ask_reply = question.find_class('adminAsk')[0].text_content().strip()
+    comments_taker_ask.append({'data':comments_taker_ask_date
+            , 'name':comments_taker_ask_name
+            , 'title':comments_taker_ask_title
+            , 'issue':comments_taker_ask_issue 
+            , 'reply':comments_taker_ask_reply
+            }
+        )
+
+</t>
+<t tx="zoomq.20110809202237.2922">def _isnorm(htm, sid):
+    if not htm('.breadNav'):
+        print "下载失败"
+        LOG.info("下载失败:%s"% sid)
+        DLERRORS.append(sid)
+        return False
+    else:
+        return True
+        #continue
+
+</t>
+<t tx="zoomq.20110809202237.2924">def _isfound(chksid):
+    try:
+        FAD.find({'sid':chksid})[0]
+        return True
+    except :
+        print "graspiteminfo(pathml) ALERT! %s no-exist\n\t"% chksid, traceback.print_exc()
+        #sys.exit(1)
+        return False
+        #continue
+
+</t>
+<t tx="zoomq.20110810082729.4308">大图片:
+ &lt;img id="bigimg" src="http://images.moonbasa.com/ProductImg/Large/0111112510L01.jpg"
+                        alt="韩国进口花边缩褶闪钻U型上托塑身文胸" jqimg="http://images.moonbasa.com/ProductImg/HUGE/0111112510H01.jpg" /&gt;
+
+将整体图片分解成系列:
+http://images3.moonbasa.com/Images/2011_fang/1meter/032011212/fang052402_39.jpg
+
+&lt;input type="hidden" value="[{StyleCode:&amp;#39;011111247&amp;#39;,ColorArr:[{ColorCode:&amp;#39;003&amp;#39;,ColorName:&amp;#39;肤色&amp;#39;,ColorPic:&amp;#39;Color/003.jpg&amp;#39;,SpecArr:[{Spec:&amp;#39;70A&amp;#39;,WareCode:&amp;#39;011111247-00370A,620.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;70B&amp;#39;,WareCode:&amp;#39;011111247-00370B,433.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;75A&amp;#39;,WareCode:&amp;#39;011111247-00375A,1214.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;75B&amp;#39;,WareCode:&amp;#39;011111247-00375B,1125.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;80A&amp;#39;,WareCode:&amp;#39;011111247-00380A,494.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;80B&amp;#39;,WareCode:&amp;#39;011111247-00380B,755.0000,0,现在有货&amp;#39;}]},{ColorCode:&amp;#39;056&amp;#39;,ColorName:&amp;#39;湖蓝&amp;#39;,ColorPic:&amp;#39;Color/056.jpg&amp;#39;,SpecArr:[{Spec:&amp;#39;70A&amp;#39;,WareCode:&amp;#39;011111247-05670A,629.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;70B&amp;#39;,WareCode:&amp;#39;011111247-05670B,435.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;75A&amp;#39;,WareCode:&amp;#39;011111247-05675A,1234.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;75B&amp;#39;,WareCode:&amp;#39;011111247-05675B,1117.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;80A&amp;#39;,WareCode:&amp;#39;011111247-05680A,507.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;80B&amp;#39;,WareCode:&amp;#39;011111247-05680B,755.0000,0,现在有货&amp;#39;}]}]},{StyleCode:&amp;#39;011211246&amp;#39;,ColorArr:[{ColorCode:&amp;#39;003&amp;#39;,ColorName:&amp;#39;肤色&amp;#39;,ColorPic:&amp;#39;Color/003.jpg&amp;#39;,SpecArr:[{Spec:&amp;#39;S&amp;#39;,WareCode:&amp;#39;011211246-003S,918.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;M&amp;#39;,WareCode:&amp;#39;011211246-003M,2744.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;L&amp;#39;,WareCode:&amp;#39;011211246-003L,2781.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;XL&amp;#39;,WareCode:&amp;#39;011211246-003XL,1733.0000,0,现在有货&amp;#39;}]},{ColorCode:&amp;#39;009&amp;#39;,ColorName:&amp;#39;黑色&amp;#39;,ColorPic:&amp;#39;Color/009.jpg&amp;#39;,SpecArr:[{Spec:&amp;#39;S&amp;#39;,WareCode:&amp;#39;011211246-009S,198.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;M&amp;#39;,WareCode:&amp;#39;011211246-009M,559.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;L&amp;#39;,WareCode:&amp;#39;011211246-009L,639.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;XL&amp;#39;,WareCode:&amp;#39;011211246-009XL,383.0000,0,现在有货&amp;#39;}]},{ColorCode:&amp;#39;056&amp;#39;,ColorName:&amp;#39;湖蓝&amp;#39;,ColorPic:&amp;#39;Color/056.jpg&amp;#39;,SpecArr:[{Spec:&amp;#39;S&amp;#39;,WareCode:&amp;#39;011211246-056S,673.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;M&amp;#39;,WareCode:&amp;#39;011211246-056M,2005.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;L&amp;#39;,WareCode:&amp;#39;011211246-056L,2219.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;XL&amp;#39;,WareCode:&amp;#39;011211246-056XL,1319.0000,0,现在有货&amp;#39;}]},{ColorCode:&amp;#39;Y03&amp;#39;,ColorName:&amp;#39;洋酒红&amp;#39;,ColorPic:&amp;#39;Color/Y03.jpg&amp;#39;,SpecArr:[{Spec:&amp;#39;S&amp;#39;,WareCode:&amp;#39;011211246-Y03S,143.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;M&amp;#39;,WareCode:&amp;#39;011211246-Y03M,427.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;L&amp;#39;,WareCode:&amp;#39;011211246-Y03L,498.0000,0,现在有货&amp;#39;},{Spec:&amp;#39;XL&amp;#39;,WareCode:&amp;#39;011211246-Y03XL,306.0000,0,现在有货&amp;#39;}]}]}]" id="hdColorSize" /&gt;
+
+
+&lt;&lt;doc_foto&gt;&gt;
+&lt;&lt;doc_item&gt;&gt;</t>
+<t tx="zoomq.20110810082729.4310">DOC_ITEM = {"uri":""
+    , "brand":""      # 品牌名
+    , "pid":""                      # 编号
+    , "prix":""                     # 价格(原价+各种优惠价格) | saleout 已售罄
+    , "agio":""                     # 折扣
+    , "vip":""                      # 优惠/套装 价格
+    , "attrs":{"name":""            # 品名
+        , "cons":""                 # constituent 成分
+        , "suit":""                 # 套装搭配推荐
+        , "descs":{                 # 描述
+            "txt":""                # 读本描述
+            , "size":[]              # 尺寸(码表)矩阵
+            , "tags":[]             # 标签
+            , "icon":[]             # 特性图标
+            , "class":[]            # 分类
+            , "color":[]            # 顔色s
+            , "other":{}            # 其它各种属性
+            }
+        ,"fotos":[]                 # 图片集，DBref-&gt;DBGFS.fs.files.
+        } # attrs
+    ,"comments":{                   # 评议
+        "unit":""                   # 綜合
+        , "noma":""                 # 外观
+        , "bask":""                 # 舒适
+        , "cost":""                 # 性价比
+        , "size":""                 # 尺码 2% 的用户认为实际尺码[偏大],,,
+        , "taker":{                 # 购买者评论
+            "total":0               # 留言总数
+            , "feeds":[{            # 评注
+                "name":""
+                , "date":""
+                , "ip":""           # 地域
+                , "cont":""
+                , "vote":""         # 评分
+                },,,# comment
+                ]
+            } # taker
+        }   # comments
+    }   # TPL
+
+</t>
+<t tx="zoomq.20110810082729.4312">DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big|model|detail
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+
+'''取用
+from pymongo import Connection
+import gridfs
+fs = Connection('localhost', 27017).static_files
+fs = gridfs.GridFS(fs)
+
+In [71]: gfs.get(v.find_one({},{"attrs.fotos":1,'_id':0})['attrs']['fotos'][0])
+Out[71]: &lt;gridfs.grid_file.GridOut object at 0x91adf8c&gt;
+
+就可以:
+    gfs.get(v.find_one({},{"attrs.fotos":1,'_id':0})['attrs']['fotos'][0]).uri
+
+'''
+</t>
+<t tx="zoomq.20110810082729.4316">基本都是图片哪,,,
+
+&lt;&lt;doc_foto&gt;&gt;
+&lt;&lt;doc_item&gt;&gt;
+
+颜色在页面JSON 数据中:
+    	&lt;script type="text/javascript"&gt;
+    //这是一个Json对象，用来存放当前页面所有style的维度信息。通过的形式赋值
+    var styleSKUItemsJson = [{"Key":"SF118450","Value":[{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B23011.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S23011.JPG","IsRegionSell":false,"ItemId":"SF11845023-S","ItemName":"RIKA韩版伊人七分袖衬衫 绿色 S","ProductId":"011281-U11408423-00S","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B23011.JPG","SKUColorImageName":"SF118450B23011.JPG","SKUDimentionId1":"23","SKUDimentionId2":"S","SKUDimentionName1":"绿色","SKUDimentionName2":"S","SKUDimentionOrder1":0,"SKUDimentionOrder2":3,"SKUImageFileName":"SF118450B23011.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B23011.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S23011.JPG","IsRegionSell":false,"ItemId":"SF11845023-M","ItemName":"RIKA韩版伊人七分袖衬衫 绿色 M","ProductId":"011281-U11408423-00M","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B23011.JPG","SKUColorImageName":"SF118450B23011.JPG","SKUDimentionId1":"23","SKUDimentionId2":"M","SKUDimentionName1":"绿色","SKUDimentionName2":"M","SKUDimentionOrder1":0,"SKUDimentionOrder2":4,"SKUImageFileName":"SF118450B23011.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B23011.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S23011.JPG","IsRegionSell":false,"ItemId":"SF11845023-L","ItemName":"RIKA韩版伊人七分袖衬衫 绿色 L","ProductId":"011281-U11408423-00L","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B23011.JPG","SKUColorImageName":"SF118450B23011.JPG","SKUDimentionId1":"23","SKUDimentionId2":"L","SKUDimentionName1":"绿色","SKUDimentionName2":"L","SKUDimentionOrder1":0,"SKUDimentionOrder2":5,"SKUImageFileName":"SF118450B23011.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B23011.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S23011.JPG","IsRegionSell":false,"ItemId":"SF11845023-XL","ItemName":"RIKA韩版伊人七分袖衬衫 绿色 XL","ProductId":"011281-U11408423-0XL","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B23011.JPG","SKUColorImageName":"SF118450B23011.JPG","SKUDimentionId1":"23","SKUDimentionId2":"XL","SKUDimentionName1":"绿色","SKUDimentionName2":"XL","SKUDimentionOrder1":0,"SKUDimentionOrder2":6,"SKUImageFileName":"SF118450B23011.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B80012.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S80012.JPG","IsRegionSell":true,"ItemId":"SF11845080-S","ItemName":"RIKA韩版伊人七分袖衬衫 本白 S","ProductId":"011281-U11408480-00S","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B80012.JPG","SKUColorImageName":"SF118450B80012.JPG","SKUDimentionId1":"80","SKUDimentionId2":"S","SKUDimentionName1":"本白","SKUDimentionName2":"S","SKUDimentionOrder1":0,"SKUDimentionOrder2":3,"SKUImageFileName":"SF118450B80012.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B80012.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S80012.JPG","IsRegionSell":false,"ItemId":"SF11845080-M","ItemName":"RIKA韩版伊人七分袖衬衫 本白 M","ProductId":"011281-U11408480-00M","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B80012.JPG","SKUColorImageName":"SF118450B80012.JPG","SKUDimentionId1":"80","SKUDimentionId2":"M","SKUDimentionName1":"本白","SKUDimentionName2":"M","SKUDimentionOrder1":0,"SKUDimentionOrder2":4,"SKUImageFileName":"SF118450B80012.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B80012.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S80012.JPG","IsRegionSell":false,"ItemId":"SF11845080-L","ItemName":"RIKA韩版伊人七分袖衬衫 本白 L","ProductId":"011281-U11408480-00L","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B80012.JPG","SKUColorImageName":"SF118450B80012.JPG","SKUDimentionId1":"80","SKUDimentionId2":"L","SKUDimentionName1":"本白","SKUDimentionName2":"L","SKUDimentionOrder1":0,"SKUDimentionOrder2":5,"SKUImageFileName":"SF118450B80012.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"},{"DisplaySKUImageLarge":"http:\/\/img.m18.com\/GOODS\/LARGE\/N10400\/SF118450B80012.JPG","DisplaySKUImageSmall":"http:\/\/img.m18.com\/GOODS\/SMALL\/N10400\/SF118450S80012.JPG","IsRegionSell":false,"ItemId":"SF11845080-XL","ItemName":"RIKA韩版伊人七分袖衬衫 本白 XL","ProductId":"011281-U11408480-0XL","SKUColorImageFileName":"http:\/\/img.m18.com\/GOODS\/COLOR\/N10400\/SF118450B80012.JPG","SKUColorImageName":"SF118450B80012.JPG","SKUDimentionId1":"80","SKUDimentionId2":"XL","SKUDimentionName1":"本白","SKUDimentionName2":"XL","SKUDimentionOrder1":0,"SKUDimentionOrder2":6,"SKUImageFileName":"SF118450B80012.JPG","SaleOnWebFlag":true,"StyleId":"SF118450"}]}];
+    //获取当前页面style信息 
+    var styleEntityListJson = [{"&lt;IsEmpty&gt;k__BackingField":false,"CheckPOFlag":false,"ChineseName":"RIKA韩版伊人七分袖衬衫","ClassId3":"N10400","IsRegionSell":true,"IsScareBuying":false,"KitFlag":false,"OriginalStyleId":"U114084","SKUDimentionTypeName1":"颜色","SKUDimentionTypeName2":"尺寸","SaleAloneFlag":true,"SaleDate":"2011-08-02 13:35:37","SaleOnWebFlag":true,"ScareBuyingMaxQtyPerUser":0,"ScareingBeginTime":"","ScareingEndTime":"","StockAllocateMode":1,"StyleId":"SF118450","StyleTypeClass":"special"}];
+    //存储Ajax服务的地址
+    var ajaxServiceAddress = {"AddFavorite":"http:\/\/product.m18.com\/Service\/FavoriteService.asmx\/AddFavorite","CheckLogin":"http:\/\/product.m18.com\/Service\/LoginService.asmx\/CheckLogin","GetLastView":"http:\/\/product.m18.com\/Service\/StyleService.asmx\/GetLastView","GetMatchingDetail":"http:\/\/product.m18.com\/Service\/Matching.asmx\/GetMatchingDetail","GetMatchingListByClassId":"http:\/\/product.m18.com\/Service\/Matching.asmx\/GetMatchingListByClassId","GetQuickChannelService":"http:\/\/product.m18.com\/Service\/UserStyleList.asmx","GetStyleDetailInfo":"http:\/\/product.m18.com\/Service\/StyleService.asmx\/GetStyleDatailInfo","LoginForm":"http:\/\/product.m18.com\/LoginForm.aspx","MemberShip":"http:\/\/product.m18.com\/Service\/LoginService.asmx\/GetMemberShipId","UserLogin":"http:\/\/product.m18.com\/Service\/LoginService.asmx\/UserLogin","UserPoints":"http:\/\/product.m18.com\/Service\/UserPoints.asmx\/GetPoint"};
+    //此商品单卖的文字
+    var aloneMessage = "";
+    //搭配信息
+    var matchingJson = [];
+    //评分的样式
+    var stisficationCss = 'point4b-0';
+    //品牌店铺链接
+    var brandLink = 'http://www.m18.com/app/AdEntrance.aspx?from=E001&amp;targetURL=http://static.m18.com/brand/euromoda.shtml';
+    myShishangData.styleId="SF118450";
+    myShishangData.imageUrl1="";
+    myShishangData.imageUrl2="";
+	//Comment config
+    var commentMaxWordShowCount = 5;
+    var commentShowCount = 10;
+    var questionShowCount = 5;						
+	&lt;/script&gt;
+</t>
+<t tx="zoomq.20110810082729.4317">DOC_ITEM = {"uri":""
+    , "brand":""                    # 品牌名
+    , "pid":""                      # 编号
+    , "prix":""                     # 价格(原价+各种优惠价格) | saleout 已售罄
+    , "agio":""                     # 折扣
+    , "vip":""                      # 优惠/套装 价格
+    ,'model':""                     # 模特info.
+    , "attrs":{"name":""            # 品名
+        , "cons":""                 # constituent 成分
+        , "suit":""                 # 套装搭配推荐
+        , "descs":{                 # 描述
+            "txt":""                # 读本foto
+            , "size":[]             # 尺寸(码表)矩阵 foto
+            , "class":[]            # 分类
+            , "color":[]            # 顔色s
+            , "other":{}            # 其它各种属性
+            }
+        ,"fotos":[]                 # 图片集，DBref-&gt;DBGFS.fs.files.
+        } # attrs
+    ,"comments":{                   # 评议    http://comm.m18.com/comment/SF118450-1.htm
+        "unit":""                   # 綜合
+        , "noma":""                 # 外观
+        , "bask":""                 # 舒适
+        , "cost":""                 # 性价比
+        , "size":""                 # 尺码 2% 的用户认为实际尺码[偏大],,,
+        , "taker":{                 # 购买者评论
+            "total":0               # 留言总数
+            ,"vote":0               # 总评
+            , "feeds":[{            # 评注
+                "name":""
+                , "date":""
+                , "cont":""
+                , "hold":""         # 拥有
+                },,,# feeds
+                ]
+            ,"totalask":0           # 问答总数
+            , "asks":[{             # 提问    http://comm.m18.com/question/7111920-1.htm
+                "name":""
+                , "date":""
+                , "cont":""
+                , "reply":""        # 回答
+                },,,# asks
+                ]
+            } # taker
+        }   # comments
+    }   # TPL
+
+</t>
+<t tx="zoomq.20110810082729.4318">DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big|model|detail
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+
+'''取用
+from pymongo import Connection
+import gridfs
+fs = Connection('localhost', 27017).static_files
+fs = gridfs.GridFS(fs)
+
+In [71]: gfs.get(v.find_one({},{"attrs.fotos":1,'_id':0})['attrs']['fotos'][0])
+Out[71]: &lt;gridfs.grid_file.GridOut object at 0x91adf8c&gt;
+
+就可以:
+    gfs.get(v.find_one({},{"attrs.fotos":1,'_id':0})['attrs']['fotos'][0]).uri
+
+'''
+</t>
+<t tx="zoomq.20110811160257.2904">== union VACNL ==
+自动登录,并用 get 下载数据包
+
+使用FF插件将登录过的 cookie 记录到文件中:
+
+下载:
+curl -o 110811union-vancl-data-dl.html -b 110811-union.vancl.com-cookie.txt -A "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -e "union.vancl.com" http://union.vancl.com/renewal.aspx?menuid=55&amp;functionid=14 
+分析出所有女装下载包:
+$ cat 110811union-vancl-data-dl.html | grep women | sed 's/"/\n/' | cut -d '"' -f1 | grep rar &gt; 110811-union.vancl.com-rar.uri 
+
+$ wget -N -c -P nvzhuang_rars/ -i 110811-union.vancl.com-rar.uri
+下载完毕 --2011-08-11 17:02:34--
+下载了：13 个文件，5m 42s (231 KB/s) 中的 77M
+
+解压:
+$ cd nvzhuang_rars
+$ ls ./ | xargs -i 7z x {}
+
+转码:
+vim 中 :set fileencoding 看文件编码
+#fileencoding=utf-16le
+
+所以
+$ ls ./*.csv | xargs -i iconv -f utf16 -t utf8 {} &gt;&gt; ../utf8-taobao_20110811_Women.csv
+iconv -f UTF-16LE -t UTF-8
+
+
+
+#find -name *.csv -print | xargs -J % iconv -c -f UTF-16 -t UTF-16 % &gt; %.utf
+</t>
+<t tx="zoomq.20110811160257.2905">== JS 解析 ==
+Crowber 启动后:
+curl -s --data "url=http://item.vancl.com/0002655.html" http://127.0.0.1:10000/ &gt; nvzhuang_htmjs/0002655.html
+
+使用没有 X 需要的:
+/usr/ports/lang/phantomjs
+
+$ DISPLAY=:9 /opt/sbin/phantomjs graspage.js http://item.vancl.com/0002655.html
+
+in BSD:
+# sudo /opt/sbin/Xvfb.server start
+[zoomq@common] /data/apps/fadpop/spider&gt; 
+Fatal server error:
+Server is already active for display 9
+        If this server is no longer running, remove /tmp/.X9-lock
+        and start again.
+# setenv DISPLAY :0
+要部署到 .cshrc 中使用 source .cshrc 生效
+# /usr/local/bin/phantomjs graspage.js http://item.vancl.com/0002655.html
+
+
+
+</t>
+<t tx="zoomq.20110815085436.2906">BSD中,,,
+    netstat -an -p tcp
+
+#系统内核级优化+防止ddos
+
+根据某位unix前辈的观点：本来就很好，加加更健康。加载文件修改方法如下：
+
+# vim /boot/loader.conf加入如下文本
+kern.dfldsiz="2147483648"
+kern.maxdsiz="2147483648"
+kern.ipc.nmbclusters="0"
+kern.ipc.nsfbufs="66560"
+
+
+解释:
+a、第一、二行主要是为了突破1G内存设置的。
+b、第三行其实是bsd的一个bug，当系统并发达到一个数量级的时候，系统会crash，这个是非常糟糕的事情。所幸更改了这个参数后，在高并发的时候，基本可以没有类似情况，当然非常bt的情况，还得进一步想办法。
+
+c、第四行是读取的文件数，如果你下载的文件比较大，且比较多，加大这个参数，是非常爽的。
+
+Sysctl修改方法如下：
+#vi /etc/rc.local
+sysctl kern.ipc.maxsockets=100000    ##增加并发的socket，对于ddos很有用
+sysctl kern.ipc.somaxconn=65535      ##打开文件数
+sysctl net.inet.tcp.msl=2500         ##timeout时间
+</t>
+<t tx="zoomq.20110816085806.11271"># ./configure \
+    --prefix=/usr/local/etc/nginx \
+    --user=www \
+    --group=www \
+    --sbin-path=/usr/local/etc/nginx/sbin/nginx \
+    --conf-path=/usr/local/etc/nginx/conf/nginx.conf \
+    --pid-path=/usr/local/etc/nginx/run/nginx.pid  \
+    --lock-path=/usr/local/etc/nginx/lock/nginx.lock \
+    --error-log-path=/data0/logs/httpd/nginx-error.log \
+    --http-log-path=/data0/logs/httpd/nginx-access.log \
+    --with-http_stub_status_module \
+    --with-http_sub_module \
+    --with-http_ssl_module \
+    --with-http_gzip_static_module \
+    --http-client-body-temp-path=/usr/local/etc/nginx/tmp/client_body  \
+    --http-proxy-temp-path=/usr/local/etc/nginx/tmp/proxy  \
+    --http-fastcgi-temp-path=/usr/local/etc/nginx/tmp/fastcgi  \
+    --http-uwsgi-temp-path=/usr/local/etc/nginx/tmp/uwsgi_temp \
+    --http-scgi-temp-path=/usr/local/etc/nginx/tmp/scgi_temp \
+    --add-module=/data0/stuff/nginx-gridfs/
+
+./configure --prefix=/usr/local/etc/nginx     --user=www     --group=www     --sbin-path=/usr/local/etc/nginx/sbin/nginx     --conf-path=/usr/local/etc/nginx/conf/nginx.conf     --pid-path=/usr/local/etc/nginx/run/nginx.pid      --lock-path=/usr/local/etc/nginx/lock/nginx.lock     --error-log-path=/data0/logs/httpd/nginx-error.log     --http-log-path=/data0/logs/httpd/nginx-access.log     --with-http_stub_status_module     --with-http_sub_module     --with-http_ssl_module     --with-http_gzip_static_module     --http-client-body-temp-path=/usr/local/etc/nginx/tmp/client_body      --http-proxy-temp-path=/usr/local/etc/nginx/tmp/proxy      --http-fastcgi-temp-path=/usr/local/etc/nginx/tmp/fastcgi      --http-uwsgi-temp-path=/usr/local/etc/nginx/tmp/uwsgi_temp     --http-scgi-temp-path=/usr/local/etc/nginx/tmp/scgi_temp     --add-module=/data0/stuff/nginx-gridfs/
+</t>
+<t tx="zoomq.20110816085806.2907">You have built the Boost library with thread support.
+
+Don't forget to add -pthread to your linker options when
+linking your code.
+
+You have built the Boost.Python library. You have to add the following
+options when building your own code:
+
+Compiler options:
+   -I/usr/local/include/python2.7 -I/usr/local/include
+
+Linker options:
+   -L/usr/local/lib/python2.7 -L/usr/local/lib -lboost_python -lpython2.7
+
+===============================================================================
+</t>
+<t tx="zoomq.20110817090724.2909">== 原型 ==
+http://py.kingsoft.net:9008/
+localhost:27017
+localhost:28017
+
+http://py.kingsoft.net:9028/
+localhost:27217
+localhost:28217
+
+http://py.kingsoft.net:9038/
+sleepy -&gt; 27080
+
+$ curl 'http://py.kingsoft.net:9038/_hello'
+{"ok" : 1, "msg" : "Uh, we had a slight weapons malfunction, but uh... everything's perfectly all right now. We're fine. We're all fine here now, thank you. How are you?"}
+$ curl --data localhost:27017 'http://py.kingsoft.net:9038/_connect'
+{"ok" : 1, "server" : "mongodb://localhost:27017", "name" : "default"}
+
+$ curl --data 'name=fad&amp;localhost:27017' 'http://py.kingsoft.net:9038/_connect'
+{"ok" : 1, "server" : "mongodb://localhost:27017", "name" : "fad"}
+
+$ curl --data 'name=gfs&amp;localhost:27217' 'http://py.kingsoft.net:9038/_connect'
+{"ok" : 1, "server" : "mongodb://localhost:27017", "name" : "gfs"}
+
+curl -X GET 'http://py.kingsoft.net:9038/fad_docs/vancl_items/_find?name=fad&amp;criteria=%7B%22sid%22%3A%220002655%22%7D'
+
+
+$ curl -X GET 'http://py.kingsoft.net:9038/fad_docs/vancl_items/_find?fields=%7B%22attrs.color%22%3A1%7D&amp;criteria=%7B%22sid%22%3A%220002655%22%7D'
+{"ok": 1, "results": [{"_id": {"$oid": "4e412af51702fe34530002c5"}, "attrs": {"color": [{"$oid": "4e412af51702fe34530002ca"}, {"$oid": "4e412b401702fe3453003bf3"}, {"$oid": "4e412af51702fe34530002bb"}, {"$oid": "4e412b401702fe3453003bf8"}, {"$oid": "4e412b401702fe3453003bee"}, {"$oid": "4e412b681702fe3453005682"}, {"$oid": "4e412af51702fe34530002c0"}, {"$oid": "4e412af51702fe34530002b6"}, {"$oid": "4e412af31702fe345300008b"}, {"$oid": "4e412b661702fe34530055ac"}, {"$oid": "4e412af31702fe3453000090"}, {"$oid": "4e412b661702fe34530055b1"}, {"$oid": "4e412af31702fe3453000086"}, {"$oid": "4e412b401702fe3453003be9"}]}}], "id": 5}
+
+$ curl -X GET 'http://py.kingsoft.net:9038/fad_docs/vancl_items/_find?fields=%7B%22attrs.fotos%22%3A1%7D&amp;criteria=%7B%22sid%22%3A%220002655%22%7D'
+{"ok": 1, "results": [{"_id": {"$oid": "4e412af51702fe34530002c5"}, "attrs": {"fotos": [{"$oid": "4e412af51702fe34530002c2"}]}}], "id": 6}
+
+$ curl -X GET 'http://py.kingsoft.net:9038/static_files/fs/files/_find?criteria=%7B%22_id%22%3A%7B%22%24oid%22%3A%224e412af51702fe34530002c2%22%7D%7D'
+{"ok": 1, "results": [{"size": [400, 400], "chunkSize": 262144, "_closed": true, "asmain": true, "uri": "http://images.vancl.com/product/0/0/0/0002655/mid/2010_7_2_16_44_0_354.jpg", "showas": "mid", "filename": "2010_7_2_16_44_0_354", "length": 10534, "uploadDate": {"$date": 1312893685873}, "imgtype": "jpg", "_id": {"$oid": "4e412af51702fe34530002c2"}, "md5": "15f489aa041b5a8120a2f608b3c81b6e"}], "id": 3}
+
+
+</t>
+<t tx="zoomq.20110817090724.2910">== Mongo 迁移 ==
+导出:
+/opt/bin/mongodb32/bin/mongodump -h 127.0.0.1:27217 -d static_files -o /data/dumps/
+
+/opt/bin/mongodb32/bin/mongodump -h 127.0.0.1:27017 -d static_files -o /data/dumps/110818/
+/opt/bin/mongodb32/bin/mongodump -h 127.0.0.1:27017 -d fad_docs -o /data/dumps/110818/
+
+复制 scp ..
+导入:
+/usr/local/mongodb/mongorestore -h 127.0.0.1:27017 -d static_files --directoryperdb /data/dumps/static_files/
+
+[zoomq@common] /data/_stuff&gt; du -hs *
+6.9G    4vancl
+2.0K    gcrawler.tar.gz
+5.8M    leilei110712-tplorig
+4.9M    leilei110731-think
+2.0K    moonbasa
+230K    old-wiki
+464K    saoatech_service.pdf
+288K    scsh-curl
+280K    sleepy.mongoose
+
+
+~/workspace/3hg/bitbucket.org/Yuike/_stuff 
+$ du -hs *
+6.9G	4vancl
+4.0K	gcrawler.tar.gz
+6.0M	leilei110712-tplorig
+4.9M	leilei110731-think
+4.0K	moonbasa
+284K	old-wiki
+440K	saoatech_service.pdf
+360K	scsh-curl
+364K	sleepy.mongoose
+
+110819 終于导入全部下载到的图片:
+         &gt;&gt;&gt; 88263 fotos loaded !&lt;&lt;&lt;
+         &gt;&gt;&gt; wget losted pics ~== 3
+
+</t>
+<t tx="zoomq.20110817090724.2911">************************************************************
+Important: You have currently no wiki instance installed.
+
+If you're installing from ports, just run 'make instance'
+with appriopriate arguments.
+eg. make MOINTYPE=FCGI MOINDEST=/usr/local/www/wiki instance
+
+If you're installing from package, run these commands.
+
+# Choose here one script depending on the type of wiki you
+# want : moin.py (standalone), moin.fcg (FCGI), moin.wsgi (WSGI) or moin.cgi.
+export MOINSCRIPT="moin.cgi"
+# Defaults should be fine but you may want to modify these.
+export MOINDIR="/usr/local/share/moin"
+export MOINDEST="/usr/local/www/wiki"
+# Set this to your apache user and group.
+export CGIUSER="www"
+export CGIGROUP="www"
+
+mkdir -p ${MOINDEST}/data
+mkdir -p ${MOINDEST}/underlay
+cp -R ${MOINDIR}/data ${MOINDEST}
+cp -R ${MOINDIR}/underlay ${MOINDEST}
+chmod -R u+rw,go-ws ${MOINDEST}/data
+install -m 0555 ${MOINDIR}/config/wikiconfig.py ${MOINDEST}
+test -z "${MOINSCRIPT}" || \
+        install -m 0555 ${MOINDIR}/server/${MOINSCRIPT} ${MOINDEST}
+chown -R ${CGIUSER}:${CGIGROUP} ${MOINDEST}
+
+Note: export might not work with your shell, use
+# setenv VAR 'value' instead
+************************************************************
+===&gt;   Registering installation for moinmoin-1.9.3
+
+
+**************************************************************************
+Please add /usr/local/lib/X11/fonts/wqy for your X server by either:
+
+# xset fp+ /usr/local/lib/X11/fonts/wqy
+# xset fp rehash
+
+or by adding the following line to the section "Files" of
+your X-server configuration file (usually /etc/X11/xorg.conf)
+and restarting the X-server:
+
+Section "Files"
+...
+    FontPath   "/usr/local/lib/X11/fonts/wqy"
+...
+EndSection
+
+**************************************************************************
+
+===&gt;   Compressing manual pages for graphviz-2.26.3_3
+===&gt;   Registering installation for graphviz-2.26.3_3
+===&gt; SECURITY REPORT:
+      This port has installed the following files which may act as network
+      servers and may therefore pose a remote security risk to the system.
+/usr/local/bin/lefty
+
+      If there are vulnerabilities in these programs there may be a security
+      risk to the system. FreeBSD makes no guarantee about the security of
+      ports included in the Ports Collection. Please type 'make deinstall'
+      to deinstall the port if this is a concern.
+
+      For more information, and contact details about the security
+      status of this software, see the following webpage:
+http://www.graphviz.org/
+
+</t>
+<t tx="zoomq.20110818135824.2912">"_id": {"$oid": "4e412af51702fe34530002c2"}
+</t>
+<t tx="zoomq.20110818135824.2913">py.k.pass 设定:
+    zoomq 5t4r...
+    yuike fadpop
+
+</t>
+<t tx="zoomq.20110819082933.2914">@language javascript
+@tabwidth -4
+// 110819 re init. by base example
+// 110902 for BSD phantomjs1.1 only so...
+
+if (phantom.state.length === 0) {
+    if (phantom.args.length === 0) {
+        console.log('Usage: graspage.js &lt;some URL&gt;');
+        phantom.exit();
+    } else {
+        phantom.state = Date.now().toString();
+        address = phantom.args[0];
+        phantom.userAgent = 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)';
+        //console.log('try Loading URI  ' + address);
+        phantom.open(address);
+    }
+} else {
+    &lt;&lt;hold tip&gt;&gt;
+    phantom.exit();
+}
+
+
+</t>
+<t tx="zoomq.20110830090738.5015">FreeBSD common.s.kingsoft.net 8.2-RELEASE FreeBSD 8.2-RELEASE #0: 
+Thu Feb 17 02:41:51 UTC 2011     root@mason.cse.buffalo.edu:/usr/obj/usr/src/sys/GENERIC  amd64
+其中的部属,很有点时间
+
+portsnap fetch extract
+portsnap fetch extract
+portsnap update
+
+然后,引发各种不匹配,要进行
+portupgrade -a
+
+# sudo portversion -L =
+cython                      &lt;
+docbook-xsl                 &lt;
+expat                       &lt;
+firefox                     &lt;
+gstreamer-plugins           &lt;
+haproxy                     &lt;
+libssh2                     &lt;
+p5-XML-Parser               &lt;
+pcre                        &lt;
+python26                    &lt;
+v4l_compat                  &lt;
+
+
+</t>
+<t tx="zoomq.20110830090738.5017"> install  -o root -g wheel -m 444 xorg-server.m4 '/usr/local/share/aclocal'
+ install  -o root -g wheel -m 444 xorg-server.pc '/usr/local/libdata/pkgconfig'
+===&gt;   Compressing manual pages for xorg-server-1.7.7_2,1
+===&gt;   Registering installation for xorg-server-1.7.7_2,1
+===&gt; SECURITY REPORT: 
+      This port has installed the following binaries which execute with
+      increased privileges.
+/usr/local/bin/Xorg
+
+      This port has installed the following files which may act as network
+      servers and may therefore pose a remote security risk to the system.
+/usr/local/bin/Xorg
+
+      If there are vulnerabilities in these programs there may be a security
+      risk to the system. FreeBSD makes no guarantee about the security of
+      ports included in the Ports Collection. Please type 'make deinstall'
+      to deinstall the port if this is a concern.
+
+      For more information, and contact details about the security
+      status of this software, see the following webpage: 
+http://www.freedesktop.org/Software/xorg
+</t>
+<t tx="zoomq.20110830090738.5018">===&gt;   Compressing manual pages for xorg-vfbserver-1.7.7,1
+===&gt;   Registering installation for xorg-vfbserver-1.7.7,1
+===&gt; SECURITY REPORT: 
+      This port has installed the following files which may act as network
+      servers and may therefore pose a remote security risk to the system.
+/usr/local/bin/Xvfb
+
+      If there are vulnerabilities in these programs there may be a security
+      risk to the system. FreeBSD makes no guarantee about the security of
+      ports included in the Ports Collection. Please type 'make deinstall'
+      to deinstall the port if this is a concern.
+
+      For more information, and contact details about the security
+      status of this software, see the following webpage: 
+http://www.x.org/
+
+</t>
+<t tx="zoomq.20110830090738.5019">======================================================================
+
+Firefox 3.6 and HTML5
+
+Certain functions used to display HTML5 elements need the sem module.
+
+If your Firefox crashes with the following message while viewing a
+HTML5 page:
+"Bad system call (core dumped)"
+
+you need to load the sem module (kldload sem).
+
+To load sem on every boot put the following into your
+/boot/loader.conf:
+sem_load="YES"
+
+======================================================================
+
+Any bug reports should be addressed to the maintainers at:
+        gecko@FreeBSD.org
+You may also Cc: freebsd-ports@FreeBSD.org. Please do not send
+bug reports to any other addresses.
+
+Please include the following information with any bug report:
+* Output from 'uname -a'.
+* Date/time stamp from www/firefox/Makefile.
+* Where/when did the problem occur: configuring, building, or
+        running firefox
+* How can you reproduce the problem?
+
+Thank you for your help in testing and reporting bugs, and we hope you
+enjoy using Firefox.
+The Maintainers (gecko@)
+======================================================================
+===&gt;   Registering installation for firefox-3.6.18,1
+
+</t>
+<t tx="zoomq.20110830090738.5020">PyPhantomJS
+need:
+    argparse
+    LICENSING
+    ------------------
+    Copyright (C) 2011 James Roe &lt;&lt;roejames12@hotmail.com &gt;
+    Copyright (C) 2011 PyPhantomJS authors (see AUTHORS file)
+
+    PyPhantomJS is licensed with the GNU GPL v3.
+    See the included file LICENSE for the licensing terms.
+
+    ADDITIONAL INFO
+    -----------------------------
+    This program is a port of PhantomJS to Python/PyQt4 (thus, PyPhantomJS).
+
+      1. We try to make PyPhantomJS to be as compatible with PhantomJS as possible,
+          this means having the exact same features as they do. It happens to be fully
+          compatible, with the exception of some very small things.
+      2. PyPhantomJS however, has a few differences as well:
+        * Some of the features work a little differently than PhantomJS.
+          In most of these cases, the features were only changed to improve their
+          reliability and performance, so they work more often/better, and break less.
+        * There may also be additional features present that aren't in PhantomJS.
+
+    PhantomJS was written by Ariya Hidayat, and I'd like to give him a BIG thanks
+    for all his work on PhantomJS! :)
+
+    warning: no previously-included files found matching '*.swp'
+    changing mode of build/scripts-2.6/pyphantomjs from 644 to 755
+    changing mode of /usr/local/bin/pyphantomjs to 755
+Successfully installed PyPhantomJS
+
+</t>
+<t tx="zoomq.20110830090738.5021">/bin/sh ../libtool  --tag=CC   --mode=compile cc -DHAVE_CONFIG_H -I.  -I/usr/local/include/python2.7 -I/usr/local/include/python2.7 -D_THREAD_SAFE -D_REENTRANT -I/usr/local/include/cairo -I/usr/local/include/glib-2.0 -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/freetype2   -I/usr/local/include  -O2 -pipe -fno-strict-aliasing -std=c99 -Wall -fno-strict-aliasing -MT _cairo_la-cairomodule.lo -MD -MP -MF .deps/_cairo_la-cairomodule.Tpo -c -o _cairo_la-cairomodule.lo `test -f 'cairomodule.c' || echo './'`cairomodule.c
+mv -f .deps/_cairo_la-cairomodule.Tpo .deps/_cairo_la-cairomodule.Plo
+mv: rename .deps/_cairo_la-cairomodule.Tpo to .deps/_cairo_la-cairomodule.Plo: No such file or directory
+gmake[2]: *** [_cairo_la-cairomodule.lo] Error 1
+gmake[2]: Leaving directory `/usr/ports/graphics/py-cairo/work/pycairo-1.8.10/src'
+gmake[1]: *** [all] Error 2
+gmake[1]: Leaving directory `/usr/ports/graphics/py-cairo/work/pycairo-1.8.10/src'
+gmake: *** [all-recursive] Error 1
+*** Error code 1
+
+Stop in /usr/ports/graphics/py-cairo.
+*** Error code 1
+
+Stop in /usr/ports/devel/py-gobject.
+*** Error code 1
+
+Stop in /usr/ports/x11-fonts/font-manager.
+*** Error code 1
+
+Stop in /usr/ports/x11-fonts/font-manager.
+*** Error code 1
+
+Stop in /usr/ports/x11-fonts.
+
+
+FreshPorts -- graphics/py-cairo
+http://www.freshports.org/graphics/py-cairo
+看起来 py2.6 需要,所以,尝试
+To install the port: cd /usr/ports/graphics/py-cairo/ &amp;&amp; make install clean
+#To add the package: pkg_add -r py26-cairo
+
+</t>
+<t tx="zoomq.20110902084216.4334">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+110801,1.50,4.00,1.50,2.50,6.00,9.00    6, 5, 1, 5
+110802,1.00,4.25,0.25,6.25,4.75,6.50    5, 5, 0, 2
+110803,0.50,6.50,0.00,0.00,12.0,7.00    6, 4, 3, 4
+110804,1.75,6.25,4.50,2.25,2.00,5.00    5, 5, 2, 7
+110805,0.00,3.25,1.00,3.00,9.00,7.50    5, 4, 2, 8
+110808,0.00,1.75,2.25,1.00,6.00,9.50    5, 2, 2, 4
+110809,3.50,3.75,0.00,6.25,3.00,6.00    5, 5, 1, 4
+110810,0.50,3.50,1.00,3.75,5.00,9.00    5, 3, 0, 0
+110811,3.00,3.00,4.00,3.50,2.00,6.00    5, 5, 1, 2
+110812,0.00,0.00,0.00,10.0,7.25,7.50    5, 1, 2, 4
+110815,0.00,5.25,4.00,4.00,5.00,7.00    6, 2, 2, 3
+110816,2.75,7.00,0.50,5.75,1.00,6.00    6, 3, 1, 4
+110817,0.00,4.75,0.00,6.35,6.00,8.00    5, 2, 2, 3
+110818,0.00,7.75,3.00,0.00,5.25,6.00    5, 2, 1, 2
+110818,0.75,4.25,0.00,4.25,7.75,9.00    5, 3, 0, 3
+110822,2.00,1.75,2.50,4.00,4.75,7.50    5, 1, 2, 5
+110823,2.00,1.25,0.00,6.25,7.00,6.75    5, 2, 1, 3
+110824,0.00,8.50,0.00,5.25,2.50,5.00    5, 3, 1, 3
+110825,0.50,5.00,5.00,7.50,1.00,7.00    5, 3, 2, 2
+110826,0.75,3.25,0.00,7.50,5.00,7.50    5, 2, 3, 4
+110829,0.00,4.50,0.00,7.50,5.00,4.00    5, 3, 1, 4
+110830,0.50,5.25,0.00,9.00,1.00,6.00    5, 3, 2, 3 
+110831,1.25,6.00,0.50,3.00,6.75,6.00    5, 2, 2, 4
+</t>
+<t tx="zoomq.20110902084216.7166">@language javascript
+@tabwidth -4
+// 110819 re init. by base example
+var page = new WebPage(),
+    t, address;
+page.settings.userAgent = "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)";
+
+if (phantom.args.length === 0) {
+    console.log('Usage: graspage.js &lt;some URL&gt;');
+    phantom.exit();
+} else {
+    t = Date.now();
+    address = phantom.args[0];
+    console.log('Loading URI  ' + address);
+    page.open(address, function (status) {
+        if (status !== 'success') {
+            console.log('FAIL to load the address');
+        } else {
+            t = Date.now() - t;
+            console.log('Loading time ' + t + ' msec');
+            console.log('Page HTML ' + page.evaluate(function () {
+                //return document.getElementById('starItem').innerHTML;
+                // get detail imgs...
+                //return document.querySelector('div.imgCon').innerHTML;
+                var imgCon = document.querySelector('div.imgCon').innerHTML;
+                // get shine all div
+                var bask = document.querySelector('div.bask').innerHTML;
+                return bask+'^^^'+imgCon;
+
+            }));
+        }
+        phantom.exit();
+    });
+}
+
+
+
+</t>
+<t tx="zoomq.20110902084216.7167">var elapsed = Date.now() - new Date().setTime(phantom.state);
+if (phantom.loadStatus === 'success') {
+    //console.log('Loading time ' + elapsed + ' msec');
+    //console.log('Page title is ' + document.title);
+    var body = document.body;
+    var imgCon = document.querySelector('div.imgCon').innerHTML;
+    var bask = document.querySelector('div.bask').innerHTML;
+    console.log(bask);
+    console.log(imgCon );
+} else {
+    console.log('FAIL to load the address');
+}
+
+</t>
+<t tx="zoomq.20110902084216.8585">[zoomq@common] /usr/ports&gt;  sudo portversion -F -L 
+docbook-xsl-1.75.2_1        &lt;
+gstreamer-plugins-0.10.35,3  &lt;
+libssh2-1.2.8_2,2           &lt;
+v4l_compat-1.0.20110603     &lt;
+
+
+[zoomq@common] /usr/ports&gt; sudo portsclean -CDLP
+Cleaning out /usr/ports/*/*/work...
+Delete /usr/ports/devel/qmake/work
+done.
+Detecting unreferenced distfiles...
+Delete /usr/ports/distfiles/gcc-g++-3.4.6.tar.bz2.0
+Cleaning out /usr/ports/packages...
+cd: can't cd to /usr/ports/packages/All
+find: /usr/ports/packages: No such file or directory
+** /usr/local/lib/qt4/libphonon.so.4 is shadowed by /usr/local/kde4/lib/libphonon.so.4
+        /usr/local/kde4/lib/libphonon.so.4      &lt;- phonon-4.5.0
+        /usr/local/lib/qt4/libphonon.so.4       &lt;- phonon-4.5.0
+ --&gt; Two packages install the same library in different directories!
+
+** /usr/local/lib/qt4/libphononexperimental.so.4 is shadowed by /usr/local/kde4/lib/libphononexperimental.so.4
+        /usr/local/kde4/lib/libphononexperimental.so.4  &lt;- phonon-4.5.0
+        /usr/local/lib/qt4/libphononexperimental.so.4   &lt;- phonon-4.5.0
+ --&gt; Two packages install the same library in different directories!
+
+
+sudo pkg_deinstall python26-2.6.7
+---&gt;  Deinstalling 'python26-2.6.7'
+pkg_delete: package 'python26-2.6.7' is required by these other packages
+and may not be deinstalled:
+cython-0.15
+** Listing the failed packages (-:ignored / *:skipped / !:failed)
+        ! python26-2.6.7        (pkg_delete failed)
+
+</t>
+<t tx="zoomq.20110902084216.8586">New commit for form "{vol.23}文君: 缓存管理器":
+suggest : 讲的之前，可不可说说重要关键词，因为课还是比较深奥
+name : youthterm
+whereknow : mlist
+goodtutorial : 5
+blog :
+iftutorial : True
+other :
+want :
+isgoodtalk : 5
+mail : no_sure@163.com
+netenv : 3M网络，品质好
+
+New commit for form "{vol.23}文君: 缓存管理器":
+suggest : 听了这么多金山的讲座，这次是最好的，张文君同学的讲座思路清晰，逻辑性强，强烈要求今后多多上来讲座！
+感谢金山，感谢张文君同学！
+name : evilshark
+whereknow : bbs
+goodtutorial : 5
+blog :
+iftutorial : True
+other :
+want :
+isgoodtalk : 5
+mail : evilshar@163.com
+netenv : 流畅
+
+New commit for form "{vol.23}文君: 缓存管理器":
+suggest : 建议张文君老师多讲几节，听她讲课真的可以说是意犹未尽啊。
+再此感谢她为大家带来这么精彩的讲解！！！
+name : KelJony
+whereknow : bbs
+goodtutorial : 5
+blog :
+iftutorial : True
+other :
+want : 内核，听得瞌睡都没了。太爽了。
+isgoodtalk : 5
+mail : 125916588@qq.com
+netenv : 2M联通，中间有断过几次，刷新下页面就恢复了。
+
+New commit for form "{vol.23}文君: 缓存管理器":
+suggest : 可能因为自己是小白的原因，每次讲座都听得一头雾水，我希望每次讲座能讲少一点，讲透一点。。。
+name : 席康杰
+whereknow : mlist
+goodtutorial : 5
+blog :
+iftutorial : True
+other :
+want : 作为一名在校生，就那点可怜的知识，懂一点C++，参加过ACM，未涉足过真正的Windows软件开发，自然是迫切想知道做Windows软件开发需要的知识，针对这些知识能不能提供一些书籍和网站做参考资料，极度迷茫中。。。极度想摆脱这种迷茫。。。
+isgoodtalk : 2
+mail : xikangjie@qq.com
+netenv : 还算流畅，声音也较清晰。
+</t>
+<t tx="zoomq.20110902202629.2926">joyent 提供的no.de 虚拟主机!
+$ ssh2no.de 
+Last login: Mon Sep  5 14:38:51 2011 from 10.2.128.20
+             __                       __                      __
+    __      / /___  __  _____  ____  / /_   ____  ____   ____/ /__
+ __/ /___  / / __ \/ / / / _ \/ __ \/ __/  / __ \/ __ \ / __  / _ \
+/_  __/ /_/ / /_/ / /_/ /  __/ / / / /_   / / / / /_/ // /_/ /  __/
+ /_/  \____/\____/\__, /\___/_/ /_/\__/  /_/ /_/\____(_)__,_/\___/
+                 /____/  Welcome to zoomquiet.no.de
+
+Useful Commands:
+ pkgin -h
+ node-service-info
+ node-service-log
+ node-service-restart
+ node-service-disable
+ node-service-enable
+ node-service-howto
+
+Useful URLs:
+ http://wiki.joyent.com/display/node/Node+SmartMachine+FAQ
+ https://no.de/
+ http://nodejs.org/docs/latest/api/
+ https://api.no.de/
+
+$ cat .inputrc 
+## 060729 from xyb ; auto search in history
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+[node@zoomquiet ~]$ cat .bash_profile 
+. ~/.bashrc
+# base http://linuxtoy.org/archives/history-command-usage-examples.html
+# cnf history remember zise...
+HISTSIZE=2048
+HISTFILESIZE=2048
+</t>
+<t tx="zoomq.20110902202629.2927">$ git push joyent master 
+Counting objects: 3, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 380 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote: Deploying node-service.
+remote:     revision:  a93832e01c23dd1016510a641767432c3996f34d
+remote:     timestamp: 2011-09-02T12-26-00.086499460
+remote: --
+remote: Consider adding a 'package.json' to your repository to specify
+remote: server dependencies. Here is an example with detected npm installs
+remote: in your no.de SmartMachine:
+remote: 
+remote:     {
+remote:       "name": "my-app",
+remote:       "version": "1.0.0",
+remote:       "scripts": {
+remote:         "start": "node server.js"
+remote:       },
+remote:       "dependencies": {}
+remote:     }
+remote: 
+remote: See &lt;http://wiki.joyent.com/display/node/npm+Integration&gt; for more info.
+remote: --
+remote:     npm WARN invalid config node-version="v0.4"
+remote:     
+remote: Starting node-service.
+remote: Win!
+To node@zoomquiet4node:repo
+ * [new branch]      master -&gt; master
+
+</t>
+<t tx="zoomq.20110902202629.2928">Getting Started with a Node.js SmartMachine - Node - Joyent Customer Wiki ::        
+    http://wiki.joyent.com/display/node/Getting+Started+with+a+Node.js+SmartMachine
+
+~/.ssh/config
+#   110902 for no.de
+host zoomquiet4node
+hostname zoomquiet.no.de
+port 58274
+
+/path/2/no.de
+[remote "joyent"]
+	url = node@zoomquiet4node:repo
+</t>
+<t tx="zoomq.20110902202629.2929">[node@zoomquiet ~]$ curl http://npmjs.org/install.sh | sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3927  100  3927    0     0  21231      0 --:--:-- --:--:-- --:--:-- 78540
+fetching: http://registry.npmjs.org/npm/-/npm-1.0.27.tgz
+0.4.11
+1.0.27
+cleanup prefix=/home/node/local/nodejs
+altprefix=/opt/nodejs/v0.4.11
+
+This script will find and eliminate any shims, symbolic
+links, and other cruft that was installed by npm 0.x.
+
+Is this OK? enter 'yes' or 'no' 
+yes
+
+All clean!
+! [ -d .git ] || git submodule update --init --recursive
+node cli.js rm npm -g -f
+node cli.js cache clean
+node cli.js install -g -f
+/home/node/local/bin/npm -&gt; /home/node/local/lib/node_modules/npm/bin/npm.js
+/home/node/local/bin/npm_g -&gt; /home/node/local/lib/node_modules/npm/bin/npm.js
+/home/node/local/bin/npm-g -&gt; /home/node/local/lib/node_modules/npm/bin/npm.js
+npm@1.0.27 /home/node/local/lib/node_modules/npm 
+It worked
+
+</t>
+<t tx="zoomq.20110902202629.2930">Installing MongoDB service...
+
+Congratulations, MongoDB looks like it was successfully installed.
+The mongo binaries are in /root/local/bin and the data is in /root/local/var/mongodb
+To start using MongoDB, run the following two commands:
+
+  source ~/.bashrc
+  pfexec svcadm enable mongodb
+
+For security purposes, MongoDB is only listening for connections from 127.0.0.1.
+[root@zoomquiet /home/admin]# 
+
+pfexec svcadm disable mongodb</t>
+<t tx="zoomq.20110902202629.2931">===========================================================================
+$NetBSD: MESSAGE,v 1.4 2003/12/01 22:47:02 grant Exp $
+
+You may want to create and edit the file:
+
+        /opt/local/etc/screenrc
+
+to customize screen globally. Example configuration files have been
+installed to:
+
+        /opt/local/share/examples/screen/screenrc
+        /opt/local/share/examples/screen/etcscreenrc
+
+===========================================================================
+processing local summary...
+updating database: 100%
+marking screen-4.0.3nb4 as non auto-removable
+
+</t>
+<t tx="zoomq.20110914214854.2931">zoomq @ zq4wk1ubuntu in ~/workspace/OBP.b/docs-py2-zh on default
+$ python tools/sphinx-build.py -b html -d build/doctrees/ ./ ./build/
+
+</t>
+<t tx="zoomq.20110919090657.2932">张晓晅 &lt;zhangxiaoxuan@conew.com&gt; 写道：
+&gt; 直接把我qq给那边吧：99945558
+&gt; 比邮件快，我这边看邮件不是很频繁的
+
+
+
+
+在很多代码中有如下的函数：
+   static BkPngPool* _Instance()
+   {
+       if (!ms_pInstance)
+           ms_pInstance = new BkPngPool;
+       return ms_pInstance;
+   }
+
+__declspec(selectany) BkPngPool* BkPngPool::ms_pInstance = NULL;
+
+我们理解，定义一个全局指针变量，在第一次用到这个池子的时候才开始分配内存，这样的好处是尽量延迟分配资源的工作，但是没有在代码中看到释放资源的地方。是不是这个资源一旦分配，生存期直到整个程序结束？最后进程结束后，heap的回收统一由操作系统负责？
+就是把垃圾一股脑留到最后让windows去擦屁股？
+
+这样设计，有无内存泄露等问题？ 是否显示delete更好？
+
+
+BkWin中并没有实现EditBox, ComboBox,
+ListBox等常用控件，仅仅留了一个realwnd接口。我们的问题是：在BkWin最新版中对这些常用控件用DirectUI思想进行设计了吗？如果没有，未来是否有这个打算？
+主要是第二个问题：EditBox/ComboBox等需要用户输入的控件，只能走realwnd接口吗？贵方有没有计划用DirectUI技术实现？
+
+
+
+我们打算整个培训体系分为2部分：
+1. Windows编程基础/Windows GUI编程基础介绍
+2. 金山界面库解读和使用培训视频。</t>
+<t tx="zoomq.20110921083446.4495">@run_time
+def up_shines_info(jsout, sid):
+    fotoinfo = CCFG.DOC_FOTO.copy()
+
+    @others
+
+#urllib2.urlopen("http://starusr.vancl.com.cn/star/suits/6305311/30955b8d5d4a4b6983de95f5be08f7b5.jpg").read()
+'''
+#CF.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':fotos}})
+        , "shiner":{                # 晒单图文
+            "total":0               # 总数
+            , 'bask':[{"name":""           # 晒单
+                , "date":""
+                , "cont":""
+                , "foto":[]         # 图片集，DBref-&gt;DBGFS.fs.files.
+                }# shine
+                ]
+
+DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+'''
+
+</t>
+<t tx="zoomq.20110921083446.4497">#@run_time
+def _up4img2gfs(pathpic, fotoinfo):
+    '''为 DBref 将图片统一丢到 static_files.fs.files,返回文档对象
+    '''
+    if os.path.exists(pathpic):
+        if CCFG.GFS.exists({'uri':fotoinfo['uri']}):
+            existimg = CCFG.FSFILE.find_one({'uri':fotoinfo['uri']}, {'_id':1, 'filename':1})
+            img_id = existimg['_id']
+            #print fotoinfo['uri'], "\n\t`~~~ HAD PUTed!", img_id
+            CCFG.LOG.info("%s\n\t`~~~ HAD PUTed as: %s"% (fotoinfo['uri'], img_id))
+            return existimg['filename'] #img_id
+        else:
+            # make time+uri as inter. filename
+            crtfoto = "%.4f;%s"% (int(time.time()), fotoinfo['uri'])
+            urifoto = hashlib.sha224(crtfoto).hexdigest()
+            img = CCFG.GFS.put(open(pathpic, 'rb').read()
+                , uri = fotoinfo['uri']
+                , filename = urifoto    #fotoinfo['filename']
+                , imgtype = fotoinfo['imgtype']
+                , showas = fotoinfo['showas']
+                , asmain = fotoinfo['asmain']
+                , size = Image.open(pathpic).size
+                )
+            return urifoto  #img
+    else:
+        CCFG.LOG.warn("\tNOT exists!!!  %s " % pathpic)
+        #print "\tNOT exists!!!  %s " % pathpic
+        #CCFG.NOEXISTS.append(pathpic)
+        return None
+        #sys.exit(1)
+
+
+
+
+
+</t>
+<t tx="zoomq.20110921083446.4498">使用 mdmfs 来新建内存介质文件系统
+
+# mdmfs -s 5m md2 /mnt
+# df /mnt
+Filesystem 1K-blocks Used Avail Capacity  Mounted on
+/dev/md2        4846    2  4458     0%    /mnt
+
+创建5M 的内存文件目录...
+sudo mdmfs -s 16m md2 /mnt/shm
+sudo mdmfs -s 8m md2 /mnt/shm</t>
+<t tx="zoomq.20110922090434.5850">class Borg():
+    '''base http://blog.youxu.info/2010/04/29/borg
+        - 单例式配置收集类
+    '''
+    __collective_mind = {}
+    def __init__(self):
+        self.__dict__ = self.__collective_mind
+
+    &lt;&lt;configures&gt;&gt;
+
+# init all cfg. var
+CCFG = Borg()
+
+
+</t>
+<t tx="zoomq.20110922090434.5851">#   PATH collection
+SHM = "/mnt/shm"    # memory FS  directory
+#W3M = "/usr/local/bin/w3m -T text/html %s"
+W3M = "/usr/local/bin/w3m -dump %s"
+
+#   SYS. env. collection
+MONGOIP = "proxy7f"
+#   "py.kingsoft.net"  
+#   "10.20.239.40"
+MONGOdocPORT = 9007
+MONGOlogPORT = 9017
+LOG = logging.getLogger('fadloc')
+LOG.setLevel(logging.DEBUG)
+LOG.addHandler(MongoHandler.to(db='mongolog', collection='log', host=MONGOIP, port=MONGOlogPORT,))
+# db connection names
+DBGFS = "static_files"
+DBFAD = "fad_docs"
+#   为每个电商使用专用的 Coolection
+COFAD = "vancl_items"
+try:
+    CONNFAD = Connection(MONGOIP, MONGOdocPORT)
+except:
+    print "couldn't connect: be sure that Mongo is running on localhost:27017", traceback.print_exc()
+    sys.exit(1)
+'''
+try:
+    CONNGFS = Connection('localhost', 27217)
+except:
+    print "couldn't connect: be sure that Mongo is running on localhost:27217", traceback.print_exc()
+    sys.exit(1)
+'''
+FADB = CONNFAD[DBFAD]
+FAD = FADB[COFAD]
+GFS = gridfs.GridFS(CONNFAD[DBGFS])
+FSFILE = CONNFAD[DBGFS].fs.files
+
+# mongo doc. define::
+&lt;&lt;doc_item&gt;&gt;
+&lt;&lt;doc_foto&gt;&gt;
+</t>
+<t tx="zoomq.20110922090434.7415">def __popen(cmdline):
+    p =  subprocess.Popen(cmdline
+        ,shell=True
+        ,stdin=subprocess.PIPE
+        ,stdout=subprocess.PIPE
+        ,stderr=subprocess.PIPE)
+    lisERR = p.stderr.readlines()
+    strERR = "".join(lisERR)
+    lisOUT = p.stdout.readlines()
+    strOUT = "".join(lisOUT)
+    return lisERR,strERR,lisOUT,strOUT
+    #return strERR,lisOUT,strOUT
+
+
+
+</t>
+<t tx="zoomq.20110922090434.7416"># for shinning goods;
+shinning = {}
+shinning['bask'] = []
+
+htm = pq(jsout, parser='html')
+
+for bask in htm('.bask-div-left').find('a'):
+    #print 'http:%s'% bask.get('href')
+    shinr = 'http:%s'% bask.get('href')
+    basks = {}
+    basks['uri'] = shinr
+    ex = pq(url=shinr)
+    basks['name'] = ex('.other_zhankai').text().split()[1]
+    basks['title'] = ex('.show_title').attr('title')
+    desc = ex('.dapei_xiangqing').find('p').text()
+    if None == desc:
+        desc = ""
+    basks['cont'] = desc
+    basks['foto'] = []
+    for img in ex('.jcarousel-skin-slide').find('img'):
+        small = img.get('src')
+        fotoinfo['uri'] = small
+        fotoinfo['imgtype'] = small.split('.')[-1]
+        fotoinfo['showas'] = 'thumb'
+        tmpic = '%s/tmpload.%s'% (CCFG.SHM, fotoinfo['imgtype'])
+        open(tmpic,'wb').write(urllib2.urlopen(fotoinfo['uri']).read())
+        #print fotoinfo,tmpic
+        fotoname = CCFG._up4img2gfs(tmpic, fotoinfo)
+        basks['foto'].append(fotoname)
+
+        norma = img.get('ref')
+        fotoinfo['uri'] = norma
+        fotoinfo['imgtype'] = norma.split('.')[-1]
+        fotoinfo['showas'] = 'mid'
+        open(tmpic,'wb').write(urllib2.urlopen(fotoinfo['uri']).read())
+        #print fotoinfo,tmpic
+        fotoname = CCFG._up4img2gfs(tmpic, fotoinfo)
+        basks['foto'].append(fotoname)
+    #print basks
+    shinning['bask'].append(basks)
+shinning['total'] = len(shinning['bask'])
+#print shinning
+CCFG.FAD.update({'sid':sid}, {"$set":{'comments.shiner':shinning}})
+
+'''
+CF.FAD.update({'sid':sid}, {"$set":{'comments.shiner':shinning}})
+
+        , "shiner":{                # 晒单图文
+            "total":0               # 总数
+            , 'bask':[{"name":""           # 晒单
+                , "uri":""
+                , "title":""
+                , "cont":""
+                , "foto":[]         # 图片集，DBref-&gt;DBGFS.fs.files.
+                }# shine
+                ]
+
+DOC_FOTO = {                # 图片
+        "uri":""            # URI
+        , "filename":""     # 文件名
+        , "imgtype":""      # gif jpg png ...
+        , "showas":""       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+'''
+
+
+
+
+</t>
+<t tx="zoomq.20110922090434.7417"># for exp. goods foto load;
+attrs_fotos = CCFG.FAD.find_one({'sid':SID}, {'_id':0, 'attrs.fotos':1})
+attrs_fotos_uri = []
+for foto in attrs_fotos['attrs']['fotos']:
+    gfsuri = CCFG.FSFILE.find({'filename':foto}, {'_id':0, 'uri':1})[0]
+    attrs_fotos_uri.append(gfsuri['uri'])
+
+for img in htm.find('img'):
+    expic = img.get('original')
+    if None == expic:
+        pass
+    else:
+        if expic in attrs_fotos_uri:
+            pass
+        else:
+            print expic
+            fotoinfo['uri'] = expic
+            fotoinfo['imgtype'] = expic.split('.')[-1]
+            fotoinfo['showas'] = 'big'
+            tmpic = '%s/tmpload.%s'% (CCFG.SHM, fotoinfo['imgtype'])
+            fotoname = CCFG._up4img2gfs(tmpic, fotoinfo)
+            attrs_fotos['attrs']['fotos'].append(fotoname)
+
+CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':attrs_fotos['attrs']['fotos']}})
+
+#open(tmpic,'wb').write(urllib2.urlopen(fotoinfo['uri']).read())
+#print fotoinfo,tmpic
+#fotoname = _up4img2gfs(tmpic,fotoinfo)
+
+
+
+</t>
+<t tx="zoomq.20110927084702.2941">[zoomq@py] /usr/ports&gt; sudo pip install PIL
+...
+    --------------------------------------------------------------------
+    PIL 1.1.7 SETUP SUMMARY
+    --------------------------------------------------------------------
+    version       1.1.7
+    platform      freebsd8 2.7.2 (default, Sep  6 2011, 15:02:57)
+                  [GCC 4.2.1 20070719
+                  [FreeBSD]]
+    --------------------------------------------------------------------
+    *** TKINTER support not available
+    *** JPEG support not available
+    --- ZLIB (PNG/ZIP) support available
+    *** FREETYPE2 support not available
+    *** LITTLECMS support not available
+    --------------------------------------------------------------------
+    To add a missing option, make sure you have the required
+    library, and set the corresponding ROOT variable in the
+    setup.py script.
+</t>
+<t tx="zoomq.20110927084702.4405">@path cron
+
+定期任务支持</t>
+<t tx="zoomq.20110927084702.4420">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+&lt;&lt;changelog&gt;&gt;
+VERSION = "vancl-csv-walkr.py v11.09.27"
+
+&lt;&lt;imports&gt;&gt;
+FAD=" /data/apps/fadpop"
+
+@others
+
+if __name__ == "__main__":
+    if 2 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/vancl-uri-flush.py /path/2/当日下载目录
+                 |             +-- vancl 联盟用户的相关商品数据文件下载入口
+                 +- 指向脚本自身
+        """ % VERSION
+    else:
+        PATHCVS = sys.argv[1]
+        PATHCRON = sys.argv[0]
+
+        loader(PATHCVS,PATHCRON)
+
+</t>
+<t tx="zoomq.20110927084702.4421">'''vancl cvs data file Walkr:
+    - 单进单线,批量识别 .rar 解出的 .csv
+    - 调用 incov 完成 UTF-16 -&gt; UTF-8 的转换
+    - 然后逐一进行新品插入
+依赖:
+    + PyMongo
+    + fadpop.common.fadutil
+'''
+</t>
+<t tx="zoomq.20110927084702.4422">import os
+import sys
+import time
+import fnmatch
+#from copy import deepcopy as copy
+#import subprocess
+#import traceback
+#import logging
+#import hashlib
+
+#import Image
+
+#import PyMongo
+#from pymongo import Connection
+#from pymongo import errors as ERR
+#import gridfs
+#from mongolog.handlers import MongoHandler
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, __popen, run_time
+
+</t>
+<t tx="zoomq.20110927084702.4428">def loader(pathcvs,pathcron):
+    asroot = os.path.abspath(pathcvs)
+    cron = os.path.dirname(os.path.abspath(pathcron))
+    #print cron,FAD
+    #return
+    shcall = "#!/bin/sh"
+    shcall = "PY='/usr/local/bin/python'"
+    for f in os.listdir(asroot):
+        if fnmatch.fnmatch(f, '*.csv'):
+            #print f, os.path.abspath(f)
+            fas = f.replace("(","\(").replace(")","\)").replace("&amp;","\&amp;")
+            iconv = "iconv -c -f UTF-16LE -t UTF-8 %(asroot)s/%(fas)s &gt; %(asroot)s/%(fas)s.utf8"% locals()
+            err_li, err_st, out_li, out_st = __popen(iconv)
+            vanclcsv = "%s/parser/vanclcsv.py"% FAD
+            callvanclcsv = "$PY %(vanclcsv)s %(asroot)s/%(fas)s.utf8" % locals()
+            shcall += "\n"+callvanclcsv
+    open("%s/vancl-csv-all.sh"% cron, 'w').write(shcall)
+
+</t>
+<t tx="zoomq.20110928083621.2947">    cvsls = open(cvsfile).readlines()
+    for idata in cvsls[:2]:
+        print ",".join(idata.split('\t'))
+        #print len(idata.split('\t'))
+    return
+    fread = codecs.open(cvsfile, 'rU', 'utf-16')
+    csv_reader = csv.reader(utf_8_encoder(fread))
+    for row in csv_reader:
+        # decode UTF-8 back to Unicode, cell by cell:
+        print len([unicode(cell, 'utf-8') for cell in row])
+    ur = UnicodeReader(cvsfile)
+    print ur
+    row = ur.next()
+    print row
+    return
+    #fread = open(cvsfile, 'rb').read()
+    #cvsf = open(cvsfile,'rU')
+    #idata = csv.reader(nonull(cvsf), dialect='excel')
+    #idata = csv.reader(fread, dialect='excel')
+</t>
+<t tx="zoomq.20110929090256.4413">def _up4img2gfs(pathpic, fotoinfo):
+    '''为 DBref 将图片统一丢到 static_files.fs.files,返回文档对象
+    '''
+    if os.path.exists(pathpic):
+        if CCFG.GFS.exists({'uri':fotoinfo['uri']}):
+            existimg = CCFG.FSFILE.find_one({'uri':fotoinfo['uri']}, {'_id':1, 'filename':1})
+            img_id = existimg['_id']
+            #print fotoinfo['uri'], "\n\t`~~~ HAD PUTed!", img_id
+            CCFG.LOG.info("%s\n\t`~~~ HAD PUTed as: %s"% (fotoinfo['uri'], img_id))
+            return existimg['filename'] #img_id
+        else:
+            # make time+uri as inter. filename
+            crtfoto = "%.4f;%s"% (int(time.time()), fotoinfo['uri'])
+            urifoto = hashlib.sha224(crtfoto).hexdigest()
+            img = CCFG.GFS.put(open(pathpic, 'rb').read()
+                , uri = fotoinfo['uri']
+                , filename = urifoto    #fotoinfo['filename']
+                , imgtype = fotoinfo['imgtype']
+                , showas = fotoinfo['showas']
+                , asmain = fotoinfo['asmain']
+                , size = Image.open(pathpic).size
+                )
+            return urifoto  #img
+    else:
+        CCFG.LOG.warn("\tNOT exists!!!  %s " % pathpic)
+        #print "\tNOT exists!!!  %s " % pathpic
+        #CCFG.NOEXISTS.append(pathpic)
+        return None
+        #sys.exit(1)
+
+
+
+
+
+</t>
+<t tx="zoomq.20110929090256.4431">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+VERSION = "vanclhtmitem.py v11.08.9"
+&lt;&lt;imports&gt;&gt;
+DLERRORS = []
+
+@others
+
+if __name__ == "__main__":
+    if 2 != len(sys.argv):
+        print """ %s 
+对统一下载的 http://item.vancl.com/{sid}.html 页面代码分析出sid 对应的主要信息
+输出到 STDOUT usage::
+$ python /path/2/vanclhtmitem.py /path/2/[*.html]
+                 |               |      +- 如果指向了具体的文件 则是专门解析
+                 |               +- 页面文件目录
+                 +- 指向本脚本
+        """ % VERSION
+    else:
+        graspiteminfo(sys.argv[1])
+</t>
+<t tx="zoomq.20110929090256.4432">import os
+import sys
+import fnmatch
+#import time
+import traceback
+#import urllib
+import pickle
+#from copy import copy
+
+#import Image
+
+from pyquery import PyQuery as pq
+#from lxml import etree
+
+#from pymongo import Connection
+#from pymongo import errors as ERR
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, __popen, run_time
+</t>
+<t tx="zoomq.20110929090256.4433">@run_time
+def graspiteminfo(pathml):
+    if ".html" == pathml[-5:]:
+        print "esp page..."
+        qhtm = pq(filename=pathml, parser='html')
+        chksid = pathml.split("/")[-1].split(".")[0]
+        print chksid
+        if not _isnorm(qhtm, chksid):
+            return
+        if not _isfound(chksid):
+            return
+        _updateitem(qhtm, chksid)
+    else:
+        for htmfile in os.listdir(pathml):
+            if fnmatch.fnmatch(htmfile, '*.html'):
+                chksid = htmfile.split(".")[0]
+                print chksid
+                qhtm = pq(filename="%s/%s" % (pathml, htmfile), parser='html')
+                if not _isnorm(qhtm, chksid):
+                    continue
+                if not _isfound(chksid):
+                    continue
+                _updateitem(qhtm, chksid)
+                #return
+    output = open('20110713_nvzhuang_all_downloaderrors.pkl', 'wb')
+    pickle.dump(DLERRORS, output)
+    output.close
+</t>
+<t tx="zoomq.20110929090256.4434">def _isnorm(htm, sid):
+    if not htm('.breadNav'):
+        print "下载失败"
+        LOG.info("下载失败:%s"% sid)
+        DLERRORS.append(sid)
+        return False
+    else:
+        return True
+        #continue
+
+</t>
+<t tx="zoomq.20110929090256.4435">def _isfound(chksid):
+    try:
+        FAD.find({'sid':chksid})[0]
+        return True
+    except :
+        print "graspiteminfo(pathml) ALERT! %s no-exist\n\t"% chksid, traceback.print_exc()
+        #sys.exit(1)
+        return False
+        #continue
+
+</t>
+<t tx="zoomq.20110929090256.4436">def _updateitem(htm, sid):
+    if htm('#saleout').attr('href'):
+        # 已售罄
+        &lt;&lt;放空价格&gt;&gt;
+    else:
+        &lt;&lt;价格抓取&gt;&gt;
+
+    &lt;&lt;bread_nav&gt;&gt;
+    &lt;&lt;attrs_wash&gt;&gt;
+    &lt;&lt;attrs_color&gt;&gt;
+    &lt;&lt;comments_unit&gt;&gt;
+    &lt;&lt;comments_size&gt;&gt;
+    &lt;&lt;comments_feel&gt;&gt;
+    &lt;&lt;comments_taker_comment&gt;&gt;
+
+    FAD.update({'sid':sid}, {"$set":{'attrs.class':bread_nav
+                , 'attrs.wash':attrs_wash
+                , 'attrs.color':attrs_color
+                , 'comments.unit':comments_unit
+                , 'comments.noma':comments_noma
+                , 'comments.bask':comments_bask
+                , 'comments.size':comments_size
+                , 'comments.feel':comments_feel
+                , 'comments.taker.total':comments_taker_total
+                , 'comments.taker.totalask':comments_taker_totalask
+                , 'comments.taker.comment':comments_taker_comment
+                , 'comments.taker.ask':comments_taker_ask
+                }
+            }
+        )
+
+</t>
+<t tx="zoomq.20110929090256.4437">prix = "saleout"
+FAD.update({'sid':sid}, {"$set":{'prix':prix}})
+
+
+</t>
+<t tx="zoomq.20110929090256.4438">prix_agio = htm('.MSpriceArea').find('strong').text()
+prix_vip = htm('.cuxiaoPrice').find('strong').text()
+prix_vip += ","
+prix_vip += ",".join([vip_rice.text_content() for vip_rice in htm('.vipPrice').find('span')[1:]])
+FAD.update({'sid':sid}, {"$set":{'agio':prix_agio, 'vip':prix_vip}})
+</t>
+<t tx="zoomq.20110929090256.4439">bread_nav = []
+for bread in htm('.breadNav').find('a'):
+    bread_nav.append(bread.get('title'))
+
+
+</t>
+<t tx="zoomq.20110929090256.4440">attrs_wash = {}
+for attricon in htm('.attricon'):
+    icon = attricon.find('img')
+    iconkey = icon.get('src').split("/")[-1].split(".")[0]
+    attrs_wash[iconkey] = icon.get('alt')
+</t>
+<t tx="zoomq.20110929090256.4441">attrs_color_id = []
+for color in htm('.selColor').find('li'):
+    if color.get('name'):
+        sid_color = color.get('name').split("&amp;")[0].split("=")[1]
+        if sid == sid_color:
+            pass
+        else:
+            attrs_color_id.append(sid_color) 
+attrs_color = []
+for relsid in attrs_color_id:
+    cursor_item = FAD.find({'sid':relsid})
+    if 0 &lt; cursor_item.count():
+        # NULL relation collors
+        attrs_color.append(cursor_item[0]["_id"])
+
+</t>
+<t tx="zoomq.20110929090256.4442">try:
+    pingfen = htm('.pingfen').find('li').text().split()
+    comments_unit = pingfen[:6]
+    comments_noma = pingfen[6:-6]
+    comments_bask = pingfen[-6:]
+except:
+    print "还没有人打分!\n\t", traceback.print_exc()
+    comments_unit = ""
+    comments_noma = ""
+    comments_bask = ""
+</t>
+<t tx="zoomq.20110929090256.4443">comments_size = htm('.sizePingjia').find('li').text()
+</t>
+<t tx="zoomq.20110929090256.4444">comments_feel =  htm('.voteArea').find('p').text()
+
+</t>
+<t tx="zoomq.20110929090256.4445">for tabmenu in htm('.RsetTabMenu').find('li'):
+    if "item-buyfeedback" == tabmenu.get('name'):
+        comments_taker_total = tabmenu.text_content().split("(")[1][:-1]
+    if "item-quiz" == tabmenu.get('name'):
+        comments_taker_totalask = tabmenu.text_content().split("(")[1][:-1]
+
+&lt;&lt;comments_taker_ask&gt;&gt;
+&lt;&lt;comments_taker_comm&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20110929090256.4446">comments_taker_comment = []
+for urcomment in htm('#styleAssesseslist').find('div'):
+    askuser = urcomment.find_class('area2Head')
+    if len(askuser) &gt; 0:
+        comments_taker_comment_name = askuser[0].find_class('area2HeadCenter')[0].text_content().strip()[3:]
+        comments_taker_comment_title = askuser[0].find_class('area2HeadLeft')[0].text_content().strip()
+        comments_taker_comment_date = askuser[0].find_class('area2HeadRight')[0].text_content().strip()
+    askcnt = urcomment.find_class('area2ConP')
+    if len(askcnt) &gt; 0:
+        comments_taker_comment_cont = askcnt[0].text_content().strip()
+    else:
+        comments_taker_comment_cont = ''
+
+    askhold = urcomment.find_class('selCS')
+    if len(askhold) &gt; 0:
+        userhold = "".join(askhold[0].text_content().replace('\r','').split("\n")[2:])
+    else:
+        userhold = ""
+
+    comments_taker_comment.append({'data':comments_taker_comment_date
+            , 'name':comments_taker_comment_name
+            , 'title':comments_taker_comment_title
+            , 'issue':comments_taker_comment_cont 
+            , 'userhold':userhold
+            }
+        )
+</t>
+<t tx="zoomq.20110929090256.4447">comments_taker_ask = []
+for question in htm('#stylequestionslist').find('.area3Con'):
+    userq = question.findall('div')[:2]
+    userqa = userq[0].text_content().replace('\r','').strip().split("\n")
+    comments_taker_ask_name = userqa[0].strip()
+    comments_taker_ask_title = userqa[1].strip()[2:]
+    comments_taker_ask_date = userqa[-1].strip()
+    comments_taker_ask_issue = userq[1].text_content().strip()
+    comments_taker_ask_reply = question.find_class('adminAsk')[0].text_content().strip()
+    comments_taker_ask.append({'data':comments_taker_ask_date
+            , 'name':comments_taker_ask_name
+            , 'title':comments_taker_ask_title
+            , 'issue':comments_taker_ask_issue 
+            , 'reply':comments_taker_ask_reply
+            }
+        )
+
+</t>
+<t tx="zoomq.20111008085807.2965">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+110901,5.50,1.25,4.00,4.75,1.00,6.00    5, 1, 2, 4
+110902,4.50,3.75,0.50,5.25,1.00,6.50    5, 1, 2, 4
+110905,6.00,2.50,0.75,2.50,3.00,7.50    5, 1, 2, 4
+110906,0.00,7.50,0.75,3.50,4.00,8.25    5, 1, 2, 4
+110907,0.00,5,75,1.00,6.75,2.50,6.50    5, 2, 1, 4
+110908,1.00,4.50,6.00,4.00,1.50,7.50    5, 3, 1, 6
+110910,5.75,1.50,1.50,2.75,4.50,9.00    5, 1, 2, 4
+110913,0.50,0.75,0.75,6.00,4.35,9.35    5, 1, 3, 4
+110914,2.00,1.50,2.25,3.75,5.00,8.00    5, 1, 3, 4
+110915,0.00,0.75,4.00,5.25,7.75,7.00    5, 1, 2, 4
+110916,0.00,2.00,1.50,7.50,5.50,6.00    5, 1, 2, 4
+110919,0.00,2.30,1.75,4.85,1.25,6.00    5, 0, 3, 5
+110920,1.00,2.75,0.75,7.00,3.50,8.50    5, 2, 1, 3
+110921,2.00,5.50,1.50,5.50,1.50,7.00    5, 2, 1, 4
+110922,0.25,3.50,3.75,5.00,3.75,7.00    5, 2, 1, 3
+110923,0.00,2.00,2.00,8.50,5.00,7.00    5, 2, 3, 5
+110926,0.00,4.00,3.80,4.25,4.50,7.00    5, 0, 4, 5
+110927,3.00,4.50,0.75,7.75,1.50,7.00    5, 2, 2, 5
+110928,0.00,4.25,2.00,6.25,4.50,6.00    5, 2, 1, 3
+110929,4.00,4.00,2.50,5.00,2.00,6.00    5, 2, 1, 4
+110930,2.25,3.25,1.00,6.00,5.00,6.00    5, 1, 2, 4
+
+
+</t>
+<t tx="zoomq.20111009085726.4432">= fadpop定期任务 =
+== 依赖 ==
++ redis-py
+
+== 设计 ==
+分布式,任务池,多进程拉任务:
+    + 基于 redis
+流程:
+    - 定期扫描 Mongo,将所有 uri 丢入指定 redis set 中
+    - 分布式消费者进程,从 redis 中随机提取任务uri 进行系列处置:
+        - 下载网页
+        - 分析信息
+        - 下载图片
+        - 分析js 更新晒单
+
+== 发布 ==
+py.kingsoft.net:
+    9079-&gt;pyk:6379
+
+
+== 配置 ==
+统一内存缓冲目录:
+
+例 18-6. 用 mdconfig 创建新的内存盘设备
+
+# mdconfig -a -t swap -s 5m -u 1
+# newfs -U md1
+/dev/md1: 5.0MB (10240 sectors) block size 16384, fragment size 2048
+        using 4 cylinder groups of 1.27MB, 81 blks, 192 inodes.
+        with soft updates
+super-block backups (for fsck -b #) at:
+ 160, 2752, 5344, 7936
+# mount /dev/md1 /mnt
+# df /mnt
+Filesystem 1K-blocks Used Avail Capacity  Mounted on
+/dev/md1        4718    4  4338     0%    /mnt
+
+例 18-7. 使用 mdmfs 来新建内存介质文件系统
+
+# mdmfs -s 16m md2 /mnt/shm
+# df /mnt
+Filesystem 1K-blocks Used Avail Capacity  Mounted on
+/dev/md2        4846    2  4458     0%    /mnt
+
+
+== 运维 ==
+@others
+
+== Changelog ==
+111009 init. 确认关键代码段
+</t>
+<t tx="zoomq.20111009085726.4438">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+&lt;&lt;changelog&gt;&gt;
+VERSION = "vancl-uri-flush.py v11.10.9"
+
+&lt;&lt;imports&gt;&gt;
+
+@others
+
+if __name__ == "__main__":
+    if 4 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/vancl-uri-flush.py host port db
+                 |                   |    |    +- db序号
+                 |                   |    +- 端口
+                 |                   +- 主机
+                 +- 指向脚本自身
+        """ % VERSION
+    else:
+        RHOST = sys.argv[1]
+        RPORT = sys.argv[2]
+        RDB = sys.argv[3]
+        #CCFG.LOG.info("usage redis as:%s:%s db %s"% (RHOST, RPORT, RDB))
+        loadalluri(RHOST, RPORT, RDB)
+
+</t>
+<t tx="zoomq.20111009085726.4439">'''vancl 's doc's uri as task flush into redis:
+    - 单进单线,批量刷新所有独立产品uri 到redis 仓库中,形成任务队列
+依赖:
+    + redis-py
+    + fadpop.common.fadutil
+'''
+</t>
+<t tx="zoomq.20111009085726.4440">#import os
+import sys
+#import time
+#import fnmatch
+#from copy import deepcopy as copy
+#import subprocess
+#import traceback
+#import logging
+#import hashlib
+
+#import Image
+import redis
+
+#import PyMongo
+#from pymongo import Connection
+#from pymongo import errors as ERR
+#import gridfs
+#from mongolog.handlers import MongoHandler
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG
+
+</t>
+<t tx="zoomq.20111009085726.4441">def loadalluri(rhost, rport, rdbid):
+    rdb = redis.Redis(host=rhost, port=int(rport), db=int(rdbid))
+    for goods in CCFG.FAD.find(fields={'_id':0, 'sid':1}):
+        #print goods['uri']
+        if rdb.sadd('vcsid', goods['sid']):
+            #CCFG.LOG.info('uri SADD:%s'% goods['uri'])
+            print 'sid SADD:%s'% goods['sid']
+        else:
+            #CCFG.LOG.info('HAD uri:%s'% goods['uri'])
+            print 'HAD sid:%s'% goods['sid']
+    print rdb.scard('vcsid')
+
+    '''
+r.set('uri','http://1.1.4')
+In [52]: r.sadd('uri','http://1.1.4')
+Out[52]: False
+r.sismember('uri','http://1.1.4')
+r.scard('uri')
+r.spop('uri')
+In [58]: r.srandmember('uri')
+Out[58]: 'http://1.1.4'
+
+    '''
+
+
+</t>
+<t tx="zoomq.20111009085726.4446">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+&lt;&lt;changelog&gt;&gt;
+VERSION = "vancl-up4info2karait.py v11.12.1"
+
+&lt;&lt;imports&gt;&gt;
+TPL4URI = "http://item.vancl.com/%s.html"
+TPL4IMG = "http://item.vancl.com/Styles/BigImg.mvc?ProductCode=%s"
+GRASPJS = '/data/apps/fadpop/spider/graspage.js'
+PHANTOMJS = "/usr/local/bin/phantomjs"
+
+@others
+
+if __name__ == "__main__":
+    if 3 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/vancl-uri-flush.py host port
+                 |                   |    +- 端口
+                 |                   +- 主机
+                 +- 指向脚本自身
+e.g:
+$ python vancl-uri2karai.py proxy7f 9007
+        """ % VERSION
+    else:
+        RHOST = sys.argv[1]
+        RPORT = sys.argv[2]
+        #RDB = sys.argv[3]
+        #CCFG.LOG.info("usage redis as:%s:%s db %s"% (RHOST, RPORT, RDB))
+        upgradbyuri(RHOST, RPORT)
+
+</t>
+<t tx="zoomq.20111009085726.4447">'''vancl 's doc's all info upgrade:
+    - 单进单线,从MQ 中逐一获取URI 进行文档更新
+
+依赖:
+    + Karait
+    + fadpop.common.fadutil
+'''
+
+</t>
+<t tx="zoomq.20111009085726.4448">import os
+import sys
+import time
+#import fnmatch
+from copy import deepcopy as copy
+#import subprocess
+import traceback
+#import logging
+import hashlib
+import urllib2
+#import Image
+
+from karait import Message, Queue
+
+import redis
+
+from pyquery import PyQuery as pq
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, _up4img2gfs, __popen, timeout, Timeout, KillThread
+
+
+
+
+</t>
+<t tx="zoomq.20111009085726.4449">def upgradbyuri(rhost, rport):
+    '''利用 Karait 的超时进行任务管理
+    '''
+    start = time.time()
+    queue = Queue(
+        host=rhost, # MongoDB host. Defaults to localhost.
+        port=int(rport), # MongoDB port. Defaults to 27017.
+    )
+    #print message.to_dictionary()
+    #loop = 0
+    #while 2 &gt; loop:
+    while 1:
+        #loop += 1
+        #sid = rdb.srandmember('vcsid')
+        msg = queue.read(routing_key='for_vancl',visibility_timeout=266.6)[0]
+        #print msg.to_dictionary()
+        sid = msg.sid
+        @others
+        msg.delete()
+        #print "msg.is_expired()", msg.is_expired()
+        print "per_up_s ~= %s \n"% (time.time() - start)
+        
+    #print "Set:uri", rdb.scard('vcsid')
+    #print "Set:working", rdb.zcard('working')
+</t>
+<t tx="zoomq.20111009085726.4450">print "up htm BASE: %s"% (TPL4URI%sid)
+qhtm = pq(urllib2.urlopen(TPL4URI% sid).read(),parser='html')
+_updateitem(qhtm, sid)
+print "dl pic BASE: %s"% (TPL4IMG% sid)
+qhtm = pq(urllib2.urlopen(TPL4IMG% sid).read(), parser='html')
+pagepics = _anabigpicnames(qhtm, sid)
+#   print hashlib.sha224(TPL4IMG% sid).hexdigest()
+_loadpics(pagepics)
+
+#   urllib2.urlopen(TPL4IMG% sid).read()
+#print "up shine BASE: %s"% (TPL4URI%sid)
+#SNAPJS = '%s %s %s'% (PHANTOMJS, GRASPJS, TPL4URI% sid)
+#print SNAPJS
+#liserr, strerr, lisout, strout = __popen(SNAPJS)
+#   print strout
+#_up_shining(strout, sid)
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20111010171018.2978">def _anabigpicnames(pathml, sid):
+    dirurl = "/".join(sid[:3])
+    d = pathml
+    ibgpics = {}
+    ibgpics[sid] = []
+    @others
+    return ibgpics
+    #output = open('110713_nvzhuang_all_bigpic.pkl', 'wb')
+    #pickle.dump(ibgpics, output)
+    #output.close
+
+</t>
+<t tx="zoomq.20111010171018.2979">foto = d('#large').find('img').attr('src').split("/")[-1]
+print CCFG.TPL_VANCL_BFOTO % locals()
+#print CCFG.TPL_VANCL_MFOTO % locals()
+#print CCFG.TPL_VANCL_SFOTO % locals()
+bfoto_big = {                # 图片
+        "uri":CCFG.TPL_VANCL_BFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"big"       # thumb|mid|big
+        , "asmain":True    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(bfoto_big)
+sfoto_big = {                # 图片
+        "uri":CCFG.TPL_VANCL_MFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"thumb"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(sfoto_big)
+mfoto_big = {                # 图片
+        "uri":CCFG.TPL_VANCL_SFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"mid"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(mfoto_big)
+</t>
+<t tx="zoomq.20111010171018.2980">for foto in d('#thumbnail').find('img'):
+    #print foto.get('src').split("/")[-1]   #.base_url()
+    foto = foto.get('src').split("/")[-1]
+    print CCFG.TPL_VANCL_BFOTO % locals()
+    #print CCFG.TPL_VANCL_MFOTO % locals()
+    #print CCFG.TPL_VANCL_SFOTO % locals()
+    bfoto_big = {                # 图片
+            "uri":CCFG.TPL_VANCL_BFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"big"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(bfoto_big)
+    sfoto_big = {                # 图片
+            "uri":CCFG.TPL_VANCL_MFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"thumb"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(sfoto_big)
+    mfoto_big = {                # 图片
+            "uri":CCFG.TPL_VANCL_SFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"mid"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(mfoto_big)
+
+
+</t>
+<t tx="zoomq.20111011203627.4446">def _loadpics(pagepics):
+    '''base dict info,download pic into. CCFG.SHM as tmp files and push into GridFS
+    '''
+    total = 0
+    tmproot = CCFG.SHM
+    for sid in pagepics.keys():
+        try:
+            for foto in pagepics[sid]:
+                dirurl = "/".join(sid[:3])
+                asize = CCFG.FOTO_SIZE[foto['showas']]  # 翻译TMD实际目录
+                filename = foto['filename']
+                imgtype = foto['imgtype']
+                tmpname = hashlib.sha224(TPL4IMG% sid).hexdigest()
+                realpic = "%(tmproot)s/%(tmpname)s.%(imgtype)s"% locals()
+                #print sid, foto['uri'], realpic
+                #open(realpic,'wb').write(urllib2.urlopen(foto['uri']).read())
+                __download_img(realpic,foto['uri'])
+                @others
+                os.remove(realpic)
+                total += 1
+        except Timeout, e:
+            #print "loadpics(pkl,pathpic) BROKENNN!\n\t", traceback.print_exc()
+            print "loadpics(pkl,pathpic) BROKENNN!\n\t", e
+            #sys.exit(1)
+            continue
+        print "\n\t &gt;&gt;&gt; %s fotos loaded !&lt;&lt;&lt;\n"% total
+</t>
+<t tx="zoomq.20111011203627.4447">try:
+    this_item = CCFG.FAD.find({'sid':sid})
+    fotoid =  _up4img2gfs(realpic, foto)
+    if fotoid:
+        fotos = this_item[0]['attrs']['fotos']
+        if fotoid in fotos:
+            print fotoid, "\t atta.ed inthe sid::", sid
+            pass
+        else:
+            fotos.append(fotoid)
+            CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':fotos}})
+    else:
+        # wget is not completed!
+        continue
+except :
+    print "_loadpics() BROKENNN!\n\t", traceback.print_exc()
+    #sys.exit(1)
+    continue
+
+
+</t>
+<t tx="zoomq.20111012085658.5918">def _up_shining(jsout, sid):
+    fotoinfo = CCFG.DOC_FOTO.copy()
+    tmproot = CCFG.SHM
+
+    &lt;&lt;晒单更新&gt;&gt;
+
+    &lt;&lt;详细图片&gt;&gt;
+
+
+
+
+</t>
+<t tx="zoomq.20111012085658.5919"># for shinning goods;
+shinning = {}
+shinning['bask'] = []
+
+htm = pq(jsout, parser='html')
+
+for bask in htm('.bask-div-left').find('a'):
+    print 'http:%s'% bask.get('href')
+    shinr = 'http:%s'% bask.get('href')
+    basks = {}
+    basks['uri'] = shinr
+    ex = pq(url=shinr)
+    basks['name'] = ex('.other_zhankai').text().split()[1]
+    basks['title'] = ex('.show_title').attr('title')
+    desc = ex('.dapei_xiangqing').find('p').text()
+    if None == desc:
+        desc = ""
+    basks['cont'] = desc
+    basks['foto'] = []
+    for img in ex('.jcarousel-skin-slide').find('img'):
+        small = img.get('src')
+        fotoname = __urlopen_load_img(fotoinfo, 'thumb', small)
+        if fotoname:
+            basks['foto'].append(fotoname)
+
+        norma = img.get('ref')
+        fotoname = __urlopen_load_img(fotoinfo, 'mid', norma)
+        if fotoname:
+            basks['foto'].append(fotoname)
+
+    #print basks
+    shinning['bask'].append(basks)
+shinning['total'] = len(shinning['bask'])
+#print shinning
+CCFG.FAD.update({'sid':sid}, {"$set":{'comments.shiner':shinning}})
+
+
+</t>
+<t tx="zoomq.20111012085658.5920"># for exp. goods foto load;
+attrs_fotos = CCFG.FAD.find_one({'sid':sid}, {'_id':0, 'attrs.fotos':1})
+attrs_fotos_uri = []
+for foto in attrs_fotos['attrs']['fotos']:
+    gfsuri = CCFG.FSFILE.find({'filename':foto}, {'_id':0, 'uri':1})[0]
+    attrs_fotos_uri.append(gfsuri['uri'])
+
+for img in htm.find('img'):
+    expic = img.get('original')
+    if None == expic:
+        pass
+    else:
+        if expic in attrs_fotos_uri:
+            pass
+        else:
+            print expic
+            fotoname = __urlopen_load_img(fotoinfo, 'big', expic)
+            if fotoname:
+                attrs_fotos['attrs']['fotos'].append(fotoname)
+
+CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':attrs_fotos['attrs']['fotos']}})
+
+
+</t>
+<t tx="zoomq.20111013085658.11318">def __urlopen_load_img(fotoinfo, showas, uri):
+    fotoinfo['uri'] = uri
+    fotoinfo['imgtype'] = uri.split('.')[-1]
+    if "?t=" in fotoinfo['imgtype']:
+        fotoinfo['imgtype'] = fotoinfo['imgtype'].split('?')[:1]
+    fotoinfo['showas'] = showas
+
+    tmproot = CCFG.SHM
+    tmpname = hashlib.sha224(fotoinfo['uri']).hexdigest()
+    imgtype = fotoinfo['imgtype']
+    tmpic = "%(tmproot)s/%(tmpname)s.%(imgtype)s"% locals()
+    try:
+        #open(tmpic,'wb').write(urllib2.urlopen(fotoinfo['uri']).read())
+        __download_img(tmpic,fotoinfo['uri'])
+        print "%s&gt;&gt;\t"% showas, tmpic
+        fotoname = _up4img2gfs(tmpic, fotoinfo)
+        os.remove(tmpic)
+        return fotoname
+    except Timeout, e:
+        print "__urlopen_load_img() BROKENNN!\n\t", e
+        return None
+
+
+
+</t>
+<t tx="zoomq.20111103090127.3354">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+111008,2.20,4.85,1.25,3.50,4.00,7.00    5, 1, 2, 4
+111009,1.25,3.50,2.25,5.50,5.00,7.00    5, 2, 1, 4
+111010,1.00,4.00,2.00,4.25,5.50,6.00    5, 2, 0, 4
+111011,0.50,3.25,3.50,6.00,4.00,7.00    5, 0, 2, 5
+111012,3.00,3.50,1.50,5.50,4.00,7.00    5, 0, 2, 4
+111013,1.50,7.00,4.75,4.75,1.00,6.00    5, 2, 2, 2
+111014,1.50,7.50,2.25,0.75,4.50,6.00    5, 1, 3, 5
+111017,0.00,4.00,0.50,7.00,4.00,7.00    5, 1, 3, 4
+111018,1.75,3.50,0.00,5.50,4.50,7.00    5, 2, 1, 2
+111019,1.00,3.50,5.00,3.00,1.00,7.00    5, 1, 2, 4
+111020,0.00,4.50,6.00,4.00,1.00,7.00    6, 1, 2, 4
+111021,0.00,3.75,2.50,5.00,4.00,7.00    6, 2, 3, 5
+111024,0.00,5.50,0.50,7.25,4.00,7.00    6, 1, 4, 6
+111025,0.00,7.00,3.00,3.00,4.00,7.00    6, 1, 4, 8
+111026,1.00,3.25,2.50,5.00,4.50,6.50    5, 3, 1, 2
+111027,1.25,5.50,3.75,4.50,1.50,7.00    5, 2, 2, 3
+111028,0.50,7.00,0.50,4.00,6.00,7.00    5, 1, 3, 4
+111031,1.75,5.50,0.75,4.00,4.50,7.00    5, 1, 3, 5
+
+
+</t>
+<t tx="zoomq.20111104224345.3355">珠三角技术沙龙相关...</t>
+<t tx="zoomq.20111104224345.3356">jeff jeff@fallever.com
+发件人当地时间:	 发送时间 22:30 (GMT+08:00)。发送地当前时间：下午10:45。 ✆
+发送至:	 Zoom Quiet &lt;Zoom.Quiet@gmail.com&gt;
+日期:	 2011年11月4日 下午10:30
+主题:	 SA+SCM的工作来了
+
+东京Linode主机己入手。得知您老喜欢折腾各种SA，SCM，协作过程等工作。好吧
+现在有一台裸机（ubuntu 10.04LTS 
+    root@106.187.45.65/Tp_110115
+    交给你了，下面有一些事需要做，如果大妈有闲，就先干了，没闲我会一一消灭：
+
+
+
+</t>
+<t tx="zoomq.20111104224345.3357">帐号和安全
+- 给机器起个有爱的名字
+    Aoi Sora
+
+各种环境，及Server
+- nginx，最新稳定版
+- uwsgi，跑python应用
+http://projects.unbit.it/uwsgi/wiki/Install
+    - pip 安装失败
+    - agi build-essential python-dev libxml2-dev
+    - 编译安装要 gcc 
+The following extra packages will be installed:
+  binutils gcc-4.4 libc-dev-bin libc6-dev libgomp1 linux-libc-dev manpages manpages-dev
+Suggested packages:
+  binutils-doc gcc-multilib autoconf automake1.9 libtool flex bison gdb gcc-doc gcc-4.4-multilib libmudflap0-4.4-dev
+  gcc-4.4-doc gcc-4.4-locales libgcc1-dbg libgomp1-dbg libmudflap0-dbg libcloog-ppl0 libppl-c2 libppl7 glibc-doc
+The following NEW packages will be installed:
+  binutils gcc gcc-4.4 libc-dev-bin libc6-dev libgomp1 linux-libc-dev manpages manpages-dev
+0 upgraded, 9 newly installed, 0 to remove and 3 not upgraded.
+
+- phpfastcgi 
+- mysql
+    - apt install
+    - root pass: 5t4r3e2w1q
+- redis,mongoDB (好吧，备用的)
+
+SCM
+- gitosis,使用Git吧，自己Host代码
+- redmine 或 trac？我推荐前者，但后者体验一下也无妨。嘿。
+
+
+</t>
+<t tx="zoomq.20111110211135.6344">帐号和安全
+- 给机器起个有爱的名字
+    Aoi Sora
+    
+- 创建两个常用管理员用户，zoomquiet,jeff，加入Sudoer列表。
+root@li388-65:~# useradd -c "Jeff as SA" -G root,sudo --password 5t4r3e2w1q -s /bin/bash jeff
+root@li388-65:~# useradd -c "Zoom.Quiet as SA" -G root,sudo --password P@55w02d -s /bin/bash zoomq
+    
+- 禁止Root登录，禁止密码登录，好了再问我要public_key。这是linode的潜规则，启用密码登录者总会被暴。
+/etc/sudoers
+%sudo ALL=(ALL) NOPASSWD:ALL
+# mkdir -p /home/jeff/.ssh
+# chown -R jeff:jeff /home/jeff
+$ ssh-copy-id 106.187.45.65
+/etc/ssh/sshd_config
+
+Port 9022
+PubkeyAuthentication yes    #运行使用公钥登录系统
+PasswordAuthentication no   #禁止使用用户名和密码登录系统
+PermitRootLogin no          #禁止使用root 用户登录
+
+zoomq @ zq4wk1ubuntu in ~ 
+$ ssh jeff@106.187.45.65
+Permission denied (publickey).
+
+zoomq @ zq4wk1ubuntu in ~ 
+$ ssh root@106.187.45.65
+Permission denied (publickey).
+
+
+- 其他大妈能想到的。
+apt-&gt;setuptools-&gt;pip-&gt;mercurial 失败
+apt-&gt;mercurial;git;gitweb;
+
+各种环境，及Server
+- python2.6,VirtualEnv
+- nginx，最新稳定版
+- uwsgi，跑python应用
+- phpfastcgi 
+- mysql
+- redis,mongoDB (好吧，备用的)
+
+SCM
+- gitosis,使用Git吧，自己Host代码
+- redmine 或 trac？我推荐前者，但后者体验一下也无妨。嘿。
+
+
+</t>
+<t tx="zoomq.20111111090027.11954">列表
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+列表是Python中最接近数组的对象，但是它拥有一些技巧，是在C或是Pascal中的数组无法实现的.
+列表是一个有序序列，任何元素可以包含或是被替换成不同的对象.
+新元素添加到一个列表使用其append方法（还有一个 pop 方法，这意味着列表可以当成堆栈或是队列来用），
+列表的内容可以就地被排序.
+列表中的每个元素实际上是一个对象引用，就象一个数字数据变量名称是作为对一个对象的数字数据的引用.
+事实上，列表可以包含任何有效的Python对象的引用. 考虑以下代码::
+
+    &gt;&gt;&gt; import random
+    &gt;&gt;&gt; alist = []
+    &gt;&gt;&gt; alist.append(4)
+    &gt;&gt;&gt; alist.append(55.89)
+    &gt;&gt;&gt; alist.append('a short string')
+    &gt;&gt;&gt; alist.append(random.random)
+
+
+现在 alist 包含四个元素，一个整数，一个浮点数，一个字符串，一个Python的随机数模块的方法，
+足够演示了，（我们将在import语句后更详细的讨论随机模块）.
+现在我们可以检查 alist 的每个成员元素::
+
+    &gt;&gt;&gt; alist[0]
+    4
+    &gt;&gt;&gt; alist[1]
+    55.890000000000001
+    &gt;&gt;&gt; alist[2]
+    'a short string'
+    &gt;&gt;&gt; alist[3]
+    &lt;built-in method random of Random object at 0x00A29D28&gt;
+
+
+如果我们想要一个随机数，仅需要调用alist[3](),即 random()::
+
+    &gt;&gt;&gt; alist[3]()
+    0.87358651337544713
+
+
+我们可以对 alist 中的元素简单的进行赋值来变更::
+
+    &gt;&gt;&gt; alist[2]
+    'a short string'
+    &gt;&gt;&gt; alist[2] = 'a better string'
+    &gt;&gt;&gt; alist[2]
+    'a better string'
+
+
+插图  3.2, “列表对象的内部组织” 展示了在 alist 中发生了什么.
+
+.. image:: ../_static/figs/rwip_0302.pdf.png
+
+插图 3.2. “列表对象的内部组织”
+
+我们可以用一个列表对象来体验Python的面向对象的基本性质,尝试在Python提示符中输入以下命令，并观察结果::
+
+    &gt;&gt;&gt; list_name = []
+    &gt;&gt;&gt; list_name.append(0)
+    &gt;&gt;&gt; list_name.append(1)
+    &gt;&gt;&gt; list_name
+    [0, 1]
+    &gt;&gt;&gt; var_one = list_name
+    &gt;&gt;&gt; var_two = list_name
+    &gt;&gt;&gt; var_one
+    [0, 1]
+    &gt;&gt;&gt; var_two
+    [0, 1]
+    &gt;&gt;&gt; list_name[0] = 9
+    &gt;&gt;&gt; var_one
+    [9, 1]
+    &gt;&gt;&gt; var_two
+    [9, 1]
+
+由于名称 var_one和var_two 都指向最初列表对象,即绑定为名称 list_name的列表，
+那么当list_name改变后，其内容变化其他变量名都是能“看到”的.
+
+正如其它Python 中的对象,列表也有一系列方法.
+除前述的索引方法外还有很多.列表可以依次头尾连接在一起像这样::
+
+    &gt;&gt;&gt; alist1 = [1,2,3,4,5]
+    &gt;&gt;&gt; alist2 = [6,7,8,9,10]
+    &gt;&gt;&gt; alist1 + alist2
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+
+查找列表中指定偏移量的项，可以用 index() 方法::
+
+    &gt;&gt;&gt; alist2.index(8)
+    2
+
+
+我们也可以反转列表::
+
+    &gt;&gt;&gt; alist1.reverse()
+    &gt;&gt;&gt; alist1
+    [5, 4, 3, 2, 1]
+
+同样能排序列表::
+
+    &gt;&gt;&gt; slist = [8,22,0,5,16,99,14,-6,42,66]
+    &gt;&gt;&gt; slist.sort()
+    &gt;&gt;&gt; slist
+    [-6, 0, 5, 8, 14, 16, 22, 42, 66, 99]
+
+
+以上两个例子美妙之处在于是"就地"修订的.
+一个新的对象不是创建出来的,而是列表本身直接反转或是排序了.
+即,列表是可变的.
+</t>
+<t tx="zoomq.20111111090027.11955">字串
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+字符串是有序的字节值的字符序列.
+字符串是不可改变的（不像在C或C++），意思是无法象对待数组一样使用索引来修订内容.
+为了修改一个字符串，必须创建一个新的字符串对象.
+不过类似列表，字符串的内容能够通过其索引引用.
+
+
+这有几个字串的例子::
+
+    &gt;&gt;&gt; astr1 = 'This is a short string.'
+    &gt;&gt;&gt; astr2 = "This is another short string."
+    &gt;&gt;&gt; astr3 = "This string has 'embedded' single-quote chracters."
+    &gt;&gt;&gt; astr4 = """This is an example
+    ... of a multi-line
+    ... string.
+    ... """
+    &gt;&gt;&gt;
+
+虽然不能使用一个索引值改变一个字符串的内容，
+但是字串数据可以使用索引来读取，Python提供的能力来提取字符串中的特定部分
+（或称为“切片“）.
+其结果是一个新的字符串对象.
+如下代码将读取字符串变量astr1前四个字符，从第零位到第四位(不包含第5个字符)::
+
+    &gt;&gt;&gt; print astr1[0:4]
+    This
+
+我们也可以不写起始范围值0，Python会自动假定::
+
+    &gt;&gt;&gt; print astr1[:4]
+    This
+
+这种形式告诉Python提取字符串从开始到第四位的所有字符.
+我们还可以摄取从第四位到行尾::
+
+    &gt;&gt;&gt; print astr1[4:]
+    is a short string.
+
+
+或是获取中间部分::
+    &gt;&gt;&gt; print astr1[10:15]
+    short
+
+
+插图 3.3, “字串索引” 展示了Python 中索引怎么工作的
+
+.. image:: ../_static/figs/rwip_0303.pdf.png
+
+插图 3.3, “字串索引”
+
+字串对象还包含了一系列方法，如大写,定心，统计等等,基本上都返回一个新的字符串对象.
+
+类似列表,使用 + 运算符来连结::
+
+    &gt;&gt;&gt; str_cat = astr1 + " " + astr2
+    &gt;&gt;&gt; print str_cat
+    This is a short string. This is another short string.
+
+
+其结果正如所期望的现在得到一个新的字符串对象.
+幸运的是，Python采用垃圾收集机制，当对象不再绑定到一个名字时，将悄悄地消失，
+原先所用内存将返回到共享池以待再用.
+这是一件好事，否则内存会迅速被废弃数据对象填满::
+
+    &gt;&gt;&gt; the_string = "This is the string."
+    &gt;&gt;&gt; the_string = the_string[0:4]
+    &gt;&gt;&gt; the_string
+    'This'
+
+在这种情况下，最初的名称the_string绑定的对象，内容是：“This is the string.“
+当一个字串对象的初始部分被拉出，一个新的对象被创建并这个名字重新分配给它.
+原来的对象没有绑定后就回收.
+然而，如果一个对象有两个或多个名称共享，只要还有名称在绑定,就不会被回收.
+这样在程序生命期间对象总是可以使用.
+
+字符串有方法允许你到左或右对齐字符串，替换字符串中的一个字，或转换为字符串中的字符的大小写.
+下面是一些例子:
+
+upper() 方法,转换所有字符为大写::
+
+    &gt;&gt;&gt; print astr1.upper()
+    THIS IS A SHORT STRING.
+
+
+find() 返回第一次匹配搜索模式的字串索引::
+
+    &gt;&gt;&gt; print astr1.find('string')
+    16
+
+replace() 方法根据搜索模式生成完成替换后的新字串::
+
+    &gt;&gt;&gt; print astr1.replace('string', 'line')
+    This is a short line.
+
+rjust() 方法
+（及其对应的，ljust（））将一个字串重整为指定宽度的新字串::
+
+    &gt;&gt;&gt; print astr1.rjust(30)
+    This is a short string.
+
+默认的填充字符是空格,但是可以在第二参数中指定一个特殊字符作为填充::
+
+    &gt;&gt;&gt; print astr1.rjust(30,'.')
+    .......This is a short string.
+
+在Python 指示符环境中,可以通过输入help(str)获知所有字串支持的操作
+</t>
+<t tx="zoomq.20111111090027.11956">元组 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+元组是一种有趣的数据对象.
+类似列表它是一个有序集可以包含零个或多个项目，但它是不可改变的.
+元组一旦创建就不能直接修改.
+元组通常由所包含的项目数来提及.
+例如，一个2元组，如您所料，包含两个数据对象.
+一个对任何规模的元组都适用的速记法是“n元组”
+Python 中"0元组"是允许的，虽然不怎么有趣和有用，但也许可以作为一个占位符.
+
+
+Python中列表用方括号作分界符，元组使用括号::
+
+    &gt;&gt;&gt; tuple2 = (1,2)
+    &gt;&gt;&gt; tuple2
+    (1, 2)
+
+元组的内容可以通过索引读取,这点和列表和字串相同::
+
+    &gt;&gt;&gt; tuple4 = (9, 22.5, 0x16, 0)
+    &gt;&gt;&gt; tuple4
+    (9, 22.5, 22, 0)
+    &gt;&gt;&gt; tuple4[2]
+    22
+    &gt;&gt;&gt; tuple4[0]
+    9
+
+
+类似列表和字串,元组可以合并(通过创建了新元组)::
+
+    &gt;&gt;&gt; tuple2
+    (1, 2)
+    &gt;&gt;&gt; tuple4
+    (9, 22.5, 22, 0)
+    &gt;&gt;&gt; tuple6 = tuple2 + tuple4
+    &gt;&gt;&gt; tuple6
+    (1, 2, 9, 22.5, 22, 0)
+
+如上,可见我们创建了一个新元组.
+
+一个元组不能进行排序，但它可以被统计在内。
+想了解元组包含多少特定值对象时，我们可以使用count（）方法::
+
+    &gt;&gt;&gt; tpl = (0, 0, 2, 2, 6, 0, 3, 2, 1, 0)
+    &gt;&gt;&gt; tpl.count(0)
+    4
+    &gt;&gt;&gt; tpl.count(2)
+    3
+    &gt;&gt;&gt; tpl.count(6)
+    1
+
+因为元组的每个内容项实际上是对象的引用，所以元组可以包含任意组合的有效Python对象,这点和列表相同.
+
+
+</t>
+<t tx="zoomq.20111125085606.5232">----
+Installed Go for linux/amd64 in /opt/_src/go.
+Installed commands in /opt/_src/go/bin.
+*** You need to add /opt/_src/go/bin to your $PATH. ***
+The compiler is 6g.
+
+</t>
+<t tx="zoomq.20111130170058.3742">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+&lt;&lt;changelog&gt;&gt;
+VERSION = "vancl-uri2karait.py v11.11.30"
+
+&lt;&lt;imports&gt;&gt;
+
+@others
+
+if __name__ == "__main__":
+    if 3 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/vancl-uri2karait.py host port 
+                 |                   |    +- 端口
+                 |                   +- 主机
+                 +- 指向脚本自身
+e.g:
+$ python vancl-uri2karai.py proxy7f 9007
+        """ % VERSION
+    else:
+        RHOST = sys.argv[1]
+        RPORT = sys.argv[2]
+        #CCFG.LOG.info("usage redis as:%s:%s db %s"% (RHOST, RPORT, RDB))
+        loadalluri(RHOST, RPORT)
+
+</t>
+<t tx="zoomq.20111130170058.3743">'''vancl 's doc's uri as task flush into MQ:
+    - 单进单线,批量刷新所有独立产品uri 到 Karait 创建的 Mongo 仓库中,形成任务队列
+依赖:
+    + Karait
+    + fadpop.common.fadutil
+'''
+</t>
+<t tx="zoomq.20111130170058.3744">#import os
+import sys
+import time
+#import fnmatch
+#from copy import deepcopy as copy
+#import subprocess
+import traceback
+#import logging
+#import hashlib
+
+#import Image
+#import redis
+from karait import Message, Queue
+
+#import PyMongo
+#from pymongo import Connection
+#from pymongo import errors as ERR
+#import gridfs
+#from mongolog.handlers import MongoHandler
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG
+
+</t>
+<t tx="zoomq.20111130170058.3745">def loadalluri(rhost, rport):
+    queue = Queue(
+        host=rhost, # MongoDB host. Defaults to localhost.
+        port=int(rport), # MongoDB port. Defaults to 27017.
+        database='karait', # Database that will store the karait queue. Defaults to karait.
+        queue='messages', # The capped collection that karait writes to. Defaults to messages.
+        average_message_size=1024, # How big do you expect the messages will be in bytes? Defaults to 8192.
+        queue_size=102400 # How many messages should be allowed in the queue. Defaults to 4096.
+    )
+    msg_written = 1
+    start = time.time()
+    for goods in CCFG.FAD.find(fields={'_id':0, 'sid':1}):
+        #print goods
+        if 0 == CCFG.CONNFAD['karait']['messages'].find({'name':goods['sid']}).count():
+            try:
+                queue.write({'sid': goods['sid']
+                    ,'sender': VERSION
+                    ,'msg_written': msg_written
+                    ,'msg_written_per_ms': "%.5f"% ((time.time() - start)*1000/msg_written)
+        
+                }, routing_key='for_vancl')
+            except:
+                print "loadalluri() BROKENNN!\n\t", traceback.print_exc()
+                continue
+            msg_written += 1
+    
+    print "karait.messages count=", CCFG.CONNFAD['karait']['messages'].count()
+    
+
+
+</t>
+<t tx="zoomq.20111201085740.3772">@language python
+@tabwidth -4
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+&lt;&lt;changelog&gt;&gt;
+VERSION = "vancl-up-info.py v11.10.13"
+
+&lt;&lt;imports&gt;&gt;
+TPL4URI = "http://item.vancl.com/%s.html"
+TPL4IMG = "http://item.vancl.com/Styles/BigImg.mvc?ProductCode=%s"
+GRASPJS = '/data/apps/fadpop/spider/graspage.js'
+PHANTOMJS = "/usr/local/bin/phantomjs"
+
+@others
+
+if __name__ == "__main__":
+    if 4 != len(sys.argv):
+        print """ %s usage::
+$ python /path/2/vancl-uri-flush.py host port db
+                 |                   |    |    +- db序号
+                 |                   |    +- 端口
+                 |                   +- 主机
+                 +- 指向脚本自身
+e.g:
+$ python vancl-up-info.py py.kingsoft.net 9079 0
+$ python vancl-up-info.py 127.0.0.1 6379 0
+        """ % VERSION
+    else:
+        RHOST = sys.argv[1]
+        RPORT = sys.argv[2]
+        RDB = sys.argv[3]
+        #CCFG.LOG.info("usage redis as:%s:%s db %s"% (RHOST, RPORT, RDB))
+        upgradbyuri(RHOST, RPORT, RDB)
+
+</t>
+<t tx="zoomq.20111201085740.3773">'''vancl 's doc's all info upgrade:
+    - 单进单线,从MQ 中逐一获取URI 进行文档更新
+
+依赖:
+    + Karait
+    + fadpop.common.fadutil
+'''
+
+</t>
+<t tx="zoomq.20111201085740.3774">import os
+import sys
+import time
+#import fnmatch
+from copy import deepcopy as copy
+#import subprocess
+import traceback
+#import logging
+import hashlib
+import urllib2
+#import Image
+import redis
+
+from pyquery import PyQuery as pq
+
+# import fadpop as mod for common
+sys.path.append('/data/apps/')
+#print sys.path.__repr__()
+from fadpop.common.fadutil import CCFG, _up4img2gfs, __popen
+
+
+
+
+</t>
+<t tx="zoomq.20111201085740.3775">def upgradbyuri(rhost, rport, rdbid):
+    '''利用双 set 进行队列任务管理,逐一将有效产品uri 进行自动抓取和内容更新
+    tstamp = ('%.3f'% time.time()).replace(".",'')
+    rd.zadd('working',score=tstamp,value='0127358')
+    rd.zremrangebyscore('working',0,'1318405618802')
+    In [124]: if rd.zrank('working','0127349'): print 1
+    .....: else: print 0
+    rd.zremrangebyscore('working','-inf','1318406572643')
+    '''
+    rdb = redis.Redis(host=rhost, port=int(rport), db=int(rdbid))
+    loop = 0
+    #while 2 &gt; loop:
+    while 1:
+        #loop += 1
+        sid = rdb.srandmember('vcsid')
+        if sid:
+            #if rdb.sismember('working', sid):
+            if rdb.zrank('working', sid):
+                # other processes working...
+                print "other processes working %s"% sid
+                continue
+            else:
+                #rdb.sadd('working', sid)
+                tstamp = ('%.3f'% time.time()).replace(".",'')
+                rdb.zadd('working', sid, tstamp)
+                @others
+                rdb.zrem('working', sid)
+                rdb.srem('vcsid', sid)
+        else:
+            break
+    print "Set:uri", rdb.scard('vcsid')
+    print "Set:working", rdb.zcard('working')
+    '''
+r.set('uri','http://1.1.4')
+In [52]: r.sadd('uri','http://1.1.4')
+Out[52]: False
+r.sismember('uri','http://1.1.4')
+r.scard('uri')
+r.spop('uri')
+In [58]: r.srandmember('uri')
+Out[58]: 'http://1.1.4'
+
+    '''
+
+
+</t>
+<t tx="zoomq.20111201085740.3776">print "up htm BASE: %s"% (TPL4URI%sid)
+qhtm = pq(urllib2.urlopen(TPL4URI% sid).read(),parser='html')
+_updateitem(qhtm, sid)
+print "dl pic BASE: %s"% (TPL4IMG% sid)
+qhtm = pq(urllib2.urlopen(TPL4IMG% sid).read(), parser='html')
+pagepics = _anabigpicnames(qhtm, sid)
+#   print hashlib.sha224(TPL4IMG% sid).hexdigest()
+_loadpics(pagepics)
+
+#   urllib2.urlopen(TPL4IMG% sid).read()
+#print "up shine BASE: %s"% (TPL4URI%sid)
+#SNAPJS = '%s %s %s'% (PHANTOMJS, GRASPJS, TPL4URI% sid)
+#print SNAPJS
+#liserr, strerr, lisout, strout = __popen(SNAPJS)
+#   print strout
+#_up_shining(strout, sid)
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20111201085740.3777">def _up_shining(jsout, sid):
+    fotoinfo = CCFG.DOC_FOTO.copy()
+    tmproot = CCFG.SHM
+
+    &lt;&lt;晒单更新&gt;&gt;
+
+    &lt;&lt;详细图片&gt;&gt;
+
+
+
+
+</t>
+<t tx="zoomq.20111201085740.3778"># for shinning goods;
+shinning = {}
+shinning['bask'] = []
+
+htm = pq(jsout, parser='html')
+
+for bask in htm('.bask-div-left').find('a'):
+    print 'http:%s'% bask.get('href')
+    shinr = 'http:%s'% bask.get('href')
+    basks = {}
+    basks['uri'] = shinr
+    ex = pq(url=shinr)
+    basks['name'] = ex('.other_zhankai').text().split()[1]
+    basks['title'] = ex('.show_title').attr('title')
+    desc = ex('.dapei_xiangqing').find('p').text()
+    if None == desc:
+        desc = ""
+    basks['cont'] = desc
+    basks['foto'] = []
+    for img in ex('.jcarousel-skin-slide').find('img'):
+        small = img.get('src')
+        fotoname = __urlopen_load_img(fotoinfo, 'thumb', small)
+        if fotoname:
+            basks['foto'].append(fotoname)
+
+        norma = img.get('ref')
+        fotoname = __urlopen_load_img(fotoinfo, 'mid', norma)
+        if fotoname:
+            basks['foto'].append(fotoname)
+
+    #print basks
+    shinning['bask'].append(basks)
+shinning['total'] = len(shinning['bask'])
+#print shinning
+CCFG.FAD.update({'sid':sid}, {"$set":{'comments.shiner':shinning}})
+
+
+</t>
+<t tx="zoomq.20111201085740.3779"># for exp. goods foto load;
+attrs_fotos = CCFG.FAD.find_one({'sid':sid}, {'_id':0, 'attrs.fotos':1})
+attrs_fotos_uri = []
+for foto in attrs_fotos['attrs']['fotos']:
+    gfsuri = CCFG.FSFILE.find({'filename':foto}, {'_id':0, 'uri':1})[0]
+    attrs_fotos_uri.append(gfsuri['uri'])
+
+for img in htm.find('img'):
+    expic = img.get('original')
+    if None == expic:
+        pass
+    else:
+        if expic in attrs_fotos_uri:
+            pass
+        else:
+            print expic
+            fotoname = __urlopen_load_img(fotoinfo, 'big', expic)
+            if fotoname:
+                attrs_fotos['attrs']['fotos'].append(fotoname)
+
+CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':attrs_fotos['attrs']['fotos']}})
+
+
+</t>
+<t tx="zoomq.20111201085740.3780">def __urlopen_load_img(fotoinfo, showas, uri):
+    fotoinfo['uri'] = uri
+    fotoinfo['imgtype'] = uri.split('.')[-1]
+    if "?t=" in fotoinfo['imgtype']:
+        fotoinfo['imgtype'] = fotoinfo['imgtype'].split('?')[:1]
+    fotoinfo['showas'] = showas
+
+    tmproot = CCFG.SHM
+    tmpname = hashlib.sha224(fotoinfo['uri']).hexdigest()
+    imgtype = fotoinfo['imgtype']
+    tmpic = "%(tmproot)s/%(tmpname)s.%(imgtype)s"% locals()
+    try:
+        open(tmpic,'wb').write(urllib2.urlopen(fotoinfo['uri']).read())
+        print "%s&gt;&gt;\t"% showas, tmpic
+
+        fotoname = _up4img2gfs(tmpic, fotoinfo)
+        os.remove(tmpic)
+
+        return fotoname
+    except:
+        print "__urlopen_load_img() BROKENNN!\n\t", traceback.print_exc()
+        return None
+
+
+
+</t>
+<t tx="zoomq.20111201085740.3781">def _loadpics(pagepics):
+    '''base dict info,download pic into. CCFG.SHM as tmp files and push into GridFS
+    '''
+    total = 0
+    tmproot = CCFG.SHM
+    for sid in pagepics.keys():
+        try:
+            for foto in pagepics[sid]:
+                dirurl = "/".join(sid[:3])
+                asize = CCFG.FOTO_SIZE[foto['showas']]  # 翻译TMD实际目录
+                filename = foto['filename']
+                imgtype = foto['imgtype']
+                tmpname = hashlib.sha224(TPL4IMG% sid).hexdigest()
+                realpic = "%(tmproot)s/%(tmpname)s.%(imgtype)s"% locals()
+                #print sid, foto['uri'], realpic
+                open(realpic,'wb').write(urllib2.urlopen(foto['uri']).read())
+                @others
+                os.remove(realpic)
+                total += 1
+        except :
+            print "loadpics(pkl,pathpic) BROKENNN!\n\t", traceback.print_exc()
+            #sys.exit(1)
+            continue
+        print "\n\t &gt;&gt;&gt; %s fotos loaded !&lt;&lt;&lt;\n"% total
+</t>
+<t tx="zoomq.20111201085740.3782">try:
+    this_item = CCFG.FAD.find({'sid':sid})
+    fotoid =  _up4img2gfs(realpic, foto)
+    if fotoid:
+        fotos = this_item[0]['attrs']['fotos']
+        if fotoid in fotos:
+            print fotoid, "\t atta.ed inthe sid::", sid
+            pass
+        else:
+            fotos.append(fotoid)
+            CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.fotos':fotos}})
+    else:
+        # wget is not completed!
+        continue
+except :
+    print "_loadpics() BROKENNN!\n\t", traceback.print_exc()
+    #sys.exit(1)
+    continue
+
+
+</t>
+<t tx="zoomq.20111201085740.3783">def _updateitem(htm, sid):
+    if htm('#saleout').attr('href'):
+        # 已售罄
+        &lt;&lt;放空价格&gt;&gt;
+    else:
+        &lt;&lt;价格抓取&gt;&gt;
+
+    &lt;&lt;bread_nav&gt;&gt;
+    &lt;&lt;attrs_wash&gt;&gt;
+    &lt;&lt;attrs_color&gt;&gt;
+    &lt;&lt;comments_unit&gt;&gt;
+    &lt;&lt;comments_size&gt;&gt;
+    &lt;&lt;comments_feel&gt;&gt;
+    &lt;&lt;comments_taker_comment&gt;&gt;
+
+    CCFG.FAD.update({'sid':sid}, {"$set":{'attrs.class':bread_nav
+                , 'attrs.wash':attrs_wash
+                , 'attrs.color':attrs_color
+                , 'comments.unit':comments_unit
+                , 'comments.noma':comments_noma
+                , 'comments.bask':comments_bask
+                , 'comments.size':comments_size
+                , 'comments.feel':comments_feel
+                , 'comments.taker.total':comments_taker_total
+                , 'comments.taker.totalask':comments_taker_totalask
+                , 'comments.taker.comment':comments_taker_comment
+                , 'comments.taker.ask':comments_taker_ask
+                }
+            }
+        )
+
+</t>
+<t tx="zoomq.20111201085740.3784">prix = "saleout"
+CCFG.FAD.update({'sid':sid}, {"$set":{'prix':prix}})
+
+
+</t>
+<t tx="zoomq.20111201085740.3785">prix_agio = htm('.MSpriceArea').find('strong').text()
+prix_vip = htm('.cuxiaoPrice').find('strong').text()
+prix_vip += ","
+prix_vip += ",".join([vip_rice.text_content() for vip_rice in htm('.vipPrice').find('span')[1:]])
+CCFG.FAD.update({'sid':sid}, {"$set":{'agio':prix_agio, 'vip':prix_vip}})
+</t>
+<t tx="zoomq.20111201085740.3786">bread_nav = []
+for bread in htm('.breadNav').find('a'):
+    bread_nav.append(bread.get('title'))
+
+
+</t>
+<t tx="zoomq.20111201085740.3787">attrs_wash = {}
+for attricon in htm('.attricon'):
+    icon = attricon.find('img')
+    iconkey = icon.get('src').split("/")[-1].split(".")[0]
+    attrs_wash[iconkey] = icon.get('alt')
+</t>
+<t tx="zoomq.20111201085740.3788">attrs_color_id = []
+for color in htm('.selColor').find('li'):
+    if color.get('name'):
+        sid_color = color.get('name').split("&amp;")[0].split("=")[1]
+        if sid == sid_color:
+            pass
+        else:
+            attrs_color_id.append(sid_color) 
+attrs_color = []
+for relsid in attrs_color_id:
+    cursor_item = CCFG.FAD.find({'sid':relsid})
+    if 0 &lt; cursor_item.count():
+        # NULL relation collors
+        attrs_color.append(cursor_item[0]["_id"])
+
+</t>
+<t tx="zoomq.20111201085740.3789">try:
+    pingfen = htm('.pingfen').find('li').text().split()
+    comments_unit = pingfen[:6]
+    comments_noma = pingfen[6:-6]
+    comments_bask = pingfen[-6:]
+except:
+    print "还没有人打分!\n\t", traceback.print_exc()
+    comments_unit = ""
+    comments_noma = ""
+    comments_bask = ""
+</t>
+<t tx="zoomq.20111201085740.3790">comments_size = htm('.sizePingjia').find('li').text()
+</t>
+<t tx="zoomq.20111201085740.3791">comments_feel =  htm('.voteArea').find('p').text()
+
+</t>
+<t tx="zoomq.20111201085740.3792">for tabmenu in htm('.RsetTabMenu').find('li'):
+    if "item-buyfeedback" == tabmenu.get('name'):
+        comments_taker_total = tabmenu.text_content().split("(")[1][:-1]
+    if "item-quiz" == tabmenu.get('name'):
+        comments_taker_totalask = tabmenu.text_content().split("(")[1][:-1]
+
+&lt;&lt;comments_taker_ask&gt;&gt;
+&lt;&lt;comments_taker_comm&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20111201085740.3793">comments_taker_comment = []
+for urcomment in htm('#styleAssesseslist').find('div'):
+    askuser = urcomment.find_class('area2Head')
+    if len(askuser) &gt; 0:
+        comments_taker_comment_name = askuser[0].find_class('area2HeadCenter')[0].text_content().strip()[3:]
+        comments_taker_comment_title = askuser[0].find_class('area2HeadLeft')[0].text_content().strip()
+        comments_taker_comment_date = askuser[0].find_class('area2HeadRight')[0].text_content().strip()
+    askcnt = urcomment.find_class('area2ConP')
+    if len(askcnt) &gt; 0:
+        comments_taker_comment_cont = askcnt[0].text_content().strip()
+    else:
+        comments_taker_comment_cont = ''
+
+    askhold = urcomment.find_class('selCS')
+    if len(askhold) &gt; 0:
+        userhold = "".join(askhold[0].text_content().replace('\r','').split("\n")[2:])
+    else:
+        userhold = ""
+
+    comments_taker_comment.append({'data':comments_taker_comment_date
+            , 'name':comments_taker_comment_name
+            , 'title':comments_taker_comment_title
+            , 'issue':comments_taker_comment_cont 
+            , 'userhold':userhold
+            }
+        )
+</t>
+<t tx="zoomq.20111201085740.3794">comments_taker_ask = []
+for question in htm('#stylequestionslist').find('.area3Con'):
+    userq = question.findall('div')[:2]
+    userqa = userq[0].text_content().replace('\r','').strip().split("\n")
+    comments_taker_ask_name = userqa[0].strip()
+    comments_taker_ask_title = userqa[1].strip()[2:]
+    comments_taker_ask_date = userqa[-1].strip()
+    comments_taker_ask_issue = userq[1].text_content().strip()
+    comments_taker_ask_reply = question.find_class('adminAsk')[0].text_content().strip()
+    comments_taker_ask.append({'data':comments_taker_ask_date
+            , 'name':comments_taker_ask_name
+            , 'title':comments_taker_ask_title
+            , 'issue':comments_taker_ask_issue 
+            , 'reply':comments_taker_ask_reply
+            }
+        )
+
+</t>
+<t tx="zoomq.20111201085740.3795">def _anabigpicnames(pathml, sid):
+    dirurl = "/".join(sid[:3])
+    d = pathml
+    ibgpics = {}
+    ibgpics[sid] = []
+    @others
+    return ibgpics
+    #output = open('110713_nvzhuang_all_bigpic.pkl', 'wb')
+    #pickle.dump(ibgpics, output)
+    #output.close
+
+</t>
+<t tx="zoomq.20111201085740.3796">foto = d('#large').find('img').attr('src').split("/")[-1]
+print CCFG.TPL_VANCL_BFOTO % locals()
+#print CCFG.TPL_VANCL_MFOTO % locals()
+#print CCFG.TPL_VANCL_SFOTO % locals()
+bfoto_big = {                # 图片
+        "uri":CCFG.TPL_VANCL_BFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"big"       # thumb|mid|big
+        , "asmain":True    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(bfoto_big)
+sfoto_big = {                # 图片
+        "uri":CCFG.TPL_VANCL_MFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"thumb"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(sfoto_big)
+mfoto_big = {                # 图片
+        "uri":CCFG.TPL_VANCL_SFOTO % locals()           # URI
+        , "filename":foto.split(".")[0]     # 文件名
+        , "imgtype":foto.split(".")[1]      # gif jpg png ...
+        , "showas":"mid"       # thumb|mid|big
+        , "asmain":False    # true|flase 标识是否作为题头图
+        , "size":[]         # 图片尺寸 长，宽
+        , "atta":""         # 附加信息
+}
+ibgpics[sid].append(mfoto_big)
+</t>
+<t tx="zoomq.20111201085740.3797">for foto in d('#thumbnail').find('img'):
+    #print foto.get('src').split("/")[-1]   #.base_url()
+    foto = foto.get('src').split("/")[-1]
+    print CCFG.TPL_VANCL_BFOTO % locals()
+    #print CCFG.TPL_VANCL_MFOTO % locals()
+    #print CCFG.TPL_VANCL_SFOTO % locals()
+    bfoto_big = {                # 图片
+            "uri":CCFG.TPL_VANCL_BFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"big"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(bfoto_big)
+    sfoto_big = {                # 图片
+            "uri":CCFG.TPL_VANCL_MFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"thumb"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(sfoto_big)
+    mfoto_big = {                # 图片
+            "uri":CCFG.TPL_VANCL_SFOTO % locals()           # URI
+            , "filename":foto.split(".")[0]     # 文件名
+            , "imgtype":foto.split(".")[1]      # gif jpg png ...
+            , "showas":"mid"       # thumb|mid|big
+            , "asmain":False    # true|flase 标识是否作为题头图
+            , "size":[]         # 图片尺寸 长，宽
+            , "atta":""         # 附加信息
+    }
+    ibgpics[sid].append(mfoto_big)
+
+
+</t>
+<t tx="zoomq.20111201085740.5303">class KillThread(threading.Thread):
+    """A subclass of threading.Thread, with a kill()method.
+    Come from:  Kill a thread in Python: 
+    http://mail.python.org/pipermail/python-list/2004-May/260937.html
+    """
+    def __init__(self, *args, **kwargs):
+        threading.Thread.__init__(self, *args, **kwargs)
+        self.killed = False
+
+    def start(self):
+        """Start the thread."""
+        self.__run_backup = self.run
+        self.run = self.__run      # Force the Thread to install our trace.
+        threading.Thread.start(self)
+
+    def __run(self):
+        """Hacked run function, which installs the
+        trace."""
+        sys.settrace(self.globaltrace)
+        self.__run_backup()
+        self.run = self.__run_backup
+
+    def globaltrace(self, frame, why, arg):
+        if why == 'call':
+          return self.localtrace
+        else:
+          return None
+
+    def localtrace(self, frame, why, arg):
+        if self.killed:
+          if why == 'line':
+            raise SystemExit()
+        return self.localtrace
+
+    def kill(self):
+        self.killed = True</t>
+<t tx="zoomq.20111201085740.5304">class Timeout(Exception):
+    """function run timeout"""
+    
+def timeout(seconds):
+    """超时装饰器，指定超时时间
+    若被装饰的方法在指定的时间内未返回，则抛出Timeout异常
+    base: http://www.cnblogs.com/fengmk2/archive/2008/08/30/python_tips_timeout_decorator.html
+    """
+    def timeout_decorator(func):
+        """真正的装饰器"""
+        
+        def _new_func(oldfunc, result, oldfunc_args, oldfunc_kwargs):
+            result.append(oldfunc(*oldfunc_args, **oldfunc_kwargs))
+        
+        def _(*args, **kwargs):
+            result = []
+            # create new args for _new_func, because we want to get the func return val to result list
+            new_kwargs = { 
+                'oldfunc': func,
+                'result': result,
+                'oldfunc_args': args,
+                'oldfunc_kwargs': kwargs
+            }
+            thd = KillThread(target=_new_func, args=(), kwargs=new_kwargs)
+            thd.start()
+            thd.join(seconds)
+            alive = thd.isAlive()
+            thd.kill() # kill the child thread
+            if alive:
+                raise Timeout(u'function run too long, timeout %d seconds.' % seconds)
+            else:
+                return result[0]
+        _.__name__ = func.__name__
+        _.__doc__ = func.__doc__
+        return _
+    return timeout_decorator</t>
+<t tx="zoomq.20111201085740.5306">@timeout(13)
+def __download_img(tempic,uri):
+    open(tempic,'wb').write(urllib2.urlopen(uri).read())
+    #print "%s&gt;&gt;\t"% tempic
+    return None
+
+
+</t>
+<t tx="zoomq.20111207090549.3805">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+111101,4.50,1.75,0.50,7.00,4.50,7.00    5, 1, 4, 5
+111102,5.75,2.00,1.00,1.50,4.00,6.00    5, 1, 3, 5
+111103,1.00,3.75,7.25,4.00,1.00,7.00    5, 1, 3, 6
+111104,1.50,4.25,2.00,7.00,6.00,7.00    5, 1, 3, 5
+111107,0.00,3.00,1.50,6.50,5.00,6.00    5, 2, 2, 6
+111108,2.50,4.00,2.00,4.00,4.00,7.00    5, 1, 3, 6
+111110,3.50,4.00,0.75,5.00,4.50,7.00    5, 3, 2, 3
+111111,1.25,4.75,0.50,6.00,4.75,6.50    6, 3, 2, 3
+111114,1.50,4.25,0.00,5.25,4.00,6.00    6, 1, 3, 6
+111115,3.75,2.75,1.50,5.00,5.00,7.00    6, 1, 4, 8
+111116,1.75,1.00,0.50,7.50,4.00,7.00    6, 2, 2, 4
+111117,0.00,1.50,6.50,7.50,1.00,7.50    6, 2, 2, 4
+111118,0.00,2.75,1.00,4.50,5.00,7.00    6, 3, 1, 4
+111121,1.00,2.50,0.00,9.75,4.50,7.00    6, 3, 1, 4
+111122,1.00,2.75,0.00,9.00,4.00,7.00    6, 4, 0, 3
+111123,0.00,5.75,0.00,7.50,4.50,6.00    6, 4, 0, 3
+111124,0.00,3.50,2.50,8.00,1.50,6.50    6, 3, 1, 4
+111125,0.00,4.00,1.50,6.00,4.00,7.00    6, 3, 1, 4
+111128,0.00,4.50,1.50,6.50,5.00,7.00    6, 3, 1, 3
+111129,1.00,3.00,1.00,5.00,6.50,7.00    6, 3, 1, 3
+111130,1.50,3.00,0.00,7.25,5.00,6.50    6, 4, 0, 3
+
+
+
+</t>
+<t tx="zoomq.20111207090549.5311">移动技术专场:
+    正点，罗志城 Symbain开发体验
+    金山, ZQ PyCon2011China 回顾
+    金山, 白银祖 移动测试
+    罗新良 redis 在移动开发
+    
+[TechParty]111218珠海场移动专题沙龙召集
+
+zjbok2001@163.com,descusr@163.com,iamyugj@sina.com,ben.upsilon@gmail.com,yahier@163.com,guoqing.kong@gmail.com,iron826@gmail.com,michael2008s@gmail.com,wangsenyo@gmail.com,lzsoft.ch@gmail.com,cnliusheng@gmail.com,wujiaxin0@126.com,3369688@QQ.COM,luozhicheng@zdworks.com,taoshaoning@zdworks.com,dior168@hotmail.com,xiaoyaoygs@yahoo.com.cn,yuejian_luo@zhwyd.com,bugsnotes@gmail.com,zcnet4@gmail.com,csilc@qq.com,luyunfei@ijinshan.com ,eddy.lin.dev@gmail.com,zhanglu1@kingsoft.com,wencong@seasungame.com,gz.anson@gmail.com,liaoquanhui@kingsoft.com,303964410@qq.com,zoomquiet+salon@gmail.com
+
+金山网络.珠三角技术沙龙珠海场111023移动专题小结 已经发布:
+    http://techparty.org/2011/10/25/111023-zh-mobile-record/
+这次沙龙在潘达咖啡的欢乐举办是所有参与者共同努力的成果,
+特此通告大家来审阅,ZQ 的无责任记要是否有问题:
+    - 内容有任何不实,不合理的,请及时反馈,俺立即修订 
+    - 内容有任何想增补的,也请及时反馈,俺立即增订,特别是照片/感想什么的
+    zoomquiet+techparty@gmail.com
+    
+并提醒大家现场倡议的作業哈:
+    你愿意来分享什么?!
+
+表扬"新良"同学,已经预订了下个月来发布COOL 作品哈!
+
+本期沙龙,提出了:"生活的移动互联" 命题,那未,增高生活品味的各种主题,将在
+珠三角技术沙龙珠海场 确立为常设主题,也请大家推荐相关领域达人来给程序猿们展示生活的魅力!
+
+再次感谢大家的参与,请继续积极参加11月的 珠三角技术沙龙珠海场 (^.^)
+
+PS:
+进一步的交流,推荐订阅: 珠三角技术沙龙（http://techparty.org）列表
+　　要向此列表发言,请先订阅:发送空白邮件到 guangzhou-tech-party+subscribe@googlegroups.com
+　　要取消订阅此列表的订阅: 发送空白邮件到 guangzhou-tech-party+unsubscribe@googlegroups.com
+　　若有更多问题，请访问 http://techparty.org/about/
+
+</t>
+<t tx="zoomq.20111216202429.3806">#   111216 MACAU 15708 MOP 入手!
+
+111218 +1 XCode 4 安装完成
+
+Zq s MBP:            
+    for livin:
+        - BXM+香草
+        - Chrome/Firefox/OOo
+            - FEBE
+            - 恢复备份
+            - ScrapBook
+        - mocp
+        - mplayer
+        - picasa / Simple Comic
+        - #pidgin ! 恢复聊天记录...
+    for working:
+        - 工作数据
+        - SSH/tumx
+        - macports
+        - geditor/...
+        - gnome-commander/MuCommander
+        - VBox
+        - 版本管理:
+            + svn
+            + hg
+            + git
+        - 开发环境:
+            + py
+            + pip
+            + leo
+            + ...
+
+</t>
+<t tx="zoomq.20111220092312.3808">香草己死!
+https://github.com/ZoomQuiet/ZqBXM
+
+自定词组?
+</t>
+<t tx="zoomq.20111220092312.5316">http://themainframe.ca/2011/06/29/install-htop-on-mac-os-x/
+
+    curl -O http://themainframe.ca/wp-content/uploads/2011/06/htop.zip
+    unzip htop.zip
+    sudo mv htop /bin
+    rm htop.zip </t>
+<t tx="zoomq.20111222084842.3812">真心回想一下现在舒爽的工作环境是怎么样的,才好迁移到 MAC 中来:
+    - 输入是 HHKB+WACOM BAMBOO
+    - bash 进行高度定制:
+        + hg 自动提示
+        + 颜色
+        + 分行
+        + hosts 
+        + 各种常用工具命令化
+    - FireFox+Scrapbook 进行收集/整理/查阅
+    - Zim 随手记要日志和各种信息片段 组织成维基
+    - Leo 进行开发组织
+    - Py + 各种 Unix 工具进行输出:
+        - Graphviz 进行图谱制作
+        - Sphinx 进行图书编辑
+        - iPython 进行代码实验
+        - PyBlosxom 进行日志撰写
+        ...
+    - Pidgin 进行 MSN+Gtalk
+    - MOC 进行 terminal music
+    - mplayer 播放所有视频
+    - GNOME Commander 进行文件管理:
+        - 双窗口
+        - 有指令条,可以随时 cd ~
+        - Ctrl+P 获取当前路径
+        - Shift+Ctrl+Enter 获取指定文件的绝对路径
+        - F5 从来源窗口复制到目标窗口
+        - F6 从来源窗口移动到目标窗口
+        ...
+    </t>
+<t tx="zoomq.20111226091956.3810">@language python
+@tabwidth -4
+@others
+if __name__ == "__main__":
+    if 4 != len(sys.argv):
+        print """ %s usage::
+        $ python manga.py bookName(e.g zipang) bookID(e.g 002) maxPage(e.g 196) 
+        """ % VERSION
+    else:
+        begin = time.time()
+        urlmark = "http://251.99770.com:9977/ok-comic06/c/cyjd_771/%03d/%03d.jpg\n"
+        bookName = sys.argv[1]
+        bookId = sys.argv[2]
+        maxPage = sys.argv[3]
+        genUrlist(urlmark,bookName,bookId,maxPage)
+        end = time.time()
+        print 'usedTime::', end - begin
+
+</t>
+<t tx="zoomq.20111226091956.3813">@language python
+@tabwidth -4
+@others
+if __name__ == "__main__":
+    if 3 != len(sys.argv):
+        print """ %s usage::
+        $ python manga.py bookName(e.g zipang) maxPage(e.g 196) 
+        """ % VERSION
+    else:
+        begin = time.time()
+        urlmark = "http://tulaoya.cn/photo/x1/%03d.jpg\n"
+        bookName = sys.argv[1]
+        maxPage = sys.argv[2]
+        genUrlist(urlmark,bookName,maxPage)
+        end = time.time()
+        print 'usedTime::', end - begin
+
+</t>
+<t tx="zoomq.20111227090820.3814">
+==&gt; Caveats
+Run `cabal update` to initialize the package list.
+
+If you are replacing a previous version of haskell-platform, you may want
+to unregister packages belonging to the old version. You can find broken
+packages using:
+  ghc-pkg check --simple-output
+You can uninstall them using:
+  ghc-pkg check --simple-output | xargs -n 1 ghc-pkg unregister --force
+==&gt; Summary
+/usr/local/Cellar/haskell-platform/2011.4.0.0: 1967 files, 146M, built in 26.0 minutes</t>
+<t tx="zoomq.20111227095408.9246">re cfg:
+    - cp leo/config/leoSettings.leo -&gt; ~/.leo/myLeoSettings.leo
+    - font and color
+    /Users/zoomq/.leo/myLeoSettings.leo#Candidates for settings in myLeoSettings.leo--&gt;Appearance--&gt;@data qt-gui-plugin-style-sheet
+    fc-list choise fonts
+    
+    
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Window--&gt;@string initial_split_orientation = vertical -&gt; horizontal
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Window--&gt;Options for new windows--&gt;@strings[vertical,horizontal] initial_splitter_orientation = vertical -&gt; horizontal
+    
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Keyboard shortcuts--&gt;@keys EKR bindings
+    clone-node                  = Ctrl-'    #Ctrl-`
+    
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Keyboard shortcuts--&gt;@keys EKR bindings--&gt;@shortcuts File commands
+        close-window                = Ctrl-w #Alt-F4
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Keyboard shortcuts--&gt;@keys EKR bindings--&gt;@shortcuts Cursor Moves
+        extend-to-word                      =  Alt-W #Ctrl-W #
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Keyboard shortcuts--&gt;@keys EKR bindings--&gt;@shortcuts Menu commands
+        #propagate-key-event = Alt-W
+    
+    
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Keyboard shortcuts--&gt;@keys EKR bindings--&gt;@shortcuts Outline operations
+        edit-headline               = Ctrl-Alt-h    #Ctrl-h
+    
+    
+    /Users/zoomq/.leo/myLeoSettings.leo#@settings--&gt;Keyboard shortcuts--&gt;@keys EKR bindings--&gt;@shortcuts Find commands
+    
+    #toggle-find-mark-changes-option     = Alt-Ctrl-c
+    #toggle-find-regex-option            = Alt-Ctrl-x
+    
+    </t>
+<t tx="zoomq.20111227150925.3818">
+Mac OS X already provides this program and installing another version in
+parallel can cause all kinds of trouble.
+
+A few software packages require this newer version of libiconv.
+Please use this dependency very sparingly.
+
+Generally there are no consequences of this for you.
+If you build your own software and it requires this formula, you'll need
+to add its lib &amp; include paths to your build variables:
+
+    LDFLAGS  -L/usr/local/Cellar/libiconv/1.14/lib
+    CPPFLAGS -I/usr/local/Cellar/libiconv/1.14/include
+==&gt; Summary
+/usr/local/Cellar/libiconv/1.14: 25 files, 1.4M, built in 32 seconds
+
+
+</t>
+<t tx="zoomq.20111230163611.3820">as got git:
+
+git config --global user.name "Zoom.Quiet"
+git config --global user.email "zoomquiet+git@gmail.com"
+
+sudo git config --system alias.ci commit
+sudo git config --system alias.co checkout
+sudo git config --system alias.st status
+sudo git config --system alias.br branch
+sudo git config --system alias.pl pull
+sudo git config --system alias.pu push
+sudo git config --system alias.cfg config</t>
+<t tx="zoomq.20111231140207.5336">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+111201,0.00,6.00,0.75,5.25,5.00,7.00    6, 1, 3, 8
+111207,1.00,3.25,1.00,5.75,5.50,6.00    6, 0, 4, 6
+111208,1.50,3.00,1.75,5.00,6.50,6.00    5, 0, 4, 5
+111209,1.50,0.00,1.00,5.00,9.00,7.00    5, 0, 4, 5
+111212,3.00,5.25,0.00,6.25,4.00,7.00    5, 0, 4, 5
+111213,0.00,2.50,1.00,8.00,7.50,7.50    6, 1, 4, 5
+111214,0.00,0.00,0.00,13.5,4.50,6.00    6, 1, 4, 5
+111215,3.50,3.25,4.25,6.75,5.00,6.00    6, 2, 3, 4
+111219,4.75,3.50,1.50,2.50,4.50,6.00    6, 0, 5, 6
+111220,1.00,4.75,5.00,3.00,5.50,5.50    6, 0, 5, 6
+111221,3.00,4.00,1.00,5.00,4.50,5.00    6, 1, 4, 0
+111222,4.50,0.00,4.00,5.00,1.00,7.00    6, 1, 3, 3
+111223,1.00,5.75,1.00,5.50,5.50,7.00    6, 2, 2, 6
+111226,1.25,1.75,2.00,3.50,8.00,6.00    6, 0, 5, 6
+111227,2.50,2.00,1.25,6.00,1.50,4.00    6, 1, 4, 10
+111228,2.50,3.50,0.00,6.50,4.00,8.00    6, 1, 4, 8
+111229,1.00,4.25,3.00,6.75,1.00,7.00    6, 1, 4, 9
+111230,3.00,2.50,0.50,6.00,3.50,7.00    6, 1, 3, 5
+111231,6.50,0.00,0.50,5.00,5.00,7.00    6, 2, 2, 7
+
+
+</t>
+<t tx="zoomq.20120203163410.3818">date,tI,tO,tC,tM,tF,tS                              Pt,Pd,Pl,Po
+120104,0.00,2.50,0.00,8.50,5.00,7.00    6, 2, 2, 4
+120105,2.00,2.50,0.00,5.00,6.50,7.00    6, 3, 1, 4
+120106,2.25,1.00,1.50,5.75,6.00,7.00    6, 2, 2, 4
+120109,0.00,3.25,0.75,2.50,5.00,7.00    6, 2, 2, 4
+120110,2.25,4.00,0.00,6.75,5.00,6.00    6, 3, 1, 8
+120111,2.00,2.50,1.25,7.00,4.00,6.00    6, 3, 1, 2
+120112,0.75,1.75,2.00,11.75,1.00,7.0    6, 0, 4, 6
+120113,0.00,1.00,3.00,11.5,1.00,7.00    6, 0, 4, 6
+120116,2.00,1.00,6.00,7.00,1.00,7.00    6, 0, 3, 6
+120117,0.50,4.00,0.00,7.00,5.00,7.00    6, 2, 1, 3
+120118,0.00,3.25,7.00,3.75,1.00,7.00    6, 2, 1, 7
+120119,2.00 4.25,0.00,5.75,4.50,7.00    6, 1, 2, 8
+120130,1.00,3.00,3.75,3.00,5.75,7.00    6, 0, 4, 6
+120131,0.50,2.50,3.00,4.50,5.00,9.00    6, 2, 2, 3
+</t>
+<t tx="zoomq.20120305142323.3820">date,tI,tO,tC,tM,tF,tS                              Pt,Pd,Pl,Po
+120201,0.00,3.50,1.25,7.75,5.00,5.50    6, 0, 4, 6
+120202,1.50,3.75,5.75,5.50,1.00,6.50    6, 2, 2, 3
+120203,1.00,0.50,3.75,6.50,5.50,6.00    6, 1, 4, 5
+120206,0.00,4.75,1.75,4.00,5.50,7.00    6, 1, 3, 4
+120207,1.50,2.00,4.00,6.00,4.50,6.50    6, 0, 4, 6
+120208,0.00,3.75,1.50,6.75,4.50,6.00    6, 2, ,2 7
+120209,1.50,2.75,6.00,3.50,1.25,7.00    6, 2, 2, 3
+120210,0.00,3.50,0.50,5.00,4.50,6.00    6, 2, 2, 5
+120213,2.00,8.75,2.50,1.00,4.50,6.00    6, 0, 4, 6
+120214,1.25,3.00,1.75,6.50,4.50,5.00    6, 1, 1, 6
+120215,4.00,4.00,1.75,1.00,5.50,6.00    6, 1, 3, 4
+120216,3.50,4.25,3.00,5.75,1.00,6.00    6, 1, 2, 4
+120217,1.25,1.50,3.00,6.00,4.50,6.00    6, 0, 0, 6
+120220,3.50,2.50,0.50,6.00,5.50,6.00    6, 1, 2, 7
+120221,3.25,1.00,1.00,7.75,4.50,6.00    6, 0, 3, 6
+120222,2.25,3.25,0.00,5.50,4.50,6.00    6, 1, 2, 4
+120223,0.00,5.75,2.75,6.75,1.00,6.00    6, 1, 2, 4
+120224,5.75,0.00,0.00,7.25,4.50,6.00    6, 0, 3, 6
+120227,0.75,3.50,1.25,7.00,4.50,7.00    6, 1, 2, 4
+120228,0.50,7.25,0.00,4.00,4.50,7.00    6, 0, 3, 6
+120229,3.25,4.75,1.00,4.00,4.00,6.00    6, 0, 3, 6
+
+
+
+</t>
+<t tx="zoomq.20120305142323.3821"></t>
+<t tx="zoomq.20120305142323.3822">120301开始正式使用 Emacs
+- IAT 通过脚本 exec open -a 接入成功!
+</t>
+<t tx="zoomq.20120305142323.3823">期望进行最小配置后,得以一个基础编辑习惯可以继承的最小配置 emacs 环境!
+
+习惯编辑环境:
+    + dark theme
+    + 高亮当前行
+    + 高亮选区
+    + tab 行为:
+        + 4空格替代 tab
+        + 智能缩进:
+            跟随前一缩进
+            每次 del 都是一个tab 的宽度
+    + 选择的自然操作:
+        + shift + 方向,进行选择
+        + shift + end 选择到行尾
+        + 有选择区时,emter 等于删除
+        + 有选择区时, tab 是整体缩进, shift+tab 是整体反缩进
+        + 有选择区时, cmd/ctrl+c 是复制所有选择内容
+    
+    
+</t>
+<t tx="zoomq.20120410091323.3828">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+130301,0.00,4.25,2.00,3.75,6.00,7.00    6, 1, 1, 6
+130304,0.00,4.75,0.00,4.75,7.50,7.00    6, 1, 1, 4
+130305,0.00,1.00,1.75,0.75,9.50,7.00    6, 1, 1, 4
+130306,2.00,2.25,0.00,3.75,11.25,7.0    6, 1, 1, 4
+130307,0.00,5.75,1.00,1.00,10.25,6.0    6, 2, 0, 4
+130310,0.00,2.75,7.00,0.00,5.75,7.00    6, 1, 1, 4
+130311,0.00,0.00,2.75,2.50,7.00,7.00    6, 1, 1, 2
+130312,2.25,0.00,3.00,1.75,5.50,7.00    6, 1, 1, 7
+130314,0.00,1.00,7.50,1.50,6.00,6.00    6, 1, 1, 5
+130315,0.00,7.00,1.50,2.50,6.50,7.00    6, 1, 1, 6
+130318,0.00,1.50,0.00,2.00,9.50,7.00    8, 1, 1, 4
+130319,3.00,6.00,0.50,0.00,6.00,7.00    6, 1, 1, 3
+130320,1.25,6.00,2.75,2.50,3.50,6.00    6, 1, 1, 11
+130321,2.00,3.00,6.00,0.50,5.25,6.00    6, 1, 1, 10
+130322,0.00,2.25,7.50,3.50,5.75,6.00    6, 1, 1, 6
+130225,3.50,2.00,2.00,2.00,8.00,5.50    6, 1, 1, 4
+130326,1.00,6.00,3.50,3.00,6.50,5.50    6, 1, 1, 5
+130327,4.50,3.25,1.25,1.50,5.00,5.50    6, 1, 1, 6
+130327,1.75,5.50,1.00,3.50,5.75,5.50    6, 0, 2, 6
+
+</t>
+<t tx="zoomq.20120423093831.20558">date,tI,tO,tC,tM,tF,tS                              Pt,Pd,Pl,Po
+120401,1.75,0.00,4.50,5.00,7.75,4.00    4, 1, 1, 4
+120405,2.25,3.75,0.00,4.25,5.55,7.00    6, 1, 1, 6
+120406,6.50,0.00,0.00,7.00,6.00,7.00    6, 0, 2, 6
+120409,1.50,1.50,1.50,5.00,7.50,7.00    4, 1, 0, 1
+120410,1.25,3.00,2.00,4.50,6.75,6.00    6, 1, 1, 3
+120411,0.75,3.25,2.25,6.25,5.00,6.00    6, 0, 2, 5
+120412,1.50,5.50,3.00,2.50,1.00,6.00    6, 0, 2, 6
+120413,2.50,1.00,1.50,8.00,5.00,6.00    6, 0, 3, 6
+120416,6.25,3.00,0.00,4.00,4.00,6.00    6, 0, 2, 3
+120417,1.75,2.50,3.00,5.50.4.00,6.00    6, 1, 1, 4
+120418,1.00,0.75,2.00,6.25,7.25,6.00    6, 0, 2, 6
+120419,2.00,5.25,3.75,4.00,1.00,6.00    6, 1, 1, 6
+120420,0.00,4.50,3.00,6.00,4.50,7.00    6, 1, 1, 5
+120423,1.50,2.25,2.50,3.75,5.00,6.00    6, 1, 1, 4
+120424,4.50,4.00,1.00,4.50,3.00,7.00    6, 0, 2, 6
+120425,0.00,7.25,1.00,4.00,4.50,6.00    6, 1, 1, 4
+120426,4.75,3.50,2.50,4.00,3.00,6.00    6, 1, 1, 7
+120427,1.00,8.00,0.75,4.50,4.50,6.00    6, 1, 1, 11
+</t>
+<t tx="zoomq.20120603183019.7743">date,tI,tO,tC,tM,tF,tS                              Pt,Pd,Pl,Po
+120502,2.00,3.00,1.25,7.25,3.75,6.00    6, 0, 2, 6
+120503,0.00,8.00,1.50,5.50,1.50,5.00    6, 0, 2, 6
+120504,0.00,6.00,0.00,3.50,5.00,6.00    6, 1, 1, 8
+120407,0.00,6.75,0.00,3.75,6.00,6.00    6, 0, 2, 6
+120508,0.00,5.75,0.00,4.50,6.00,6.00    6, 1, 0, 4
+120509,0.00,4.00,0.50,5.00,6.00,7.00    8, 1, 1, 6
+120510,1.00,3.00,1.50,8.50,3.00,7.00    6, 0, 1, 4
+120514,0.00,0.00,3.00,13.5,1.00,7.00    0, 0, 0, 0
+120515,0.00,2.75,4.00,6.75,4.00,7.00    6, 0, 2, 6
+120516,5.50,1.00,3.50,5.00,1.00,7.00    6, 0, 2, 6
+120517,2.25,0.00,5.00,7.50,1.00,6.00    6, 0, 2, 6
+120518,2.00,0.00,6.50,2.25,5.25,7.00    6, 0, 0, 6
+120519,1.50,4.00,0.50,7.00,5.75,6.00    6, 1, 1, 8
+120520,0.00,3.75,2.50,5.00,3.50,6.00    6, 2, 0, 3
+120521,2.00,7.00,2.00,4.50,4.50,6.00    6, 2, 0, 5
+120522,1.50,6.00,4.00,4.25,5.00,6.00    6, 2, 0, 4
+120524,5.00,0.75,1.00,2.25,6.00,6.00    0, 0, 0, 0
+120527,0.00,4.50,0.75,4.00,5.25,6.00    4, 2, 0, 2
+120528,0.00,6.50,1.50,7.50,1.00,6.00    6, 1, 1, 7
+120529,1.25,4.75,3.50,4.00,2.50,7.00    6, 1, 1, 4
+120530,0.50,5.50,2.50,2.50,1.00,6.50    6, 1, 1, 3
+120531,0.00,6.75,2.00,5.00,7.50,7.00    6, 1, 1, 13
+</t>
+<t tx="zoomq.20120705104153.3834">date,tI,tO,tC,tM,tF,tS                              Pt,Pd,Pl,Po
+120601,1.00,10.0,6.50,4.50,1.00,6.00    6, 1, 1, 4
+120604,1.00,4.50,1.00,3.50,3.75,7.00    6, 2, 0, 7
+120605,6.50,2.75,2.50,3.00,1.00,7.00    6, 1, 1, 7
+120606,2.25,3.50,6.25,2.00,3.00,7.00    6, 2, 0, 4
+120607,3.00,2.75,0.50,5.25,5.00,5.50    6, 2, 0, 1
+120608,1.25,2.50,0.75,6.00,6.00,6.00    6, 1, 1, 8
+120611,1.00,3.75,0.75,2.50,5.50,6.00    6, 2, 0, 2
+120612,2.75,5.25,3.00,1.50,3.75,7.00    6, 2, 0, 9
+120613,2.00,2.00,4.75,6.00,3.50,7.00    6, 1, 1, 3
+120614,1.00,4.00,3.00,4.75,3.00,6.00    6, 2, 0, 3
+120615,1.25,5.00,0.00,5.50,6.00,7.00    6, 1, 1, 5
+120618,1.00,4.50,1.50,5.50,4.50,6.00    6, 2, 0, 3
+120619,1.00,3.00,2.00,5.00,4.50,5.00    6, 2, 0, 2
+120620,0.00,4.25,3.75,5.75,4.50,8.00    6, 1, 1, 9
+120625,1.50,1.50,1.50,6.00,4.75,5.50    6, 2, 0, 1
+120626,3.00,3.25,0.50,6.25,4.50,6.00    6, 2, 0, 3
+120627,1.00,5.50,1.00,4.00,5.00,7.00    6, 2, 1, 8
+120628,1.00,3.00,2.00,5.50,2.50,8.00    6, 3, 0, 1
+120629,1.00,3.25,2.75,3.50,2.00,8.00    6, 1, 2, 6
+
+</t>
+<t tx="zoomq.20120727213305.14755">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+120702,2.00,3.50,1.75,5.25,4.00,8.00    4, 1, 1, 4
+120703,2.50,3.25,4.00,2.50,4.75,7.00    6, 0, 2, 6
+120704,3.75,4.50,1.00,3.00,3.75,7.00    6, 1, 1, 5
+120705,2.50,3.75,2.50,4.25,4.00,7.00    4, 1, 1, 3
+120706,4.50,2.75,2.25,2.75,4.00,7.00    4, 1, 1, 3
+120709,2.00,1.50,3.50,4.25,3.50,7.00    4, 1, 1, 2
+120710,2.75,3.00,4.00,1.75,3.00,7.00    4, 1, 1, 3
+120711,3.50,3.50,2.00,2.00,4.00,7.00    4, 0, 0, 4
+120712,3.00,1.25,6.75,1.00,4.00,7.00    4, 1, 1, 2
+120713,1.00,6.75,4.50,2.00,1.00,7.00    4, 1, 1, 3
+120716,3.25,3.50,2.50,3.50,3.50,7.00    4, 1, 1, 2
+120717,1.25,5.25,0.75,5.00,5.00,7.00    6, 2, 1, 8
+120718,2.00,6.00,1.00,3.00,4.50,7.00    6, 3, 0, 5
+120719,1.75,2.00,3.25,3.00,6.75,7.00    6, 1, 2, 4
+120720,1.50,4.00,1.25,5.25,4.75,8.00    6, 2, 0 ,1
+120723,1.00,4.50,3.00,3.50,3.75,7.00    4, 1, 1, 3
+120724,0.00,2.00,1.00,2.50,11.25,7.00  4, 2, 0, 3
+120725,1.75,2.00,1.00,0.50,11.75,7.00  6, 2, 1, 3
+120726,0.00,3.75,4.00,1.00,9.00,7.00    6, 3, 0, 3
+120727,2.50,2.75,1.00,5.00,5.25,7.00    6, 2, 1, 5
+120730,1.00,6.25,1.25,2.00,3.50,7.00    6, 2, 1, 4
+120731,1.00,5.75,1.75,2.50,3.50,7.00    6, 3, 0, 4
+</t>
+<t tx="zoomq.20120901151004.6026">Grissiom chaos.proton@gmail.com
+    谷瑞
+    身份证号：130602198712210315
+    手机：15901033820
+    收益归社区～
+
+Atommann &lt;atommann@gmail.com&gt; / 13590240120
+    我那份收益给我。
+    在翻译过程中本来很多时间是应该陪孩子的，但都被我用来搞翻译了，我希望有一些钱可以给孩子买点东西，同时也能有钱给自己买几块 MCU开发板/电子零件回来学习。
+    
+    我的帐号如下：
+    开户行：上海浦东发展银行深圳市分行南山支行
+    卡号：6225211105487218
+    户名：龙黎
+</t>
+<t tx="zoomq.20120901151004.6027"> # Grissiom &lt;chaos.proton@gmail.com&gt; / 15901033820
+  * *bitbucket ID:* `grissiom`
+  * http://grissiom.blogspot.com (life), http://blog.csdn.net/grissiom (tech)
+  * 北京海淀区知春路大运村 1 号楼 1305 邮编 100191
+  * 现在研一，大二的时候自学的 python，以后只要能用 python 的地方就用 python。C 语言也会，写过 51 的程序。 本科毕设做的是 pyqt+pyserial 的拉伸机测控系统。实验室做一些小的材料测控仪器。上个学期学过一点控制论。 我看目录里也有控制系统的内容。英语水平是 CET-6，平时常在英文网站上瞎逛。技术书籍有原版不读译本。
+  *  2011 年的课程应该不紧。基本应该是在实验室做项目吧。估计每周应该有四个晚上可以掺和，呵呵
+  * 对于未来的版权收益有什么特殊要求?
+   * 以前只给 KDE 翻译过几个 po，第一次参与这种翻译，不知道行规怎么样的。图学习，不图收益，呵呵
+ 
+ # 小马xiaoma &lt;cnxiaoma@gmail.com&gt; / 13311664600
+  * 自用Blog    在建中...
+  * 15年开发经验，其中:5年MIS开发(VB, PB, Sybase)/5年Web开发(PHP,Mysql,ASP,Java)/5年嵌入式（RFID）开发(C)/对数据库，互联网,嵌入式有一定了解。
+  * 2011 很忙，但是仍然能抽出一定的时间。目前正在翻译《REST in Practice》 其中6,7,8章（150多页），4人合译，计划3月完稿，6月可以出版。4月份后可以抽出时间，平均一天一页应该没问题。
+    * http://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829
+  * 对于未来的版权收益有什么特殊要求?只要求有署名权，其他有最好，没有也无所谓，就当是为社区做贡献。
+ 
+ # kermit.mei@gmail.com / 13428780315
+  * *bitbucket ID:* `kermitmei`
+  * http://www.zeuux.org/home/kermit.mei/
+  * 邮寄地址
+  * 目前从事嵌入式Linux下C/C++软件开发，主要是以Qt为主的嵌入式Linux应用开发，2年工作经验;以前做过智能遥控器，多款数码电子产品；现在工作内容是开发一个基于嵌入式的精简Web引擎，包括html解析和界面生成等功能。对C/C++ 以及Qt架构灰常熟悉，目前靠这个吃饭；熟悉Linux操作系统;熟悉Python/Perl/Bash等脚本语言(主要用于测试和辅助编程)；对计算机硬件有一定了解，并有浓厚兴趣。
+  * 换工作了，从不加班，所以不算忙，至少保证：
+   * 1.每天能够查收并处理邮件；
+   * 2.每周至少贡献一天(周六或者周日)来完成社区任务；
+  * 所有收益均愿意贡献给Zeuux。当然，如果能在扉页中属个名字最好，以帮助我以后找工作时吹吹牛；若无则也罢。
+  * 参与目的：
+   # 这个工作量不算大，按照一年的计划完成C部分翻译和语法润色应该没有问题。
+   # 希望为社区力所能及地贡献一点儿力量。
+   # 最重要的是，我本身也希望阅读此书，并进一步学习社区中的“协同作战“。
+   # 另外，除了C部分的翻译(因为这部分内容确实很少)，如果时间确实是1年，那我觉得我还有时间担任其他章节的校验工作。
+ 
+ # 孙伟 / sagasw@gmail.com / 13840885742
+  * http://sunxiunan.com
+  * 目前主要从事Windows桌面下Visual C++开发，爱好Python和Lua。8年工作经验。
+  * 报名参加C相关章节翻译。每周可保证至少有6个小时。
+ 
+ # Atommann &lt;atommann@gmail.com&gt; / 13590240120
+  * *bitbucket ID:* `atommann`
+  * http://www.atommann.com
+  * 深圳市南山区南光村龙泰轩A501 邮编：518054
+  * 在一家生产工业过程控制器的厂家做文档员。业余时间爱好开源硬件。
+  * 每天至少 1 个小时用于翻译。
+  * 对于未来的版权收益有什么特殊要求?
+   * 学习，有收益更好
+
+</t>
+<t tx="zoomq.20120901151004.6029">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+120801,2.00,8.50,1.50,2.75,2.00,7.00    6, 1, 2, 8
+120802,2.00,7.00,2.50,3.25,2.00,6.00    6, 1, 0, 2
+120803,0.75,4.75,2.75,2.00,0.75,6.00    6, 1, 0, 4
+120806,0.00,7.75,2.25,4.75,2.50,8.00    6, 3, 0, 6
+120807,0.50,7.50,2.00,3.50,2.75,7.00    3, 3, 0, 4
+120808,1.00,5.50,3.00,3.00,3.25,7.00    6, 3, 0, 7
+120809,0.00,7.25,2.00,1.75,3.25,7.00    6, 2, 1, 13
+120810,0.00,6.50,0.50,1.00,5.00,7.00    6, 1, 1, 5
+120813,0.00,8.00,0.50,3.25,3.75,6.50    6, 1, 2, 7
+120814,0.00,7.25,0.00,2.75,2.50,7.00    6, 1, 2, 6
+120815,3.25,6.50,0.00,2.00,3.75,7.00    6, 1, 0, 8
+120816,2.00,6.50,1.25,3.00,4.00,7.00    6, 1, 2, 8
+120817,2.50,6.25,1.00,2.50,5.00,7.00    6, 1, 1, 3
+120817,0.75,10.75,0.0,4.00,1.00,7.00    6, 1, 2, 5
+120821,3.00,4.00,1.75,3.00,3.50,7.00    6, 2, 1, 7
+120822,0.00,7.75,1.50,3.00,3.00,7.00    6, 2, 1, 12
+120823,0.00,8.25,4.00,2.00,1.50,7.00    6, 1, 2, 11
+120829,2.00,4.50,3.25,2.00,2.75,7.00    6, 1, 1, 9
+120830,1.00,4.25,5.00,3.75,1.00,7.00    6, 1, 1, 3
+120831,1.00,4.00,9.00,0.00,3.25,7.00    6, 1, 1, 4
+</t>
+<t tx="zoomq.20120913101417.6044">collection all kinds of Liebao UI dev.
+</t>
+<t tx="zoomq.20120913101417.6045">支持 bookmark 的调试, 把src_import\chrome\browser\resources\bookmark_manager\ 放到 {app}\resources\bookmark_manager\去调试 
+
+</t>
+<t tx="zoomq.20120913101417.6046">在 uber
+
+zoomq @ ZQ111216MBP in /Volumes/workspace/ks_b6_chrome21_120808/src_import/chrome/browser/resources 
+$ ack "iframe-container" 
+uber/uber.css
+34:.iframe-container {
+46:.iframe-container.selected {
+54:.iframe-container.expanded {
+
+uber/uber.html
+23:&lt;div class="iframe-container"
+26:&lt;div class="iframe-container"
+29:&lt;div class="iframe-container"
+32:&lt;div class="iframe-container"
+
+uber/uber.js
+108:    return document.querySelector('.iframe-container.selected');
+187:    var query = '.iframe-container &gt; iframe[src^="' + origin + '/"]';
+250:    var lastSelected = document.querySelector('.iframe-container.selected');
+
+uber/uber_frame.js
+130:    return document.querySelector('.iframe-container.selected');
+</t>
+<t tx="zoomq.20121019112704.16225">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+120903,0.00,11.25,0.0,1.25,3.00,7.00    6, 1, 2, 16
+120904,3.00,4.50,1.00,4.50,4.00,7.00    6, 2, 1, 5
+120905,3.25,6.00,1.25,1.25,6.00,7.00    6, 2, 1, 11
+120906,2.00,4.75,5.00,1.00,3.75,7.00    0, 0, 0, 0
+120907,3.00,3.75,5.00,2.00,1.00,7.00    0, 0, 0, 0
+120910,3.00,0.000,6.50,2.50,5.00,7.00   0, 0, 0, 0
+120911,0.00,3.75,2.25,5.75,2.50,7.00    6, 1, 1, 9
+120912,1.00,6.75,4.50,2.00,2.00,7.00    6, 2, 0, 7
+120913,0.00,4.00,1.00,3.50,3.50,7.00    6, 1, 1, 11
+120914,0.00,4.00,6.00,2.00,3.50,7.00    0, 0, 0, 0
+120917,0.00,5.50,2.00,5.00,3.50,7.00    6, 2, 0, 7
+120918,1.25,1.75,0.00,7.25,3.00,7.00    6, 1, 1, 6
+120919,1.00,5.00,5.50,2.25,5.00,7.00    6, 1, 1, 8
+120920,4.00,7.25,0.00,2.00,2.75,5.00    6, 0, 2, 6
+120921,3.50,3.25,2.00,3.75,3.00,7.00    6, 1, 1, 6
+120924,2.00,6.25,2.50,2.50,4.50,7.00    6, 1, 1, 8
+120925,4.25,5.75,0.00,1.75,3.25,7.00    6, 1, 2, 12
+120926,2.50,4.00,0.75,5.25,5.00,7.00    6, 1, 1, 11
+120927,0.00,4.00,1.00,5.00,3.50,7.00    6, 1, 2, 10
+120928,0.00,4.25,1.50,3.25,6.50,7.00    6, 1, 1, 9</t>
+<t tx="zoomq.20121101145510.7852">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+121010,0.00,2.25,4.00,4.75,4.25,7.00    6, 2, 0, 4
+121011,0.00,2.50,2.50,2.75,7.75,7.00    6, 1, 1, 6
+121012,0.00,2.50,6.00,3.00,4.00,7.00    6, 2, 0, 6
+121015,0.00,6.00,1.75,4.50,4.00,7.00    6, 2, 1, 6
+121016,0.00,4.50,0.75,4.00,6.00,5.00    6, 2, 1, 7
+121017,0.00,3.25,1.75,6.00,5.00,6.00    6, 2, 0, 6
+121018,0.00,5.50,4.50,3.00,4.50,6.00    0, 0, 0, 0
+121019,0.00,2.50,4.50,2.50,4.50,6.00    6, 1, 1, 5
+121022,0.75,4.50,4.00,2.50,4.00,7.00    6, 2, 0, 6
+121023,1.00,5.00,2.50,2.00,6.00,8.00    6, 1, 0 ,0
+121024,0.00,7.00,0.00,5.00,4.00,7.00    6, 2, 0, 8
+121025,2.00,5.00,0.00,1.00,6.00,7.00    6, 2, 1, 9
+121029,0.00,5.50,2.00,4.00,4.00,8.00    6, 2, 0, 7
+121030,0.00,4.50,5.00,2.50,4.00,8.00    6, 1, 1, 7
+121031,1.00,6.50,0.00,2.50,5.00,7.00    6, 1, 1, 7
+</t>
+<t tx="zoomq.20121116154311.3848">非常自我介绍一下看怎么团队一下(不聚餐无团队;-)
+
+Zoom.Quiet （周琦）
+- Python 中文社区创始人 / 管理员，热心于python社区的公益事业，大家熟知的社区"大妈"；OBP及蟒营工程设计者
+/主持人；参与并主持各种线上 / 线下活动，主持编撰了《可爱的Python》；坚持用 Pythonic 感化国人进入 FLOSS世界进行学习
+/ 分享 / 创造！目前就职于金山软件。
+
+李力(Ada Li)  
+    IT从业十多年，做过高校教师，曾服务于AIG, CA, Sun Microsystems, Oracle等公司, 任软件工程师，系统分析员, Java社区经理，开发者项目高级经理等职务。现于中国最大IT社区公司任社区总监。信仰开放平等自由，追求更好的世界和更好的自己。博客：www.adalili.com
+
+huiyi.csdn.net 可以帮助社区发布社区活动，不过这个系统的权限管理没有做那么细，单个活动的发布人可以查看和修改其它活动的信息，因此目前只能授权给CSDN员工，要发布活动的话，提供信息，可以交给
+#   @Adela可爱多 （邮件 xiangzheng@csdn.net 
+
+张羽 (Rachel Zhang)
+    曾就职于 Sun Microsystems 和 IBM，任软件工程师，前北京OpenSolaris成员，热衷于开源事业，参与成都OpenSolaris用户组的创建与运营。目前就职于谋智网络(Mozilla Online)，担任火狐社区经理。信奉 Mozilla 宣言，崇尚开放，自由与创新。
+
+杜玉杰 (ben)
+    曾就职于中标软件，负责开源社区部，希望做名称职的社区经理，热衷于开源事业。参与China OpenStack User Group的创建与运营，目前是刚刚成立的OpenStack基金会董事，希望通过参与学习国外的开源基金会的运作，更好地为国内的开源项目和社区服务。有幸能和大家一起参与翻译本书，边享受过程，边学习提高，请多多指教。微博：ben_杜玉杰
+
+
+--侠少（张春雨）
+   -电子工业出版社博文视点策划，主要负责外版和高端技术原创图书，在大妈组织的OBP Group通力合作下，《真实世界的Python仪器监控： 数据采集与控制系统自动化》一书即将问世。这是第二次以OBP模式协作翻译，而且人选规格较高，希望有一个成功而愉快的过程和结果！
+</t>
+<t tx="zoomq.20121122115015.6168"># -*- coding: utf-8 -*-
+#!/usr/bin/env python
+'''提取 http://www.ranwen.net/ 图书,以便 eCub 生成 EPUB文档
+'''
+import sys
+#import sh
+import codecs
+from path import path
+from pyquery import PyQuery as pq
+
+def u(s, encoding):
+    if isinstance(s, unicode):
+        #print "isinstance?!"
+        return s
+    else:
+        return unicode(s, encoding)
+
+def scrap2txt(p4hml,p2txt):
+    '''
+    '''
+    htmls = path(p4hml)
+    #print dir(htmls)
+    for h in htmls.files():
+        #print dir(h)
+        d = pq(codecs.open(h,'r', 'gbk').read())
+        uHTML = u(d('#content').html(),'gb2312').encode('utf-8')
+        #utxt = u(d('#content').text(),'gb2312').encode('utf-8')
+        utxt = uHTML.replace("&lt;br/&gt;","\n").replace("&amp;#13;","")
+        #print utxt[:110]
+        open("%s/%s.txt"% (p2txt,h.namebase),'w').write(utxt[110:])
+        print "grasped&gt;&gt;\t",h.namebase
+        #print dir(d)
+        #break
+
+if __name__ == '__main__':
+    if 3 != len(sys.argv) :
+        print '''Usage:
+        scrap2txt4html.py /path/2/html /path/2/txt
+        '''
+    else:
+        p4hml = sys.argv[1]
+        p2txt = sys.argv[2]
+        scrap2txt(p4hml,p2txt)
+        #htmls = path(p4hml)
+        #print htmls.files()</t>
+<t tx="zoomq.20121122115015.6169"># -*- coding: utf-8 -*-
+#!/usr/bin/env python
+'''快速将指定图片生成 CSS 可用的 data:image/png;base64,
+'''
+import sys
+
+if __name__ == '__main__':
+    if 3 != len(sys.argv) :
+        print '''Usage:
+            data_uri.py /path/2/imgfile exp.base64
+        '''
+    else:
+        imgf = sys.argv[1]
+        expf = sys.argv[2]
+        data_uri = open(imgf, "rb").read().encode("base64").replace("\n", "")
+        img_tag = 'data:image/png;base64,{0}'.format(data_uri)
+        open(expf,"w").write(img_tag)
+        #print img_tag
+</t>
+<t tx="zoomq.20121206102042.3855">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+121101,2.00,1.75,4.75,6.25,4.00,5.00    6, 1, 1, 5
+121102,0.75,5.50,3.75,1.00,4.00,7.00    6, 2, 0, 3
+121105,0.00,7.00,3.25,2.50,4.00,7.00    6, 2, 0, 8
+121106,0.00,7.25,0.00,4.50,3.00,5.00    6, 2, 0, 9
+121107,0.00,5.50,1.75,1.00,6.00,7.00    6, 1, 1, 7
+121115,3.50,4.00,2.00,3.50,5.00,7.00    6, 1, 1, 4
+121116,0.00,4.00,2.25,4.00,3.50,6.00    6, 1, 2, 9
+121119,1.00,4.25,1.00,3.25,7.75,8.00    6, 1, 1, 6
+121120,0.00,1.25,2.50,2.00,10.0,7.00    6, 1, 1, 4
+121121,1.75,2.00,2.75,2.75,7.00,8.00    6, 1, 1, 4
+121122,0.00,6.75,0.00,3.50,5.25,7.00    6, 2, 0, 4
+121123,0.00,1.75,3.00,2.25,6.00,7.00    6, 1, 1, 3
+121126,0.00,1.50,4.75,2.25,8.50,7.00    6, 2, 1, 5
+121127,0.00,4.00,1.50,2.00,6.75,7.00    6, 2, 1, 3
+121128,2.25,0.50,0.00,3.50,10.75,7.0    6, 1, 1, 7
+121129,0.00,3.75,1.00,4.25,7.50,7.00    6, 2, 0, 3
+121130,0.00,0.50,0.00,3.00,13.0,8.00    4, 1, 1, 3
+</t>
+<t tx="zoomq.20121207162246.5571">在 2012年9月21日 上午9:09，王娇 &lt;jiao.wang@3gland.com&gt;写道：
+&gt; 美国虚拟机已开通，具体配置如下：
+&gt; CPU：2核Xeon 2.26GHz，内存1G，硬盘100GB，系统ubuntu 12.04，中美专线：2M
+&gt;
+&gt; 服务器ip地址：208.74.73.251
+&gt;
+&gt; 用户名：pycon，密码：sanjitech.com
+&gt;
+
+#   121207 
+- 口令:
+    root/5t..1q
+    zoomq/1q..5t
+    lxneng/1q..5t
+    </t>
+<t tx="zoomq.20121207162246.5572">&gt; mysql
+&gt; 数据库 密码
+&gt; py4tcn12
+&gt;
+&gt; 用户root
+&gt;
+&gt;
+&gt; 安装了 python-mysql
+&gt;</t>
+<t tx="zoomq.20121217095458.5577">    </t>
+<t tx="zoomq.20121217095458.5578">$ brew doctor
+Warning: Unbrewed dylibs were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected dylibs:
+    /usr/local/lib/libavcodec.53.7.0.dylib    /usr/local/lib/libavdevice.53.1.1.dylib    /usr/local/lib/libavfilter.2.23.0.dylib    /usr/local/lib/libavformat.53.4.0.dylib    /usr/local/lib/libavutil.51.9.1.dylib    /usr/local/lib/libfaac.0.0.0.dylib    /usr/local/lib/libmp3lame.0.dylib    /usr/local/lib/libogg.0.dylib    /usr/local/lib/libpostproc.51.2.0.dylib    /usr/local/lib/libswscale.2.0.0.dylib    /usr/local/lib/libtheora.0.dylib    /usr/local/lib/libtheoradec.1.dylib    /usr/local/lib/libtheoraenc.1.dylib    /usr/local/lib/libusb-0.1.4.4.4.dylib    /usr/local/lib/libusbpp-0.1.4.4.4.dylib    /usr/local/lib/libx264.128.dylib    /usr/local/lib/libxvidcore.4.dylib
+Warning: Unbrewed .la files were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected .la files:
+    /usr/local/lib/libfaac.la    /usr/local/lib/libmp3lame.la    /usr/local/lib/libogg.la    /usr/local/lib/libtheora.la    /usr/local/lib/libtheoradec.la    /usr/local/lib/libtheoraenc.la    /usr/local/lib/libvorbis.la    /usr/local/lib/libvorbisenc.la    /usr/local/lib/libvorbisfile.la
+Warning: Unbrewed .pc files were found in /usr/local/lib/pkgconfig.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected .pc files:
+    /usr/local/lib/pkgconfig/libavcodec.pc    /usr/local/lib/pkgconfig/libavdevice.pc    /usr/local/lib/pkgconfig/libavfilter.pc    /usr/local/lib/pkgconfig/libavformat.pc    /usr/local/lib/pkgconfig/libavutil.pc    /usr/local/lib/pkgconfig/libpostproc.pc    /usr/local/lib/pkgconfig/libswscale.pc    /usr/local/lib/pkgconfig/ogg.pc    /usr/local/lib/pkgconfig/theora.pc    /usr/local/lib/pkgconfig/theoradec.pc    /usr/local/lib/pkgconfig/theoraenc.pc    /usr/local/lib/pkgconfig/vorbis.pc    /usr/local/lib/pkgconfig/vorbisenc.pc    /usr/local/lib/pkgconfig/vorbisfile.pc    /usr/local/lib/pkgconfig/vpx.pc
+Warning: Unbrewed static libraries were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected static libraries:
+    /usr/local/lib/libavcodec.a    /usr/local/lib/libavdevice.a    /usr/local/lib/libavfilter.a    /usr/local/lib/libavformat.a    /usr/local/lib/libavutil.a    /usr/local/lib/libfaac.a    /usr/local/lib/libmp3lame.a    /usr/local/lib/libogg.a    /usr/local/lib/libpostproc.a    /usr/local/lib/libswscale.a    /usr/local/lib/libtheora.a    /usr/local/lib/libtheoradec.a    /usr/local/lib/libtheoraenc.a    /usr/local/lib/libvorbis.a    /usr/local/lib/libvorbisenc.a    /usr/local/lib/libvorbisfile.a    /usr/local/lib/libxvidcore.a    /usr/local/lib/libyasm.a</t>
+<t tx="zoomq.20121217170241.3864">for cmus:
+    - 怀疑 FFMpeg 没有安装引发 op 没有</t>
+<t tx="zoomq.20121217170241.3865">@language bash
+@tabwidth -4
+FFMpeg 1.0 install ERROR in 10.7.5 · Issue #16616 · mxcl/homebrew
+	https://github.com/mxcl/homebrew/issues/16616
+    brew install ffmpeg --env=std
+    is WORKing!
+
+$ brew link --overwrite ffmpeg
+Linking /usr/local/Cellar/ffmpeg/1.0... 79 symlinks created
+
+$ brew uninstall --force `brew deps ffmpeg`
+Uninstalling faac...
+Uninstalling lame...
+Uninstalling pkg-config...
+Uninstalling x264...
+Uninstalling xvid...
+Uninstalling yasm...
+
+base FFMpeg 官方文档,编译后:
+MacOSXCompilationGuide – FFmpeg
+	http://ffmpeg.org/trac/ffmpeg/wiki/MacOSXCompilationGuide
+$ brew doctor
+Warning: Unbrewed dylibs were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected dylibs:
+    /usr/local/lib/libaacplus.2.dylib
+Warning: Unbrewed .la files were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected .la files:
+    /usr/local/lib/libaacplus.la
+Warning: Unbrewed .pc files were found in /usr/local/lib/pkgconfig.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected .pc files:
+    /usr/local/lib/pkgconfig/aacplus.pc
+Warning: Unbrewed static libraries were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected static libraries:
+    /usr/local/lib/libaacplus.a
+</t>
+<t tx="zoomq.20121217173705.3868">$ brew install mpd
+==&gt; Installing mpd dependency: ffmpeg
+!!!
+
+</t>
+<t tx="zoomq.20121218093706.3870">@language bash
+@tabwidth -4
+
+$ brew upgrade -v ffmpeg --env=std
+
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/bin/ffserver
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/bin/ffprobe
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/bin/ffplay
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/bin/ffmpeg
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libswscale.2.1.101.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libswresample.0.15.100.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libpostproc.52.0.100.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libavutil.51.73.101.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libavformat.54.29.104.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libavfilter.3.17.100.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libavdevice.54.2.101.dylib
+Warning: Could not fix install names for /usr/local/Cellar/ffmpeg/1.0.1/lib/libavcodec.54.59.100.dylib
+==&gt; Summary
+/usr/local/Cellar/ffmpeg/1.0.1: 121 files, 82M, built in 2.3 minutes
+</t>
+<t tx="zoomq.20121218093706.3871">121218 Tracd:
+$ trac-admin /opt/www/trac initenv
+---------------------------------------------------------------------
+Project environment for 'lb-core' created.
+
+You may now configure the environment by editing the file:
+
+  /opt/www/trac/conf/trac.ini
+
+If you'd like to take this new project environment for a test drive,
+try running the Trac standalone web server `tracd`:
+
+  tracd --port 8000 /opt/www/trac
+
+Then point your browser to http://localhost:8000/trac.
+There you can also browse the documentation for your installed
+version of Trac, including information on further setup (such as
+deploying Trac to a real web server).
+
+The latest documentation can also always be found on the project
+website:
+
+  http://trac.edgewall.org/
+
+Congratulations!</t>
+<t tx="zoomq.20121218093706.3872">svn:
+[users]
+zoomq = 1q2w3e4r
+demo = 4r3e2w1q
+
+#同:
+    /opt/www/trac/conf/users.htdigest
+# tracd:
+tracd --port 8000 --auth="trac,/opt/www/trac/conf/users.htdigest,lb-core" /opt/www/trac/
+
+#`~/Works/chromium2kn/9trac/demo 
+$ svn list svn+ssh://lbwiki/opt/repo/demo
+README.md
+branches/
+tags/
+trunk/</t>
+<t tx="zoomq.20121219094347.5593">#   121219 测试其它用户
+zhouqi/Zq@gitcafe
+
+#mysysgit
+bash-3.1$  ssh-keygen
+Your identification has been saved in /c/Documents and Settings/Administrator/.s
+sh/id_rsa.
+Your public key has been saved in /c/Documents and Settings/Administrator/.ssh/i
+d_rsa.pub.
+The key fingerprint is:
+cf:1b:90:1b:25:0a:12:61:ff:ad:71:d0:ec:cd:5f:55 zhouqi@ijinshan.com
+
+
+bash-3.1$ git clone git@gitcafe.com:Liebao/Liebao.git blog
+Cloning into 'blog'...
+The authenticity of host 'gitcafe.com (50.116.2.223)' can't be established.
+RSA key fingerprint is 84:9e:c9:8e:7f:36:28:08:7e:13:bf:43:12:74:11:4e.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'gitcafe.com,50.116.2.223' (RSA) to the list of known
+ hosts.
+remote: Counting objects: 127, done.
+remote: Compressing objects: 100% (122/122), done.
+remote: Total 127 (delta 47), reused 0 (delta 0)
+Receiving objects: 100% (127/127), 458.50 KiB | 377 KiB/s, done.
+Resolving deltas: 100% (47/47), done.
+
+
+bash-3.1$ git checkout -b gitcafe-pages remotes/origin/gitcafe-pages
+error: Not tracking: ambiguous information for ref refs/remotes/origin/gitcafe-p
+ages
+Switched to a new branch 'gitcafe-pages'
+
+bash-3.1$ git config --global user.name "zhouqi"
+bash-3.1$ git config --global user.email "zhouqi@ijinshan.com"
+C:\Documents and Settings\Administrator&gt;git config --list
+core.symlinks=false
+core.autocrlf=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+pack.packsizelimit=2g
+help.format=html
+http.sslcainfo=/mingw/bin/curl-ca-bundle.crt
+sendemail.smtpserver=/mingw/bin/msmtp.exe
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+user.name=zhouqi
+user.email=zhouqi@ijinshan.com
+
+
+bash-3.1$ git status
+# On branch gitcafe-pages
+# Changes not staged for commit:
+#   (use "git add &lt;file&gt;..." to update what will be committed)
+#   (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)
+#
+#       modified:   _posts/2012-12-10-git-note.md
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+
+bash-3.1$ git commit -m "zhouqi throught XP + mysysgit"
+[gitcafe-pages 6f50b04] zhouqi throught XP + mysysgit
+ 1 file changed, 4 insertions(+)
+ 
+ 
+bash-3.1$ git push cafe
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 7, done.git
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 426 bytes, done.
+Total 4 (delta 3), reused 0 (delta 0)
+To git@gitcafe.com:Liebao/Liebao.git
+   89db4d6..6f50b04  gitcafe-pages -&gt; gitcafe-pages
+   
+   
+   
+
+</t>
+<t tx="zoomq.20121222152911.5596"></t>
+<t tx="zoomq.20130104101214.3880">#   130104
+[zoomq@wiki] /usr/ports/net/mosh&gt; 
+...
+=====================================================================
+Please note that mosh requires UTF-8 character set.  To set this on a
+per-user basis, you should add the following to ~/.login_conf:
+me:\
+        :charset=UTF-8:\
+        :lang=en_US.UTF-8:\
+        :setenv=LC_COLLATE=C:
+
+This only needs to be completed on the client.
+=====================================================================
+===&gt;   Compressing manual pages for mosh-1.2.2
+===&gt;   Registering installation for mosh-1.2.2
+===&gt; SECURITY REPORT: 
+      This port has installed the following files which may act as network
+      servers and may therefore pose a remote security risk to the system.
+/usr/local/bin/mosh-server
+/usr/local/bin/mosh-client
+
+      If there are vulnerabilities in these programs there may be a security
+      risk to the system. FreeBSD makes no guarantee about the security of
+      ports included in the Ports Collection. Please type 'make deinstall'
+      to deinstall the port if this is a concern.
+
+      For more information, and contact details about the security
+      status of this software, see the following webpage: 
+http://mosh.mit.edu/
+===&gt;  Cleaning for protobuf-2.4.1
+===&gt;  Cleaning for p5-IO-Tty-1.10
+===&gt;  Cleaning for mosh-1.2.2
+</t>
+<t tx="zoomq.20130104101214.3882">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+121205,0.00,3.50,1.25,2.00,9.25,7.00    6, 1, 1, 4
+121206,0.00,3.50,2.00,3.75,8.00,7.00    6, 1, 1, 4
+121207,0.00,2.50,1.00,2.50,11.5,7.00    6, 1, 1, 3
+121210,1.00,3.50,2.00,1.00,7.00,7.00    6, 0, 2, 6
+121211,0.00,7.00,5.00,2.00,2.50,8.00    6, 1, 0, 8
+121212,1.00,2.75,0.00,1.50,12.25,7.0    6, 1, 1, 6
+121213,1.00,2.50,1.00,2.25,8.75,8.00    6, 1, 1, 5
+121214,2.75,4.00,0.00,6.35,1.00,7.00    6, 1, 1, 11
+121217,3.50,0.00,0.00,3.00,8.50,7.00    6, 1, 1, 2
+121218,3.00,4.00,0.75,3.00,6.50,7.00    6, 1, 1, 6
+121219,0.00,10.0,0.00,0.00,5.75,7.00    6, 1, 1, 14
+121220,0.00,4.25,1.00,1.50,9.50,7.00    6, 1, 1, 11
+121225,0.00,2.00,0.00,1.00,11.0,7.00    4, 1, 0, 0
+121226,0.00,5.75,0.00,1.25,8.00,7.00    6, 1, 1, 5
+121227,0.00,5.75,1.00,0.00,8.50,7.00    6, 1, 1, 9
+121228,2.00,6.00,0.00,0.00,7.75,7.00    6, 1, 1, 6
+121229,1.00,5.75,0.00,0.00,10.0,7.00    6, 1, 0, 4
+</t>
+<t tx="zoomq.20130219101905.3885">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+130105,0.00,0.75,1.00,5.75,7.00,7.00    6, 1, 1, 4
+130114,3.75,0.50,4.75,1.25,6.75,7.00    6, 1, 1, 3
+130115,0.00,2.25,2.25,3.00,9.75,7.00    6, 1, 1, 3
+130116,1.00,4.50,0.00,3.25,5.00,7.00    6, 1, 1, 3
+130118,0.00,4.00,2.00,3.50,7.25,7.00    6, 1, 1, 3
+130121,0.00,2.00,1.25,2.75,9.25,7.00    6, 1, 1, 4
+130122,0.00,0.00,4.50,2.75,8.75,7.00    6, 1, 1, 8
+130123,8.00,1.50,1.00,0.00,5.75,7.00    6, 1, 1, 3
+130124,0.00,5.75,1.25,1.25,8.25,7.00    6, 2, 0, 3
+130125,0.00,2.75,3.25,1.25,2.25,7.00    6, 2, 0, 0
+130129,1.00,0.00,5.00,4.00,6.00,7.00    0, 0, 0, 0
+130130,2.50,3.00,4.75,2.00,4.25,7.00    6, 1, 1, 4
+130131,0.00,1.50,3.75,1.75,0.75,6.00    6, 1, 1 ,8
+</t>
+<t tx="zoomq.20130301103428.5639">正月十五都过去了,长徦综合症必须不存在了! 产业观察周报 汇集产业潜在高价值事件.
+
+为确保观察周报的排版效果,我们决定只使用pdf附件的形式来发布,请点击附件查阅;-)
+    有任何建议或是问题,请随时回复邮件或是电联我们指正!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+我们是 DRM~开发者关系管理(Developer Relation Management)团队:
+- 提供技术活动咨询服务:收集/整理/通报近期各种相关技术大会信息,并联系各种优惠/免费门票
+- 并根据各团队技术兴趣,针对性邀请领域专家来访,进行分享/讲演/培训
+- 识别并推举内部专家进入相关技术大家演讲,并给予讲演技巧培训支持
+- 收集编撰产业观察周报,推荐创投项目,商业模式,共同思考互联网发展
+
+若有需要,即时联系:
+    北京 范路: 分机-6694 手机/18601670949 QQ/1055789515
+    珠海 周琦: 分机-2310 手机/13702314441 GTalk/zoomquiet@gmail.com
+    </t>
+<t tx="zoomq.20130302114851.3888">ComputerName:   MBP111216ZQ
+# ifconfig en1 | grep ether | awk '{print $2}' | sed 's/://g'
+en0 MAC:    3c07542c6175
+en1 MAC:    b88d122947aa
+
+sudo hdiutil create -size 320g -type SPARSEBUNDLE -nospotlight -volname "Backup of &lt;computer_name&gt;" -fs "Case-sensitive Journaled HFS+" -verbose ~/Desktop/&lt;computer_name&gt;_&lt;mac address&gt;.sparsebundle
+
+sudo hdiutil create -size 320g -type SPARSEBUNDLE -nospotlight -volname "Backup of &lt;computer_name&gt;" \
+    -fs "Case-sensitive Journaled HFS+" -verbose ~/Desktop/&lt;computer_name&gt;_&lt;mac address&gt;.sparsebundle
+
+</t>
+<t tx="zoomq.20130307104209.5651"> 在sora 配置了管理认证:
+    仓库 https://bitbucket.org/ZoomQuiet/the-art-of-community-zh
+    克隆: /home/zoomq/zoomquiet.org/repos/taocn
+    发布: http://zoomquiet.org/res/d/taocn/
+
+    配置: /opt/srv/nginx/conf/zoomquiet.conf
+    密码: /opt/srv/nginx/conf/passwd4obp
+        taoc
+        1q2w3e4r
+    定期: /opt/cron/obpbooks.sh
+    日志: /opt/log/cron/*-obp-building.log
+</t>
+<t tx="zoomq.20130313104056.3892">/Users/zoomq/Library/Application Support/Google/Chrome/Default/
+</t>
+<t tx="zoomq.20130321103420.5682">date,tI,tO,tC,tM,tF,tS                  Pt,Pd,Pl,Po
+130201,4.00,2.00,5.50,2.00,1.00,1.00    6, 1, 1, 4
+130202,0.00,4.00,2.00,4.00,3.00,9.00    0, 0, 0, 0
+130204,5.75,4.25,4.25,2.25,1.00,7.00    6, 1, 1, 4
+130218,0.00,3.00,1.50,0.50,8.00,8.00    6, 1, 1, 1
+130219,0.00,2.75,2.00,1.25,10.25,7.0    6, 1, 1, 7
+130220,0.00,3.75,3.00,0.00,9.50,7.00    6, 1, 1, 6
+130221,3.25,1.50,3.75,1.00,7.00,7.00    6, 1, 1, 4
+130222,4.25,0.75,0.00,4.75,6.75,7.00    6, 1, 1, 4
+130225,0.00,6.75,0.75,2.00,6.50,7.00    6, 1, 1, 6
+130226,0.00,2.00,2.25,3.75,7.50,9.00    6, 1, 1, 6
+130227,2.00,4.25,0.00,2.00,7.50,6.00    6, 1, 1, 3
+130228,1.50,4.50,3.00,1.00,6.00,7.00    6, 0, 2, 6
+
+</t>
+<t tx="zoomq.20130326094120.5692">oomq @ MBP111216ZQ in ~/Library/Rime
+$ ./rime_dict_manager
+options:
+	-l|--list
+	-b|--backup dict_name
+	-r|--restore xxx.userdb.kct.snapshot
+	-e|--export dict_name export.txt
+	-i|--import dict_name import.txt
+
+zoomq @ MBP111216ZQ in ~/Library/Rime
+$ ./rime_dict_manager -i bxm4zq2mac ~/Library/Rime/bxm4zq2mac.dict.txt
+imported 60106 entries.
+
+zoomq @ MBP111216ZQ in ~/Library/Rime
+$ ls
+alternative.yaml                    installation.yaml                   luna_pinyin_simp.schema.custom.yaml
+bxm4zq2mac.custom.yaml              luna_pinyin.prism.bin               luna_pinyin_simp.schema.yaml
+bxm4zq2mac.dict.txt                 luna_pinyin.reverse.bin             rime.log
+bxm4zq2mac.schema.yaml              luna_pinyin.schema.yaml             rime_dict_manager
+bxm4zq2mac.userdb.kct               luna_pinyin.table.bin               squirrel.custom.yaml
+cangjie5.prism.bin                  luna_pinyin.userdb.kct              squirrel.yaml
+cangjie5.reverse.bin                luna_pinyin.userdb.kct.wal          symbols.yaml
+cangjie5.schema.yaml                luna_pinyin_fluency.prism.bin       sync
+cangjie5.table.bin                  luna_pinyin_fluency.schema.yaml     user.yaml
+default.yaml                        luna_pinyin_simp.prism.bin
+</t>
+<t tx="zoomq.20130326094120.5693">
+I0326 12:29:39.559567 1957665120 dictionary.cc:265] loading dictionary 'bxm4zq2mac'.
+I0326 12:29:39.559574 1957665120 table.cc:196] loading table file: /Users/zoomq/Library/Rime/bxm4zq2mac.table.bin
+I0326 12:29:39.559612 1957665120 prism.cc:72] loading prism file: /Users/zoomq/Library/Rime/bxm4zq2mac.prism.bin
+I0326 12:29:39.559631 1957665120 prism.cc:102] found double array image of size 96256.
+E0326 12:29:39.559955 1957665120 algebra.cc:72] Error loading spelling algebra definition #1: 'xlit|abcdefghijklmnopqrstuvwxyz;'|好是区为出中小一这的并也来用哪即国大我于和人了在上子・|'.</t>
 </tnodes>
 </leo_file>
